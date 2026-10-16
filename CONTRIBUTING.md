@@ -2,6 +2,15 @@
 
 Thank you for helping keep these guides accurate. Every pull request is read by the expats.cy editor before it is merged and published.
 
+## Edits welcome — ask first
+
+The guides are open source and we accept edits from anyone. Before you start:
+
+1. Search the open [issues](https://github.com/expatscy/cyprus-guides/issues) and [pull requests](https://github.com/expatscy/cyprus-guides/pulls): someone may already be working on it.
+2. Say what you plan to do in an issue, or ask in the [expats.cy Telegram group](https://t.me/expatscy), and wait for the editor's go-ahead.
+3. Typos, broken links and a single outdated fee or date: no need to ask, open the pull request.
+4. One person per topic. A claimed topic with no update for 14 days is free again.
+
 ## What we accept
 
 - **Corrections**: outdated fees, deadlines, addresses, office hours, links, rules.
