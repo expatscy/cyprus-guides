@@ -27,6 +27,7 @@ The editorial guides of [expats.cy](https://expats.cy) about living in Cyprus, i
 
 ## Pull requests
 
-- One topic per pull request; describe what changed, why, and the source.
+- One topic per pull request; describe what changed and why.
+- Fill the evidence table in the pull request: one row per changed fact (claim → official source URL → date checked → value seen). A fact without a row is not merged.
 - Don't reformat files you didn't otherwise change.
 - Don't edit `LICENSE`, `README.md`, `CONTRIBUTING.md`, `AGENTS.md` or `.github/` unless that is the point of the pull request.

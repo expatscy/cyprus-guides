@@ -45,7 +45,7 @@ The text in this repository is licensed under [Creative Commons Attribution-Shar
 
 The licence covers the text in this repository only. The expats.cy name and logo, the site's design and code, images, videos and community articles written on the site by their authors are not included.
 
-Contributions are accepted under the same licence (inbound = outbound, [GitHub Terms of Service, section D.6](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license)).
+Copyright belongs to DailyMind LTD, the operator of expats.cy. Contributors sign the [Contributor License Agreement](CLA.md), which assigns copyright in their contributions to DailyMind LTD. The expats.cy name and logo are trademarks and are not licensed. Details: [NOTICE](NOTICE).
 
 ## Not legal or tax advice
 

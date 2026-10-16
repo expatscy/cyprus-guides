@@ -11,7 +11,7 @@ Thank you for helping keep these guides accurate. Every pull request is read by 
 
 ## Rules
 
-1. **Cite an official source** for every fact you add or change: a Cyprus government site (`*.gov.cy`), an EU institution (`europa.eu`), legislation (`cylaw.org`), or the organisation's own official site. Put the link in the text or in the pull request description.
+1. **Prove every fact.** For each fact you add or change, add a row to the evidence table in the pull request: claim → official source URL → date you checked it → value you saw there. Cite an official source: a Cyprus government site (`*.gov.cy`), an EU institution (`europa.eu`), legislation (`cylaw.org`), or the organisation's own official site. Put the link in the text or in the pull request description.
 2. **No personal data about private people**: no names, phone numbers or emails of individuals. Public institutions and businesses' official contact details are fine.
 3. **No advertising**: no affiliate links or promotion of your own business. Businesses can be listed in the [expats.cy directory](https://expats.cy/pricing/).
 4. **Write in your own words.** Don't paste text from other websites or copyrighted material.
@@ -36,4 +36,4 @@ When you change a fact, set `updated` to today's date.
 
 ## Licence of your contribution
 
-By submitting a pull request you agree that your contribution is licensed under [CC BY-SA 4.0](LICENSE), the licence of this repository, and that you have the right to license it. expats.cy publishes merged changes on its site, and the commit history credits every contributor.
+Before your first pull request is merged, you sign the [Contributor License Agreement](CLA.md) (a bot asks you on the pull request). Under it you assign the copyright in your contribution to DailyMind LTD, the operator of expats.cy, and get a licence back to use your own text. expats.cy publishes merged changes under [CC BY-SA 4.0](LICENSE) and may also use them in its other products. The commit history credits every contributor. Details: [NOTICE](NOTICE).
