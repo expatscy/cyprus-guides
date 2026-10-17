@@ -8,6 +8,7 @@ The editorial guides of [expats.cy](https://expats.cy) about living in Cyprus, i
 
 ## Hard rules
 
+0. **Ask before working.** Search open issues and pull requests (`gh issue list`, `gh pr list`). If the topic is taken, not planned, or has no go-ahead from the editor (issue or the expats.cy Telegram group, https://t.me/expatscy), stop and ask the human. Exception: typos, broken links, one outdated fee or date.
 1. **Never invent facts.** No guessed fees, deadlines, addresses, phone numbers, office hours or legal requirements. If you can't verify a fact, leave the existing text as it is and say so in the pull request.
 2. **Verify against an official source and cite it.** Open the page and check the value: `*.gov.cy`, `europa.eu`, `cylaw.org`, or the organisation's own official site. Put the URL in the text or in the pull request description, with the date you checked it.
 3. **Set `updated:`** in the header to today's date (`YYYY-MM-DD`) whenever you change a fact.

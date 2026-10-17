@@ -4,7 +4,7 @@
 
 Practical guides for expats in Cyprus — visas and residence, documents, taxes, property, business, everyday life — in English, Russian, German, Arabic and Hebrew. These are the editorial articles published on [expats.cy](https://expats.cy).
 
-The text is open: anyone can fix a mistake, update an outdated fee or deadline, add a missing guide or translate one. Every change is reviewed by the expats.cy editor before it goes live.
+The guides are open source and we accept edits. Before bigger changes, ask in an issue or in the [expats.cy Telegram group](https://t.me/expatscy) whether it's planned or already taken. The text is open: anyone can fix a mistake, update an outdated fee or deadline, add a missing guide or translate one. Every change is reviewed by the expats.cy editor before it goes live.
 
 ## Fix or improve a guide
 
