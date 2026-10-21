@@ -44,7 +44,7 @@ Persönliche Geschichten und hilfreiche Artikel können kostenlos eingereicht we
 
 Nach einem Umzug brauchen Menschen Rechtsberatung, Übersetzungen, Unterricht, Immobilienservices, Reparaturen und viele weitere Dienstleistungen. Wenn Sie mit dieser Zielgruppe arbeiten, erklären Sie, wie Sie helfen können.
 
-**Für persönliche Beiträge und kommerzielle Platzierungen gelten unterschiedliche Bedingungen.** Informieren Sie sich über die [Tarife für Unternehmen](/pricing/) und das [Dienstleistungsverzeichnis](/articles/directory). Für die Wahl eines Formats [kontaktieren Sie mich](/de/contact/) mit Land, Stadt, Leistungen und Website.
+**Für persönliche Beiträge und kommerzielle Platzierungen gelten unterschiedliche Bedingungen.** Informieren Sie sich über die [Veröffentlichen für Unternehmen](/for-business/) und das [Dienstleistungsverzeichnis](/articles/directory). Für die Wahl eines Formats [kontaktieren Sie mich](/de/contact/) mit Land, Stadt, Leistungen und Website.
 
 Wenn Sie Fachartikel auf vc.ru veröffentlichen, können Sie einen ähnlichen Ansatz nutzen: Beantworten Sie eine konkrete Kundenfrage und erklären Sie Ihren Lösungsweg. Ein Übersetzer kann die Vorbereitung von Dokumenten erläutern; eine Schule kann die Eingewöhnung nach einem Umzug beschreiben. Machen Sie deutlich, wo Sie tätig sind und wie man Sie erreicht.
 
@@ -57,7 +57,7 @@ Die größere Zahl aus Cloudflare enthält automatisierten Verkehr und ist desha
 ## So beginnen Sie
 
 - Hilfreiche Geschichte? [Artikel einreichen](/article/new).
-- Dienstleistungen vorstellen? [Tarife ansehen](/pricing/) oder [Eintrag besprechen](/de/contact/).
+- Dienstleistungen vorstellen? [Mehr zum Veröffentlichen für Unternehmen](/for-business/) oder [Eintrag besprechen](/de/contact/).
 - Erfahrungen anderer lesen? [Artikelbibliothek öffnen](/articles/?language=de).
 
 Teilen Sie Ihr Wissen über Ihr Land und Ihre Arbeit. Vielleicht hilft es jemandem, der gerade angekommen ist.

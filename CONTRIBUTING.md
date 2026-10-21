@@ -22,7 +22,7 @@ The guides are open source and we accept edits from anyone. Before you start:
 
 1. **Prove every fact.** For each fact you add or change, add a row to the evidence table in the pull request: claim → official source URL → date you checked it → value you saw there. Cite an official source: a Cyprus government site (`*.gov.cy`), an EU institution (`europa.eu`), legislation (`cylaw.org`), or the organisation's own official site. Put the link in the text or in the pull request description.
 2. **No personal data about private people**: no names, phone numbers or emails of individuals. Public institutions and businesses' official contact details are fine.
-3. **No advertising**: no affiliate links or promotion of your own business. Businesses can be listed in the [expats.cy directory](https://expats.cy/pricing/).
+3. **No advertising**: no affiliate links or promotion of your own business. Businesses can be listed in the [expats.cy directory](https://expats.cy/for-business/).
 4. **Write in your own words.** Don't paste text from other websites or copyrighted material.
 5. **One topic per pull request**, so it can be reviewed quickly.
 

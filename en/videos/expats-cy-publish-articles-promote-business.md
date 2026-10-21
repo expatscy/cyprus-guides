@@ -44,7 +44,7 @@ You can submit personal stories and useful articles for free. [Write an article]
 
 People moving abroad need lawyers, translators, teachers, property specialists, repair services and many other professionals. If you serve this audience, explain how your business can help.
 
-**Personal contributions and commercial placements have different terms.** Explore the [business plans](/pricing/) and [service directory](/articles/directory). To discuss a suitable format, [contact me](/en/contact/) with your country, city, services and website.
+**Personal contributions and commercial placements have different terms.** See [business publishing](/for-business/) and [service directory](/articles/directory). To discuss a suitable format, [contact me](/en/contact/) with your country, city, services and website.
 
 If you publish expert articles on vc.ru, you can try a similar approach here: answer a potential client’s question, explain your process and show when your service is useful. A translator might explain how to prepare documents; a school might describe how it helps children adjust after relocation. State where you work and how readers can contact you.
 
@@ -57,7 +57,7 @@ I also explain why the larger Cloudflare figure should not be treated as a count
 ## Get started
 
 - Have a useful story? [Submit an article](/article/new).
-- Want to introduce your services? [View business plans](/pricing/) or [discuss a listing](/en/contact/).
+- Want to introduce your services? [How business publishing works](/for-business/) or [discuss a listing](/en/contact/).
 - Looking for other expats’ experiences? [Browse articles](/articles/?language=en).
 
 Share your country, your experience and your work. Your answer may be exactly what someone who has just moved needs.
