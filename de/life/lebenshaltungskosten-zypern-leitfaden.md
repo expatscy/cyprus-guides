@@ -3,7 +3,7 @@ slug: "lebenshaltungskosten-zypern-leitfaden"
 title: "Lebenshaltungskosten Zypern 2026: Leitfaden"
 description: "Kompletter Überblick der Lebenshaltungskosten auf Zypern: Miete, Lebensmittel, Nebenkosten, Transport, Gesundheit. Budget für Singles und Familien nach Stadt."
 date: 2026-02-22
-updated: 2026-03-11
+updated: 2026-10-21
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -125,8 +125,8 @@ Zypern ist ein Autoland. Der öffentliche Nahverkehr beschränkt sich auf Busse 
 
 | Posten | Kosten |
 |--------|--------|
-| Benzin (1 L) | €1,35–1,45 |
-| Volltanken (50 L) | €68–73 |
+| Benzin (1 L) | €1,60–1,80 |
+| Volltanken (50 L) | €80–90 |
 | Bus (Einzelfahrt) | €2,40 |
 | Bus (Nachttarif) | €4,00 |
 | Bus (Tageskarte) | €6,50 |
@@ -264,3 +264,9 @@ Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t
 
 - [Eurostat — Comparative Price Levels](https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind/default/table?lang=en) — European Commission
 - [CyStat — Consumer Price Index](https://www.cystat.gov.cy/en/SubthemeStatistics?id=41) — gov.cy
+- [Eurostat — Vergleichende Preisniveaus für Lebensmittel, Getränke und Tabak](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Comparative_price_levels_for_food,_beverages_and_tobacco) — Preisniveaudaten 2025, veröffentlicht Juni 2026
+- [Landwirtschaftsministerium Zypern — e-kofini](https://www.moa.gov.cy/moa/da/da.nsf/ekofini_en/ekofini_en?opendocument=) — Erzeuger- und Einzelhandelspreise für lokales Obst und Gemüse
+- [RICS/KPMG Cyprus Property Index 2026Q1](https://assets.kpmg.com/content/dam/kpmgsites/cy/pdf/2026/rics-kpmg-index-2026q1.pdf) — Quelle für Mietmarkttrends
+- [Index.cy — Langzeitmiete auf Zypern](https://index.cy/articles/long-term-rent-cyprus-guide/) — Mietpreisspannen 2026 nach Bezirk
+- [research.cy — Lebenshaltungskosten-Rechner](https://research.cy/cost-of-living/) — interaktiver Rechner nach Stadt
+- [research.cy — Immobiliensuche](https://research.cy/search/) — Immobilienpreise in allen Bezirken

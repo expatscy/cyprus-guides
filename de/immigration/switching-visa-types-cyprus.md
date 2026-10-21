@@ -1,9 +1,9 @@
 ---
 slug: "switching-visa-types-cyprus"
 title: "Aufenthaltstitel wechseln in Zypern"
-description: "Wie Sie den Aufenthaltstitel in Zypern wechseln: Besucher auf Arbeit, Spouse auf Employment, BCS-Wechsel. Dokumente, Fristen, Fehler."
+description: "Aufenthaltskategorie in Zypern wechseln: ausgewählte Zulassungsregeln, Arbeitgeberwechsel bei CFI, Familien- und Studentenwege, Bearbeitungszeiten und Receipt-Prüfung."
 date: 2026-02-22
-updated: 2026-07-12
+updated: 2026-10-21
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -14,159 +14,91 @@ tags:
 draft: false
 translationKey: "smena-tipa-vizy-kipr"
 faqSchema:
-  - question: "Kann ich meinen Aufenthaltstitel auf Zypern wechseln?"
-    answer: "Ja, aber es ist ein formeller Antrag mit Wartezeit. Häufige Wechsel: Besucher → Arbeit (BCS), Spouse → Employment, BCS → Blue Card. Während der Bearbeitung gelten die Einschränkungen des alten Status. Bearbeitungszeit: 1–6 Monate. Wichtig: Nicht einfach aufhören zu arbeiten und den neuen Status beantragen — das kann den alten Status gefährden."
+  - question: "Darf ich arbeiten, während mein Statuswechsel in Zypern bearbeitet wird?"
+    answer: "Prüfen Sie die Arbeitsrechte, die an Ihren tatsächlichen Status und Ihre Antragskategorie geknüpft sind. Eine Antragsquittung (Receipt) allein ist kein Nachweis, dass eine geplante Tätigkeit oder Selbstständigkeit erlaubt ist. Die Besucherkategorie schließt wirtschaftliche Tätigkeit aus; qualifizierte Familien- und EU-Kategorien haben andere Rechte."
+  - question: "Wie lange dauert ein Wechsel des Aufenthaltstitels in Zypern?"
+    answer: "Es gibt keine einheitliche veröffentlichte Frist für jeden Wechsel. Das CFI-Verfahren nennt einen Monat für vollständige Anträge; die Besucherseite sagt in der Regel unter vier Monaten; die Leitlinien zur Familienzusammenführung nennen neun Monate bzw. neunzig Tage für ICT-/Forscherfälle, mit gesetzlichen Ausnahmen. Das sind kategoriespezifische Angaben, keine garantierten Durchschnittswerte."
+  - question: "Muss ich Zypern verlassen, um meine Aufenthaltskategorie zu wechseln?"
+    answer: "Prüfen Sie die konkreten Zulassungs- und Statuswechselregeln. Die Einreiseleitlinien für hoch bezahlte CFI-Beschäftigte erlauben ein konsularisches Visum oder einen vom Arbeitgeber beantragten Entry Permit. Familien- und Studentenverfahren haben eigene Bedingungen für die Antragstellung im Land; die Studentenseite unterscheidet eine gültige Aufenthaltserlaubnis von einem Touristen-/Besuchervisum. Leiten Sie daraus weder eine allgemeine Aus- und Wiedereinreisepflicht noch eine Ausnahme nach Sachbearbeiterpraxis ab."
 ---
-> **Kurzantwort:** Ein Visum-Wechsel auf Zypern ist möglich, aber komplex. Haeufig muss man ausreisen und mit neuem Visum wieder einreisen.
+> **Kurzantwort:** Klären Sie Ihren bestehenden Status und die genaue neue Kategorie, bevor Sie einen Antrag stellen oder arbeiten. Einreiseerlaubnis, Aufenthaltserlaubnis und Arbeitsrechte müssen getrennt geprüft werden. Nutzen Sie die vollständige aktuelle Anleitung der jeweiligen Kategorie statt einer allgemeinen Checkliste für den Visumswechsel.
 
-Der Wechsel des Aufenthaltstitels gehört zu den häufigsten Vorgängen bei der Migrationsbehörde Zyperns. Die Regeln sind streng: Solange der neue Status nicht genehmigt ist, gelten die Einschränkungen des alten. Für Deutsche, die nach Zypern auswandern, ist dies besonders relevant -- anders als eine Ummeldung in Deutschland ist ein Statuswechsel hier ein formeller Antrag mit Wartezeit.
+Die unten genannten Primärquellen wurden am **3. Oktober 2026** geprüft. Dieser Leitfaden erklärt ausgewählte Unterschiede zwischen Kategorien; er belegt nicht, dass jeder Aufenthaltstitel im Land umgewandelt werden kann.
 
-> **Offizielle Quellen:**
-> - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — Migrationsbehörde
-> - [Civil Registry Section](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Personenstandsregister
+## Bestehende und geplante Arbeitsrechte prüfen
 
-## Was ist die Grundregel beim Visum-Wechsel?
+Die [Besucherregelung](https://www.gov.cy/mip-md/en/documents/visitors-and-family-members/) schließt wirtschaftliche Tätigkeit in Zypern aus. Die [CFI-Beschäftigungsregelung](https://www.gov.cy/mip-md/en/documents/legislation-and-policy/) verlangt die passende befristete Aufenthalts- und Arbeitserlaubnis sowie die geltenden Bedingungen der Single Permit.
 
-**Solange der neue Status nicht genehmigt ist — gelten die Einschränkungen des alten.**
+Andere Wege unterscheiden sich. Die [Regelung zur Familienzusammenführung](https://www.gov.cy/mip-md/en/documents/family-members-of-certain-third-country-nationals-that-are-legally-residing-in-cypurs-fr-family-reunification/) gibt qualifizierten Ehe- bzw. eingetragenen Partnern von CFI-Beschäftigten Zugang zu abhängiger Beschäftigung unter den Single-Permit-Bedingungen, ohne vom Department of Labour gestempelten Vertrag, schließt aber Selbstständigkeit in dieser Kategorie aus. Qualifizierte Partner von Daueraufenthaltsberechtigten und ICT-Beschäftigten haben ausdrücklich Arbeitsmarktzugang einschließlich Selbstständigkeit. Die [EU-Registrierung](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/) folgt eigenen Kriterien und gibt freien Zugang zu Beschäftigung und Selbstständigkeit.
 
-Das bedeutet:
-- Mit einem **Visitor Permit** darf man nicht arbeiten — auch wenn Unterlagen für ein Arbeitsvisum eingereicht wurden
-- Mit einem **Spouse Visitor** darf man nicht arbeiten — auch wenn der Arbeitgeber bereits Spouse Employment beantragt hat
-- Eine Arbeitserlaubnis ist entweder **vorhanden** oder **nicht vorhanden**. Es gibt keinen Zwischenstatus „in Bearbeitung"
+Lassen Sie die tatsächliche Erlaubnis prüfen, bevor Sie eine neue Stelle annehmen oder gewerblich tätig werden. Eine Antragsquittung sollte nicht als Beleg gelten, dass jede geplante Tätigkeit erlaubt ist.
 
-Aus Erfahrungsberichten:
-> „Niemand ist an irgendwelche Fristen gebunden. Es ist streng binär: erlaubt — dann arbeiten, nicht erlaubt — dann nicht."
+## Besucher → CFI-Beschäftigung
 
-## Welche Statuswechsel sind typisch?
+Die Kriterien der CFI-Regelung für hoch bezahlte Beschäftigte umfassen **2.500 EUR brutto monatlich**, einschlägige akademische Qualifikationen **oder mindestens zwei Jahre einschlägige Erfahrung** sowie einen Arbeitsvertrag von **mindestens zwei Jahren**. Bestehendes BCS Key Personnel mit mindestens 2.000 EUR brutto kann nach der genannten Übergangsregel bis zum **31. Dezember 2026** beim selben Arbeitgeber weiter verlängern; das ist keine allgemeine Schwelle für Neueinstellungen.
 
-### Besucher → Arbeitsvisum (BCS)
+Das [CFI-Verfahren](https://www.gov.cy/mip-md/en/documents/procedure-for-application-submission-for-entry-and-residence-processing-time-and-maximum-duration-of-residence/) besagt, dass hoch bezahlte Beschäftigte mit einem konsularischen Visum oder einem vom Arbeitgeber beantragten Entry Permit zur Beschäftigung einreisen können. Unterstützungspersonal benötigt einen Entry Permit. Nach der Ankunft sind Registrierung und der Antrag auf befristeten Aufenthalt/Beschäftigung erforderlich. Diese Einreiseanweisungen begründen keine allgemeine Regel, dass ein bestehender Besucher aus- und wieder einreisen muss, oder dass jeder Besucher den Status einfach im Land umwandeln kann. Fragen Sie das Department, welches Verfahren gilt, bevor Sie sich auf einen Wechsel verlassen.
 
-**Situation:** Sie leben als Besucher und haben eine Stelle bei einem BCS-Unternehmen gefunden.
+Anträge werden in der Zentrale des Department in Nikosia mit den entsprechenden Nachweisen und Gebühren eingereicht. Nutzen Sie die vollständige Checkliste der Kategorie; übernehmen Sie keine allgemeine Liste für Führungszeugnis oder medizinische Unterlagen aus einer anderen Kategorie.
 
-**Ablauf:**
-1. Der Arbeitgeber reicht Unterlagen für den **Entry Permit** bei der Migrationsbehörde ein
-2. Sie warten auf die Genehmigung (1–3 Monate)
-3. Sie erhalten den neuen Status
+## Familienbesucher → Spouse Employment
 
-**Muss man ausreisen?**
-Nach den Regeln des Entry Permit — formal ja, Aus- und Wiedereinreise. In der Praxis wechseln viele den Status **ohne Ausreise**, aber das hängt vom jeweiligen Sachbearbeiter ab.
+Die [Checkliste zur Familienzusammenführung](https://www.gov.cy/app/uploads/sites/174/2025/12/FAMILY-REUNIFICATION-SUPPORTING-DOCUMENTS_15-3-2024-1_new.doc) enthält einen eigenen Abschnitt zur Beschäftigung des Ehepartners für **einen Partner, der zuvor Besucher im Rahmen der Familienzusammenführung war**. Das begründet keine Berechtigung für jede touristische oder Besucherzulassung.
 
-**Dokumente:**
-- Arbeitsvertrag
-- Führungszeugnis
-- Medizinische Untersuchungen (falls nicht bei der Erstbeantragung durchgeführt)
-- Reisepass, aktuelle Aufenthaltserlaubnis
+Prüfen Sie die Kriterien für Sponsor und Familie, den passenden Arbeitsvertrag und die angegebene Dokumentenstufe. Die Checkliste verweist auf den jeweils geltenden ministeriellen Mindestlohnerlass, **nicht auf eine allgemeine Untergrenze von 1.000 EUR monatlich**. Die [FAQ zum nationalen Mindestlohnerlass](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04) nennt für erfasste Vollzeitbeschäftigte ab 1. Januar 2026 979 EUR brutto vor sechs Monaten beim selben Arbeitgeber und danach 1.088 EUR; Hausangestellte, Beschäftigte in Landwirtschaft/Tierhaltung, Seeleute und Beschäftigte unter dem gesonderten Hotelerlass sind ausgenommen. Branche und Arbeitszeit sind separat zu prüfen.
 
-### Spouse Visitor → Spouse Employment
+Die gesonderten Bedingungen zu Antrag, Versicherung, Sponsor und Selbstständigkeit finden Sie im [Spouse-Employment-Leitfaden](/de/immigration/spouse-employment-permit-cyprus/).
 
-**Situation:** Der Ehepartner eines BCS-Mitarbeiters möchte arbeiten. Siehe den ausführlichen [Spouse-Employment-Leitfaden](/de/immigration/spouse-employment-permit-cyprus/) für alle Anforderungen.
+## Arbeitgeberwechsel innerhalb von CFI
 
-**Ablauf:**
-1. Arbeitgeber finden (Mindestgehalt 1.000 €/Monat)
-2. Arbeitgeber beantragt **Spouse Employment**
-3. Migrationsbehörde ändert den Aufenthaltstyp
+Das CFI-Verfahren erlaubt hoch bezahlten Beschäftigten den Wechsel zu einem anderen qualifizierten Unternehmen mit ausländischen Interessen unabhängig von der Aufenthaltsdauer, sofern sie **innerhalb eines Monats nach Ende der vorherigen Beschäftigung eine neue Stelle finden** und das neue Unternehmen die genannten CFI-Kriterien erfüllt.
 
-**Fristen:** 2-3 Monate, manchmal länger.
+Es erlaubt auch den Wechsel zu einem Arbeitgeber außerhalb der CFI-Kategorie, wenn die Person die Höchstaufenthaltsdauer der angestrebten Kategorie noch nicht erreicht hat und deren Bedingungen erfüllt. Klären Sie den richtigen Antrag und die Erlaubnis vor Arbeitsbeginn; die Seite begründet keine allgemeine Regel, dass die Quittung eines Arbeitgeberwechsels sofortige Arbeitsrechte verleiht.
 
-**Wichtig:** Bis zur Genehmigung darf **nicht gearbeitet werden**. Auch wenn der Vertrag unterschrieben und die Unterlagen eingereicht sind.
+## Beschäftigung → Besucheraufenthalt
 
-Aus Erfahrungsberichten:
-> „Sie dürfen legal NUR bei entsprechendem Status arbeiten. Spouse ist der Status mit den wenigsten Rechten."
+Prüfen Sie die Berechtigung für die tatsächliche Besucherkategorie, bevor Ihre aktuelle Erlaubnis endet. Die Checkliste für autonome Besucher verlangt ausreichende stabile Mittel: **2.000 EUR monatlich oder 24.000 EUR jährlich** für eine Person, erhöht um **20 % für den Ehepartner und 15 % für jedes Kind**, mit ihren Bedingungen zu Überweisung und Einkommensquelle. Einen pauschalen Betrag von 5.000 EUR für jeden Angehörigen nennt sie nicht.
 
-### Arbeitsvisum → Besucher
+Die [vollständige Besucher-Checkliste](https://www.gov.cy/app/uploads/sites/174/2025/12/SUPPORTING-DOCUMENTS-VISITOR-PERMIT-1a.docx) unterscheidet Erstanträge und Verlängerungen. Führungszeugnis und die genannten medizinischen Bescheinigungen sind dort als **nur für die erste Erlaubnis** markiert, nicht als allgemeine Regel, Untersuchungen nach einem Jahr zu wiederholen. Sie nennt außerdem Versicherung, Unterkunft, Kontoauszüge von Finanzinstituten und eine Bankgarantie mit kategoriespezifischen Bedingungen. Nutzen Sie die vollständige Liste für Ihre Akte.
 
-**Situation:** Sie haben gekündigt / das Unternehmen wurde geschlossen und Sie möchten in Zypern bleiben. Siehe den [Visitor-Permit-Leitfaden](/de/immigration/visitor-permit-cyprus/) für Details.
+## Studenten- und Digital-Nomad-Wege
 
-**Ablauf:**
-1. Beantragen Sie ein **Visitor Permit**
-2. Weisen Sie die finanzielle Leistungsfähigkeit nach (24.000 €+/Jahr für den Hauptantragsteller + 5.000 € für jeden Angehörigen)
-3. Bankgarantie
+Die [Studentenleitlinien](https://www.gov.cy/mip-md/en/documents/students/) erlauben die Prüfung des Antrags, während sich die Person im Ausland befindet oder bereits eine **gültige Aufenthaltserlaubnis** besitzt. Ein Antrag kann demnach nicht gestellt werden, während sich die Person mit einem **Touristen-/Besuchervisum** in Zypern aufhält. Die Hochschule reicht den Einreiseantrag ein; nach der Ankunft muss sich die Person innerhalb von **sieben Tagen** registrieren und den befristeten Aufenthalt beantragen. Das sind studentenspezifische Regeln.
 
-**Sind medizinische Untersuchungen nötig?**
-Aus Erfahrungsberichten:
-> „Für den Wechsel vom Arbeitsvisum zum Besucher — muss man Röntgen und Blutuntersuchung machen?"
-Wenn die Untersuchungen kürzlich durchgeführt wurden (< 1 Jahr), werden sie in der Regel nicht erneut verlangt. Klären Sie dies bei der Migrationsbehörde.
+Die [Digital-Nomad-Leitlinien](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/) gelten für qualifizierte Nicht-EU-/Nicht-EWR-Staatsangehörige, die per Telekommunikation für ausländische Arbeitgeber oder Kunden im Ausland arbeiten. Sie nennen eine Antragstellung innerhalb von **drei Monaten nach der Ankunft**. Prüfen Sie die gesonderten Einkommens-, Dokumenten- und Familienbeschränkungen; eine lokale Stelle oder ein Businessplan allein begründet keine Berechtigung.
 
-### BCS → andere BCS (Arbeitgeberwechsel)
+Für eine geplante selbstständige Tätigkeit klären Sie die tatsächliche Einwanderungskategorie und deren Anforderungen mit dem Department, bevor Sie Unterlagen vorbereiten oder tätig werden. Dieser Leitfaden beschreibt kein allgemeines Verfahren „Besucher → Selbstständig" und keine Genehmigungsquote.
 
-**Situation:** Sie wechseln den Arbeitsplatz innerhalb von BCS-Unternehmen.
+## Bearbeitung: die tatsächliche Kategorie zählt
 
-**Ablauf:**
-1. Der neue Arbeitgeber beantragt einen **neuen Entry Permit**
-2. Der alte Status wird aufgehoben
-3. Sie erhalten eine neue Aufenthaltserlaubnis
+| Veröffentlichtes Verfahren | Angegebene Prüffrist für vollständige Anträge |
+|---|---|
+| CFI-Beschäftigung | Ein Monat; fehlende Informationen/Dokumente verlängern die Prüfung |
+| Autonomer Besucher | In der Regel unter vier Monaten bei ausreichenden Informationen/Dokumenten |
+| Familienzusammenführung | Neun Monate; ICT-/Forscherfälle neunzig Tage; fehlende Informationen verlängern die Prüfung |
+| Entry Permit für Studierende | Ein Monat; fehlende Informationen/Dokumente verlängern die Prüfung |
+| Aufenthaltserlaubnis für Studierende | Drei Monate für vollständige Anträge |
 
-**Fristen:** 1–2 Monate. Sie können beim neuen Arbeitgeber **sofort** nach Antragstellung arbeiten (mit Receipt).
+Das [Verfahren zur Familienzusammenführung](https://www.gov.cy/mip-md/en/documents/procedure-for-application-submission-for-entry-and-residence-and-processing-time/) ist eine administrative Zusammenfassung. [Abschnitt 18ΛΑ des Ausländer- und Einwanderungsgesetzes](https://www.cylaw.org/nomoi/enop/non-ind/0_105/full.html) nennt außerdem eine Fünfmonatsfrist für Entscheidungen, bei denen der Direktor nach eigenem Ermessen einen Antrag im Land annimmt oder auf den vorherigen zweijährigen Aufenthalt des Sponsors verzichtet, sowie eine ausnahmsweise Verlängerung der Neunmonatsfrist nach Absatz (5) um drei Monate in komplexen Fällen mit Mitteilung. Machen Sie aus diesen getrennten Regeln keinen Durchschnitts- oder Zusagetermin für jeden Wechsel.
 
-### Besucher → Selbstständig
+## Receipt, Ablauf und Reisen
 
-**Ablauf:**
-1. Businessplan erstellen
-2. Antrag auf **Aufenthaltserlaubnis als Selbstständiger** über die Migrationsbehörde
-3. Anforderungen: Einkommensnachweis, Businessplan, Registrierung beim Finanzamt
+Lassen Sie sich vom Department Ihren rechtmäßigen Aufenthalt, Ihre Arbeitsrechte und die Antragsanforderungen bestätigen, bevor die aktuelle Erlaubnis abläuft. Bewahren Sie die tatsächliche Quittung und den Schriftverkehr auf. Leiten Sie aus einer Quittung einer anderen Kategorie kein bedingungsloses Bleiberecht nach Ablauf ab.
 
-Dies ist einer der schwierigsten Wechsel — Genehmigungen werden zurückhaltend erteilt.
+Das CFI-Verfahren sagt ausdrücklich, dass die Wiedereinreise mit gültiger Aufenthaltserlaubnis und Reisepass voraussetzt, nicht länger als drei Monate außerhalb Zyperns gewesen zu sein. Für einen noch nicht geprüften Aufenthaltsantrag beschreibt es die Wiedereinreise mit der Zahlungsquittung, die den Re-entry-Stempel trägt. Diese Anweisungen sollten nicht automatisch auf jede andere Kategorie oder jedes Reiseziel übertragen werden. Klären Sie die tatsächlichen Dokumente vor der Buchung; ein ausländisches Konsulat oder eine Bank hat eigene Dokumentenanforderungen.
 
-## Was passiert mit dem Receipt?
+## Praktische Prüfungen
 
-Beim Statuswechsel erhalten Sie einen **Receipt** — eine Bestätigung der Antragstellung.
-
-### Was mit dem Receipt möglich ist
-
-- **Legaler Aufenthalt** in Zypern
-- **Ein- und Ausreise** (aber Re-entry-Markierung erforderlich)
-- **Bankkonto eröffnen** (die meisten Banken akzeptieren den Receipt)
-
-### Was nicht möglich ist
-
-- Arbeiten, wenn der Receipt für einen Status gilt, **der kein Arbeitsrecht gewährt**
-- Den Receipt als Ersatz für den Pink Slip bei Visaanträgen in anderen Ländern verwenden (abhängig vom Konsulat)
-
-## Wie lange dauert die Bearbeitung?
-
-| Wechsel | Typische Dauer |
-|---------|---------------|
-| Besucher → BCS | 1–3 Monate |
-| Spouse Visitor → Spouse Employment | 2–3 Monate |
-| BCS → BCS (Arbeitgeberwechsel) | 1–2 Monate |
-| BCS → Besucher | 1–2 Monate |
-| Besucher → Selbstständig | 3–6 Monate |
-
-Die Fristen sind **Richtwerte** — abhängig von der Auslastung der Migrationsbehörde und der Vollständigkeit der Dokumente.
-
-## Welche Fehler passieren häufig?
-
-1. **Arbeiten vor der Genehmigung** — illegale Arbeit, auch wenn Unterlagen eingereicht wurden
-2. **Alten Status nicht verlängern** — wenn die Bearbeitung sich verzögert und die alte Aufenthaltserlaubnis abläuft, kann man ohne legalen Status dastehen
-3. **Medizinische Untersuchungen vergessen** — wenn mehr als ein Jahr seit den letzten vergangen ist
-4. **Social Insurance nicht aktualisieren** — bei Arbeitgeberwechsel müssen die SI-Daten aktualisiert werden
-5. **Wegzugsbesteuerung vergessen** — beim Wechsel von einem deutschen auf einen zyprischen Aufenthaltstitel kann die Exit Tax auf unrealisierte Kapitalgewinne greifen. Lassen Sie sich vorab steuerlich beraten.
-
-## Was tun bei ablaufender Aufenthaltserlaubnis?
-
-Wenn Ihre aktuelle Aufenthaltserlaubnis in 1–2 Monaten abläuft:
-- Reichen Sie die Wechselunterlagen **vor** Ablauf ein
-- Der Receipt der Antragstellung berechtigt zum Aufenthalt
-- Wenn der alte Status abgelaufen ist — halten Sie unbedingt den Receipt bereit
+1. Bestehende Erlaubnis und angestrebte Kategorie bestimmen, einschließlich eigenständiger Familien- oder EU-Rechte.
+2. Berechtigung, Zulassung und Bedingungen für die Antragstellung im Land prüfen, bevor Sie sich auf den Wechsel festlegen.
+3. Die Checkliste für Erstantrag, Verlängerung oder Arbeitgeberwechsel verwenden, die zu Ihrer Akte passt.
+4. Arbeit, rechtmäßigen Aufenthalt und Wiedereinreise getrennt mit dem Department bestätigen.
+5. Veröffentlichte Bearbeitungsfristen als kategoriespezifisch behandeln und Nachforderungen von Dokumenten einplanen.
 
 ## Was sollte ich noch lesen?
 
-- [Aufenthaltserlaubnis](/de/immigration/residence-permit-cyprus-guide/) — alle Aufenthaltstypen im Vergleich
-- [Visitor Permit](/de/immigration/visitor-permit-cyprus/) — ausführlicher Leitfaden
-- [Spouse Employment](/de/immigration/spouse-employment-permit-cyprus/) — Arbeitsrechte für Ehepartner
-- [Digital Nomad Visum](/de/immigration/digital-nomad-visum-zypern/) — Fernarbeitserlaubnis
-- [EU Blue Card](/de/immigration/eu-blue-card-cyprus/) — für hochqualifizierte Fachkräfte
-- [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/) — Einbürgerung nach 7 Jahren
-- [Griechisch-Prüfung](/de/immigration/greek-language-exam-citizenship/) — Voraussetzung für Einbürgerung
-- [Auswandern nach Zypern](/de/immigration/auswandern-nach-zypern-leitfaden/) — der komplette Leitfaden
-
----
-
-Regel Nummer eins: Solange die neue Genehmigung nicht vorliegt, gelten die Einschränkungen des alten Status. Beginnen Sie nicht „in Bearbeitung" zu arbeiten und rechnen Sie nicht mit Zwischenzuständen.
-
----
-
-## Quellen
-
-- [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [Civil Registry Section](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — gov.cy
+- [Aufenthaltserlaubnis](/de/immigration/residence-permit-cyprus-guide/)
+- [Visitor Permit](/de/immigration/visitor-permit-cyprus/)
+- [Spouse Employment](/de/immigration/spouse-employment-permit-cyprus/)
+- [Digital Nomad Visum](/de/immigration/digital-nomad-visum-zypern/)
+- [EU Blue Card](/de/immigration/eu-blue-card-cyprus/)

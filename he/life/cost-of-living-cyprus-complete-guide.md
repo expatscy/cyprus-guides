@@ -3,7 +3,7 @@ slug: "cost-of-living-cyprus-complete-guide"
 title: "יוקר המחיה בקפריסין לפי עיר"
 description: "כמה עולה לגור בקפריסין? פירוט שכירות, מזון, חשבונות, תחבורה ובריאות. השוואת תקציב חודשי ליחידים ולמשפחות בערים המרכזיות."
 date: 2026-02-22
-updated: 2026-03-11
+updated: 2026-10-21
 category: "חיים"
 author: "Expats Cyprus"
 tags:
@@ -125,8 +125,8 @@ translationKey: "stoimost-zhizni-kipr-polnaya-raskladka"
 
 | פריט | עלות |
 |------|------|
-| דלק (1 ליטר) | €1.35–1.45 |
-| מילוי מיכל מלא (50 ליטר) | €68–73 |
+| דלק (1 ליטר) | €1.60–1.80 |
+| מילוי מיכל מלא (50 ליטר) | €80–90 |
 | אוטובוס (כרטיס בודד) | €2.40 |
 | אוטובוס (תעריף לילה) | €4.00 |
 | אוטובוס (כרטיס יומי) | €6.50 |
@@ -261,3 +261,9 @@ GeSY מכסה את רוב הצרכים הרפואיים ללא תשלום נוס
 
 - [Eurostat — Comparative Price Levels](https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind/default/table?lang=en) — European Commission
 - [CyStat — Consumer Price Index](https://www.cystat.gov.cy/en/SubthemeStatistics?id=41) — gov.cy
+- [Eurostat — רמות מחירים השוואתיות למזון, משקאות וטבק](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Comparative_price_levels_for_food,_beverages_and_tobacco) — נתוני רמות מחירים 2025, פורסמו ביוני 2026
+- [משרד החקלאות של קפריסין — e-kofini](https://www.moa.gov.cy/moa/da/da.nsf/ekofini_en/ekofini_en?opendocument=) — מחירי יצרן וקמעונאות לפירות וירקות מקומיים
+- [RICS/KPMG Cyprus Property Index 2026Q1](https://assets.kpmg.com/content/dam/kpmgsites/cy/pdf/2026/rics-kpmg-index-2026q1.pdf) — מקור למגמות שוק השכירות
+- [Index.cy — שכירות ארוכת טווח בקפריסין](https://index.cy/articles/long-term-rent-cyprus-guide/) — טווחי שכר דירה מבוקש 2026 לפי מחוז
+- [research.cy — מחשבון יוקר המחיה](https://research.cy/cost-of-living/) — מחשבון אינטראקטיבי לפי עיר
+- [research.cy — חיפוש נדל"ן](https://research.cy/search/) — השוואת מחירי נדל"ן בכל המחוזות

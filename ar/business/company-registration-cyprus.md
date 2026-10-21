@@ -3,7 +3,7 @@ slug: "company-registration-cyprus"
 title: "تأسيس شركة في قبرص: دليل للمغتربين العرب"
 description: "تسجيل شركة قبرصية: المتطلبات، القيود لحاملي تأشيرة العمل، تكلفة الإدارة، ضريبة الشركات 15%، ومقارنة مع شركات الإمارات ولبنان."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-10-21
 category: "الأعمال"
 author: "Expats Cyprus"
 tags:
@@ -37,10 +37,10 @@ translationKey: "registratsiya-kompanii-na-kipre-dlya-nerezidentov"
 
 الشكل الأكثر شيوعاً — **شركة خاصة ذات مسؤولية محدودة**:
 
-- الحد الأدنى لرأس المال — **€1,000** (لا يتطلب السداد الكامل)
+- لا يوجد حد أدنى قانوني لرأس المال للشركة الخاصة؛ رأس مال اسمي بقيمة **€1,000** شائع عملياً
 - مطلوب **مدير واحد** على الأقل و**مساهم واحد**
 - لا يُشترط أن يكون المدير مقيماً في قبرص (لكن هناك دقائق للضرائب)
-- التسجيل يستغرق **3-5 أيام عمل**
+- التسجيل يستغرق **5-10 أيام عمل**
 
 ### العمل الحر (Self-Employed)
 
@@ -231,5 +231,7 @@ translationKey: "registratsiya-kompanii-na-kipre-dlya-nerezidentov"
 ## المصادر
 
 - [Registrar of Companies](https://www.companies.gov.cy/en/) — gov.cy
+- [Registrar of Companies — annual fee abolished from 2024](https://www.companies.gov.cy/en/knowledgebase/news/abolition-of-the-annual-company-fee-for-the-year-2024-onwards) — gov.cy
+- [Registrar of Companies — members and share capital](https://www.companies.gov.cy/en/business-entities/2-company/10-understanding/initial-and-relevant-obligations/members-and-share-capital) — gov.cy
 - [Company Registration](https://www.companies.gov.cy/en/business-entities/2-company/5-lifecycle/1-starting-a-company/15-guidance/incorporating-a-company/applying-to-incorporate-a-company) — gov.cy
 - [E-filing system](https://www.companies.gov.cy/en/business-entities/2-company/1-eservices) — gov.cy

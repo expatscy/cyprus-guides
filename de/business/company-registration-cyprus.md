@@ -3,7 +3,7 @@ slug: "company-registration-cyprus"
 title: "Firmengründung auf Zypern: Leitfaden"
 description: "Zyprisches Unternehmen gründen: GmbH vs Cyprus Ltd, Wegzugsbesteuerung, BCS-Einschränkungen, Unterhaltskosten, 15% KSt und Alternativen."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-10-21
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -20,7 +20,7 @@ faqSchema:
   - question: "Muss ich Wegzugsbesteuerung zahlen, wenn ich meine GmbH nach Zypern verlege?"
     answer: "Ja. Bei Wegzug aus Deutschland fällt die Wegzugsbesteuerung (§ 6 AStG) auf stille Reserven an — alle Wertzuwächse Ihrer GmbH-Anteile werden so besteuert, als hätten Sie sie am Tag des Wegzugs verkauft. Innerhalb der EU kann eine zinslose Ratenzahlung über 7 Jahre beantragt werden."
   - question: "Wie gründe ich eine Cyprus Ltd als Deutscher?"
-    answer: "Schritte: 1) Firmenname prüfen und reservieren beim Registrar of Companies, 2) Gesellschaftsvertrag (Memorandum & Articles) erstellen, 3) Registrierung beim Handelsregister (online möglich), 4) Steueranmeldung beim Tax Department, 5) Bankkonto eröffnen. Der gesamte Prozess dauert 2-4 Wochen."
+    answer: "Schritte: 1) Firmenname prüfen und reservieren beim Registrar of Companies, 2) Gesellschaftsvertrag (Memorandum & Articles) erstellen, 3) Registrierung beim Handelsregister (online möglich), 4) Steueranmeldung beim Tax Department, 5) Bankkonto eröffnen. Dauer: 5-7 Werktage für die Namensgenehmigung, 2-3 Wochen für die vollständige Registrierung beim Registrar of Companies. Fast-Track gegen EUR 500 Aufpreis möglich."
 ---
 > **Kurzantwort:** Eine zyprische LTD kostet ca. 2.500-4.000 EUR Gruendungskosten. Koerperschaftsteuer 15% ab 2026, weiter eine der niedrigsten in der EU.
 
@@ -37,10 +37,10 @@ Zypern zieht Unternehmer mit niedrigen Steuersätzen und der EU-Mitgliedschaft a
 
 Die häufigste Rechtsform — **private Gesellschaft mit beschränkter Haftung**:
 
-- Mindestgrundkapital — **€1.000** (muss nicht voll eingezahlt werden)
+- Kein gesetzliches Mindestgrundkapital für eine private Gesellschaft; **€1.000** Nominalkapital ist in der Praxis üblich
 - Mindestens **1 Geschäftsführer** und **1 Gesellschafter** erforderlich
 - Der Geschäftsführer muss kein zyprischer Einwohner sein (aber es gibt steuerliche Besonderheiten)
-- Die Registrierung dauert **3-5 Werktage**
+- Die Registrierung dauert **5-10 Werktage**
 
 ### Self-Employed (Selbstständigkeit)
 
@@ -163,9 +163,9 @@ Für deutsche Unternehmer ein Vergleich der wesentlichen Unterschiede:
 |---|---|---|
 | Körperschaftsteuer | ~30% (KSt 15% + Soli + GewSt) | **15%** |
 | Dividendensteuer | 25% Abgeltungssteuer + Soli | **0%** mit Non-Dom |
-| Mindestkapital | €25.000 (mind. 50% eingezahlt) | €1.000 (keine Einzahlung nötig) |
+| Mindestkapital | €25.000 (mind. 50% eingezahlt) | Kein gesetzliches Minimum (€1.000 nominal üblich) |
 | MwSt. | 19% | 19% |
-| Gründungszeit | 2-6 Wochen (Notar, Handelsregister) | 3-5 Werktage |
+| Gründungszeit | 2-6 Wochen (Notar, Handelsregister) | 5-10 Werktage |
 | EU-Marktzugang | Voll | Voll |
 | Jahresabschluss | Handelsregister + Finanzamt | Registrar + Tax Dept |
 
@@ -234,5 +234,7 @@ Die Firmengründung auf Zypern kann eine ausgezeichnete Lösung für internation
 ## Quellen
 
 - [Registrar of Companies](https://www.companies.gov.cy/en/) — gov.cy
+- [Registrar of Companies — annual fee abolished from 2024](https://www.companies.gov.cy/en/knowledgebase/news/abolition-of-the-annual-company-fee-for-the-year-2024-onwards) — gov.cy
+- [Registrar of Companies — members and share capital](https://www.companies.gov.cy/en/business-entities/2-company/10-understanding/initial-and-relevant-obligations/members-and-share-capital) — gov.cy
 - [Company Registration](https://www.companies.gov.cy/en/business-entities/2-company/5-lifecycle/1-starting-a-company/15-guidance/incorporating-a-company/applying-to-incorporate-a-company) — gov.cy
 - [E-filing system](https://www.companies.gov.cy/en/business-entities/2-company/1-eservices) — gov.cy

@@ -3,7 +3,7 @@ slug: "company-registration-cyprus"
 title: "פתיחת חברה בקפריסין: מדריך ליזמים ישראלים"
 description: "רישום חברה בקפריסין ליזמים ישראלים: דרישות, IP Box, השוואה לחברה בישראל, מגבלות לבעלי אשרת BCS, עלויות תחזוקה ומס חברות."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-10-21
 category: "עסקים"
 author: "Expats Cyprus"
 tags:
@@ -15,7 +15,7 @@ tags:
 draft: false
 faqSchema:
   - question: "כמה עולה להקים ולתחזק חברה בקפריסין?"
-    answer: "הקמה: €1,000–3,000 כולל רישום ברשם החברות (3–5 ימי עסקים). תחזוקה שנתית: מינימום €2,000 לחברה רדומה (ביקורת + מזכיר + כתובת רשומה; האגרה השנתית הישנה €350 בוטלה מ-2024), €3,000–5,000+ לחברה פעילה עם מע\"מ. על שכר לדוגמה של €1,000/חודש — עוד ~€300/חודש מיסי שכר."
+    answer: "הקמה: €1,000–3,000 כולל רישום ברשם החברות (5–10 ימי עסקים). תחזוקה שנתית: מינימום €2,000 לחברה רדומה (ביקורת + מזכיר + כתובת רשומה; האגרה השנתית הישנה €350 בוטלה מ-2024), €3,000–5,000+ לחברה פעילה עם מע\"מ. על שכר לדוגמה של €1,000/חודש — עוד ~€300/חודש מיסי שכר."
   - question: "מה היתרון של חברה קפריסאית על חברה ישראלית לסטארטאפ?"
     answer: "מס חברות 15% (לעומת 23% בישראל), IP Box ~3% על הכנסות מקניין רוחני (אין בישראל), דיבידנדים 0% עם Non-Dom (לעומת 25–30% בישראל), וגישה מלאה ל-EU ו-SEPA. מבנה אופטימלי: חברת IP holding בקפריסין → רישוי IP לחברה הישראלית → מס כולל אפקטיבי ~3% על הכנסות IP."
   - question: "האם אפשר לפתוח חברה בקפריסין עם ויזת BCS?"
@@ -38,10 +38,10 @@ translationKey: "registratsiya-kompanii-na-kipre-dlya-nerezidentov"
 
 הצורה הנפוצה ביותר — **חברה פרטית בעירבון מוגבל**:
 
-- הון מניות מינימלי — **€1,000** (אינו דורש תשלום מלא)
+- אין הון מניות מינימלי סטטוטורי לחברה פרטית; הון נומינלי של **€1,000** נפוץ בפועל
 - נדרש מינימום **דירקטור אחד** ו**בעל מניות אחד**
 - הדירקטור אינו חייב להיות תושב קפריסין (אך יש ניואנסים למיסים)
-- הרישום לוקח **3-5 ימי עסקים**
+- הרישום לוקח **5-10 ימי עסקים**
 
 ### Self-Employed (עצמאי)
 
@@ -234,5 +234,6 @@ translationKey: "registratsiya-kompanii-na-kipre-dlya-nerezidentov"
 ## מקורות
 
 - [Registrar of Companies](https://www.companies.gov.cy/en/) — gov.cy
+- [Registrar of Companies — members and share capital](https://www.companies.gov.cy/en/business-entities/2-company/10-understanding/initial-and-relevant-obligations/members-and-share-capital) — gov.cy
 - [Company Registration](https://www.companies.gov.cy/en/business-entities/2-company/5-lifecycle/1-starting-a-company/15-guidance/incorporating-a-company/applying-to-incorporate-a-company) — gov.cy
 - [E-filing system](https://www.companies.gov.cy/en/business-entities/2-company/1-eservices) — gov.cy

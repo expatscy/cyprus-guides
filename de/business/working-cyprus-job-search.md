@@ -1,9 +1,9 @@
 ---
 slug: "working-cyprus-job-search"
 title: "Jobs in Zypern: Suche, Gehalt, Rechte"
-description: "So finden Sie einen Job in Zypern: Gehälter nach Branche, Arbeitnehmerrechte, Probezeit und Kündigung – mit Kanälen für die Jobsuche."
+description: "So finden Sie einen Job in Zypern: offizielle Stellenportale, Bewerbungstipps, datierte Verdienstdaten, Mindestlohnbedingungen und Arbeitnehmerrechte, die Sie vor der Zusage prüfen sollten."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-10-21
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -14,378 +14,119 @@ tags:
 draft: false
 translationKey: "rabota-na-kipre-poisk-zarplaty"
 faqSchema:
-  - question: "Wie hoch sind die Gehälter auf Zypern im Vergleich zu Deutschland?"
-    answer: "Deutlich niedriger. Durchschnittsgehalt Zypern: €1.800–2.200 brutto/Monat. IT-Fachkräfte: €2.500–5.000. Finanzsektor: €2.000–4.000. Mindestlohn: €979/Monat (ab 2026, nach 6 Monaten €1.088). In Deutschland: Durchschnitt ~€4.100 brutto. Aber: niedrigere Steuern und Sozialabgaben auf Zypern gleichen teilweise aus."
-  - question: "Wie finde ich als Deutscher einen Job auf Zypern?"
-    answer: "Wichtigste Kanäle: LinkedIn (international), ErgoDotisi (lokales Jobportal), Cyprus Confidential (Finanzbranche), direkte Bewerbung bei BCS-Unternehmen (IT, Gaming, Forex). Deutsch als Muttersprache ist ein Vorteil — besonders im Kundenservice, Tourismus und bei deutschen Unternehmen auf Zypern."
+  - question: "Welchen Gehaltsrichtwert kann ich für Zypern nutzen?"
+    answer: "CYSTAT meldete am 29. Juli 2026 einen vorläufigen durchschnittlichen Bruttomonatsverdienst der Arbeitnehmer von €2.601 für das erste Quartal 2026. Dieser Landesdurchschnitt enthält Zulagen und unregelmäßige Zahlungen und ist kein Gehaltsangebot für einen bestimmten Beruf. Für vom Mindestlohn erfasste Vollzeitstellen gilt ab 1. Januar 2026 ein Minimum von €979 vor sechs ununterbrochenen Monaten beim selben Arbeitgeber und €1.088 danach; es gibt Ausnahmen."
+  - question: "Wo kann ich in Zypern nach Jobs suchen?"
+    answer: "Die staatliche Plattform des Public Employment Service erlaubt Registrierung, Stellensuche und Bewerbung; laut veröffentlichtem Ablauf bestätigt ein Sachbearbeiter die Bewerbung telefonisch. Ergodotisi veröffentlicht separat Stellenanzeigen auf Englisch und Griechisch. Prüfen Sie zusätzlich die eigene Karriereseite des Arbeitgebers und dessen Bewerbungshinweise."
+  - question: "Brauche ich eine Arbeitserlaubnis für Zypern?"
+    answer: "EU-, EWR- und Schweizer Staatsangehörige haben über den Unionsbürger-Weg freien Zugang zum Arbeitsmarkt, mit Pflicht zur Anmeldung des Aufenthalts. Alle anderen müssen den tatsächlichen Einwanderungsweg und die Erlaubnis für die geplante Tätigkeit prüfen. Die Rechte von Familienangehörigen aus Drittstaaten unterscheiden sich: Manche haben freien Arbeitsmarktzugang, während Ehepartner von Beschäftigten bei Companies of Foreign Interests Zugang zu abhängiger Beschäftigung ohne Recht auf Selbständigkeit haben können."
 ---
-> **Kurzantwort:** Jobs auf Zypern: IT zahlt am besten (2.500-5.000 EUR), Tourismus und Gastro sind die groessten Arbeitgeber. Jobportale: Kariera.com.cy, LinkedIn.
 
-Arbeiten auf Zypern ist für Expats eine reale Möglichkeit -- nicht nur in der IT-Branche, sondern auch in Finanzen, Immobilien, Gesundheitswesen und Bildung. Ob Sie als Fachkraft auswandern, als Rentner eine Teilzeitbeschaeftigung suchen oder als Selbstaendiger den Steuerstandort wechseln moechten: Dieser Leitfaden deckt alles ab -- von der Bewerbungsstrategie bis zum Vorstellungsgespraech und Ihren Rechten als Arbeitnehmer.
+> **Kurzantwort:** Prüfen Sie zuerst, ob Ihr aktueller Status die geplante Arbeit erlaubt, suchen Sie dann Stellen und vergleichen Sie das vollständige Angebot. Trennen Sie Ihren Jobsuche-Plan von Annahmen über Genehmigungen, Steuerbefreiungen oder eine garantierte Einstellungsdauer.
 
-> **Offizielle Quellen:**
-> - [Department of Labour](https://www.gov.cy/mlsi/dl/en/) — Arbeitsministerium
-> - [Employment Guide (PDF)](https://www.gov.cy/mlsi/en/) — Leitfaden zur Beschaeftigung
-> - [Labour Relations FAQ](https://www.gov.cy/mlsi/en/) — Haeufig gestellte Fragen
+## Wo soll ich nach Jobs suchen?
 
-## Wie suche ich am besten einen Job?
+Die [Jobsuchenden-Plattform des Public Employment Service](https://www.gov.cy/en/service/jobseekers-platform/) ist das staatliche Angebot. Sie können sich dort **als Bewerber registrieren, Stellen suchen, Bewerbungen einreichen und verwalten**. Laut veröffentlichtem Ablauf **kontaktieren Sachbearbeiter Sie telefonisch, um die Bewerbung zu bestätigen**. Über den Dienst lässt sich auch die Teilnahme an einem Vorstellungsgespräch beantragen.
 
-Der groesste Fehler, den deutsche Auswanderer auf Zypern machen: Sie verlassen sich ausschliesslich auf Jobportale. In einem Land mit 1,2 Millionen Einwohnern **zaehlen persoenliche Kontakte mehr als der Lebenslauf**. Die meisten Positionen, besonders im mittleren und oberen Management, werden durch Empfehlungen besetzt, bevor sie jemals online erscheinen.
+[Ergodotisi](https://ergodotisi.com/en-CY/companies/ergodotisi-72788064/about) veröffentlicht separat Stellenanzeigen und Firmenprofile, auf **Englisch und Griechisch**. Nutzen Sie die Angaben in der Anzeige und die Hinweise des Arbeitgebers selbst. Dieser Leitfaden stuft Ergodotisi nicht als größtes Portal ein und beschreibt es nicht als staatliche Arbeitsvermittlung.
 
-### Networking -- Prioritaet Nr. 1
+Erstellen Sie eine Liste möglicher Arbeitgeber und prüfen Sie deren eigene Karriereseiten. Notieren Sie zu jeder Stelle Rolle, Ort, Arbeitsmodell, Gehaltsangaben, verlangte Sprache, Anforderungen an eine Berufsregistrierung und ob der Arbeitgeber Ihren Einwanderungsweg unterstützt. Suchen Sie anhand der konkreten Stelle, statt anzunehmen, dass eine ganze Branche auf Englisch einstellt oder eine feste Spanne zahlt.
 
-Zypern funktioniert über Beziehungen. So bauen Sie Ihre auf:
+## Welche Suchstrategie ist praktikabel?
 
-- **Branchenveranstaltungen besuchen** — Limassol und Nikosia bieten regelmaessig Meetups für Tech, Finanzen und Immobilien. Pruefen Sie Meetup.com und Eventbrite Cyprus.
-- **Berufsverbuende beitreten** — die Cyprus Chamber of Commerce, CIBA (Cyprus International Businesses Association) und branchenspezifische Gruppen vernetzen aktiv Fachkraefte.
-- **Kaffeekultur nutzen** — Zyprioten machen Geschaefte beim Kaffee. Fragen Sie nicht nach einem "Bewerbungsgespraech", sondern nach einem "Kaffee und Austausch". Das oeffnet Tueren.
-- **LinkedIn ist Pflicht** — aber nutzen Sie es für Networking, nicht nur für Bewerbungen. Vernetzen Sie sich mit Hiring Managern, kommentieren Sie deren Beitraege, teilen Sie Branchenwissen.
+Kombinieren Sie Bewerbungen auf Ausschreibungen mit direkter Kontaktaufnahme und beruflichen Empfehlungen. Setzen Sie sich ein Wochenziel, das Sie durchhalten: zum Beispiel zehn Arbeitgeber auf die Liste, einige angepasste Bewerbungen und ein paar relevante Gespräche. Das sind Planungsvorschläge, keine gemessenen Erfolgsquoten.
 
-### Online-Communitys für Deutschsprachige
+Fragen Sie den Recruiter:
 
-- **Facebook**: "Auswanderer Zypern", "Deutsche auf Zypern", "Deutschsprachige in Zypern"
-- **LinkedIn**: Folgen Sie den Unternehmensseiten grosser zyprischer Arbeitgeber (Wargaming, Exness, PwC Cyprus, Deloitte Cyprus, KPMG Cyprus)
-- **Foren**: auswandern.de (Zypern-Thread), Zypern-Forum
+- Wer ist der rechtliche Arbeitgeber, und ist es eine Direkt- oder Agenturvermittlung?
+- Wie lauten Rolle, Standort, Arbeitszeiten und Gehaltsspanne?
+- Welche Gespräche oder Tests sind geplant, und wann kann ich mit einer Rückmeldung rechnen?
+- Welche Nachweise zur Arbeitserlaubnis sind nötig, und wer kümmert sich um einen Genehmigungsantrag?
+- Sind Umzugskosten enthalten, und gibt es Rückzahlungsbedingungen?
 
-### Jobportale
+Eine kurze Vorlage für die Kontaktaufnahme:
 
-- **LinkedIn Jobs** — die wichtigste Plattform für Fachpositionen
-- **CareersInCyprus.com** — groesste lokale Jobboerse
-- **Ergodotisi.com** — auf Griechisch, gut für lokale Unternehmen
-- **Indeed Cyprus** — internationale Ausschreibungen
-- **Glassdoor** — nuetzlich für Gehaltsrecherche und Firmenbewertungen
-- **StepStone/XING** — manchmal zyprische Stellen bei internationalen Firmen
+> Hallo [Name], ich bin [Rolle] mit [Erfahrung] und prüfe Möglichkeiten in Zypern. Ihre Arbeit im Bereich [konkretes Thema] interessiert mich, und meine Erfahrung in [Kompetenz] könnte zum Team passen. Mein aktueller Stand bei der Arbeitserlaubnis: [zutreffender Status]. Könnten wir kurz über passende Rollen telefonieren?
 
-### Fuer die IT-Branche
+Beschreiben Sie Ihre tatsächliche Erlaubnis oder Ihren Bedarf an Sponsoring; gehen Sie nicht davon aus, dass ein informelles „BCS“-Etikett ein Visum, eine Steuererleichterung für Beschäftigte oder die Staatsbürgerschaft garantiert.
 
-- **Relocate.me** — Tech-Jobs mit Umzugspaket
-- **AngelList** — Startups
-- **Direktbewerbungen bei BCS-Unternehmen** (Details unten)
+## Wie bereite ich Lebenslauf und Vorstellungsgespräch vor?
 
-### Direkte Kontaktaufnahme
+Halten Sie den Lebenslauf auf die Stelle fokussiert. Verwenden Sie klare Überschriften, aktuelle relevante Erfahrung, messbare Erfolge, Sprachen und Verfügbarkeit. Erklären Sie Ihren Bedarf an einer Arbeitserlaubnis korrekt. Halten Sie sich an das vom Arbeitgeber verlangte Dateiformat und dessen Dokumentenhinweise; kein bestimmtes Layout garantiert, dass jedes Bewerbermanagement-System es verarbeitet.
 
-Warten Sie nicht auf Stellenanzeigen. Identifizieren Sie 10-20 Zielunternehmen und schreiben Sie direkt:
+Passen Sie Kompetenzen und Beispiele an die Stelle an. Bereiten Sie konkrete Beispiele nach Situation, Aufgabe, Handlung und Ergebnis vor, wenn Ihnen diese Struktur hilft. Fragen Sie nach Aufgaben, Führung, Arbeitsbelastung, Entwicklung und dem nächsten Schritt. Lassen Sie sich jedes mündliche Angebot schriftlich bestätigen, bevor Sie Verpflichtungen eingehen.
 
-> *Betreff: [Ihre Rolle] — offen für Positionen auf Zypern*
->
-> *Sehr geehrte/r [Name],*
->
-> *ich bin [Rolle] mit [X Jahren] Erfahrung in [Branche] und pruefe derzeit berufliche Möglichkeiten auf Zypern. Ich verfolge die Arbeit von [Unternehmen] im Bereich [Spezifik] und bin überzeugt, dass meine Erfahrung in [Kompetenz] einen Mehrwert für Ihr Team bieten kann.*
->
-> *Ich verfuege über eine EU-Arbeitsgenehmigung / wuerde eine Visumfoerderung benoetigen (BCS-Modell).*
->
-> *Haetten Sie 15 Minuten für ein kurzes Gespraech diese Woche?*
->
-> *Mit freundlichen Gruessen,*
-> *[Ihr Name]*
+Vereinbaren Sie mit dem Recruiter einen Termin für die Rückmeldung. Wird keiner genannt, ist eine höfliche Nachfrage nach einem angemessenen Zeitraum eine praktikable Option. Behandeln Sie empfohlene Antwortzeiten nicht als gesetzliche Fristen oder zugesagte Einstellungstermine.
 
-### Personalvermittler: Intern vs. Agentur
+## Welchen Gehaltsrichtwert kann ich nutzen?
 
-- **Interne Recruiter** (arbeiten direkt beim Unternehmen) — besser. Sie kennen die Unternehmenskultur, koennen für Sie eintreten, kein Mittelsmann.
-- **Personalagenturen** — nuetzlich für den Markteinstieg, aber sie kassieren eine Provision vom Arbeitgeber, was Ihr Angebot druecken kann. Fragen Sie direkt: "Stellen Sie intern ein oder über eine Agentur?"
+In der Veröffentlichung vom **29. Juli 2026** meldete CYSTAT einen **vorläufigen durchschnittlichen Bruttomonatsverdienst der Arbeitnehmer von €2.601 für das erste Quartal 2026**. Die Kennzahl beruht auf Daten der Sozialversicherung und umfasst Grundgehalt, Zulagen, Überstunden und unregelmäßige Zahlungen wie ein dreizehntes Gehalt und Boni. Nicht erfasst sind Tätigkeiten privater Haushalte als Arbeitgeber, exterritoriale Organisationen und Körperschaften sowie bestimmte Datensätze ohne regelmäßige Arbeit. [Offizielle Veröffentlichung und Methodik](https://www.gov.cy/en/economy-and-finance/average-monthly-earnings-of-employees-1st-quarter-2026/).
 
-## Wie schreibe ich einen Lebenslauf für Zypern?
-
-### Format
-
-- **Maximal 2 Seiten** — Seite 3 liest niemand
-- **Erfolge quantifizieren** — "Umsatz um 23% gesteigert" schlaegt "Verantwortlich für Vertrieb"
-- **Umgekehrt chronologisch** — letzte Stelle zuerst
-- **Foto** — in der EU ueblich (anders als in den USA). Fuegen Sie ein professionelles Bewerbungsfoto bei
-- **Angeben**: Aufenthaltsstatus, Sprachkenntnisse (Englisch, Griechisch, Deutsch), Verfuegbarkeit
-- **Wichtig für Deutsche**: Der deutsche Lebenslauf-Stil (ausfuehrlich, mit Zeugnissen) ist auf Zypern nicht ueblich. Halten Sie es kompakt und angelsaechsisch
-
-### ATS (Bewerbermanagement-Systeme)
-
-Grosse Unternehmen auf Zypern (BCS-Firmen, Big 4, Multinationale) nutzen ATS-Software, die Ihren Lebenslauf scannt, bevor ihn ein Mensch sieht:
-
-- **Spiegeln Sie die Stellenbeschreibung** — verwenden Sie die gleichen Begriffe wie in der Ausschreibung
-- **Standard-Abschnittsueberschriften** — "Experience", "Education", "Skills" (auf Englisch)
-- **Keine Tabellen oder Spalten** — ATS kann sie nicht parsen
-- **PDF einreichen**, es sei denn, Word wird ausdruecklich verlangt
-
-### Jede Bewerbung anpassen
-
-Ein generischer Lebenslauf an 50 Unternehmen = 0 Vorstellungsgespraeche. Passen Sie jede Bewerbung an:
-
-- Skills-Abschnitt auf die Anforderungen abstimmen
-- Relevanteste Erfahrung nach oben stellen
-- 2-3 Saetze Zusammenfassung oben, die auf die konkrete Stelle zugeschnitten sind
-
-## Was erwartet mich im Vorstellungsgespräch?
-
-### Typischer Ablauf
-
-1. **HR-Screening** (15-30 Min., Telefon/Video) — Gehaltsvorstellungen, Aufenthaltsstatus, Verfuegbarkeit
-2. **Fachliches Interview** (45-60 Min.) — Kompetenzpruefung, Fallstudie, Portfolio-Review
-3. **Kultureller Fit / Team-Interview** (30-45 Min.) — Kennenlernen mit potenziellen Kollegen
-4. **Angebot** — meist muendlich zuerst, dann schriftlich
-
-### Zeitrahmen
-
-- **IT/BCS-Unternehmen**: 3-4 Runden über 2-4 Wochen
-- **Lokale zyprische Unternehmen**: oft 1-2 Runden, informeller, schnellere Entscheidungen
-- **Big 4 / Multinationale**: 3-5 Runden, kann 4-6 Wochen dauern
-
-### Kulturelle Tipps für Deutsche
-
-- **Weniger formell als in Deutschland** — das Vorstellungsgespraech ist lockerer als ein deutsches. Kein steifer Handschlag und Anzug-Pflicht (ausser bei Big 4). Freundliches Gespraech gehoert dazu.
-- **Beziehung zaehlt mehr als Prozess** — sie stellen einen Menschen ein, nicht ein Kompetenzprofil. Zeigen Sie Persoenlichkeit.
-- **Deutsche Gruendlichkeit ist geschaetzt** — aber überwaeltigen Sie nicht mit Detail. Zyprioten bevorzugen pragmatische Loesungen vor perfekter Planung.
-- **STAR-Methode nutzen** (Situation, Task, Action, Result) für verhaltensbezogene Fragen
-- **Stellen Sie Rueckfragen** — nach Teamstruktur, Wachstumsplaenen, Unternehmenskultur. Das zeigt echtes Interesse.
-
-### Haeufige Fragen
-
-- "Warum Zypern?" — haben Sie eine ehrliche Antwort jenseits von "Sonne und Meer"
-- "Wie ist Ihr Aufenthaltsstatus?" — klar und direkt antworten
-- "Was sind Ihre Gehaltsvorstellungen?" — recherchieren Sie vorher (siehe Gehaltstabellen unten)
-- "Wo sehen Sie sich in 3 Jahren?" — sie wollen wissen, dass Sie bleiben und nicht nach einem Winter wieder gehen
-
-## Welche Branchen gibt es außer IT?
-
-### Gesundheitswesen
-
-Zypern hat einen **Mangel an Gesundheitspersonal**, besonders Pflegekraefte und Fachuerzte. Das GESY (nationales Gesundheitssystem, eingefuehrt 2019) hat die Nachfrage erhoet:
-
-- **Pflegekraefte**: €1.500-2.500/Monat — Anerkennung der Qualifikation durch den Nursing Council erforderlich
-- **Uerzte/Fachaerzte**: €3.000-8.000+ — Registrierung beim Cyprus Medical Council
-- **Apotheker**: €2.000-3.500
-- Deutsche Qualifikationen werden in der EU grundsaetzlich anerkannt (Richtlinie 2005/36/EG)
-
-### Bildung
-
-- **Internationale Schulen** (mehrere in Limassol, Paphos, Nikosia) stellen englischsprachige Lehrkraefte ein
-- **Privatunterricht**: hohe Nachfrage für Englisch, Mathematik, Naturwissenschaften
-- **Universitäten**: University of Cyprus, UCLan Cyprus, Frederick University
-- Gehalt: €1.500-3.500/Monat für Lehrkraefte; hoeher für Universitätspositionen
-- **Deutschunterricht**: Nachfrage durch deutschsprachige Expat-Familien und im Tourismus
-
-### Finanzen und Banking
-
-Zypern ist ein EU-Finanzzentrum mit starker Nachfrage für:
-
-- **Compliance/AML-Analysten**: €2.000-4.000 — jede Finanzfirma braucht sie nach den Regulierungsverschaerfungen
-- **Wirtschaftspruefer**: €1.500-3.000 (Big-4-Einstieg: €1.500-1.800)
-- **Fondsverwalter**: €2.000-3.500
-- **Fintech**: wachsender Sektor, besonders in Limassol
-- **Wichtig für Deutsche**: Erfahrung mit BaFin-Regulierung ist ein Pluspunkt
-
-### Tourismus und Gastgewerbe
-
-- **Saisonal** (April-Oktober): Hotelpersonal, Reiseleiter, Restaurantmanagement
-- **Ganzjaehriges Management**: Hotelmanager, Resortleiter — €2.500-5.000+
-- Deutschsprachiges Personal wird in Hotels in Paphos und Ayia Napa sehr geschaetzt (viele deutsche Touristen)
-
-### Immobilien
-
-- **Vertriebsmitarbeiter**: Grundgehalt + Provision (Top-Makler verdienen €3.000-8.000+/Monat)
-- **Immobilienverwalter**: €1.500-2.500
-- Wachsender Sektor durch auslaendische Investitionen
-
-### Schifffahrt und Logistik
-
-- Zypern ist ein bedeutender Schifffahrtsstandort (Limassol — einer der groessten Haefen im Mittelmeer)
-- **Ship Management**: €2.500-5.000+
-- **Logistikkoordinatoren**: €1.500-2.500
-
-### Bauwesen
-
-- **Projektmanager**: €2.500-4.500
-- **Ingenieure**: €2.000-4.000
-- **Facharbeiter**: €1.200-2.500 — hohe Nachfrage durch laufende Bauvorhaben
-
-## Wie hoch sind die Gehälter?
-
-### IT-Sektor
-
-| Position | Gehalt (€/Monat, brutto) |
-|----------|--------------------------|
-| Junior Developer | €1.500 - 2.500 |
-| Middle Developer | €2.500 - 4.000 |
-| Senior Developer | €4.000 - 6.000+ |
-| Tech Lead | €5.000 - 8.000+ |
-
-### Andere Branchen
-
-| Branche | Spanne (€/Monat) |
-|---------|-------------------|
-| Verwaltung | €1.000 - 1.500 |
-| Buchhaltung | €1.500 - 2.500 |
-| Marketing | €1.500 - 3.000 |
-| Vertrieb | €1.200 - 2.500 + Boni |
+Das ist ein landesweiter, historischer Durchschnitt, kein aktuelles Angebot und kein berufsspezifischer Satz. Vergleichen Sie aktuelle relevante Ausschreibungen und fragen Sie Arbeitgeber nach ihren Spannen. Klären Sie bei einem Angebot das Bruttojahresgehalt, die Anzahl der Gehaltszahlungen, Bonusbedingungen, Zusatzleistungen und die Umzugskosten. Zum Vergleich von Paketen hilft der [Leitfaden zur Gehaltsverhandlung](/de/business/gehaltsverhandlung-zypern-guide/).
 
 ### Mindestlohn
 
-Auf Zypern gibt es einen **Mindestlohn** (aktualisiert zum 1. Januar 2026):
+Für Stellen, **die unter die nationalen Mindestlohnverordnungen fallen**, muss die Vollzeitvergütung ab **1. Januar 2026** mindestens betragen:
 
-- **€979/Monat** brutto bei Einstellung (vorher €900)
-- **€1.088/Monat** brutto nach 6 Monaten beim selben Arbeitgeber (vorher €1.000)
-- Gueltig bis 31. Dezember 2027
+- **€979 brutto pro Monat** vor Abschluss von **sechs ununterbrochenen Monaten beim selben Arbeitgeber**.
+- **€1.088 brutto pro Monat** nach Abschluss dieses Zeitraums.
 
-## Welche Steuern und Abzüge gibt es?
+Die Verordnungen schließen **Hausangestellte, Beschäftigte in Landwirtschaft und Tierhaltung, Seeleute und Beschäftigte unter der separaten Hotelverordnung** aus. Prüfen Sie den jeweiligen Sektor und das Arbeitsmodell, statt ein Minimum auf jede Stelle anzuwenden. [Mindestlohn-FAQ des Department of Labour Relations](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04).
 
-### Vom Gehalt werden einbehalten
+## Welche Steuern und Abgaben beeinflussen ein Angebot?
 
-| Abzug | Satz |
-|-------|------|
-| Einkommensteuer | 0-35% (progressiv) |
-| Social Insurance | 8,8% |
-| GESY | 2,65% |
+Die regulären **Einkommensteuerstufen 2026 gelten für das zu versteuernde Einkommen**: 0% bis **€22.000**, dann Grenzsteuersätze von **20% über €22.000 bis €32.000**, **25% über €32.000 bis €42.000**, **30% über €42.000 bis €72.000** und **35% über €72.000**. Das ist keine Garantie, dass die ersten €22.000 jedes Bruttopakets die einzige relevante Steuerbedingung sind. [Einkommensteuergesetz, Erster Anhang](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html).
 
-### Die ersten €22.000 — steuerfrei (Steuerreform 2026)
+Der Arbeitnehmerbeitrag zur Sozialversicherung beträgt **8,8% des versicherungspflichtigen Verdienstes**. Die Beitragsbemessungsgrenze für Arbeitnehmer liegt **2026** bei **€5.742 pro Monat bei monatlicher Zahlung** oder **€1.325 pro Woche bei wöchentlicher Zahlung**. [Geltende Beitragssätze](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) und [Bekanntmachung der Grenze 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5).
 
-Einkommensteuer:
+Der **GESY-Beitragssatz für Arbeitnehmer beträgt 2,65%**; die jährliche Bemessungsgrenze liegt bei **€180.000 pro natürlicher Person über die anwendbaren Beitragskategorien hinweg**, getrennt von der Sozialversicherungsgrenze. [Finanzierungsregeln der HIO](https://www.gesy.org.cy/en-us/hiofinancing).
 
-- Bis €22.000 — **0%**
-- €22.001 - €32.000 — 20%
-- €32.001 - €42.000 — 25%
-- €42.001 - €72.000 — 30%
-- Über €72.000 — 35%
+Bitten Sie die Lohnbuchhaltung um eine Berechnung auf Basis Ihres tatsächlichen Einkommens und der Vergünstigungen, für die Sie in Frage kommen. Der Eintritt bei einem bestimmten Arbeitgeber begründet keinen persönlichen Anspruch auf Steuerbefreiung.
 
-## Welche Arbeitnehmerrechte habe ich?
+## Welche Arbeitnehmerrechte sollte ich prüfen?
 
-### Arbeitsvertrag
+### Schriftliche Information über die Beschäftigung
 
-Es muss ein **schriftlicher** Vertrag vorliegen mit:
+Für Beschäftigungen im Anwendungsbereich des **Gesetzes über transparente und vorhersehbare Arbeitsbedingungen** muss der Arbeitgeber die vorgeschriebenen **Grundinformationen spätestens sieben Kalendertage nach Beschäftigungsbeginn** und die weiteren Informationen **innerhalb eines Monats** bereitstellen, sofern nicht bereits früher geschehen. Die Information kann auf Papier oder elektronisch erfolgen, unter den Bedingungen des Gesetzes zu Zugang, Speicherung, Ausdruck und Übermittlungsnachweis. [Abschnitte 4, 11 und 12](https://www.cylaw.org/nomoi/enop/non-ind/2023_1_25/full.html).
 
-- Gehalt
-- Aufgabenbeschreibung
-- Arbeitszeiten
-- Kuendigungsbedingungen
+Zu den Grundinformationen gehören Vergütung, Tätigkeitsbeschreibung, Beginn, etwaige Probezeitbedingungen und die Angaben zum Arbeitszeitmodell. Die weiteren Informationen umfassen Urlaub sowie Kündigungsverfahren oder Kündigungsfristen. Diese Pflicht zur schriftlichen Information sollte nicht durch die pauschale Aussage ersetzt werden, dass jedes Arbeitsverhältnis mit einem unterschriebenen Vertrag beginnen muss. [FAQ des Department of Labour Relations](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/0/8d733d7c38f1b31cc22586870039fd39?Click=&OpenDocument=).
 
-### Arbeitszeit
+Verlangen Sie vor der Zusage klare Bedingungen zu Gehalt, Arbeitszeit, Überstundenregelung, Urlaub, Probezeit, Kündigungsfrist und etwaigen Wettbewerbsverbots- oder Rückzahlungsklauseln. Prüfen Sie bei einem konkreten Streitfall das anwendbare Gesetz, den Tarifvertrag und den Vertrag.
 
-- Standard — **40 Stunden/Woche**
-- Ueberstunden — werden zusaetzlich verguetet
+### Arbeitszeit und Urlaub
 
-### Urlaub
+Nach dem allgemeinen Arbeitszeitgesetz liegt das reguläre Maximum bei **durchschnittlich 48 Stunden pro Woche einschließlich Überstunden**, normalerweise über einen **Bezugszeitraum von vier Monaten**. Das Gesetz kennt Ausnahmen vom Anwendungsbereich, Abweichungen und ein Opt-out mit Zustimmung des Arbeitnehmers, Schutz vor Nachteilen bei Ablehnung, Aufzeichnungspflichten des Arbeitgebers und behördliche Aufsicht. Eine 40-Stunden-Woche im Vertrag ist nicht das allgemeine gesetzliche Maximum. [Abschnitte 3 und 7 des Arbeitszeitgesetzes](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_63/full.html).
 
-- **20-21 Arbeitstage** bezahlter Urlaub
-- + gesetzliche Feiertage
+Die offizielle Anleitung zum Jahresurlaub sieht **vier Wochen bezahlten Urlaub nach 48 Wochen Arbeit innerhalb eines Jahres** vor: **20 Arbeitstage bei einer Fünf-Tage-Woche** oder **24 bei einer Sechs-Tage-Woche**. Die Zahlung erfolgt je nach anwendbarer Regelung durch den Arbeitgeber oder den Central Holiday Fund. [Dienst für bezahlten Jahresurlaub](https://www.gov.cy/en/service/31545/).
 
-### Krankenstand
+Prüfen Sie Regelungen zur Lohnfortzahlung im Krankheitsfall getrennt vom Krankengeld der Sozialversicherung: Die Wartezeit des Krankengelds sagt für sich nichts darüber aus, ob der Arbeitgeber Lohn zahlt. Der [Leitfaden zur Sozialversicherung](/de/business/social-insurance-cyprus-pension/) erklärt den Unterschied.
 
-- Erste 3 Tage — normalerweise ohne Bezahlung
-- Danach — Leistungen aus der Social Insurance
+### Probezeit und Kündigung
 
-## Wie funktioniert die Probezeit?
+Für Beschäftigungen, die unter die einschlägigen Bestimmungen fallen, beträgt die **reguläre maximale Probezeit sechs Monate**. Bei befristeten Verträgen muss die Probezeit im Verhältnis zur erwarteten Vertragsdauer und zur Art der Arbeit stehen. Die Verlängerung eines befristeten Vertrags für dieselbe Stelle und dieselben Aufgaben erfordert keine neue Probezeit. **Bestimmte Geschäftsführungsorgane juristischer Personen sind von den Regeln zur Höchstdauer ausgenommen**, und eine Abwesenheit während der Probezeit kann eine Verlängerung höchstens um die Dauer dieser Abwesenheit erlauben. Regelungen für den öffentlichen Dienst und weitere Anwendungsbereichsregeln sind ebenfalls zu prüfen. Anwendbare Tarifverträge können nach den Abschnitten 15–20 abweichende Bedingungen vorsehen, solange der Schutz der Beschäftigten insgesamt gewahrt bleibt. [Abschnitte 4, 15 und 21](https://www.cylaw.org/nomoi/enop/non-ind/2023_1_25/full.html).
 
-### Standard
+Verlangen Sie das Kündigungsverfahren und die Kündigungsfristen in der schriftlichen Information. Holen Sie zu Kündigungsfrist, Endabrechnung und etwaigen Abfindungsansprüchen Rat für Ihren konkreten Fall ein; dieser Leitfaden verspricht weder eine Abfindung nach jeder Kündigung noch eine allgemeingültige Kündigungsfrist.
 
-- **6 Monate** (bei BCS haeufig)
-- Kuendigung in dieser Zeit einfacher
+## Wie wirken sich Einwanderungswege auf die Beschäftigung aus?
 
-### Nach der Probezeit
+Die offizielle Anleitung für **EU-, EWR- und Schweizer Staatsangehörige** beschreibt **freien Zugang zu abhängiger Beschäftigung und Selbständigkeit** über den Unionsbürger-Weg, zusammen mit der Pflicht zur Anmeldung des Aufenthalts. [MEU1-Anleitung](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/).
 
-- Kuendigung schwieriger
-- Es braucht Gruende oder eine Abfindungszahlung
+Alle anderen müssen den tatsächlichen Weg und die Erlaubnis für die geplante Tätigkeit prüfen. Die offizielle Seite zur Familienzusammenführung unterscheidet Ehepartner von **langfristig Aufenthaltsberechtigten oder unternehmensintern Transferierten**, die freien Arbeitsmarktzugang einschließlich Selbständigkeit haben, von berechtigten Ehe- oder Lebenspartnern von **Beschäftigten bei Companies of Foreign Interests**, deren freier Zugang **abhängige Beschäftigung umfasst und Selbständigkeit ausdrücklich ausschließt**. Eine pauschale Regel „jede Nicht-EU-Person braucht eine vom Arbeitgeber gesponserte Genehmigung“ ist deshalb unzuverlässig. [Arbeitsmarktbedingungen bei Familienzusammenführung](https://www.gov.cy/mip-md/en/documents/family-members-of-certain-third-country-nationals-that-are-legally-residing-in-cypurs-fr-family-reunification/).
 
-## Was muss ich bei einer Kündigung wissen?
+Der offizielle Weg über den Arbeitgeber heißt **Companies of Foreign Interests**; die geltende Politik und den Antrag finden Sie in den [Hinweisen des Migration Department](https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/companies-of-foreign-interests/). Beurteilen Sie Aufenthaltsstatus, persönliche Steuererleichterung und einen späteren Antrag auf Staatsbürgerschaft getrennt, statt ein Firmenetikett als Anspruch auf alle drei zu behandeln.
 
-### Durch den Arbeitgeber
+Wenn Sie Remote-Arbeit für einen ausländischen Arbeitgeber erwägen, prüfen Sie vor der Zusage die passenden Regelungen zu Einwanderung, Steuern und Sozialversicherung. Das [Digital-Nomad-Programm](/de/immigration/digital-nomad-visum-zypern/) erlaubt ausdrücklich qualifizierende Remote-Arbeit für einen Arbeitgeber im Ausland oder Selbständigkeit mit ausländischen Kunden; Familienangehörige haben unter diesem Programm kein Recht auf Beschäftigung oder wirtschaftliche Tätigkeit. Es ist keine allgemeine Erlaubnis, einen Job in Zypern anzunehmen. [Offizielle Digital-Nomad-Regeln](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/).
 
-Es braucht **gesetzliche Gruende**:
+## Was sollte ich vor der Annahme eines Angebots tun?
 
-- Stellenabbau
-- Disziplinarverstoesse
-- Unfaehigkeit, die Arbeit auszufuehren
-
-### Abfindung
-
-Bei Stellenabbau — Zahlung aus dem **Redundancy Fund**:
-
-- Abhaengig von der Betriebszugehoerigkeit
-- Bis zu mehreren Monatsgehaeltern
-
-### Kuendigungsfrist
-
-- Beide Seiten muessen **vorher** informieren
-- Die Frist haengt von der Betriebszugehoerigkeit ab (von 1 Woche bis zu mehreren Monaten)
-
-## Welche BCS-Unternehmen gibt es?
-
-### Was ist das
-
-**Business Consulting Services** — Unternehmen mit besonderem Steuerregime:
-
-- Rekrutieren auslaendische Fachkraefte
-- Erteilen Arbeitsvisa
-- Steuervorteile für Mitarbeiter
-
-### Vorteile der Arbeit bei BCS
-
-- Visum (Aufenthaltsgenehmigung)
-- Steuerverguenstigungen (50% oder 20% Befreiung)
-- Beschleunigter Weg zur Staatsbürgerschaft
-
-### Wie man reinkommt
-
-- Eine Stelle bei einem registrierten BCS-Unternehmen finden
-- Gehalt ab einem bestimmten Minimum
-
-## Welche praktischen Tipps gibt es?
-
-### Antwortvorlagen für Recruiter
-
-**Starkes Interesse:**
-
-> *Hallo [Name], vielen Dank für die Kontaktaufnahme. Die Position [Rolle] bei [Unternehmen] passt hervorragend zu meinem Hintergrund in [Bereich]. Ich wuerde das gerne naeher besprechen. Ich bin [Tage/Zeiten] für ein Gespraech verfuegbar. Ich freue mich auf den Austausch.*
-
-**Mehr Informationen benoetigt:**
-
-> *Hallo [Name], danke für die Nachricht. Ich moechte gerne mehr erfahren. Koennten Sie mir Details zur Teamstruktur, zum Tech-Stack und zur Gehaltsspanne mitteilen? Das wuerde mir helfen, die Passung einzuschaetzen, bevor wir ein Gespraech ansetzen.*
-
-**Hoefliche Absage:**
-
-> *Hallo [Name], vielen Dank, dass Sie an mich gedacht haben. Nach Pruefung der Stelle denke ich, dass sie im Moment nicht ganz passt. Ich wuerde mich freuen, wenn Sie mich für zukuenftige Möglichkeiten im Bereich [Interesse] im Blick behalten. Beste Gruesse.*
-
-### Follow-up-Regeln
-
-- **Nach der Bewerbung**: 5-7 Werktage warten, dann einmal nachfragen
-- **Nach dem Gespraech**: Dankesmail innerhalb von 24 Stunden
-- **Auf Recruiter-Nachrichten**: innerhalb von 48 Stunden antworten, auch wenn nur zur Bestaetigung
-- **Keine Antwort nach Follow-up**: weiterziehen. Nicht hinterherlaufen — Ihre Zeit ist wertvoll
-
-### Warnsignale in Stellenanzeigen
-
-- **"Wettbewerbsfaehiges Gehalt" ohne Spanne** — bedeutet oft "unter Marktniveau"
-- **Vage Stellenbeschreibung** — unklare Aufgaben = unorganisiertes Management
-- **"Wir sind wie eine Familie"** — kann bedeuten: keine Grenzen, unbezahlte Ueberstunden erwartet
-- **Hohe Fluktuation auf LinkedIn** — pruefen Sie, wie lange Mitarbeiter bleiben
-- **Kein schriftlicher Vertrag** — auf Zypern illegal. Sofort absagen.
-- **Aufforderung zur "Selbstaendigkeit"**, obwohl es klar ein Anstellungsverhaeltnis ist — Steuervermeidungsmodell
-
-### Allgemeine Ratschlaege
-
-1. **Gehalt verhandeln** — besonders in der IT gibt es immer Spielraum
-2. **Vertrag gruendlich lesen** — jede Klausel, besonders Probezeit und Wettbewerbsverbot
-3. **Rechte kennen** — Urlaub, Krankengeld, Kuendigungsfristen
-4. **Alles aufbewahren** — Vertraege, Gehaltsabrechnungen, E-Mail-Bestaetigungen
-5. **Netzwerk aufbauen** — Veranstaltungen besuchen, Communitys beitreten, LinkedIn nutzen
-6. **Griechisch lernen** — auch Grundlagen (kalimera, efcharisto) zeigen Respekt und oeffnen Tueren
-7. **Geduld mitbringen** — Zyprischer Geschaeftsalltag laeuft im mediterranen Tempo. Was in Deutschland eine Woche dauert, kann hier drei dauern
+Prüfen Sie Arbeitgeber und Stelle, holen Sie das schriftliche Angebot ein, klären Sie Ihren Weg zur Arbeitserlaubnis und vergleichen Sie das vollständige Vergütungspaket. Fragen Sie bei Unklarheiten nach, bevor Sie kündigen, umziehen oder Kosten zahlen. Bewahren Sie Angebot, Bedingungen, Gehaltsabrechnungen und relevante Korrespondenz auf. Endet die Beschäftigung, prüfen Sie im [Leitfaden zum Arbeitslosengeld](/de/business/unemployment-benefits-cyprus/) die tatsächlichen Versicherungs- und Antragsbedingungen.
 
 ## FAQ
-
-**Brauche ich als EU-Bürger eine Arbeitserlaubnis auf Zypern?**
-Nein. Als deutscher Staatsbuerger haben Sie Freizuegigkeit in der EU. Sie muessen sich lediglich beim Migration Department anmelden, wenn Sie laenger als 3 Monate bleiben (MEU1-Formular). Eine Arbeitserlaubnis ist nicht erforderlich.
-
-**Muss ich Griechisch sprechen, um einen Job zu finden?**
-Fuer die meisten internationalen Positionen (IT, Finanzen, Beratung) — nein, Englisch reicht. Fuer kundenbezogene Rollen mit zyprischer Klientel sind Griechischkenntnisse ein deutlicher Vorteil. Im oeffentlichen Dienst ist Griechisch Pflicht.
-
-**Wie ist das mit der Wegzugsbesteuerung (Exit Tax)?**
-Beim Wegzug aus Deutschland kann die sogenannte Wegzugsbesteuerung nach §6 AStG auf unrealisierte Gewinne aus Kapitalanteilen (>1%) anfallen. Das gilt für GmbH-Gesellschafter und aehnliche Beteiligungen. Innerhalb der EU/des EWR kann eine Stundung beantragt werden. Konsultieren Sie unbedingt einen Steuerberater mit Erfahrung in deutsch-zyprischen Faellen, bevor Sie umziehen.
 
 **Kann ich meine deutsche Rente auf Zypern beziehen?**
 Ja. Deutsche Renten werden weltweit ausgezahlt. Nach dem DBA darf Deutschland gesetzliche Sozialversicherungsrenten besteuern (Art. 17(2)). Private Renten und öffentliche Pensionen haben andere Regeln; der zyprische Freibetrag begründet keine pauschale Steuerfreiheit. [DBA-Text](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA-Gesetz.pdf?__blob=publicationFile&v=1).
 
-**Sind die Gehaelter auf Zypern niedriger als in Deutschland?**
-Ja, in der Regel 20-40% niedriger für vergleichbare Positionen. Aber: niedrigere Lebenshaltungskosten (keine Rundfunkgebuehren, guenstigere Lebensmittel, niedrigere Mieten ausserhalb Limassols), niedrigere Steuersaetze (erste €22.000 steuerfrei) und der Non-Dom-Status (keine SDC für 17 Jahre) koennen das Nettobild deutlich verbessern.
-
 ---
-
-Arbeit auf Zypern ist erreichbar, besonders für qualifizierte Fachkraefte. BCS-Unternehmen sind ein guter Weg zur [Aufenthaltsgenehmigung](/de/immigration/residence-permit-cyprus-guide/) und zu Steuervorteilen. Aber der wahre Schluessel zum Erfolg ist Networking — gehen Sie raus, lernen Sie Leute kennen, und lassen Sie die beziehungsorientierte Kultur Zyperns für Sie arbeiten.
 
 Weiterführende Informationen: [Gehaltsverhandlung](/de/business/gehaltsverhandlung-zypern-guide/) · [Sozialversicherung](/de/business/social-insurance-cyprus-pension/) · [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/).
 
@@ -393,5 +134,13 @@ Weiterführende Informationen: [Gehaltsverhandlung](/de/business/gehaltsverhandl
 
 ## Quellen
 
-- [Department of Labour](https://www.gov.cy/mlsi/dl/en/) — gov.cy
-- [Employment Guide (PDF)](https://www.gov.cy/mlsi/en/) — gov.cy
+- [Jobsuchenden-Plattform des Public Employment Service](https://www.gov.cy/en/service/jobseekers-platform/) — gov.cy
+- [Durchschnittlicher Monatsverdienst der Arbeitnehmer, 1. Quartal 2026](https://www.gov.cy/en/economy-and-finance/average-monthly-earnings-of-employees-1st-quarter-2026/) — CYSTAT, gov.cy
+- [Mindestlohn-FAQ](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04) — Department of Labour Relations
+- [Einkommensteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — cylaw.org
+- [Beitragssätze der Sozialversicherung](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) und [Bemessungsgrenze 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5) — gov.cy
+- [GESY-Finanzierung](https://www.gesy.org.cy/en-us/hiofinancing) — HIO
+- [Gesetz über transparente und vorhersehbare Arbeitsbedingungen](https://www.cylaw.org/nomoi/enop/non-ind/2023_1_25/full.html) — cylaw.org
+- [Arbeitszeitgesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_63/full.html) — cylaw.org
+- [Bezahlter Jahresurlaub](https://www.gov.cy/en/service/31545/) — gov.cy
+- [Anmeldung von EU-Bürgern (MEU1)](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/), [Familienzusammenführung](https://www.gov.cy/mip-md/en/documents/family-members-of-certain-third-country-nationals-that-are-legally-residing-in-cypurs-fr-family-reunification/), [Companies of Foreign Interests](https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/companies-of-foreign-interests/), [Digital Nomad](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/) — Migration Department

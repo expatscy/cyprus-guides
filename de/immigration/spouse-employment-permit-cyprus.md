@@ -1,9 +1,9 @@
 ---
 slug: "spouse-employment-permit-cyprus"
 title: "Spouse Employment Zypern: Arbeit"
-description: "Arbeitserlaubnis für Ehepartner von BCS-Inhabern in Zypern: Mindestgehalt, Einschränkungen, eigenes Unternehmen, Ablauf der Beantragung."
+description: "Spouse Employment für Ehepartner von CFI-Mitarbeitern in Zypern: Familienvoraussetzungen, Lohnregeln, Antragsunterlagen, Verlängerung, Selbstständigkeitsverbot und Bedingungen für die Staatsbürgerschaft."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-10-21
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -16,215 +16,121 @@ draft: false
 translationKey: "spouse-employment-kipr-rabota-suprugov"
 faqSchema:
   - question: "Kann mein Ehepartner auf Zypern arbeiten, wenn ich ein BCS-Visum habe?"
-    answer: "Ja, über den Status Spouse Employment. Voraussetzungen: Mindestgehalt €1.000/Monat, Arbeitsvertrag mit einem zyprischen Unternehmen, Antrag über den Arbeitgeber beim Deputy Ministry of Migration. Selbstständigkeit ist NICHT erlaubt — nur Anstellung."
+    answer: "Die veröffentlichte Familienzusammenführungspolitik gibt einem berechtigten Ehepartner oder eingetragenen Partner eines Mitarbeiters einer Gesellschaft ausländischer Interessen (CFI) Zugang zu abhängiger Beschäftigung ohne vom Department of Labour gesiegelten Vertrag, unter den gesetzlichen Bedingungen der Single Permit. Für andere Sponsoren und Familienkategorien gelten andere Regeln; die Ehe allein begründet keine Arbeitserlaubnis."
   - question: "Kann der Ehepartner eines BCS-Inhabers ein Unternehmen gründen?"
-    answer: "Ja, aber nur als Arbeitnehmer des eigenen Unternehmens — nicht als Selbstständiger. Schema: Unternehmen registrieren, sich selbst als Mitarbeiter einstellen (Mindestgehalt €1.000), Spouse Employment-Genehmigung beantragen. Nur Geschäftsführer ohne Gehalt zu sein reicht NICHT aus."
+    answer: "Die Kategorie Spouse Employment für CFI-Ehepartner gibt keinen Zugang zur Selbstständigkeit. Eine Unternehmensgründung oder ein an sich selbst gezahltes Gehalt gilt nicht als Erlaubnis für die geplante Tätigkeit. Lassen Sie Aufgaben, Arbeitgeber und den passenden Aufenthaltsweg prüfen; Ehepartner in anderen Kategorien, etwa Familienangehörige von langfristig Aufenthaltsberechtigten oder ICT-Mitarbeitern, haben andere Rechte."
 ---
-> **Kurzantwort:** Ehepartner von Arbeitsvisum-Inhabern koennen eine eigene Arbeitserlaubnis beantragen. Gebunden an einen bestimmten Arbeitgeber.
+> **Kurzantwort:** Prüfen Sie die tatsächliche Familienkategorie, die Arbeitserlaubnis und die Lohnregeln. Für einen berechtigten Ehepartner oder eingetragenen Partner eines Mitarbeiters einer Gesellschaft ausländischer Interessen (CFI, in der Community meist „BCS") erlaubt die veröffentlichte Politik abhängige Beschäftigung unter den Bedingungen der Single Permit und schließt Selbstständigkeit aus. Sie begründet weder ein universelles Gehalt von 1.000 EUR noch eine Bearbeitungszusage von vier bis sechs Wochen.
 
-Ehepartner von BCS-Arbeitsvisa-Inhabern möchten häufig ebenfalls in Zypern arbeiten. Dies ist über den Status **Spouse Employment** möglich -- allerdings mit wichtigen Einschränkungen. Wer aus Deutschland auswandert, sollte beachten: Die Beantragung läuft ausschließlich über den zyprischen Arbeitgeber, nicht über die Ausländerbehörde wie in Deutschland.
+Die unten verlinkten Primärquellen wurden am **3. Oktober 2026** geprüft. Dieser Leitfaden betrifft den Beschäftigungsweg über Familienzusammenführung bei Gesellschaften ausländischer Interessen; nutzen Sie die aktuelle Checkliste für Ihren Antragstyp.
 
-> **Offizielle Quellen:**
-> - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — Unternehmen ausländischer Interessen (BCS)
-> - [Department of Labour](https://www.gov.cy/mlsi/dl/en/) — Arbeitsministerium
-> - [Employment Guide](https://www.gov.cy/mlsi/en/) — Ministerium für Arbeit
+## Was erlaubt der Beschäftigungsweg für Familienangehörige?
 
-## Was ist die Spouse Employment Permit?
+Die [Familienzusammenführungspolitik des Migration Department](https://www.gov.cy/mip-md/en/documents/family-members-of-certain-third-country-nationals-that-are-legally-residing-in-cypurs-fr-family-reunification/) besagt, dass berechtigte Ehepartner und eingetragene Partner von CFI-Mitarbeitern freien Zugang zu **abhängiger Beschäftigung** in einem zyprischen Unternehmen haben, ohne vom Department of Labour gesiegelten Vertrag, sofern die Bedingungen der Single Permit erfüllt sind. **Zugang zur Selbstständigkeit besteht in dieser Kategorie nicht.**
 
-### Definition
+Das unterscheidet sich von Ehepartnern und Partnern langfristig Aufenthaltsberechtigter und unternehmensintern transferierter Arbeitnehmer (ICT), deren genannter freier Arbeitsmarktzugang Selbstständigkeit einschließt. [Rechte von EU-Familienangehörigen](/de/immigration/eu-citizen-spouse-cyprus-yellow-slip/) folgen eigenen Regeln. Übertragen Sie die CFI-Einschränkung nicht auf jeden Ehepartner in Zypern.
 
-**Spouse Employment** — eine Arbeitserlaubnis für den Ehepartner eines Mitarbeiters mit Arbeitsvisum (BCS/High-Skill).
+Die [Leitlinie zu Familienangehörigen von CFI-Mitarbeitern](https://www.gov.cy/mip-md/en/documents/family-members-of-third-country-nationals-employed-at-companies-of-foreign-interests/) unterscheidet außerdem die Familienzusammenführung vom abhängigen Besucheraufenthalt für Familienangehörige, die die Zusammenführungsbedingungen vorübergehend nicht erfüllen. Klären Sie den Weg, bevor Sie zu arbeiten beginnen.
 
-### Was es bietet
+## Welche Bedingungen gelten für Familie und Sponsor?
 
-- Recht auf **offizielle Arbeit** in Zypern
-- Möglichkeit, ein **Gehalt** von einem zyprischen Arbeitgeber zu erhalten
-- Zugang zum **GESY** (zyprisches Gesundheitssystem -- vergleichbar mit der deutschen GKV, aber beitragsfinanziert über Social Insurance)
-- **Sozialabgaben und Rentenansprüche** (wichtig: prüfen Sie, ob ein Doppelbesteuerungsabkommen (DBA) Ihre deutsche Rentenanwartschaft betrifft)
+Die Familienzusammenführungspolitik nennt für den gewöhnlichen Ehepartner ein **Mindestalter von 21 Jahren** und eine Ehe, die **mindestens ein Jahr vor Antragstellung** geschlossen wurde, sowie weitere Sponsor- und Dokumentbedingungen. Die Bedingungen und Nachweise für eingetragene Partner sind gesondert zu klären.
 
-## Welche Anforderungen gelten?
+Zu den allgemeinen Sponsorbedingungen gehören mindestens **zwei Jahre rechtmäßiger Aufenthalt**, eine Erlaubnis mit mindestens **einem Jahr** Gültigkeit und eine begründete Aussicht auf Daueraufenthalt. Es gibt Ausnahmen. Insbesondere kann der Director auf den zweijährigen Voraufenthalt verzichten, wenn der Sponsor bei einem Unternehmen beschäftigt ist, das zur Einstellung ausländischen Personals zugelassen ist; für ICT- und Forscherfälle sind Ausnahmen gesondert geregelt.
 
-### Mindestgehalt
+Ein Wechsel der Beschäftigung oder des Status des Sponsors erfordert eine Prüfung; nehmen Sie nicht an, dass die Familienerlaubnis automatisch endet. Das [Ausländer- und Einwanderungsgesetz, Abschnitte 18ΛΕ und 18ΛΣΤ](https://www.cylaw.org/nomoi/enop/non-ind/0_105/full.html), regelt Fälle eines eigenständigen Aufenthaltsrechts sowie die Bedingungen für Ablehnung, Entzug oder Nichtverlängerung. Lassen Sie die tatsächliche Erlaubnis, die Familiensituation und ein mögliches eigenständiges Recht prüfen, bevor Sie sich auf den Fortbestand des Aufenthalts verlassen.
 
-- **1.000 €/Monat** (brutto)
-- **Teilzeitarbeit** möglich, aber das Gehalt darf nicht unter dem Minimum liegen
+## Welches Gehalt und welche Beschäftigungsunterlagen sind erforderlich?
 
-### Arbeitgeber
+### Lohnregeln
 
-- Arbeit bei **jedem zyprischen Unternehmen** möglich
-- Muss kein BCS-Unternehmen sein
-- Die Beantragung wird vom **Arbeitgeber** initiiert
+Die [aktuell verlinkte Checkliste zur Familienzusammenführung](https://www.gov.cy/app/uploads/sites/174/2025/12/FAMILY-REUNIFICATION-SUPPORTING-DOCUMENTS_15-3-2024-1_new.doc) enthält eigene Abschnitte **Spouse Employment**. Sie verlangen einen Arbeitsvertrag und die Einhaltung des **Mindestlohns nach dem einschlägigen Ministerialerlass**. Ein universelles Minimum von 1.000 EUR nennen sie nicht.
 
-### Status des Hauptantragstellers
+Die [FAQ der Abteilung für Arbeitsbeziehungen zum nationalen Mindestlohnerlass](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04) nennt für einen erfassten Vollzeitbeschäftigten **979 EUR brutto monatlich vor Ablauf von sechs Monaten beim selben Arbeitgeber** und **1.088 EUR danach**, ab 1. Januar 2026. Hausangestellte, Beschäftigte in Landwirtschaft und Viehzucht, Seeleute und Beschäftigte unter dem separaten Hotelerlass sind von diesem nationalen Erlass ausgenommen. Die Arbeitszeit richtet sich nach der anwendbaren Vereinbarung. Prüfen Sie Branche, Vertrag und Arbeitszeit, statt anzunehmen, dass dieselbe Monatsuntergrenze für jede Teilzeitregelung gilt.
 
-- Der Ehepartner muss einen **gültigen BCS/High-Skill-Aufenthalt** haben
-- Bei Jobverlust des Ehepartners ist auch der Spouse-Employment-Status gefährdet
+### Unterlagen für den Erstantrag
 
-## Wie läuft die Beantragung ab?
+Folgen Sie dem passenden Checklistenabschnitt für Einreise/ersten Aufenthalt oder ersten Aufenthalt nach rechtmäßiger Einreise. Die Anforderungen für Spouse Employment umfassen:
 
-### Wer initiiert
+- Das Begleitdokument zum Antragstyp, die anwendbaren Pass-/Einreisenachweise und eine beglaubigte Heiratsurkunde. Die Passbedingung lautet **sechs Monate über die Gültigkeit der beantragten Erlaubnis hinaus**, bei einer genannten Mindestrestgültigkeit von **neun Monaten**; das Original wird im angegebenen Abschnitt zur Prüfung vorgelegt.
+- Den Wohnungsnachweis des Sponsors und seinen Arbeitsvertrag, **unbefristet oder mindestens achtzehn Monate ab Antragstellung** in der Erstantragsphase.
+- Den unterschriebenen Arbeitsvertrag des Ehepartners, **Original plus zwei Kopien**, und bei reglementierten Berufen die entsprechenden Nachweise.
+- Die genannten Führungszeugnisse und medizinischen Unterlagen, Steuer-/Sozialversicherungsnachweise des Sponsors, Einkommens-/Kontoauszüge, Versorgerrechnungen und weitere anwendbare Dokumente.
+- Die aufgeführte Bankgarantie mit länderabhängigem Betrag und Bedingungen.
+- Eine automatisch verlängerbare **Plan-A-Versicherung** für Sponsor und Ehepartner, die stationäre und ambulante Behandlung sowie die Überführung sterblicher Überreste abdeckt, **oder GESY-Registrierungsbescheinigungen plus eine private Versicherung für die Überführung**, wie in der Checkliste angegeben.
 
-Der **Arbeitgeber** reicht die Dokumente für die Beantragung von Spouse Employment ein.
+Dies ist eine Zusammenfassung, keine vollständige Liste. Nutzen Sie die [Formulare und die vollständige Checkliste](https://www.gov.cy/mip-md/en/documents/family-members-family-reunification-fr/) für den genauen Antragstyp und die Anzahl der Kopien.
 
-### Dokumente
+Die älteren Formulierungen der Checkliste zu Stempelgebühr und Beglaubigung sind mit den geltenden Ausnahmen zu lesen: Die [Stempelgebühr wurde zum 1. Januar 2026 abgeschafft](https://www.gov.cy/mof-tax/documents/chartosima/), während für Dokumente, die bis zum 31. Dezember 2025 erstellt und von mindestens einer Partei unterzeichnet wurden, die bisherigen Regeln gelten. Für bestimmte erfasste öffentliche EU-Urkunden gibt es [Ausnahmen von der Apostille](https://www.gov.cy/mjpo/en/exemption-of-certain-public-documents-from-the-apostille-requirement-according-to-regulation-eu-2016-1191/). Prüfen Sie Ausstellungsland, Anwendungsbereich und die aktuellen Beglaubigungsanforderungen des Dokuments.
 
-- Arbeitsvertrag
-- Dokumente des Ehepartners mit BCS
-- Heiratsurkunde
-- Reisepass und Aufenthaltserlaubnis des Antragstellers
+## Wer stellt den Antrag, was kostet er und wie lange dauert es?
 
-### Fristen
+[Abschnitt 18ΛΑ](https://www.cylaw.org/nomoi/enop/non-ind/0_105/full.html) regelt den **Antrag des Sponsors auf Familienzusammenführung**. Die Normalregel betrifft Familienangehörige im Ausland; der Director kann in den genannten Fällen einen Antrag aus dem Inland annehmen, unter anderem bei einem zugelassenen Arbeitgeber für ausländisches Personal. Betrachten Sie das Angebot eines Arbeitgebers allein nicht als vollständigen Familienantrag.
 
-Aus der Praxis:
+Das [veröffentlichte Verfahren](https://www.gov.cy/mip-md/en/documents/procedure-for-application-submission-for-entry-and-residence-and-processing-time/) verweist Anträge auf Einreise, Aufenthalt und Beschäftigung im Rahmen der Familienzusammenführung an die Zentrale des Department in Nikosia, mit den erforderlichen Unterlagen und Gebühren. Es verlangt biometrische Daten und eine Unterschrift unter Vorlage der Quittung und eines gültigen Reisedokuments; die Erfassung kann bei der Einreichung oder kurz danach bei der Einwanderungsstelle der Bezirkspolizei erfolgen.
 
-- **2–3 Monate** — durchschnittliche Bearbeitungszeit
-- In einigen Regionen (Larnaka, Paphos) — **länger**
+Die veröffentlichten Gebühren für die Familienzusammenführung betragen **200 EUR** für die Erteilung von Einreise/Aufenthalt, die Erteilung des Aufenthalts, die Verlängerung oder die Verlängerung wegen Arbeitgeberwechsels des Mitarbeiters, je nach Fall. **70 EUR für die erstmalige Eintragung ins Ausländerregister** kommen hinzu, soweit anwendbar. Kosten für Dokumente, Versicherung und optionale Dienstleister sind gesondert; holen Sie konkrete Angebote ein.
 
-### Kosten
+### Veröffentlichte Bearbeitungsfristen und gesetzliche Ausnahmen
 
-- Verwaltungsgebühr — gering
-- Anwalts-/Beraterkosten: **300–500 €** (nicht erforderlich)
+Das Verwaltungsverfahren nennt **neun Monate** für ordnungsgemäß vervollständigte Anträge bzw. **neunzig Tage für ICT-/Forscherfälle**; unzureichende Angaben verlängern die Prüfung.
 
-## Welche Einschränkungen gibt es?
+Das Gesetz unterscheidet:
 
-### Keine Selbstständigkeit
+- **Abschnitt 18ΛΑ(5):** schriftliche Mitteilung so bald wie möglich und spätestens **neun Monate** nach Antragstellung.
+- **Abschnitt 18ΛΑ(5A):** eine **Fünfmonatsfrist** für Entscheidungen, bei denen das genannte Ermessen ausgeübt wird, einen Antrag aus dem Inland anzunehmen oder auf den zweijährigen Voraufenthalt des Sponsors zu verzichten.
+- **Abschnitt 18ΛΑ(6):** eine ausnahmsweise Verlängerung der Frist nach Absatz (5) um **drei Monate** in komplexen Fällen, mit Information des Antragstellers.
 
-**Wichtigste Einschränkung:** Ehepartner von BCS-Inhabern dürfen **nicht selbstständig arbeiten**:
+Wenden Sie die Regel auf den tatsächlichen Antrag an; eine Verwaltungszusammenfassung oder ein Community-Durchschnitt ersetzt keine gesetzliche Ausnahme und verspricht keine Genehmigung bis zu einem bestimmten Reisedatum.
 
-- Kein **Einzelunternehmen** (Gewerbe)
-- Keine **Dienstleistungen auf eigene Rechnung** in Zypern
-- Nur **Anstellung** per Arbeitsvertrag
+## Wie wechsle ich vom Besucherstatus, verlängere oder wechsle den Arbeitgeber?
 
-Aus Erfahrungsberichten:
+Die vollständige Checkliste enthält einen eigenen Abschnitt für **einen Ehepartner, der zuvor Besucher im Rahmen der Familienzusammenführung war**. Dessen Existenz bedeutet nicht, dass jede Art der Besucherzulassung die Bedingungen der Familienzusammenführung erfüllt. Klären Sie den bestehenden Status und die Berechtigung, bevor Sie einreichen oder arbeiten.
 
-> „Anderweitig dürfen Sie in Zypern weder arbeiten noch Dienstleistungen erbringen — Sie benötigen ausdrücklich die Spouse Employment."
+Die Checkliste hat außerdem separate Abschnitte für die **Verlängerung** und die **Verlängerung wegen Arbeitgeberwechsels**. Letzterer verlangt unter anderem den neuen Arbeitsvertrag des Ehepartners und ein **Kündigungsschreiben des bisherigen Arbeitgebers**. Nutzen Sie diese Liste, statt einen Jobwechsel als Erlaubnis für selbstständige Arbeit zu betrachten.
 
-### Bindung an einen bestimmten Arbeitgeber
+Die Familienzusammenführungspolitik beschreibt die Online-Verlängerung **90 bis 30 Tage vor Ablauf** über ein verifiziertes CY-Login-Konto. Die erste Familienaufenthaltserlaubnis gilt in der Regel **ein Jahr**, ist verlängerbar und nicht länger gültig als die Erlaubnis des Sponsors; für ICT-/Forscherfamilien sind die Laufzeiten gesondert geregelt. Verfolgen Sie das Ablaufdatum jeder tatsächlichen Karte, statt anzunehmen, dass alle Familienverlängerungen gleichzeitig erfolgen müssen.
 
-Spouse Employment berechtigt zur Arbeit **bei einem bestimmten Unternehmen**:
+## Darf ich über mein eigenes Unternehmen arbeiten?
 
-- Bei Arbeitgeberwechsel — **Neubeantragung**
-- Einfach kündigen und „auf eigene Rechnung" arbeiten — geht nicht
+Der veröffentlichte Ausschluss der Selbstständigkeit für die CFI-Ehepartnerkategorie ist einzuhalten. Ein Unternehmen zu gründen, sich selbst zum Geschäftsführer zu ernennen oder sich ein Gehalt zu zahlen belegt für sich genommen nicht, dass die geplante Tätigkeit die Bedingungen der Single Permit und des Familienwegs erfüllt.
 
-## Darf ich im eigenen Unternehmen arbeiten?
+Lassen Sie Aufgaben, Eigentumsverhältnisse, Arbeitgeberbeziehung und Aufenthaltserlaubnisse prüfen, bevor Sie tätig werden. Ein Erfahrungsbericht aus der Community über eine Selbstanstellung ist weder eine Genehmigung Ihres Antrags noch eine allgemeine Regel, die jede unbezahlte Geschäftsführung verbietet.
 
-### Ist das möglich?
+## Was gilt für Gesundheitsversorgung, Staatsbürgerschaft und Reisen?
 
-Ja, **mit Einschränkungen**:
+### Gesundheitsversorgung und Beiträge
 
-1. Der Ehepartner kann ein **Unternehmen gründen**
-2. **Spouse Employment** in diesem Unternehmen beantragen
-3. Sich selbst als **Mitarbeiter einstellen**
-4. Sich ein **Gehalt ab 1.000 €** zahlen
+Prüfen Sie die [Leistungsberechtigtenkategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) nach Staatsangehörigkeit, gewöhnlichem Aufenthalt und Rechtsstatus. Eine Arbeitserlaubnis allein klärt den Anspruch auf Gesundheitsversorgung nicht. Die [Beitragspflicht](https://www.gesy.org.cy/en-us/hiofinancing) ist eine getrennte Frage; betrachten Sie einen Beitrag nicht als Nachweis eines Anspruchs und leiten Sie aus dem Namen der Erlaubnis keinen Rentenanspruch ab.
 
-### Nicht erlaubt
+Die Plan-A-/GESY-Alternativen der Familiencheckliste sind Anforderungen an die Antragsunterlagen. Klären Sie, welcher Versicherungsnachweis für Sponsor und Ehepartner gilt.
 
-- Nur **Geschäftsführer ohne Gehalt** zu sein — das ist nicht gestattet
-- Es muss eine tatsächliche **Anstellung** mit Gehalt vorliegen
+### Staatsbürgerschaft
 
-> „Geschäftsführer ohne Gehalt nach Erklärung/Schreiben zu sein — ist nicht erlaubt."
+Die [M127-Leitlinie](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/) besagt, dass berechtigte Familienangehörige einer Person im Weg für hochqualifizierte Fachkräfte **gemeinsam mit dieser Person oder danach** beantragen können und dabei ihre eigenen Aufenthalts- und Sprachanforderungen erfüllen müssen. Auch die qualifizierende Unternehmensbeschäftigung des Hauptantragstellers und die übrigen Bedingungen des Wegs sind zu prüfen. Für den Griechischnachweis gibt es festgelegte Ausnahmen bei griechischsprachiger Schulbildung.
 
-### Mindestkosten
-
-Bei Arbeit über das eigene Unternehmen:
-
-- **Gehalt** an sich selbst: 1.000 €/Monat
-- **Lohnnebenkosten**: ca. 300 €/Monat
-- **Unternehmensunterhalt**: ab 2.000 €/Jahr
-
-## Wie wechsle ich vom Besucherstatus?
-
-Eine ausführliche Übersicht aller möglichen Statuswechsel finden Sie unter [Wechsel des Aufenthaltstitels in Zypern](/de/immigration/switching-visa-types-cyprus/).
-
-### Ablauf
-
-Wenn der Ehepartner derzeit eine **[Visitor Spouse Permit](/de/immigration/visitor-permit-cyprus/)** hat:
-
-1. Arbeitgeber finden
-2. Arbeitgeber beantragt **Spouse Employment**
-3. Statuswechsel bei der Migrationsbehörde
-
-### Bearbeitungszeit für den Statuswechsel
-
-- Anwälte nennen **2–3 Monate**
-- In der Praxis kann es **länger** dauern
-
-## Wie wirkt sich das auf die Staatsbürgerschaft aus?
-
-### Wird die Zeit angerechnet
-
-Aus Erfahrungsberichten:
-
-- Die Zeit mit **Spouse Employment** wird auf die Gesamtaufenthaltsdauer angerechnet
-- Für den Fast-Track sind die **letzten 2 Jahre im BCS-Status** entscheidend — das betrifft den Hauptantragsteller
-
-### Beantragung der Staatsbürgerschaft
-
-Der Ehepartner mit Spouse Employment kann die [zyprische Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/) beantragen:
-
-- **Gemeinsam** mit dem Hauptantragsteller
-- Oder **danach** (nicht vorher)
-- Anforderungen an Prüfungen und Fristen sind **identisch** -- einschließlich der [Griechisch-Prüfung](/de/immigration/greek-language-exam-citizenship/)
+Die Bezeichnung der Arbeitserlaubnis allein klärt weder den qualifizierenden Aufenthalt noch verleiht sie die Staatsbürgerschaft. Siehe den [Leitfaden zur Staatsbürgerschaft für Hochqualifizierte](/de/immigration/cyprus-citizenship-naturalization/) und den [Leitfaden zur Griechisch-Prüfung](/de/immigration/greek-language-exam-citizenship/).
 
 > **Hinweis für Deutsche:** Die Annahme der zyprischen Staatsbürgerschaft bedeutet keinen automatischen Verlust der deutschen -- Deutschland erlaubt Mehrstaatlichkeit bei EU-Bürgerschaften.
 
-## Wie verlängere ich den Status?
+### Reisen, während die Karte in Bearbeitung ist
 
-### Bei Verlängerung der Aufenthaltserlaubnis des Ehepartners
+Fragen Sie vor der Buchung beim Migration Department, welche Dokumente und welche Wiedereinreiseerlaubnis für Ihren tatsächlichen Status und den laufenden Antrag gelten. Prüfen Sie den Wortlaut der Quittung, die Passgültigkeit und die Anforderungen des Zielorts. Leiten Sie kein unbedingtes Recht auf Wiedereinreise aus der Äußerung eines nicht genannten Anwalts oder aus der Quittung eines anderen Antrags ab.
 
-Wenn der Ehepartner sein BCS verlängert:
+## Praktische Prüfungen
 
-- Die Aufenthaltserlaubnis des Ehepartners (Spouse Employment) muss ebenfalls verlängert werden
-- Wird in der Regel **gleichzeitig** erledigt
-- Die neue Karte kann **für denselben Zeitraum** wie die des Ehepartners ausgestellt werden
+1. Klären Sie den Familienweg und den Status des Sponsors, bevor Sie eine Stelle annehmen.
+2. Prüfen Sie den anwendbaren Mindestlohnerlass, die Arbeitszeit und den Vertrag.
+3. Nutzen Sie die Checkliste für Erstantrag, Wechsel vom Besucherstatus, Verlängerung oder Arbeitgeberwechsel.
+4. Gleichen Sie Selbstständigkeit und Aufgaben im Unternehmen mit der tatsächlichen Erlaubnis ab.
+5. Bewahren Sie datierte Dokumente, Quittungen, Ablaufdaten und Reisebestätigungen auf.
 
-### Bei Arbeitgeberwechsel
+## Häufig gestellte Fragen
 
-Bei einem Arbeitsplatzwechsel:
+### Kann mein Ehepartner auf Zypern arbeiten, wenn ich ein BCS-Visum habe?
 
-- **Neubeantragung** von Spouse Employment beim neuen Arbeitgeber erforderlich
-- Der Anwalt oder Arbeitgeber reicht die Dokumente ein
+Die veröffentlichte Familienzusammenführungspolitik gibt einem berechtigten Ehepartner oder eingetragenen Partner eines Mitarbeiters einer Gesellschaft ausländischer Interessen (CFI) Zugang zu abhängiger Beschäftigung ohne vom Department of Labour gesiegelten Vertrag, unter den gesetzlichen Bedingungen der Single Permit. Für andere Sponsoren und Familienkategorien gelten andere Regeln; die Ehe allein begründet keine Arbeitserlaubnis.
 
-## Was gilt für Aus- und Einreise?
+### Kann der Ehepartner eines BCS-Inhabers ein Unternehmen gründen?
 
-### Mit Receipt
-
-Während Sie auf die neue Karte warten:
-
-- Ein- und Ausreise **mit Receipt** möglich
-- **Re-entry**-Markierung erforderlich
-- Original-Receipt — unbedingt erforderlich
-
-### Risiken
-
-> „Der Anwalt sagte, man könne mit dem Receipt der letzten Antragstellung ausreisen. Klingt etwas fantastisch, wenn man bedenkt, wie die Dinge in Zypern laufen."
-
-## Welche praktischen Tipps gibt es?
-
-1. **Finden Sie einen Arbeitgeber** — das ist die Hauptvoraussetzung
-2. **Prüfen Sie das Mindestgehalt** — 1.000 € brutto
-3. **Rechnen Sie nicht mit Selbstständigkeit** — das ist untersagt
-4. **Eigenes Unternehmen ist möglich** — aber nur mit vollständiger Anstellung
-5. **Bewahren Sie alle Receipts auf** — für die Ein-/Ausreise
-
-## Was sollte ich noch lesen?
-
-- [Aufenthaltserlaubnis](/de/immigration/residence-permit-cyprus-guide/) — alle Aufenthaltstypen im Vergleich
-- [Statuswechsel](/de/immigration/switching-visa-types-cyprus/) — vom Besucher zur Arbeit, Spouse zu Employment
-- [Visitor Permit](/de/immigration/visitor-permit-cyprus/) — falls Ihr Ehepartner noch im Besucherstatus ist
-- [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/) — Einbürgerung nach 7 Jahren
-- [Griechisch-Prüfung](/de/immigration/greek-language-exam-citizenship/) — Vorbereitung auf die Einbürgerung
-- [Digital Nomad Visum](/de/immigration/digital-nomad-visum-zypern/) — Alternative bei Fernarbeit
-- [Auswandern nach Zypern](/de/immigration/auswandern-nach-zypern-leitfaden/) — der komplette Leitfaden
-
----
-
-Spouse Employment ist der einzige legale Weg für Ehepartner von BCS-Inhabern, in Zypern zu arbeiten. Die Einschränkungen sind erheblich, aber es gibt keine Alternativen.
-
----
-
-## Quellen
-
-- [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [Department of Labour](https://www.gov.cy/mlsi/dl/en/) — gov.cy
-- [Employment Guide](https://www.gov.cy/mlsi/en/) — gov.cy
+Die Kategorie Spouse Employment für CFI-Ehepartner gibt keinen Zugang zur Selbstständigkeit. Eine Unternehmensgründung oder ein an sich selbst gezahltes Gehalt gilt nicht als Erlaubnis für die geplante Tätigkeit. Lassen Sie Aufgaben, Arbeitgeber und den passenden Aufenthaltsweg prüfen; Ehepartner in anderen Kategorien, etwa Familienangehörige von langfristig Aufenthaltsberechtigten oder ICT-Mitarbeitern, haben andere Rechte.

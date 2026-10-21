@@ -3,7 +3,7 @@ slug: "cost-of-living-cyprus-complete-guide"
 title: "تكلفة المعيشة في قبرص حسب المدينة"
 description: "كم تكلفة المعيشة في قبرص: الإيجار، البقالة، الخدمات، المواصلات، الرعاية الصحية. ميزانية شهرية للفرد والعائلة حسب المدينة."
 date: 2026-02-22
-updated: 2026-03-11
+updated: 2026-10-21
 category: "الحياة"
 author: "Expats Cyprus"
 tags:
@@ -125,8 +125,8 @@ translationKey: "stoimost-zhizni-kipr-polnaya-raskladka"
 
 | البند | التكلفة |
 |-------|---------|
-| بنزين (1 لتر) | €1.35–1.45 |
-| تعبئة خزان كامل (50 لتر) | €68–73 |
+| بنزين (1 لتر) | €1.60–1.80 |
+| تعبئة خزان كامل (50 لتر) | €80–90 |
 | حافلة (تذكرة واحدة) | €2.40 |
 | حافلة (تعرفة ليلية) | €4.00 |
 | حافلة (تذكرة يومية) | €6.50 |
@@ -261,3 +261,9 @@ translationKey: "stoimost-zhizni-kipr-polnaya-raskladka"
 
 - [Eurostat — Comparative Price Levels](https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind/default/table?lang=en) — European Commission
 - [CyStat — Consumer Price Index](https://www.cystat.gov.cy/en/SubthemeStatistics?id=41) — gov.cy
+- [Eurostat — مستويات الأسعار المقارنة للأغذية والمشروبات والتبغ](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Comparative_price_levels_for_food,_beverages_and_tobacco) — بيانات مستويات الأسعار 2025، نُشرت في يونيو 2026
+- [وزارة الزراعة القبرصية — e-kofini](https://www.moa.gov.cy/moa/da/da.nsf/ekofini_en/ekofini_en?opendocument=) — أسعار المنتجين والتجزئة للفواكه والخضروات المحلية
+- [RICS/KPMG Cyprus Property Index 2026Q1](https://assets.kpmg.com/content/dam/kpmgsites/cy/pdf/2026/rics-kpmg-index-2026q1.pdf) — مصدر اتجاهات سوق الإيجار
+- [Index.cy — الإيجار طويل الأمد في قبرص](https://index.cy/articles/long-term-rent-cyprus-guide/) — نطاقات الإيجار المطلوبة 2026 حسب المنطقة
+- [research.cy — حاسبة تكلفة المعيشة](https://research.cy/cost-of-living/) — حاسبة تفاعلية حسب المدينة
+- [research.cy — البحث عن العقارات](https://research.cy/search/) — مقارنة أسعار العقارات في جميع المناطق
