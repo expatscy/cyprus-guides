@@ -152,4 +152,4 @@ translationKey: "ipoteka-v-rossii-kak-platit-s-kipra"
 
 **إخلاء مسؤولية:** هذه مادة معلوماتية وليست استشارة قانونية أو مالية. استشر محامياً متخصصاً في قانون العقوبات وAML قبل اختيار طريقة التحويل.
 
-أسئلة حول التحويلات والرهن العقاري — في <a href="https://t.me/expatscy" target="_blank" rel="noopener noreferrer">قناتنا على تيليغرام</a>.
+أسئلة حول التحويلات والرهن العقاري — في <a href="https://t.me/expatscy" target="_blank" rel="noopener">قناتنا على تيليغرام</a>.

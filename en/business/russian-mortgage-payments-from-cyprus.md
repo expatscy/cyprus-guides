@@ -139,7 +139,7 @@ This article covers the situation and risks. Specific steps, risk matrix for eac
 
 **Disclaimer:** This is an informational article, not legal or financial advice. Before choosing a transfer method, consult a lawyer specialising in sanctions and AML law. Sanctions regimes change — verify current information.
 
-Questions about transfers and mortgages — join our <a href="https://t.me/expatscy" target="_blank" rel="noopener noreferrer">Telegram channel</a>.
+Questions about transfers and mortgages — join our <a href="https://t.me/expatscy" target="_blank" rel="noopener">Telegram channel</a>.
 
 ---
 

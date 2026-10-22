@@ -158,4 +158,4 @@ Wenn die Mittel ausreichen, ist die vorzeitige Tilgung die sauberste Lösung. Ba
 
 **Hinweis:** Dies ist ein Informationsartikel, keine Rechts- oder Finanzberatung. Konsultieren Sie vor der Wahl einer Transfermethode einen auf Sanktionsrecht und AML spezialisierten Anwalt. Sanktionsregime ändern sich — prüfen Sie die Aktualität der Informationen.
 
-Fragen zu Überweisungen und Hypotheken — in unserem <a href="https://t.me/expatscy" target="_blank" rel="noopener noreferrer">Telegram-Kanal</a>.
+Fragen zu Überweisungen und Hypotheken — in unserem <a href="https://t.me/expatscy" target="_blank" rel="noopener">Telegram-Kanal</a>.

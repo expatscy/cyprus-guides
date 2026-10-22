@@ -152,4 +152,4 @@ translationKey: "ipoteka-v-rossii-kak-platit-s-kipra"
 
 **הצהרה:** זהו מאמר מידעי בלבד, אינו ייעוץ משפטי או פיננסי. התייעצו עם עורך דין המתמחה בדיני סנקציות ו-AML לפני בחירת שיטת העברה.
 
-שאלות על העברות ומשכנתאות — ב<a href="https://t.me/expatscy" target="_blank" rel="noopener noreferrer">ערוץ הטלגרם שלנו</a>.
+שאלות על העברות ומשכנתאות — ב<a href="https://t.me/expatscy" target="_blank" rel="noopener">ערוץ הטלגרם שלנו</a>.
