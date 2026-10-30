@@ -196,7 +196,7 @@ faqSchema:
 
 Читайте также: [Стоимость жизни на Кипре — полная раскладка](/ru/life/stoimost-zhizni-kipr-polnaya-raskladka/) | [Переезд на Кипр — полный гид](/ru/immigration/pereezd-na-kipr-polnyy-gid/)
 
-Остались вопросы? Задайте их в нашем сообществе: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Остались вопросы? Задайте их в нашем сообществе: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

@@ -222,7 +222,7 @@ Ja. Öffentlicher Nahverkehr beschränkt sich auf Buslinien. Es gibt kein U-Bahn
 **Wie hoch sind die Stromkosten im Sommer?**
 Juli–August: €150–250/Monat bei Klimaanlagennutzung (85 m² Wohnung). Inverter-Geräte sparen bis zu 40 %. Im Winter: €50–80 (kein Heizbedarf).
 
-Fragen? Treten Sie unserer Community bei: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Fragen? Treten Sie unserer Community bei: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

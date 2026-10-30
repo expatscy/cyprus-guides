@@ -161,7 +161,7 @@ SWIFT-переводы из **санкционных банков** (Сберб�
 
 ---
 
-Вопросы? Задайте в сообществе: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Вопросы? Задайте в сообществе: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

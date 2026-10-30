@@ -198,7 +198,7 @@ Average 6–12 months. Limassol is faster (3–6 months for liquid properties). 
 
 ---
 
-Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

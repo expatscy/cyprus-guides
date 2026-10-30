@@ -302,7 +302,7 @@ translationKey: "mezhdunarodnye-shkoly-kipr-po-gorodam"
 
 ---
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 لمزيد من المعلومات: [المدارس الخاصة](/ar/life/schools-cyprus-comparison/) · [المدارس في قبرص](/ar/life/schools-education-cyprus/) · [تكلفة المعيشة](/ar/life/cost-of-living-cyprus-complete-guide/).
 

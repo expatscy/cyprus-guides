@@ -177,7 +177,7 @@ Die ersten 90 Tage sind der schwierigste Teil jeder Auswanderung. Danach wird al
 
 ---
 
-Fragen? Fragen Sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Fragen? Fragen Sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

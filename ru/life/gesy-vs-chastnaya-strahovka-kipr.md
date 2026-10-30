@@ -234,7 +234,7 @@ GeSY запускалась поэтапно: амбулаторные услу�
 
 ---
 
-Остались вопросы? Задайте их в нашем сообществе: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Остались вопросы? Задайте их в нашем сообществе: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

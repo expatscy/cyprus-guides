@@ -202,7 +202,7 @@ Für die meisten deutschen Auswanderer mit Unternehmen oder IT-Einkommen bietet 
 
 ---
 
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 Weiterführende Informationen: [Auswandern nach Zypern](/de/immigration/auswandern-nach-zypern-leitfaden/) · [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/) · [Lebenshaltungskosten](/de/life/lebenshaltungskosten-zypern-leitfaden/).
 

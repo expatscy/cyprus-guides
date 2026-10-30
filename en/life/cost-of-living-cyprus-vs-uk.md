@@ -218,7 +218,7 @@ A car. If you currently live in London without one, add €200–350/month for r
 
 ---
 
-Have questions? Join our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Have questions? Join our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

@@ -200,7 +200,7 @@ translationKey: "voditelskie-prava-kipr-obmen-poluchenie"
 
 ---
 
-יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 
 ## נקודות עיקריות

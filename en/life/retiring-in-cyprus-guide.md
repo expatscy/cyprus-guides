@@ -144,7 +144,7 @@ Try the locations, transport routes and healthcare arrangements you expect to us
 - [Driving license exchange](/en/life/driving-license-cyprus/) — getting mobile in Cyprus
 - [Learning Greek](/en/life/learning-greek-language-cyprus/) — courses and resources
 
-Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

@@ -179,7 +179,7 @@ faqSchema:
 
 ---
 
-Есть вопрос? Спрашивайте в нашем сообществе: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Есть вопрос? Спрашивайте в нашем сообществе: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

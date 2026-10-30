@@ -200,7 +200,7 @@ translationKey: "sravnenie-kipr-malta-portugaliya"
 
 ---
 
-יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 למידע נוסף: [רילוקיישן לקפריסין](/he/immigration/moving-to-cyprus-complete-guide/) · [מיסים בקפריסין](/he/business/taxes-cyprus-gesy-deductions/) · [מעמד Non-dom](/he/business/non-dom-status-cyprus-60-day-rule/).
 

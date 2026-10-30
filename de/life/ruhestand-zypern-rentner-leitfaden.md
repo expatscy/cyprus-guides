@@ -268,7 +268,7 @@ Zypern bietet eines der vorteilhaftesten Steuersysteme Europas für Rentner: 5 %
 - [Führerschein umtauschen](/de/life/driving-license-cyprus/) — mobil auf Zypern
 - [Griechisch lernen](/de/life/learning-greek-language-cyprus/) — Kurse und Ressourcen
 
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

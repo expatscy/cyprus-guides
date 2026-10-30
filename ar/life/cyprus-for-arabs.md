@@ -178,7 +178,7 @@ faqSchema:
 
 ---
 
-أسئلة؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+أسئلة؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

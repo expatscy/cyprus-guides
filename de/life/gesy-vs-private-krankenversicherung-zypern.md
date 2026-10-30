@@ -231,7 +231,7 @@ Das [Gesundheitssystem auf Zypern](/de/life/healthcare-cyprus-gesy/) ist ein fun
 
 ---
 
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 Weiterführende Informationen: [Sozialversicherung](/de/business/social-insurance-cyprus-pension/) · [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/) · [Migrationsuntersuchungen](/de/life/medical-clinics-immigration/).
 

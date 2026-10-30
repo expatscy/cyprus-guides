@@ -220,7 +220,7 @@ Das Gesundheitswesen auf Zypern besteht aus zwei parallelen Systemen: GESY für 
 
 ---
 
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

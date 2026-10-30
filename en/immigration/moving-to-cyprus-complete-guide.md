@@ -224,4 +224,4 @@ The digital-nomad scheme covers qualifying non-EU/non-EEA workers with an employ
 
 The ordinary residence route requires seven qualifying years in the ten-year period before a separate final twelve months of continuous lawful residence, with the law's permitted absences. B1 Greek or a recognised Greek-medium education exemption, good character, knowledge of Cyprus and other statutory conditions also apply. Completing a residence period does not guarantee approval or a processing time.
 
-Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy).
+Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330).

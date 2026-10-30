@@ -300,7 +300,7 @@ Die Schulwahl ist eine der wichtigsten Entscheidungen beim Umzug mit Kindern. Wi
 
 ---
 
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 Weiterführende Informationen: [Privatschulen](/de/life/schools-cyprus-comparison/) · [Lebenshaltungskosten](/de/life/lebenshaltungskosten-zypern-leitfaden/) · [Paphos-Guide](/de/life/paphos-stadtteile-guide-2026/).
 

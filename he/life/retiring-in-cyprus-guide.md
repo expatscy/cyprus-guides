@@ -252,7 +252,7 @@ translationKey: "pensiya-na-kipre-dlya-pensionerov"
 - [רישיון נהיגה](/he/life/driving-license-cyprus/) — המרה ונהיגה בקפריסין
 - [לימוד יוונית](/he/life/learning-greek-language-cyprus/) — קורסים ומשאבים
 
-יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

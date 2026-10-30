@@ -194,7 +194,7 @@ The first 90 days are the hardest part of any relocation. Everything after that 
 
 ---
 
-Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

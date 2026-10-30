@@ -95,7 +95,7 @@ faqSchema:
 
 - [جميع فيديوهات القناة](/ar/videos/)
 - [من نحن](/ar/about/)
-- [🔔 اشترك في القناة](https://www.youtube.com/@expatscy?sub_confirmation=1)
+- [🔔 اشترك في القناة](https://www.youtube.com/channel/UCGc9vkLbBMhIimSSaywxH9A?sub_confirmation=1)
 
 ---
 

@@ -233,7 +233,7 @@ GeSY הושקה בשלבים: שירותים אמבולטוריים מיוני 2
 
 ---
 
-יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 למידע נוסף: [ביטוח לאומי](/he/business/social-insurance-cyprus-pension/) · [מיסים בקפריסין](/he/business/taxes-cyprus-gesy-deductions/) · [בדיקות הגירה](/he/life/medical-clinics-immigration/).
 

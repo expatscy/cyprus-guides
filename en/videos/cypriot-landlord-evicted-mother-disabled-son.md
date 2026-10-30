@@ -99,7 +99,7 @@ For an existing dispute, obtain advice before deciding to withhold rent, use the
 
 - [All channel videos](/en/videos/)
 - [About us](/en/about/)
-- [🔔 Subscribe to the channel](https://www.youtube.com/@expatscy?sub_confirmation=1)
+- [🔔 Subscribe to the channel](https://www.youtube.com/channel/UCGc9vkLbBMhIimSSaywxH9A?sub_confirmation=1)
 
 ---
 

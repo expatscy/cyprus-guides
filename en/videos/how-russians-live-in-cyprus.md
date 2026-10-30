@@ -97,7 +97,7 @@ Use the interview to identify questions about your own move, healthcare and chil
 - [Moving to Cyprus](/en/immigration/moving-to-cyprus-complete-guide/)
 - [All channel videos](/en/videos/)
 - [About us](/en/about/)
-- [Subscribe to the channel](https://www.youtube.com/@expatscy?sub_confirmation=1)
+- [Subscribe to the channel](https://www.youtube.com/channel/UCGc9vkLbBMhIimSSaywxH9A?sub_confirmation=1)
 
 ## Sources
 

@@ -202,7 +202,7 @@ Zypern wird sich nicht für Sie ändern. Die Siesta bleibt. Behörden schließen
 
 ---
 
-Haben Sie Fragen? Fragen Sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Haben Sie Fragen? Fragen Sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

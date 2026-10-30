@@ -248,7 +248,7 @@ faqSchema:
 **هل أحتاج معرفة اليونانية لإدارة أعمال؟**
 لا — الإنجليزية تكفي لمعظم المعاملات التجارية. المعاملات الحكومية باليونانية لكن المحامي أو المستشار يتولاها.
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

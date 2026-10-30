@@ -195,7 +195,7 @@ translationKey: "bezopasnost-kipr-uroven-prestupnosti"
 
 اقرأ أيضاً: [تكلفة المعيشة في قبرص — دليل شامل](/ar/life/cost-of-living-cyprus-complete-guide/) | [دليل الانتقال إلى قبرص](/ar/immigration/moving-to-cyprus-complete-guide/)
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

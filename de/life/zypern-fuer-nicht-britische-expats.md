@@ -191,7 +191,7 @@ Zypern ist für Deutsche ein attraktives Auswanderungsziel: EU-Mitglied, günsti
 
 ---
 
-Fragen? In unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Fragen? In unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

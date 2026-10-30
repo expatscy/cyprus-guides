@@ -198,7 +198,7 @@ Cyprus is a genuinely welcoming place for English speakers of all nationalities 
 
 ---
 
-Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

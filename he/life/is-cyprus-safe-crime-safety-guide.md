@@ -195,7 +195,7 @@ translationKey: "bezopasnost-kipr-uroven-prestupnosti"
 
 ראו גם: [יוקר המחיה בקפריסין — מדריך מלא](/he/life/cost-of-living-cyprus-complete-guide/) | [רילוקיישן לקפריסין — המדריך המלא](/he/immigration/moving-to-cyprus-complete-guide/)
 
-יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

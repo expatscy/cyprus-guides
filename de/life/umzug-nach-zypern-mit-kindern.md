@@ -162,7 +162,7 @@ Kinder passen sich erfahrungsgemäß schneller an als Erwachsene. Die Kombinatio
 
 ---
 
-Fragen? Unsere Community hilft: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Fragen? Unsere Community hilft: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

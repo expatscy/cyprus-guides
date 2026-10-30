@@ -99,7 +99,7 @@ faqSchema:
 
 - [כל סרטוני הערוץ](/he/videos/)
 - [אודותינו](/he/about/)
-- [🔔 הירשמו לערוץ](https://www.youtube.com/@expatscy?sub_confirmation=1)
+- [🔔 הירשמו לערוץ](https://www.youtube.com/channel/UCGc9vkLbBMhIimSSaywxH9A?sub_confirmation=1)
 
 ---
 

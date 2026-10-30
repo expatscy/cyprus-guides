@@ -193,7 +193,7 @@ Treffen Sie die üblichen Vorsichtsmaßnahmen, gewöhnen Sie sich an den Linksve
 
 Lesen Sie auch: [Lebenshaltungskosten auf Zypern](/de/life/lebenshaltungskosten-zypern-leitfaden/) | [Auswandern nach Zypern — Kompletter Leitfaden](/de/immigration/auswandern-nach-zypern-leitfaden/)
 
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

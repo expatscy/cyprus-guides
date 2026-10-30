@@ -197,7 +197,7 @@ translationKey: "culture-shock-cyprus"
 
 ---
 
-لديك سؤال؟ اسأل في مجتمعنا: [تلغرام](https://t.me/expatscy) | [فيسبوك](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [تلغرام](https://t.me/expatscy) | [فيسبوك](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

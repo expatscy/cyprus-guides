@@ -215,7 +215,7 @@ faqSchema:
 **هل الحلال متوفر في قبرص؟**
 نعم — مطاعم ومحلات حلال في معظم المدن. لارنكا ونيقوسيا فيهما أكبر تركيز.
 
-أسئلة؟ انضموا إلى مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+أسئلة؟ انضموا إلى مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

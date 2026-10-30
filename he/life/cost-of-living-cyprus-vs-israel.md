@@ -209,7 +209,7 @@ faqSchema:
 **כמה טיסות יש ביום מתל אביב?**
 טיסות יומיות של Ryanair, Wizz Air ו-El Al. זמן טיסה: שעה. מחירים: €30–150 לכיוון.
 
-שאלות? הצטרפו לקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+שאלות? הצטרפו לקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

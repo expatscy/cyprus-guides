@@ -214,7 +214,7 @@ translationKey: "meditsina-kipr-gesy-chastnaya"
 
 ---
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

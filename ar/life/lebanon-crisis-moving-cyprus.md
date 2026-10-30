@@ -216,7 +216,7 @@ faqSchema:
 **هل يمكنني تحويل أموال من لبنان إلى قبرص؟**
 حسابات "Fresh Money" فقط (أموال أُودعت بعد 2019) قابلة للتحويل. الودائع القديمة مجمّدة فعلياً. التفاصيل: [تحويل الأموال من لبنان](/ar/business/money-transfer-lebanon-cyprus/).
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

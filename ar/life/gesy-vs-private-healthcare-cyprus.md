@@ -233,7 +233,7 @@ translationKey: "gesy-vs-chastnaya-strahovka-kipr"
 
 ---
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 لمزيد من المعلومات: [التأمين الاجتماعي](/ar/business/social-insurance-cyprus-pension/) · [الضرائب في قبرص](/ar/business/taxes-cyprus-gesy-deductions/) · [فحوصات الهجرة](/ar/life/medical-clinics-immigration/).
 

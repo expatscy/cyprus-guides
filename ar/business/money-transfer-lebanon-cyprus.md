@@ -219,7 +219,7 @@ faqSchema:
 **هل العملات المشفرة حل عملي؟**
 ممكن لكن محفوف بالمخاطر: عمولات في كل مرحلة (3–6% إجمالي)، وبعض البنوك القبرصية ترفض إيداعات من بورصات كريبتو. تحقق من سياسة Alpha Bank Cyprus الحالية بعد انتقال عمليات AstroBank.
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

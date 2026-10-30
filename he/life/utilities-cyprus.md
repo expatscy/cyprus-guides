@@ -203,7 +203,7 @@ translationKey: "kommunalka-voda-elektrichestvo-kipr"
 
 ---
 
-יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+יש לך שאלה? שאלו בקהילה שלנו: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 
 ## איך חוסכים בחשמל עם פאנלים סולאריים בקפריסין?

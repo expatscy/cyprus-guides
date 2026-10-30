@@ -211,7 +211,7 @@ Zypern bietet eine hervorragende Hochschulbildung in Europa: erschwingliche Stud
 
 ---
 
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 Weiterführende Informationen: [Aufenthaltsgenehmigung](/de/immigration/residence-permit-cyprus-guide/) · [Schulen auf Zypern](/de/life/schools-education-cyprus/) · [Lebenshaltungskosten](/de/life/lebenshaltungskosten-zypern-leitfaden/).
 

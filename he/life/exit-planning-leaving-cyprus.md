@@ -177,7 +177,7 @@ translationKey: "exit-planning-cyprus"
 
 ---
 
-יש שאלות? שאלו בקהילה שלנו: [טלגרם](https://t.me/expatscy) | [פייסבוק](https://www.facebook.com/expatscy)
+יש שאלות? שאלו בקהילה שלנו: [טלגרם](https://t.me/expatscy) | [פייסבוק](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

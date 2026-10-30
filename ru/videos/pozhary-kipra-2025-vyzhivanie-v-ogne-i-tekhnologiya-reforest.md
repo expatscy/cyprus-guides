@@ -410,7 +410,7 @@ faqSchema:
 
 - [Все видео канала](/ru/videos/)
 - [О нас](/ru/about/)
-- [🔔 Подписаться на канал](https://www.youtube.com/@expatscy?sub_confirmation=1)
+- [🔔 Подписаться на канал](https://www.youtube.com/channel/UCGc9vkLbBMhIimSSaywxH9A?sub_confirmation=1)
 
 ---
 

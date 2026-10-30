@@ -101,7 +101,7 @@ Watch the interview for the guest’s experience and project discussion. For fur
 
 - [All channel videos](/en/videos/)
 - [About us](/en/about/)
-- [🔔 Subscribe to the channel](https://www.youtube.com/@expatscy?sub_confirmation=1)
+- [🔔 Subscribe to the channel](https://www.youtube.com/channel/UCGc9vkLbBMhIimSSaywxH9A?sub_confirmation=1)
 
 ---
 

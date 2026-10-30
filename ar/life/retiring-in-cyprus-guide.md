@@ -232,7 +232,7 @@ translationKey: "pensiya-na-kipre-dlya-pensionerov"
 - [رخصة القيادة](/ar/life/driving-license-cyprus/) — التنقل في قبرص
 - [تعلم اليونانية](/ar/life/learning-greek-language-cyprus/) — الدورات والموارد
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 ---
 

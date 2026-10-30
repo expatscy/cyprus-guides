@@ -223,7 +223,7 @@ translationKey: "ucheba-na-kipre-universitety"
 
 ---
 
-لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/expatscy)
+لديك سؤال؟ اسأل في مجتمعنا: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
 لمزيد من المعلومات: [تصاريح الإقامة](/ar/immigration/residence-permit-cyprus-guide/) · [المدارس في قبرص](/ar/life/schools-education-cyprus/) · [تكلفة المعيشة](/ar/life/cost-of-living-cyprus-complete-guide/).
 
