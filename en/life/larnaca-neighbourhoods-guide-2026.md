@@ -344,4 +344,4 @@ For more on living in Cyprus, see our [cost of living guide](/en/life/cost-of-li
 
 ## Sources
 
-- [General Healthcare System (GeSY)](https://www.gesy.org.cy/sites/Sites/en-US/default.aspx) — GeSY
+- [General Healthcare System (GeSY)](https://www.gesy.org.cy/) — GeSY

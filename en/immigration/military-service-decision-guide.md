@@ -72,6 +72,8 @@ But if you have **sons**, citizenship comes with an obligation to do military se
 | Women | **24 months** |
 | Reserves | **up to age 40+** |
 
+Source: in July 2026 the Knesset kept men's mandatory service at 32 months, with a cut to 30 months from June 2029 ([Times of Israel](https://www.timesofisrael.com/liveblog_entry/knesset-votes-43-12-to-extend-mandatory-idf-service-for-males-to-32-months/), checked 7 November 2026).
+
 ### The key differences
 
 - **Reserve service** — after regular service you remain a reservist under the National Guard Law; ask the recruitment office how often reservists are called up

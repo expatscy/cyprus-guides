@@ -221,7 +221,7 @@ faqSchema:
 
 ## المصادر
 
-- [دائرة الضرائب — وزارة المالية](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [دائرة الضرائب — وزارة المالية](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [الجمارك القبرصية — مراقبة النقد عند الدخول والخروج](https://www.mof.gov.cy/mof/customs/customs.nsf/All/AC17588A160C442BC2258725003108F9?OpenDocument) — gov.cy، تم التحقق في 2026-11-07
 - [اللائحة (EU) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj/eng) — EUR-Lex
 - [مصرف لبنان — التعاميم الأساسية](https://www.bdl.gov.lb/basiccirculars.php) — تم التحقق في 2026-11-07

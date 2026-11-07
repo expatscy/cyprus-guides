@@ -221,7 +221,7 @@ Haben Sie eine Frage? Fragen Sie in unserer Community: [Telegram](https://t.me/e
 
 ## Quellen
 
-- [Steuerabteilung — Finanzministerium](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Steuerabteilung — Finanzministerium](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Zoll Zypern — Barmittelkontrolle bei Ein- und Ausreise](https://www.mof.gov.cy/mof/customs/customs.nsf/All/AC17588A160C442BC2258725003108F9?OpenDocument) — gov.cy, geprüft am 2026-11-07
 - [Verordnung (EU) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj/deu) — EUR-Lex
 - [Banque du Liban — Basic Circulars](https://www.bdl.gov.lb/basiccirculars.php) — geprüft am 2026-11-07

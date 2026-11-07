@@ -154,7 +154,7 @@ Fragen zu Überweisungen und Hypotheken — in unserem <a href="https://t.me/exp
 
 ## Quellen
 
-- [Steuerbehörde — Finanzministerium Zypern](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Steuerbehörde — Finanzministerium Zypern](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Handelsregister (Registrar of Companies)](https://www.companies.gov.cy/en/) — gov.cy
 - [eResidency Kasachstan](https://eresidency.gov.kz/en) — offizielles Programmportal
 - [EU Sanctions Map](https://www.sanctionsmap.eu/) — aktuelle EU-Sanktionsübersicht

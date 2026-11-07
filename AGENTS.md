@@ -14,7 +14,7 @@ The editorial guides of [expats.cy](https://expats.cy) about living in Cyprus, i
 3. **Set `updated:`** in the header to today's date (`YYYY-MM-DD`) whenever you change a fact.
 4. **Write original text.** Don't copy from other websites; CC BY-SA 4.0 content from elsewhere (e.g. Wikipedia) may be adapted only with attribution in the pull request.
 5. **No personal data** about private individuals. Public institutions and businesses' official contacts are fine.
-6. **No advertising, affiliate or referral links.**
+6. **No third-party advertising, affiliate or referral links.** Links to expats.cy's own products (e.g. [research.cy](https://research.cy), [tools.expats.cy](https://tools.expats.cy)) are allowed.
 7. **Disclose AI help** in the pull request description (e.g. "Drafted with Claude, facts checked against the linked sources").
 
 ## File format

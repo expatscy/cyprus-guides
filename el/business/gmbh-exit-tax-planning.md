@@ -202,7 +202,7 @@ faqSchema:
 
 ## Πηγές
 
-- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.gov.cy/mof-tax/) — gov.cy
 - [§ 6 AStG](https://www.gesetze-im-internet.de/astg/__6.html) και [§ 21 AStG](https://www.gesetze-im-internet.de/astg/__21.html) — φόρος εξόδου, δόσεις, κανόνας επιστροφής, παλιές περιπτώσεις· ελέγχθηκε 07.11.2026
 - [§ 17 EStG](https://www.gesetze-im-internet.de/estg/__17.html), [§ 3 EStG (αρ. 40)](https://www.gesetze-im-internet.de/estg/__3.html), [§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), [§ 32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html) — όριο 1 %, φορολογητέο 60 %, κλίμακα 2026, φόρος 25 % στα μερίσματα· ελέγχθηκε 07.11.2026
 - [§ 4 SolzG 1995](https://www.gesetze-im-internet.de/solzg_1995/__4.html) — εισφορά αλληλεγγύης 5,5 %· ελέγχθηκε 07.11.2026

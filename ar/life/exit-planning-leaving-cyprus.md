@@ -30,10 +30,10 @@ translationKey: "exit-planning-cyprus"
 هذا الدليل يشرح كيف تغادر قبرص بشكل منظم: بدون ديون ضريبية، ودائع ضائعة، أو تأشيرات منتهية الصلاحية.
 
 > **المصادر:**
-> - [دائرة الضرائب القبرصية](https://www.gov.cy/mof/tax/) — إبراء ضريبي، ضريبة الدخل
+> - [دائرة الضرائب القبرصية](https://www.gov.cy/mof-tax/en/) — إبراء ضريبي، ضريبة الدخل
 > - [إدارة الهجرة](https://www.gov.cy/mip-md/en/) — إلغاء تصريح الإقامة
 > - [GeSY / OAYY](https://www.gesy.org.cy/) — اشتراكات الرعاية الصحية
-> - [خدمات التأمين الاجتماعي](https://www.gov.cy/mlsi/sid/) — سجل الاشتراكات
+> - [خدمات التأمين الاجتماعي](https://www.gov.cy/mlsi/en/social-insurance-services/) — سجل الاشتراكات
 
 ## متى يجب التفكير بمغادرة قبرص؟
 
@@ -70,7 +70,7 @@ translationKey: "exit-planning-cyprus"
 
 - قدّم الإقرار الضريبي (TD1) قبل 31 يوليو من السنة التالية
 - تأكد من عدم وجود متأخرات ضريبية أو اشتراكات GeSY
-- اطلب شهادة إبراء ضريبي من [دائرة الضرائب](https://www.gov.cy/mof/tax/)
+- اطلب شهادة إبراء ضريبي من [دائرة الضرائب](https://www.gov.cy/mof-tax/en/)
 
 **مهم:** إذا أمضيت 183 يوماً أو أكثر في قبرص خلال السنة الضريبية (أو 60 يوماً بموجب "قاعدة الـ60 يوماً")، تُعتبر مقيماً ضريبياً للسنة كاملة. خطط لتاريخ مغادرتك وفقاً لذلك.
 
@@ -86,7 +86,7 @@ translationKey: "exit-planning-cyprus"
 
 ### التأمين الاجتماعي
 
-المدفوعات لا تُسترد، لكنها تُحفظ. فترات التأمين في قبرص تُحتسب للمعاش التقاعدي بموجب أنظمة الاتحاد الأوروبي (EC 883/2004). اطلب وثيقة U1 من [خدمات التأمين الاجتماعي](https://www.gov.cy/mlsi/sid/).
+المدفوعات لا تُسترد، لكنها تُحفظ. فترات التأمين في قبرص تُحتسب للمعاش التقاعدي بموجب أنظمة الاتحاد الأوروبي (EC 883/2004). اطلب وثيقة U1 من [خدمات التأمين الاجتماعي](https://www.gov.cy/mlsi/en/social-insurance-services/).
 
 ## كيف تلغي تصريح الإقامة في قبرص بشكل صحيح؟
 
@@ -180,8 +180,8 @@ translationKey: "exit-planning-cyprus"
 
 ## المصادر
 
-- [Cyprus Tax Department](https://www.gov.cy/mof/tax/) — gov.cy
+- [Cyprus Tax Department](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Migration Department](https://www.gov.cy/mip-md/en/) — gov.cy
 - [GeSY / OAYY](https://www.gesy.org.cy/) — GeSY
-- [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — gov.cy
+- [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — gov.cy
 - [Ministry of Justice](https://www.gov.cy/mjpo/en/) — gov.cy

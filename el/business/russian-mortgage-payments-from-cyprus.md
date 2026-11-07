@@ -143,6 +143,6 @@ faqSchema:
 
 ## Πηγές
 
-- [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Tax Department — Ministry of Finance](https://www.gov.cy/mof-tax/) — gov.cy
 - [Profee](https://www.profee.com/) — επίσημη ιστοσελίδα της υπηρεσίας, ελέγχθηκε 2026-11-07
 - [Registrar of Companies](https://www.companies.gov.cy/en/) — gov.cy

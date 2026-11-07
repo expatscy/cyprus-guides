@@ -245,6 +245,6 @@ faqSchema:
 
 ## Πηγές
 
-- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.gov.cy/mof-tax/) — gov.cy
 
 [Σύμβαση: άρθρα 17, 18 και 22](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA-Gesetz.pdf?__blob=publicationFile&v=1)

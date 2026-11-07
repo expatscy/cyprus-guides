@@ -33,10 +33,10 @@ faqSchema:
 Эта статья — про то, как уехать грамотно: без налоговых хвостов, потерянных депозитов и просроченных документов.
 
 > **Источники:**
-> - [Налоговый департамент Кипра](https://www.gov.cy/mof/tax/) — tax clearance, подоходный налог
+> - [Налоговый департамент Кипра](https://www.gov.cy/mof-tax/en/) — tax clearance, подоходный налог
 > - [Deputy Ministry of Migration and International Protection](https://www.gov.cy/mip-md/en/) — аннулирование ВНЖ
 > - [GeSY / ΟΑYY](https://www.gesy.org.cy/) — прекращение взносов
-> - [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — информация о взносах
+> - [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — информация о взносах
 
 ## Какие признаки указывают на то, что стоит уехать?
 
@@ -73,7 +73,7 @@ faqSchema:
 
 - Подайте декларацию за текущий год (TD1 для физлиц) до 31 июля следующего года
 - Убедитесь, что нет задолженности по подоходному налогу и взносам GeSY
-- Запросите Tax Clearance Certificate в [Налоговом департаменте](https://www.gov.cy/mof/tax/) — пригодится для новой страны
+- Запросите Tax Clearance Certificate в [Налоговом департаменте](https://www.gov.cy/mof-tax/en/) — пригодится для новой страны
 
 **Важно:** если вы провели на Кипре 183+ дней в налоговом году (или 60 дней по правилу «60 дней»), вы считаетесь налоговым резидентом за весь год. Планируйте дату отъезда с учётом этого.
 
@@ -83,7 +83,7 @@ faqSchema:
 
 ### Социальное страхование
 
-Взносы в Social Insurance не возвращаются, но сохраняются. Если вы работали на Кипре и платили взносы — они учтутся при расчёте пенсии по правилам ЕС (регламент EC 883/2004). Запросите документ U1 (подтверждение стажа) в [Social Insurance Services](https://www.gov.cy/mlsi/sid/).
+Взносы в Social Insurance не возвращаются, но сохраняются. Если вы работали на Кипре и платили взносы — они учтутся при расчёте пенсии по правилам ЕС (регламент EC 883/2004). Запросите документ U1 (подтверждение стажа) в [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/).
 
 ## Как аннулировать ВНЖ и налоговое резидентство?
 
@@ -201,8 +201,8 @@ faqSchema:
 
 ## Источники
 
-- [Налоговый департамент Кипра](https://www.gov.cy/mof/tax/) — gov.cy
+- [Налоговый департамент Кипра](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Deputy Ministry of Migration and International Protection](https://www.gov.cy/mip-md/en/) — gov.cy
 - [GeSY / ΟΑYY](https://www.gesy.org.cy/) — GeSY
-- [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — gov.cy
+- [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — gov.cy
 - [Министерстве юстиции](https://www.gov.cy/mjpo/en/) — gov.cy

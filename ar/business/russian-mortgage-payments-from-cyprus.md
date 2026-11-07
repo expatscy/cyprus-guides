@@ -154,7 +154,7 @@ translationKey: "ipoteka-v-rossii-kak-platit-s-kipra"
 
 ## المصادر
 
-- [دائرة الضرائب — وزارة المالية](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [دائرة الضرائب — وزارة المالية](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [مسجل الشركات](https://www.companies.gov.cy/en/) — gov.cy
 - [eResidency Kazakhstan](https://eresidency.gov.kz/en) — البوابة الرسمية للإقامة الرقمية
 - [EU Sanctions Map](https://www.sanctionsmap.eu/) — خريطة العقوبات الأوروبية الحالية

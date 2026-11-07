@@ -202,7 +202,7 @@ The tax office uses the market value (gemeiner Wert) on the day of departure. Me
 
 ## Sources
 
-- [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Tax Department — Ministry of Finance](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [§ 6 AStG](https://www.gesetze-im-internet.de/astg/__6.html) and [§ 21 AStG](https://www.gesetze-im-internet.de/astg/__21.html) — exit tax, instalments, return rule, old cases; checked 2026-11-07
 - [§ 17 EStG](https://www.gesetze-im-internet.de/estg/__17.html), [§ 3 EStG (No. 40)](https://www.gesetze-im-internet.de/estg/__3.html), [§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), [§ 32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html) — 1% threshold, 60% taxable portion, 2026 tariff, 25% flat tax on dividends; checked 2026-11-07
 - [§ 4 SolzG 1995](https://www.gesetze-im-internet.de/solzg_1995/__4.html) — 5.5% solidarity surcharge; checked 2026-11-07

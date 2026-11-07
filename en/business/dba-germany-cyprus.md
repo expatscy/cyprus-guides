@@ -245,6 +245,6 @@ In principle Germany taxes them. Civil servant pensions fall under the paying-st
 
 ## Sources
 
-- [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Tax Department — Ministry of Finance](https://www.gov.cy/mof-tax/en/) — gov.cy
 
 [Treaty: Articles 17, 18 and 22](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA-Gesetz.pdf?__blob=publicationFile&v=1)

@@ -221,7 +221,7 @@ faqSchema:
 
 ## Источники
 
-- [Налоговый департамент — Министерство финансов](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Налоговый департамент — Министерство финансов](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Таможня Кипра — контроль ввоза и вывоза наличных](https://www.mof.gov.cy/mof/customs/customs.nsf/All/AC17588A160C442BC2258725003108F9?OpenDocument) — gov.cy, проверено 2026-11-07
 - [Регламент (ЕС) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj/eng) — EUR-Lex
 - [Banque du Liban — базовые циркуляры](https://www.bdl.gov.lb/basiccirculars.php) — проверено 2026-11-07

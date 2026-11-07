@@ -344,4 +344,4 @@ faqSchema:
 
 ## Πηγές
 
-- [General Healthcare System (GeSY)](https://www.gesy.org.cy/sites/Sites/en-US/default.aspx) — GeSY
+- [General Healthcare System (GeSY)](https://www.gesy.org.cy/) — GeSY

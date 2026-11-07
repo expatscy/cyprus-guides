@@ -446,5 +446,5 @@ The coworking market in Cyprus has grown significantly over the past three years
 
 ## Sources
 
-- [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Tax Department — Ministry of Finance](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Registrar of Companies](https://www.companies.gov.cy/en/) — gov.cy

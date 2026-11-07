@@ -221,7 +221,7 @@ faqSchema:
 
 ## מקורות
 
-- [רשות המסים — משרד האוצר](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [רשות המסים — משרד האוצר](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [המכס של קפריסין — פיקוח על מזומנים בכניסה וביציאה](https://www.mof.gov.cy/mof/customs/customs.nsf/All/AC17588A160C442BC2258725003108F9?OpenDocument) — gov.cy, נבדק 2026-11-07
 - [תקנה (EU) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj/eng) — EUR-Lex
 - [Banque du Liban — חוזרי יסוד](https://www.bdl.gov.lb/basiccirculars.php) — נבדק 2026-11-07

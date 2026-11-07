@@ -245,6 +245,6 @@ faqSchema:
 
 ## מקורות
 
-- [רשות המסים — משרד האוצר](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [רשות המסים — משרד האוצר](https://www.gov.cy/mof-tax/en/) — gov.cy
 
 [האמנה: סעיפים 17, 18 ו-22](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA-Gesetz.pdf?__blob=publicationFile&v=1)

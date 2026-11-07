@@ -72,6 +72,8 @@ Wenn Sie aber **Söhne** haben, bringt die Staatsbürgerschaft die Pflicht zum W
 | Frauen | **24 Monate** |
 | Reserve | **bis 40 Jahre und älter** |
 
+Quelle: Im Juli 2026 hat die Knesset den Pflichtdienst für Männer bei 32 Monaten belassen, mit Verkürzung auf 30 Monate ab Juni 2029 ([Times of Israel](https://www.timesofisrael.com/liveblog_entry/knesset-votes-43-12-to-extend-mandatory-idf-service-for-males-to-32-months/), geprüft am 7. November 2026).
+
 ### Die wesentlichen Unterschiede
 
 - **Reserve** — nach dem regulären Dienst bleiben Sie laut Gesetz Reservist; wie oft Reservisten einberufen werden, erfahren Sie beim Rekrutierungsbüro

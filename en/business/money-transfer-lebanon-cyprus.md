@@ -221,7 +221,7 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 
 ## Sources
 
-- [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Tax Department — Ministry of Finance](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Cyprus Customs — incoming/outgoing cash control](https://www.mof.gov.cy/mof/customs/customs.nsf/All/AC17588A160C442BC2258725003108F9?OpenDocument) — gov.cy, checked 2026-11-07
 - [Regulation (EU) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj/eng) — EUR-Lex
 - [Banque du Liban — Basic Circulars](https://www.bdl.gov.lb/basiccirculars.php) — checked 2026-11-07

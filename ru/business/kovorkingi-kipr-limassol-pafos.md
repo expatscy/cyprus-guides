@@ -446,5 +446,5 @@ faqSchema:
 
 ## Источники
 
-- [Налоговый департамент — Министерство финансов](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Налоговый департамент — Министерство финансов](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Регистратор компаний](https://www.companies.gov.cy/en/) — gov.cy

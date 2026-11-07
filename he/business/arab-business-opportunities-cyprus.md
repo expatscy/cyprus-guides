@@ -31,7 +31,7 @@ faqSchema:
 
 > **מקורות רשמיים:**
 > - [רשם החברות — קפריסין](https://www.gov.cy/mcit/companies/) — רישום חברות
-> - [רשות המסים](https://www.gov.cy/mof/tax/taxdep/) — כללי המס
+> - [רשות המסים](https://www.gov.cy/mof-tax/en/) — כללי המס
 > - [CIPA — הרשות לעידוד השקעות](https://www.investcyprus.org.cy/) — תמריצי השקעה
 > - [לשכת המסחר והתעשייה של קפריסין](https://www.ccci.org.cy/) — נטוורקינג ותמיכה
 
@@ -253,4 +253,4 @@ faqSchema:
 
 ## מקורות
 
-- [רשות המסים — משרד האוצר](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [רשות המסים — משרד האוצר](https://www.gov.cy/mof-tax/en/) — gov.cy

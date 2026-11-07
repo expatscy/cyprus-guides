@@ -59,7 +59,7 @@ faqSchema:
 
 وللتحقق من المستندات، توصي [نشرة DLS للمشترين](https://portal.dls.moi.gov.cy/wp-content/uploads/2022/08/Basic-Information-before-the-Purchase-of-Immovable-Property.pdf) بفحص تسجيل البائع وأعباء العقار والتراخيص ومتطلبات التسجيل. اقرأ [دليل الشراء](/ar/property/buying-property-cyprus-complete-guide-2026/) و[دليل ضرائب العقارات](/ar/property/property-taxes-cyprus-vat-cgt/) قبل إعداد الميزانية.
 
-أكّد سعر أي إعلان وشروطه مع البائع. تعامل مع الإعلان كعرض يستحق التحقق، وليس كدليل على متوسط المنطقة.
+[تصفّح إعلانات العقارات على research.cy](https://research.cy/search/) وأكّد السعر والشروط مع البائع. تعامل مع الإعلان كعرض يستحق التحقق، وليس كدليل على متوسط المنطقة.
 
 ## كيف أقارن عوائد الإيجار؟
 

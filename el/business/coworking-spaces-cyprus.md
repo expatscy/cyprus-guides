@@ -446,5 +446,5 @@ Coworking σε ένα όμορφα ανακαινισμένο κτίριο τη�
 
 ## Πηγές
 
-- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.gov.cy/mof-tax/) — gov.cy
 - [Έφορος Εταιρειών](https://www.companies.gov.cy/en/) — gov.cy

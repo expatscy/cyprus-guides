@@ -143,6 +143,6 @@ Questions about transfers and mortgages — join our <a href="https://t.me/expat
 
 ## Sources
 
-- [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Tax Department — Ministry of Finance](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Registrar of Companies](https://www.companies.gov.cy/en/) — gov.cy
 - [Profee](https://www.profee.com/) — provider's own site, checked 2026-11-07 (transfers to Russia available, restricted for certain Russian banks)

@@ -345,4 +345,4 @@ faqSchema:
 
 ## מקורות
 
-- [מערכת הבריאות הכללית (GeSY)](https://www.gesy.org.cy/sites/Sites/en-US/default.aspx) — GeSY
+- [מערכת הבריאות הכללית (GeSY)](https://www.gesy.org.cy/) — GeSY

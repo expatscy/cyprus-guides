@@ -30,10 +30,10 @@ translationKey: "exit-planning-cyprus"
 המדריך הזה מסביר איך לעזוב את קפריסין בצורה מסודרת: בלי חובות מס, פיקדונות אבודים או אשרות שפג תוקפן.
 
 > **מקורות:**
-> - [מחלקת המסים של קפריסין](https://www.gov.cy/mof/tax/) — אישור מס, מס הכנסה
+> - [מחלקת המסים של קפריסין](https://www.gov.cy/mof-tax/en/) — אישור מס, מס הכנסה
 > - [רשות ההגירה (MIP)](https://www.gov.cy/mip-md/en/) — ביטול אשרת שהייה
 > - [GeSY / OAYY](https://www.gesy.org.cy/) — דמי בריאות
-> - [שירותי ביטוח לאומי](https://www.gov.cy/mlsi/sid/) — רישום תשלומים
+> - [שירותי ביטוח לאומי](https://www.gov.cy/mlsi/en/social-insurance-services/) — רישום תשלומים
 
 ## מתי כדאי לשקול עזיבה מקפריסין?
 
@@ -70,7 +70,7 @@ translationKey: "exit-planning-cyprus"
 
 - הגישו דוח מס (TD1) עד 31 ביולי של השנה הבאה
 - וודאו שאין חוב מס הכנסה או דמי GeSY
-- בקשו Tax Clearance Certificate מ[מחלקת המסים](https://www.gov.cy/mof/tax/)
+- בקשו Tax Clearance Certificate מ[מחלקת המסים](https://www.gov.cy/mof-tax/en/)
 
 **חשוב:** אם שהיתם 183+ ימים בקפריסין בשנת המס (או 60 ימים לפי "כלל 60 הימים"), אתם נחשבים תושבי מס לכל השנה. תכננו את תאריך העזיבה בהתאם.
 
@@ -89,7 +89,7 @@ translationKey: "exit-planning-cyprus"
 
 ### ביטוח לאומי
 
-התשלומים לא מוחזרים, אבל נשמרים. תקופות ביטוח בקפריסין נספרות לפנסיה לפי תקנות האיחוד (EC 883/2004). בקשו מסמך U1 מ[שירותי הביטוח הלאומי](https://www.gov.cy/mlsi/sid/).
+התשלומים לא מוחזרים, אבל נשמרים. תקופות ביטוח בקפריסין נספרות לפנסיה לפי תקנות האיחוד (EC 883/2004). בקשו מסמך U1 מ[שירותי הביטוח הלאומי](https://www.gov.cy/mlsi/en/social-insurance-services/).
 
 ## איך סוגרים אשרת שהייה נכון בקפריסין?
 
@@ -183,8 +183,8 @@ translationKey: "exit-planning-cyprus"
 
 ## מקורות
 
-- [Cyprus Tax Department](https://www.gov.cy/mof/tax/) — gov.cy
+- [Cyprus Tax Department](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Deputy Ministry of Migration and International Protection](https://www.gov.cy/mip-md/en/) — gov.cy
 - [GeSY / OAYY](https://www.gesy.org.cy/) — GeSY
-- [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — gov.cy
+- [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — gov.cy
 - [Ministry of Justice](https://www.gov.cy/mjpo/en/) — gov.cy

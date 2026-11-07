@@ -202,7 +202,7 @@ faqSchema:
 
 ## מקורות
 
-- [מחלקת המסים — משרד האוצר](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [מחלקת המסים — משרד האוצר](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [§ 6 AStG](https://www.gesetze-im-internet.de/astg/__6.html) ו-[§ 21 AStG](https://www.gesetze-im-internet.de/astg/__21.html) — מס יציאה, תשלומים, כלל החזרה, מקרים ישנים; נבדק 07.11.2026
 - [§ 17 EStG](https://www.gesetze-im-internet.de/estg/__17.html), [§ 3 EStG (מס' 40)](https://www.gesetze-im-internet.de/estg/__3.html), [§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), [§ 32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html) — סף 1%, 60% חייבים במס, מדרגות 2026, מס 25% על דיבידנדים; נבדק 07.11.2026
 - [§ 4 SolzG 1995](https://www.gesetze-im-internet.de/solzg_1995/__4.html) — היטל סולידריות 5.5%; נבדק 07.11.2026

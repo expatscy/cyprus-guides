@@ -28,10 +28,10 @@ Niemand wandert nach Zypern aus und denkt dabei ans Zurückkommen. Aber manchmal
 Dieser Artikel erklärt, wie Sie Zypern sauber verlassen: ohne Steuerschulden, verlorene Kautionen oder abgelaufene Aufenthaltsgenehmigungen.
 
 > **Quellen:**
-> - [Cyprus Tax Department](https://www.gov.cy/mof/tax/) — Tax Clearance, Einkommensteuer
+> - [Cyprus Tax Department](https://www.gov.cy/mof-tax/en/) — Tax Clearance, Einkommensteuer
 > - [Migration Department](https://www.gov.cy/mip-md/en/) — Aufenthaltserlaubnis
 > - [GeSY / OAYY](https://www.gesy.org.cy/) — Gesundheitsbeiträge
-> - [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — Sozialversicherung
+> - [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — Sozialversicherung
 > - [DBA Deutschland–Zypern](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA.html) — Doppelbesteuerungsabkommen
 
 ## Wann sollte ich über die Rückkehr nachdenken?
@@ -69,7 +69,7 @@ Zypern besteuert Einkommen für das gesamte Kalenderjahr (Januar–Dezember). We
 
 - Steuererklärung (TD1) bis 31. Juli des Folgejahres einreichen
 - Keine offenen Einkommensteuer- oder GeSY-Schulden
-- Tax Clearance Certificate beim [Tax Department](https://www.gov.cy/mof/tax/) anfordern
+- Tax Clearance Certificate beim [Tax Department](https://www.gov.cy/mof-tax/en/) anfordern
 
 **Wichtig:** Ab 183 Tagen auf Zypern im Steuerjahr (oder 60 Tage nach der „60-Tage-Regel") gelten Sie als steuerlich ansässig für das gesamte Jahr. Planen Sie Ihr Abreisedatum entsprechend.
 
@@ -89,7 +89,7 @@ GeSY-Beiträge enden automatisch mit dem Arbeitsvertrag oder der Deaktivierung d
 
 ### Sozialversicherung
 
-Beiträge werden nicht erstattet, aber bewahrt. Zypriotische Beitragszeiten zählen für die deutsche Rente (EU-Verordnung EC 883/2004). Fordern Sie das Dokument U1 (Beschäftigungsnachweis) bei den [Social Insurance Services](https://www.gov.cy/mlsi/sid/) an.
+Beiträge werden nicht erstattet, aber bewahrt. Zypriotische Beitragszeiten zählen für die deutsche Rente (EU-Verordnung EC 883/2004). Fordern Sie das Dokument U1 (Beschäftigungsnachweis) bei den [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) an.
 
 ## Wie kündige ich meine Aufenthaltserlaubnis?
 
@@ -187,8 +187,8 @@ Fragen? Fragen Sie in unserer Community: [Telegram](https://t.me/expatscy) | [Fa
 
 ## Quellen
 
-- [Cyprus Tax Department](https://www.gov.cy/mof/tax/) — gov.cy
+- [Cyprus Tax Department](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Migration Department](https://www.gov.cy/mip-md/en/) — gov.cy
 - [GeSY / OAYY](https://www.gesy.org.cy/) — GeSY
-- [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — gov.cy
+- [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — gov.cy
 - [Ministry of Justice](https://www.gov.cy/mjpo/en/) — gov.cy

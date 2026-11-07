@@ -59,7 +59,7 @@ Stellen Sie in jedem Bezirk, den Sie erwägen, eine Auswahl zusammen und fordern
 
 Für die Dokumentenprüfung empfiehlt die [DLS-Broschüre für Käufer](https://portal.dls.moi.gov.cy/wp-content/uploads/2022/08/Basic-Information-before-the-Purchase-of-Immovable-Property.pdf), die Registrierung des Verkäufers sowie Belastungen, Genehmigungen und Eintragungsvoraussetzungen des Objekts zu prüfen. Lesen Sie vor der Budgetplanung unseren [Kaufleitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026/) und den [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/).
 
-Lassen Sie Preis und Bedingungen jedes Inserats vom Verkäufer bestätigen. Behandeln Sie ein Inserat als Angebot, das Sie prüfen, und nicht als Beleg für einen Bezirksdurchschnitt.
+[Immobilienangebote auf research.cy ansehen](https://research.cy/search/) und Preis und Bedingungen vom Verkäufer bestätigen lassen. Behandeln Sie ein Inserat als Angebot, das Sie prüfen, und nicht als Beleg für einen Bezirksdurchschnitt.
 
 ## Wie vergleiche ich Mietrenditen?
 

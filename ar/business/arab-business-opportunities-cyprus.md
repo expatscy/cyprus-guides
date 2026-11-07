@@ -31,7 +31,7 @@ faqSchema:
 
 > **المصادر الرسمية:**
 > - [مسجل الشركات — قبرص](https://www.gov.cy/mcit/companies/) — تسجيل الشركات
-> - [دائرة الضرائب](https://www.gov.cy/mof/tax/taxdep/) — القواعد الضريبية
+> - [دائرة الضرائب](https://www.gov.cy/mof-tax/en/) — القواعد الضريبية
 > - [CIPA — وكالة ترويج الاستثمار](https://www.investcyprus.org.cy/) — حوافز الاستثمار
 > - [غرفة التجارة والصناعة القبرصية](https://www.ccci.org.cy/) — التشبيك والدعم
 
@@ -253,4 +253,4 @@ faqSchema:
 
 ## المصادر
 
-- [دائرة الضرائب — وزارة المالية](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [دائرة الضرائب — وزارة المالية](https://www.gov.cy/mof-tax/en/) — gov.cy

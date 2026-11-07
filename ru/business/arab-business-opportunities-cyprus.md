@@ -31,7 +31,7 @@ faqSchema:
 
 > **Официальные источники:**
 > - [Регистратор компаний — Кипр](https://www.gov.cy/mcit/companies/) — регистрация компаний
-> - [Налоговый департамент](https://www.gov.cy/mof/tax/taxdep/) — налоговые правила
+> - [Налоговый департамент](https://www.gov.cy/mof-tax/en/) — налоговые правила
 > - [CIPA — Агентство по привлечению инвестиций](https://www.investcyprus.org.cy/) — инвестиционные стимулы
 > - [Торгово-промышленная палата Кипра](https://www.ccci.org.cy/) — нетворкинг и поддержка
 
@@ -254,4 +254,4 @@ faqSchema:
 
 ## Источники
 
-- [Налоговый департамент — Министерство финансов](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Налоговый департамент — Министерство финансов](https://www.gov.cy/mof-tax/en/) — gov.cy

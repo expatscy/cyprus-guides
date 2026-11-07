@@ -59,7 +59,7 @@ faqSchema:
 
 לבדיקת מסמכים, [חוברת ה-DLS לקונים](https://portal.dls.moi.gov.cy/wp-content/uploads/2022/08/Basic-Information-before-the-Purchase-of-Immovable-Property.pdf) ממליצה לבדוק את רישום המוכר, שעבודים על הנכס, היתרים ודרישות רישום. קראו את [מדריך הקנייה](/he/property/buying-property-cyprus-complete-guide-2026/) ואת [מדריך מיסוי הנדל"ן](/he/property/property-taxes-cyprus-vat-cgt/) לפני תכנון התקציב.
 
-אשרו את המחיר והתנאים של כל מודעה מול המוכר. התייחסו למודעה כהצעה שיש לבדוק, ולא כהוכחה לממוצע מחוזי.
+[עיינו במודעות הנדל״ן ב-research.cy](https://research.cy/search/) ואשרו את המחיר והתנאים מול המוכר. התייחסו למודעה כהצעה שיש לבדוק, ולא כהוכחה לממוצע מחוזי.
 
 ## איך משווים תשואות שכירות?
 

@@ -245,6 +245,6 @@ Grundsätzlich besteuert Deutschland. Beamtenpensionen unterliegen dem Kassensta
 
 ## Quellen
 
-- [Steuerabteilung — Finanzministerium](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Steuerabteilung — Finanzministerium](https://www.gov.cy/mof-tax/en/) — gov.cy
 
 [DBA: Artikel 17, 18 und 22](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA-Gesetz.pdf?__blob=publicationFile&v=1)

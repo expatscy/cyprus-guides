@@ -245,6 +245,6 @@ faqSchema:
 
 ## المصادر
 
-- [مصلحة الضرائب — وزارة المالية](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [مصلحة الضرائب — وزارة المالية](https://www.gov.cy/mof-tax/en/) — gov.cy
 
 [الاتفاقية: المواد 17 و18 و22](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA-Gesetz.pdf?__blob=publicationFile&v=1)

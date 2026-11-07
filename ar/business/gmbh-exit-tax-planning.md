@@ -202,7 +202,7 @@ faqSchema:
 
 ## المصادر
 
-- [دائرة الضرائب — وزارة المالية](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [دائرة الضرائب — وزارة المالية](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [§ 6 من AStG](https://www.gesetze-im-internet.de/astg/__6.html) و[§ 21 من AStG](https://www.gesetze-im-internet.de/astg/__21.html) — ضريبة المغادرة، الأقساط، قاعدة العودة، الحالات القديمة؛ تم التحقق في 07.11.2026
 - [§ 17 من EStG](https://www.gesetze-im-internet.de/estg/__17.html)، [§ 3 من EStG (رقم 40)](https://www.gesetze-im-internet.de/estg/__3.html)، [§ 32a من EStG](https://www.gesetze-im-internet.de/estg/__32a.html)، [§ 32d من EStG](https://www.gesetze-im-internet.de/estg/__32d.html) — عتبة 1%، الجزء الخاضع 60%، جدول 2026، ضريبة 25% على الأرباح الموزعة؛ تم التحقق في 07.11.2026
 - [§ 4 من SolzG 1995](https://www.gesetze-im-internet.de/solzg_1995/__4.html) — رسم التضامن 5.5%؛ تم التحقق في 07.11.2026

@@ -221,7 +221,7 @@ faqSchema:
 
 ## Πηγές
 
-- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.gov.cy/mof-tax/) — gov.cy
 - [Τελωνείο Κύπρου — έλεγχος εισερχόμενων/εξερχόμενων μετρητών](https://www.mof.gov.cy/mof/customs/customs.nsf/All/AC17588A160C442BC2258725003108F9?OpenDocument) — gov.cy, έλεγχος 2026-11-07
 - [Κανονισμός (ΕΕ) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj/ell) — EUR-Lex
 - [Banque du Liban — βασικές εγκύκλιοι](https://www.bdl.gov.lb/basiccirculars.php) — έλεγχος 2026-11-07

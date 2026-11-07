@@ -33,10 +33,10 @@ Nobody moves to Cyprus expecting to leave. But sometimes it does not work out �
 This guide covers how to leave Cyprus cleanly: no tax surprises, no lost deposits, no expired permits.
 
 > **Sources:**
-> - [Cyprus Tax Department](https://www.gov.cy/mof/tax/) — tax clearance, income tax
+> - [Cyprus Tax Department](https://www.gov.cy/mof-tax/en/) — tax clearance, income tax
 > - [Migration Department](https://www.gov.cy/mip-md/en/) — residence permit cancellation
 > - [GeSY / OAYY](https://www.gesy.org.cy/) — healthcare contributions
-> - [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — contribution records
+> - [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — contribution records
 
 ## When should I consider leaving?
 
@@ -73,7 +73,7 @@ Cyprus taxes income for the full calendar year (January–December). If you leav
 
 - File your tax return (TD1 for individuals) by 31 July of the following year
 - Ensure no outstanding income tax or GeSY contributions
-- Request a Tax Clearance Certificate from the [Tax Department](https://www.gov.cy/mof/tax/) — useful for your new country
+- Request a Tax Clearance Certificate from the [Tax Department](https://www.gov.cy/mof-tax/en/) — useful for your new country
 
 **Important:** If you spent 183+ days in Cyprus during the tax year (or 60 days under the "60-day rule"), you are considered a tax resident for the entire year. Plan your departure date accordingly.
 
@@ -83,7 +83,7 @@ GeSY contributions stop automatically when your employment contract ends or you 
 
 ### Social Insurance
 
-Social Insurance contributions are not refunded, but they are preserved. If you worked in Cyprus and paid contributions, they count towards your pension under EU regulations (EC 883/2004). Request a U1 document (employment history confirmation) from [Social Insurance Services](https://www.gov.cy/mlsi/sid/).
+Social Insurance contributions are not refunded, but they are preserved. If you worked in Cyprus and paid contributions, they count towards your pension under EU regulations (EC 883/2004). Request a U1 document (employment history confirmation) from [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/).
 
 **For UK nationals:** UK guidance lists Cyprus among the EU countries and says the UK "agreed to maintain social security co-ordination" after leaving the EU ([gov.uk, Guidance on social security abroad NI38](https://www.gov.uk/government/publications/social-security-abroad-ni38/guidance-on-social-security-abroad-ni38), checked 2026-11-07). It does not list a separate UK-Cyprus bilateral agreement. Before you leave, ask the UK International Pension Centre how your Cyprus contributions count towards your State Pension.
 
@@ -204,8 +204,8 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 
 ## Sources
 
-- [Cyprus Tax Department](https://www.gov.cy/mof/tax/) — gov.cy
+- [Cyprus Tax Department](https://www.gov.cy/mof-tax/en/) — gov.cy
 - [Migration Department](https://www.gov.cy/mip-md/en/) — gov.cy
 - [GeSY / OAYY](https://www.gesy.org.cy/) — GeSY
-- [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — gov.cy
+- [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — gov.cy
 - [Ministry of Justice](https://www.gov.cy/mjpo/en/) — gov.cy

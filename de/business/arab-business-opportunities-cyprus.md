@@ -31,7 +31,7 @@ Zypern ist die natürliche Brücke zwischen dem Nahen Osten und der Europäische
 
 > **Offizielle Quellen:**
 > - [Registrar of Companies — Zypern](https://www.gov.cy/mcit/companies/) — Firmenregistrierung
-> - [Steuerbehörde](https://www.gov.cy/mof/tax/taxdep/) — Steuerregeln
+> - [Steuerbehörde](https://www.gov.cy/mof-tax/en/) — Steuerregeln
 > - [CIPA — Investitionsförderagentur](https://www.investcyprus.org.cy/) — Investitionsanreize
 > - [Industrie- und Handelskammer Zypern](https://www.ccci.org.cy/) — Networking und Unterstützung
 
@@ -253,4 +253,4 @@ Sie haben eine Frage? Fragen Sie in unserer Community: [Telegram](https://t.me/e
 
 ## Quellen
 
-- [Steuerbehörde — Finanzministerium](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Steuerbehörde — Finanzministerium](https://www.gov.cy/mof-tax/en/) — gov.cy

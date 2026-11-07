@@ -345,4 +345,4 @@ faqSchema:
 
 ## المصادر
 
-- [النظام الصحي العام (GeSY)](https://www.gesy.org.cy/sites/Sites/en-US/default.aspx) — GeSY
+- [النظام الصحي العام (GeSY)](https://www.gesy.org.cy/) — GeSY

@@ -31,7 +31,7 @@ faqSchema:
 
 > **Επίσημες πηγές:**
 > - [Έφορος Εταιρειών — Κύπρος](https://www.gov.cy/mcit/companies/) — εγγραφή εταιρειών
-> - [Τμήμα Φορολογίας](https://www.gov.cy/mof/tax/taxdep/) — φορολογικοί κανόνες
+> - [Τμήμα Φορολογίας](https://www.gov.cy/mof-tax/) — φορολογικοί κανόνες
 > - [CIPA — Υπηρεσία Προώθησης Επενδύσεων Κύπρου](https://www.investcyprus.org.cy/) — επενδυτικά κίνητρα
 > - [Εμπορικό και Βιομηχανικό Επιμελητήριο Κύπρου](https://www.ccci.org.cy/) — δικτύωση και υποστήριξη
 
@@ -253,4 +253,4 @@ faqSchema:
 
 ## Πηγές
 
-- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Τμήμα Φορολογίας — Υπουργείο Οικονομικών](https://www.gov.cy/mof-tax/) — gov.cy

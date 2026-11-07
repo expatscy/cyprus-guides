@@ -31,7 +31,7 @@ Cyprus is the natural bridge between the Middle East and the European Union. Its
 
 > **Official sources:**
 > - [Registrar of Companies — Cyprus](https://www.gov.cy/mcit/companies/) — company registration
-> - [Tax Department](https://www.gov.cy/mof/tax/taxdep/) — tax rules
+> - [Tax Department](https://www.gov.cy/mof-tax/en/) — tax rules
 > - [CIPA — Cyprus Investment Promotion Agency](https://www.investcyprus.org.cy/) — investment incentives
 > - [Cyprus Chamber of Commerce and Industry](https://www.ccci.org.cy/) — networking and support
 
@@ -253,4 +253,4 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 
 ## Sources
 
-- [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Tax Department — Ministry of Finance](https://www.gov.cy/mof-tax/en/) — gov.cy

@@ -33,10 +33,10 @@ faqSchema:
 Ο οδηγός αυτός καλύπτει πώς να φύγετε από την Κύπρο καθαρά: χωρίς φορολογικές εκπλήξεις, χωρίς χαμένες εγγυήσεις, χωρίς ληγμένες άδειες.
 
 > **Πηγές:**
-> - [Cyprus Tax Department](https://www.gov.cy/mof/tax/) — φορολογική ενημερότητα, φόρος εισοδήματος
+> - [Cyprus Tax Department](https://www.gov.cy/mof-tax/) — φορολογική ενημερότητα, φόρος εισοδήματος
 > - [Migration Department](https://www.gov.cy/mip-md/en/) — ακύρωση άδειας διαμονής
 > - [GeSY / OAYY](https://www.gesy.org.cy/) — εισφορές υγείας
-> - [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — μητρώο εισφορών
+> - [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — μητρώο εισφορών
 
 ## Πότε να σκεφτώ να φύγω;
 
@@ -73,7 +73,7 @@ faqSchema:
 
 - Υποβάλετε τη φορολογική δήλωση (TD1 για φυσικά πρόσωπα) έως τις 31 Ιουλίου του επόμενου έτους
 - Βεβαιωθείτε ότι δεν υπάρχουν ανεξόφλητοι φόροι εισοδήματος ή εισφορές ΓεΣΥ
-- Ζητήστε Πιστοποιητικό Φορολογικής Ενημερότητας (Tax Clearance Certificate) από το [Τμήμα Φορολογίας](https://www.gov.cy/mof/tax/) — χρήσιμο για τη νέα σας χώρα
+- Ζητήστε Πιστοποιητικό Φορολογικής Ενημερότητας (Tax Clearance Certificate) από το [Τμήμα Φορολογίας](https://www.gov.cy/mof-tax/) — χρήσιμο για τη νέα σας χώρα
 
 **Σημαντικό:** Αν περάσατε 183+ ημέρες στην Κύπρο κατά το φορολογικό έτος (ή 60 ημέρες βάσει του «κανόνα των 60 ημερών»), θεωρείστε φορολογικός κάτοικος για ολόκληρο το έτος. Σχεδιάστε ανάλογα την ημερομηνία αναχώρησής σας.
 
@@ -83,7 +83,7 @@ faqSchema:
 
 ### Κοινωνικές ασφαλίσεις
 
-Οι εισφορές κοινωνικών ασφαλίσεων δεν επιστρέφονται, αλλά διατηρούνται. Αν εργαστήκατε στην Κύπρο και πληρώσατε εισφορές, προσμετρώνται στη σύνταξή σας βάσει των κανονισμών της ΕΕ (EC 883/2004). Ζητήστε έγγραφο U1 (βεβαίωση εργασιακού ιστορικού) από τις [Υπηρεσίες Κοινωνικών Ασφαλίσεων](https://www.gov.cy/mlsi/sid/).
+Οι εισφορές κοινωνικών ασφαλίσεων δεν επιστρέφονται, αλλά διατηρούνται. Αν εργαστήκατε στην Κύπρο και πληρώσατε εισφορές, προσμετρώνται στη σύνταξή σας βάσει των κανονισμών της ΕΕ (EC 883/2004). Ζητήστε έγγραφο U1 (βεβαίωση εργασιακού ιστορικού) από τις [Υπηρεσίες Κοινωνικών Ασφαλίσεων](https://www.gov.cy/mlsi/en/social-insurance-services/).
 
 **Για υπηκόους του ΗΒ:** Ο βρετανικός οδηγός απαριθμεί την Κύπρο μεταξύ των χωρών της ΕΕ και αναφέρει ότι το ΗΒ «agreed to maintain social security co-ordination» μετά την έξοδό του από την ΕΕ ([gov.uk, Guidance on social security abroad NI38](https://www.gov.uk/government/publications/social-security-abroad-ni38/guidance-on-social-security-abroad-ni38), ελέγχθηκε 2026-11-07). Δεν απαριθμεί ξεχωριστή διμερή συμφωνία ΗΒ–Κύπρου. Πριν φύγετε, ρωτήστε το UK International Pension Centre πώς προσμετρώνται οι εισφορές σας στην Κύπρο για το State Pension.
 
@@ -204,8 +204,8 @@ faqSchema:
 
 ## Πηγές
 
-- [Cyprus Tax Department](https://www.gov.cy/mof/tax/) — gov.cy
+- [Cyprus Tax Department](https://www.gov.cy/mof-tax/) — gov.cy
 - [Migration Department](https://www.gov.cy/mip-md/en/) — gov.cy
 - [GeSY / OAYY](https://www.gesy.org.cy/) — GeSY
-- [Social Insurance Services](https://www.gov.cy/mlsi/sid/) — gov.cy
+- [Social Insurance Services](https://www.gov.cy/mlsi/en/social-insurance-services/) — gov.cy
 - [Ministry of Justice](https://www.gov.cy/mjpo/en/) — gov.cy
