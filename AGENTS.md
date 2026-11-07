@@ -4,7 +4,7 @@ Instructions for AI assistants and agents that edit this repository. Humans: see
 
 ## What this repository is
 
-The editorial guides of [expats.cy](https://expats.cy) about living in Cyprus, in `en`, `ru`, `de`, `ar` and `he`. Licence: CC BY-SA 4.0. Every change is reviewed by a human editor before it is published. Readers rely on these guides for visas, taxes and documents, so a wrong fact can cost someone money or a deadline.
+The editorial guides of [expats.cy](https://expats.cy) about living in Cyprus, in `en`, `ru`, `de`, `ar`, `he` and `el`. Licence: CC BY-SA 4.0. Every change is reviewed by a human editor before it is published. Readers rely on these guides for visas, taxes and documents, so a wrong fact can cost someone money or a deadline.
 
 ## Hard rules
 

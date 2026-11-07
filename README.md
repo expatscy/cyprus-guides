@@ -31,7 +31,7 @@ If you are an AI assistant or agent working on this repository, read [AGENTS.md]
 <language>/<section>/<article>.md
 ```
 
-- Languages: `en`, `ru`, `de`, `ar`, `he`
+- Languages: `en`, `ru`, `de`, `ar`, `he`, `el`
 - Sections: `immigration`, `documents`, `business`, `property`, `life`, `beyond-borders`, `videos`
 
 Each file is Markdown with a YAML header (title, description, date, …). Versions of the same guide in different languages share a `translationKey`.

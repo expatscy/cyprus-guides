@@ -16,7 +16,7 @@ The guides are open source and we accept edits from anyone. Before you start:
 - **Corrections**: outdated fees, deadlines, addresses, office hours, links, rules.
 - **Updates** when a law or procedure changes.
 - **New guides** on living in Cyprus that aren't covered yet.
-- **Translations** of existing guides into `en`, `ru`, `de`, `ar` or `he`.
+- **Translations** of existing guides into `en`, `ru`, `de`, `ar`, `he` or `el`.
 
 ## Rules
 
