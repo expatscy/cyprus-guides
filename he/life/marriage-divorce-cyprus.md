@@ -26,7 +26,7 @@ faqSchema:
 > **מקורות רשמיים:**
 > - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — רישום נישואין
 > - [Family Courts (CyLaw)](https://www.cylaw.org/) — דיני משפחה
-> - [MFA Consular Forms](https://mfa.gov.cy/consular-forms.html) — טפסי מסמכים
+> - [משרד החוץ של קפריסין](https://www.gov.cy/mfa/en/) — טפסי מסמכים
 > - [עיריית לימסול: נישואין אזרחיים](https://www.limassol.org.cy/en/civil-weddings) — הליך ואגרות (נבדק 2026-11-07)
 
 ## כיצד להתחתן בקפריסין?

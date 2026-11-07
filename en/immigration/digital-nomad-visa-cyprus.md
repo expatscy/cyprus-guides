@@ -159,7 +159,7 @@ Use the [non-dom guide](/en/business/non-dom-status-cyprus-60-day-rule/) and con
 
 The digital nomad checklist requires a Plan A insurance certificate covering inpatient care, outpatient care and transportation of remains.
 
-A digital nomad permit alone does not establish GeSY beneficiary eligibility. The [Health Insurance Organisation's rules](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) require ordinary residence and an applicable beneficiary category; for third-country nationals, the relevant permanent-residence, equal-treatment or family conditions matter. Assess any entitlement separately rather than assuming that this permit grants it or that every digital nomad is excluded in all circumstances.
+A digital nomad permit alone does not establish GeSY beneficiary eligibility. The [Health Insurance Organisation's rules](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) require ordinary residence and an applicable beneficiary category; for third-country nationals, the relevant permanent-residence, equal-treatment or family conditions matter. Assess any entitlement separately rather than assuming that this permit grants it or that every digital nomad is excluded in all circumstances.
 
 ## Does this residence count toward citizenship?
 
@@ -189,5 +189,5 @@ See the [standard naturalization guide](/en/immigration/cyprus-citizenship-natur
 - [Official forms and accompanying documents](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/)
 - [Tax residency and domicility](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Tax Department — stamp duty](https://www.gov.cy/mof-tax/documents/chartosima/)
-- [GeSY beneficiary eligibility](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [GeSY beneficiary eligibility](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [Civil Registry Law — current citizenship provisions](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)

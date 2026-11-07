@@ -99,7 +99,7 @@ For founders, the revised guide describes **self-employment or paid employment i
 
 For founders' and senior executives' families, the guide describes immediate residence rights and family reunification, with the spouse's labour-market access on the **same terms and conditions as the sponsor**. Complete the applicable family procedure and check the conditions for each person.
 
-The linked migration checklist includes **Plan A medical insurance** covering inpatient/outpatient care and transportation of remains, **or** GeSY registration evidence plus private transportation-of-remains cover. Assess healthcare eligibility separately with the [Health Insurance Organisation](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) before relying on public coverage.
+The linked migration checklist includes **Plan A medical insurance** covering inpatient/outpatient care and transportation of remains, **or** GeSY registration evidence plus private transportation-of-remains cover. Assess healthcare eligibility separately with the [Health Insurance Organisation](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) before relying on public coverage.
 
 ## Can the company hire other foreign employees?
 

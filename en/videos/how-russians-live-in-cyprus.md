@@ -64,7 +64,7 @@ He says **95% of his own communication** is in Russian. That is his personal est
 
 Dmitry estimates his family’s additional insurance at **about EUR 3,000 a year** at the time of the interview. He describes choosing **American Academy** after visiting schools and preferring its atmosphere for his children. These are his family’s reported experience and choices, rather than a current insurance quotation or an assessment of every school.
 
-**Current healthcare note:** The [HIO service list](https://www.gesy.org.cy/en-us/hioghshealthcareservices) includes **inpatient care** provided by contracted providers. Check [beneficiary eligibility](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), the particular covered service and its access conditions. The interview’s insurance discussion does not establish a blanket exclusion for expensive operations. See our [GeSY/private-care comparison](/en/life/gesy-vs-private-healthcare-cyprus/) and [school comparison](/en/life/schools-cyprus-comparison/) for further planning.
+**Current healthcare note:** The [HIO service list](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) includes **inpatient care** provided by contracted providers. Check [beneficiary eligibility](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), the particular covered service and its access conditions. The interview’s insurance discussion does not establish a blanket exclusion for expensive operations. See our [GeSY/private-care comparison](/en/life/gesy-vs-private-healthcare-cyprus/) and [school comparison](/en/life/schools-cyprus-comparison/) for further planning.
 
 ## Tax discussion and current guidance
 
@@ -102,6 +102,6 @@ Use the interview to identify questions about your own move, healthcare and chil
 ## Sources
 
 - [Original interview and published captions](https://www.youtube.com/watch?v=ZxMemLmj4MM) — publisher metadata and attributed guest account; relevant caption passages around 00:00–03:19, 05:33–05:48 and 35:58–38:40
-- [HIO: healthcare services](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO: beneficiary eligibility](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [HIO: healthcare services](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO: beneficiary eligibility](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [Tax Department: tax residence and domicile](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)

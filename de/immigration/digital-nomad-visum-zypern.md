@@ -161,7 +161,7 @@ Nutzen Sie den [Non-Dom-Leitfaden](/de/business/non-dom-status-cyprus-60-day-rul
 
 Die Checkliste für Digital Nomads verlangt eine Versicherungsbescheinigung nach Plan A, die stationäre Behandlung, ambulante Behandlung und die Überführung der sterblichen Überreste abdeckt.
 
-Eine Digital-Nomad-Genehmigung allein begründet keinen Anspruch auf GeSY. Die [Regeln der Krankenversicherungsorganisation](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) verlangen den gewöhnlichen Aufenthalt und eine passende Leistungsberechtigten-Kategorie; für Drittstaatsangehörige zählen die Bedingungen zu Daueraufenthalt, Gleichbehandlung oder Familie. Prüfen Sie einen möglichen Anspruch gesondert: Gehen Sie nicht davon aus, dass diese Genehmigung ihn gibt, und auch nicht, dass jeder Digital Nomad unter allen Umständen ausgeschlossen ist.
+Eine Digital-Nomad-Genehmigung allein begründet keinen Anspruch auf GeSY. Die [Regeln der Krankenversicherungsorganisation](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) verlangen den gewöhnlichen Aufenthalt und eine passende Leistungsberechtigten-Kategorie; für Drittstaatsangehörige zählen die Bedingungen zu Daueraufenthalt, Gleichbehandlung oder Familie. Prüfen Sie einen möglichen Anspruch gesondert: Gehen Sie nicht davon aus, dass diese Genehmigung ihn gibt, und auch nicht, dass jeder Digital Nomad unter allen Umständen ausgeschlossen ist.
 
 ## Zählt dieser Aufenthalt für die Staatsbürgerschaft?
 
@@ -191,5 +191,5 @@ Lesen Sie den [Leitfaden zur Einbürgerung](/de/immigration/cyprus-citizenship-n
 - [Offizielle Formulare und Unterlagen](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/)
 - [Steuerliche Ansässigkeit und Domicile](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Steuerbehörde: Stempelsteuer](https://www.gov.cy/mof-tax/documents/chartosima/)
-- [GeSY-Anspruchsberechtigung](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [GeSY-Anspruchsberechtigung](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [Gesetz über das Zivilregister: aktuelle Staatsbürgerschaftsregeln](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)

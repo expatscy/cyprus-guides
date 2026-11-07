@@ -79,7 +79,7 @@ translationKey: "rabota-na-kipre-poisk-zarplaty"
 
 معدل اشتراك الموظف في التأمين الاجتماعي هو **8.8% من الأجر الخاضع للتأمين**. في **2026**، سقف الموظف هو **€5,742 شهرياً للموظفين بأجر شهري** أو **€1,325 أسبوعياً للموظفين بأجر أسبوعي**. [معدلات الاشتراك المطبقة](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) و[إشعار سقف 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5).
 
-**معدل اشتراك الموظف في GESY هو 2.65%**؛ وحد التقييم السنوي هو **€180,000 لكل شخص طبيعي عبر فئات الاشتراك المنطبقة**، بشكل منفصل عن سقف التأمين الاجتماعي. [قواعد تمويل HIO](https://www.gesy.org.cy/en-us/hiofinancing).
+**معدل اشتراك الموظف في GESY هو 2.65%**؛ وحد التقييم السنوي هو **€180,000 لكل شخص طبيعي عبر فئات الاشتراك المنطبقة**، بشكل منفصل عن سقف التأمين الاجتماعي. [قواعد تمويل HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing).
 
 اطلب من قسم الرواتب حساباً بناءً على دخلك الفعلي وأي إعفاء تستحقه. الانضمام إلى صاحب عمل معين لا يثبت أهليتك للإعفاء الضريبي الشخصي.
 
@@ -139,7 +139,7 @@ translationKey: "rabota-na-kipre-poisk-zarplaty"
 - [الأسئلة الشائعة عن الحد الأدنى للأجور](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04) — دائرة علاقات العمل
 - [قانون ضريبة الدخل](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — cylaw.org
 - [معدلات اشتراك التأمين الاجتماعي](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) و[سقف 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5) — gov.cy
-- [تمويل GESY](https://www.gesy.org.cy/en-us/hiofinancing) — HIO
+- [تمويل GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) — HIO
 - [قانون شروط العمل الشفافة والقابلة للتنبؤ](https://www.cylaw.org/nomoi/enop/non-ind/2023_1_25/full.html) — cylaw.org
 - [قانون وقت العمل](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_63/full.html) — cylaw.org
 - [الإجازة السنوية المدفوعة](https://www.gov.cy/en/service/31545/) — gov.cy

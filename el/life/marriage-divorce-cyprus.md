@@ -45,7 +45,7 @@ faqSchema:
 > **Επίσημες πηγές:**
 > - [Ληξιαρχείο](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Καταχώριση γάμου
 > - [Οικογενειακά Δικαστήρια (CyLaw)](https://www.cylaw.org/) — Οικογενειακό δίκαιο
-> - [Προξενικά έντυπα ΥΠΕΞ](https://mfa.gov.cy/consular-forms.html) — Έντυπα εγγράφων
+> - [Υπουργείο Εξωτερικών](https://www.gov.cy/mfa/) — Έντυπα εγγράφων
 > - [Δήμος Λεμεσού: Πολιτικοί γάμοι](https://www.limassol.org.cy/en/civil-weddings) — διαδικασία ειδοποίησης και τέλη (ελέγχθηκε 2026-11-07)
 
 ## Πώς παντρεύομαι στην Κύπρο;

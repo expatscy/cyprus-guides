@@ -79,7 +79,7 @@ Die regulären **Einkommensteuerstufen 2026 gelten für das zu versteuernde Eink
 
 Der Arbeitnehmerbeitrag zur Sozialversicherung beträgt **8,8% des versicherungspflichtigen Verdienstes**. Die Beitragsbemessungsgrenze für Arbeitnehmer liegt **2026** bei **€5.742 pro Monat bei monatlicher Zahlung** oder **€1.325 pro Woche bei wöchentlicher Zahlung**. [Geltende Beitragssätze](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) und [Bekanntmachung der Grenze 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5).
 
-Der **GESY-Beitragssatz für Arbeitnehmer beträgt 2,65%**; die jährliche Bemessungsgrenze liegt bei **€180.000 pro natürlicher Person über die anwendbaren Beitragskategorien hinweg**, getrennt von der Sozialversicherungsgrenze. [Finanzierungsregeln der HIO](https://www.gesy.org.cy/en-us/hiofinancing).
+Der **GESY-Beitragssatz für Arbeitnehmer beträgt 2,65%**; die jährliche Bemessungsgrenze liegt bei **€180.000 pro natürlicher Person über die anwendbaren Beitragskategorien hinweg**, getrennt von der Sozialversicherungsgrenze. [Finanzierungsregeln der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing).
 
 Bitten Sie die Lohnbuchhaltung um eine Berechnung auf Basis Ihres tatsächlichen Einkommens und der Vergünstigungen, für die Sie in Frage kommen. Der Eintritt bei einem bestimmten Arbeitgeber begründet keinen persönlichen Anspruch auf Steuerbefreiung.
 
@@ -139,7 +139,7 @@ Weiterführende Informationen: [Gehaltsverhandlung](/de/business/gehaltsverhandl
 - [Mindestlohn-FAQ](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04) — Department of Labour Relations
 - [Einkommensteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — cylaw.org
 - [Beitragssätze der Sozialversicherung](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) und [Bemessungsgrenze 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5) — gov.cy
-- [GESY-Finanzierung](https://www.gesy.org.cy/en-us/hiofinancing) — HIO
+- [GESY-Finanzierung](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) — HIO
 - [Gesetz über transparente und vorhersehbare Arbeitsbedingungen](https://www.cylaw.org/nomoi/enop/non-ind/2023_1_25/full.html) — cylaw.org
 - [Arbeitszeitgesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_63/full.html) — cylaw.org
 - [Bezahlter Jahresurlaub](https://www.gov.cy/en/service/31545/) — gov.cy

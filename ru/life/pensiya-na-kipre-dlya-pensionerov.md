@@ -31,13 +31,13 @@ faqSchema:
 > **Официальные источники:**
 > - [Министерство финансов](https://www.gov.cy/mof/en/) — налоговый департамент и информация о соглашениях
 > - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — визы и ВНЖ
-> - [GESY — система здравоохранения](https://www.gesy.org.cy/en-us/home-en) — регистрация и покрытие
+> - [GESY — система здравоохранения](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — регистрация и покрытие
 
 ## Какой путь к ВНЖ проверить?
 
 В опубликованном [руководстве по Category F](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis/) Migration Department описан гарантированный годовой доход из-за границы, при условии что человек не занимается на Кипре бизнесом, торговлей или профессиональной деятельностью. Указано не менее €9 568,17 для заявителя и €4 613,22 на каждого иждивенца. Доход может включать пенсии, дивиденды, проценты по депозитам и аренду. Эти суммы не гарантируют одобрение. До подачи проверьте актуальный список документов департамента, миграционный статус на время ожидания и условия об отсутствии в стране.
 
-Для экономически неактивного гражданина ЕС, который остаётся дольше трёх месяцев, [руководство MEU1](https://www.mip.gov.cy/dmmip/md.nsf/All/0C6B5279E8E5086CC22589330037689E?OpenDocument=) требует достаточных средств и полной медицинской страховки. Заявление на регистрацию подаётся в течение четырёх месяцев после въезда. Используйте актуальные данные департамента о месте подачи и документах.
+Для экономически неактивного гражданина ЕС, который остаётся дольше трёх месяцев, [руководство MEU1](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/=) требует достаточных средств и полной медицинской страховки. Заявление на регистрацию подаётся в течение четырёх месяцев после въезда. Используйте актуальные данные департамента о месте подачи и документах.
 
 У [политики разрешений для инвесторов](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) есть отдельные условия по инвестициям и качественные условия. Вариант с жилой недвижимостью требует первой продажи от застройщика на сумму не менее €300 000 плюс VAT и гарантированного годового дохода не менее €50 000, плюс €15 000 на супруга и €10 000 на каждого несовершеннолетнего иждивенца. Одна сумма покупки не доказывает право на разрешение. Перед вложением денег прочитайте политику полностью, включая документы и условия, которые действуют дальше.
 
@@ -151,17 +151,17 @@ faqSchema:
 
 - [Министерство финансов](https://www.gov.cy/mof/en/) — gov.cy
 - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [GESY — система здравоохранения](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY — система здравоохранения](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 
 - [Income Tax Law — статья 20 и Second Schedule](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html)
 - [Tax Department — резидентство и домицилий](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Tax Department — TD38](https://www.mof.gov.cy/mof/TAX/taxdep.nsf/All/0D73178BF2726F42C22582280036FECD/%24file/TD038_2016.pdf?OpenElement=)
 - [Соглашение Великобритании и Кипра — статьи 17, 18 и 29](https://www.gov.uk/government/publications/cyprus-tax-treaties/2018-uk-cyprus-double-taxation-convention-as-amended-by-the-2018-protocol-in-force)
-- [HIO — категории бенефициаров](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — тарифы специалистов и исключения](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — категории бенефициаров](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — тарифы специалистов и исключения](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 
-- [HIO — ставки взносов и платежей](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — нормы визитов к личному врачу](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
+- [HIO — ставки взносов и платежей](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — нормы визитов к личному врачу](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
 - [Ежегодная индексация британской государственной пенсии за границей](https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad)
 
 - [Tax Department — освобождения от взносов GHS](https://www.gov.cy/media/sites/167/2026/01/Guidance-for-GHS-2023.pdf)

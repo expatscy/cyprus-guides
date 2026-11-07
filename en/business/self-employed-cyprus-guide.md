@@ -65,7 +65,7 @@ Ask Social Insurance to confirm your occupational category, the evidence needed 
 
 ### GESY enrolment
 
-[HIO's registration guidance](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) describes a separate beneficiary enrolment request and category-specific evidence. Where its conditions allow, a personal doctor can assist with enrolment. **Paying contributions and registering with Social Insurance do not automatically establish beneficiary eligibility or complete GESY enrolment.**
+[HIO's registration guidance](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) describes a separate beneficiary enrolment request and category-specific evidence. Where its conditions allow, a personal doctor can assist with enrolment. **Paying contributions and registering with Social Insurance do not automatically establish beneficiary eligibility or complete GESY enrolment.**
 
 ## What are the social insurance contributions?
 
@@ -75,7 +75,7 @@ The [occupational-category table for 5 January 2026–3 January 2027](https://ww
 
 The official service provides **YKA 1-017**, an application to pay contributions based on actual income. Low receipts alone should not be treated as automatic approval to ignore the occupational base: ask Social Insurance about the evidence and decision for your application.
 
-[HIO's financing page](https://www.gesy.org.cy/en-us/hiofinancing) lists **4% GESY contributions on self-employed remuneration** and a **€180,000 total annual contribution base per natural person** across the applicable categories. Check the contribution bases, collection rules and your circumstances separately. Adding the percentages does not establish one flat effective rate on all your actual income.
+[HIO's financing page](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) lists **4% GESY contributions on self-employed remuneration** and a **€180,000 total annual contribution base per natural person** across the applicable categories. Check the contribution bases, collection rules and your circumstances separately. Adding the percentages does not establish one flat effective rate on all your actual income.
 
 For payments, use the [official Social Insurance payment service](https://www.gov.cy/service/pliromes-eisforon-ypiresion-koinonikon-asfaliseon/) linked from the self-employed service, and confirm the payment period and any other levy due.
 

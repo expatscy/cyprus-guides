@@ -33,7 +33,7 @@ Opening a [bank account in Cyprus](/en/business/banks-cyprus-comparison/) as a R
 
 > **Official sources:**
 > - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — Central Bank of Cyprus AML requirements
-> - [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism_en) — EU AML directives (including 6AMLD)
+> - [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) — EU AML directives (including 6AMLD)
 > - [EU Sanctions Map](https://www.sanctionsmap.eu/) — current EU sanctions map
 > - [MOKAS — Unit for Combating Money Laundering](https://www.law.gov.cy/law/mokas/mokas.nsf/) — Cyprus's FIU (financial intelligence unit)
 
@@ -244,6 +244,6 @@ AML/KYC checks for Russians in Cyprus are a long process that takes patience. Th
 ## Sources
 
 - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — Central Bank of Cyprus
-- [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism_en) — European Commission
+- [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) — European Commission
 - [MOKAS — Unit for Combating Money Laundering](https://www.law.gov.cy/law/mokas/mokas.nsf/) — gov.cy
 - [Financial Ombudsman of Cyprus](https://www.financialombudsman.gov.cy/) — gov.cy

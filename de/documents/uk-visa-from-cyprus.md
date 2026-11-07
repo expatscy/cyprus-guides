@@ -27,7 +27,7 @@ Das britische Visum für Nicht-EU-Residenten auf Zypern wird über VFS Global be
 
 > **Offizielle Quellen:**
 > - [British High Commission Nicosia](https://www.gov.uk/world/organisations/british-high-commission-nicosia) — Britische Hochkommission
-> - [UK Visa Application](https://www.gov.uk/apply-uk-visa) — Antragstellung
+> - [UK Visa Application](https://www.gov.uk/apply-to-come-to-the-uk) — Antragstellung
 > - [GOV.UK visa fees from 8 April 2026](https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-april-2026) — Gebührentabelle
 > - [GOV.UK ETA](https://www.gov.uk/eta) — Electronic Travel Authorisation
 > - [VFS Global UK in Cyprus](https://www.vfsglobal.co.uk/cy/en) — Visumsannahmezentrum
@@ -47,7 +47,7 @@ Antraege werden über **VFS Global** auf Zypern entgegengenommen:
 - **Nikosia** — Hauptbuero
 - Das im aktuellen Buchungssystem angebotene Visumsannahmezentrum auswählen.
 
-Der Prozess beginnt online auf [gov.uk](https://www.gov.uk/apply-uk-visa): Formular ausfuellen, Gebühr bezahlen, Biometrie-Termin buchen. Danach besuchen Sie persoenlich VFS für Fingerabdruecke und Foto.
+Der Prozess beginnt online auf [gov.uk](https://www.gov.uk/apply-to-come-to-the-uk): Formular ausfuellen, Gebühr bezahlen, Biometrie-Termin buchen. Danach besuchen Sie persoenlich VFS für Fingerabdruecke und Foto.
 
 ### Visumtypen
 
@@ -85,7 +85,7 @@ Reiseversicherung gehört nicht zu den üblichen Nachweisen für ein Besuchsvisu
 
 ## Was kostet ein britisches Visum?
 
-| Visumtyp | Kosten (laut [gov.uk](https://www.gov.uk/apply-uk-visa)) |
+| Visumtyp | Kosten (laut [gov.uk](https://www.gov.uk/apply-to-come-to-the-uk)) |
 |----------|------|
 | Standard Visitor (bis 6 Monate) | GBP 135 |
 | Standard Visitor (2 Jahre) | GBP 506 |

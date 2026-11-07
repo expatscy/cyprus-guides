@@ -140,7 +140,7 @@ faqSchema:
 
 ## בריאות והפרשות
 
-[קטגוריות הזכאים של HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) תלויות באזרחות, במקום המגורים הרגיל ובמעמד החוקי החל. [החבות בהפרשות](https://www.gesy.org.cy/en-us/hiofinancing) היא שאלה נפרדת ותלויה בקטגוריית המשלם ובהכנסה. אל תסיקו מהשם של ההיתר לבדו לא חבות כללית ולא פטור כללי.
+[קטגוריות הזכאים של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) תלויות באזרחות, במקום המגורים הרגיל ובמעמד החוקי החל. [החבות בהפרשות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) היא שאלה נפרדת ותלויה בקטגוריית המשלם ובהכנסה. אל תסיקו מהשם של ההיתר לבדו לא חבות כללית ולא פטור כללי.
 
 השתמשו ברשימת הביטוח בפועל של המסלול שלכם. בדקו את מדיניות ההגירה מול הדרישה הזו, ואת הזכאות לשירותי בריאות מול תנאי HIO. ראו [בריאות ו-GESY](/he/life/healthcare-cyprus-gesy/).
 

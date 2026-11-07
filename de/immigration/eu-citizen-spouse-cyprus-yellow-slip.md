@@ -95,7 +95,7 @@ Bei Genehmigung kommt eine Benachrichtigung zur Abholung, bei Ablehnung ein Brie
 
 Artikel 23 gibt berechtigten Familienangehörigen mit Aufenthalts- oder Daueraufenthaltsrecht das Recht auf **Beschäftigung oder selbstständige Tätigkeit**. Artikel 25 sagt, dass der Besitz der Karte, der Anmeldebescheinigung oder der Antragsbescheinigung nicht zur Voraussetzung für die Ausübung eines Rechts gemacht werden darf: Der Anspruch kann auch anders belegt werden. Die Dokumente belegen berechtigende Rechte, sie gewähren sie nicht automatisch.
 
-Der Anspruch auf GeSY wird getrennt geprüft, nach den [Kriterien der HIO zu gewöhnlichem Aufenthalt und zum Status als Leistungsberechtigter oder Angehöriger](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility). Ein MEU2-Antrag oder die Karte allein belegen nicht alle Voraussetzungen für die Gesundheitsversorgung.
+Der Anspruch auf GeSY wird getrennt geprüft, nach den [Kriterien der HIO zu gewöhnlichem Aufenthalt und zum Status als Leistungsberechtigter oder Angehöriger](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility). Ein MEU2-Antrag oder die Karte allein belegen nicht alle Voraussetzungen für die Gesundheitsversorgung.
 
 Für einen anderen Weg der Beschäftigung von Familienangehörigen lesen Sie den [Leitfaden zur Beschäftigung von Ehepartnern](/de/immigration/spouse-employment-permit-cyprus/) und prüfen Sie dessen eigene Voraussetzungen, statt dieselben Rechte anzunehmen.
 

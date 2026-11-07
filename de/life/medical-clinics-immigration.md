@@ -25,7 +25,7 @@ Für die Erteilung einer [Aufenthaltsgenehmigung auf Zypern](/de/immigration/res
 
 > **Offizielle Quellen:**
 > - [Ministry of Health](https://www.moh.gov.cy/) — Gesundheitsministerium
-> - [GESY](https://www.gesy.org.cy/en-us/home-en) — Staatliches Gesundheitssystem
+> - [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — Staatliches Gesundheitssystem
 > - Anforderungen an Untersuchungen erfahren Sie beim [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/)
 
 ## Welche medizinischen Anforderungen gelten?
@@ -221,5 +221,5 @@ Empfehlungen aus der Erfahrung der Expat-Community in Zypern:
 ## Quellen
 
 - [Ministry of Health](https://www.moh.gov.cy/) — gov.cy
-- [GESY](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy

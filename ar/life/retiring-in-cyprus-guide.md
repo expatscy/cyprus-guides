@@ -31,13 +31,13 @@ translationKey: "pensiya-na-kipre-dlya-pensionerov"
 > **المصادر الرسمية:**
 > - [وزارة المالية](https://www.gov.cy/mof/en/) — دائرة الضرائب ومعلومات الاتفاقيات
 > - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — التأشيرات وتصاريح الإقامة
-> - [GESY — نظام الرعاية الصحية](https://www.gesy.org.cy/en-us/home-en) — التسجيل والتغطية
+> - [GESY — نظام الرعاية الصحية](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — التسجيل والتغطية
 
 ## ما مسار الإقامة الذي يجب أن أتحقق منه؟
 
 يصف [دليل الفئة F](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis/) المنشور لدائرة الهجرة دخلاً سنوياً مضموناً من الخارج، دون ممارسة أعمال أو تجارة أو مهنة في قبرص. ويذكر ما لا يقل عن €9,568.17 لمقدم الطلب و€4,613.22 لكل معال؛ ويمكن أن يشمل الدخل المعاشات والأرباح الموزعة وفوائد الودائع والإيجارات. هذه المبالغ المنشورة لا تضمن الموافقة. تحقق قبل التقديم من قائمة الدائرة الحالية ومن وضعك في الهجرة أثناء الانتظار وشروط الغياب.
 
-بالنسبة لمواطن الاتحاد الأوروبي غير النشط اقتصادياً الذي يقيم أكثر من ثلاثة أشهر، يشترط [دليل MEU1](https://www.mip.gov.cy/dmmip/md.nsf/All/0C6B5279E8E5086CC22589330037689E?OpenDocument=) موارد كافية وتأميناً صحياً شاملاً. يُقدَّم طلب التسجيل خلال أربعة أشهر من الدخول. استخدم معلومات الدائرة الحالية عن مكتب التقديم والمستندات.
+بالنسبة لمواطن الاتحاد الأوروبي غير النشط اقتصادياً الذي يقيم أكثر من ثلاثة أشهر، يشترط [دليل MEU1](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/=) موارد كافية وتأميناً صحياً شاملاً. يُقدَّم طلب التسجيل خلال أربعة أشهر من الدخول. استخدم معلومات الدائرة الحالية عن مكتب التقديم والمستندات.
 
 لـ[سياسة تصريح الهجرة للمستثمرين](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) شروط استثمار وشروط نوعية منفصلة. يتطلب خيار العقار السكني أول عملية بيع من مطوّر بمبلغ لا يقل عن €300,000 زائد ضريبة القيمة المضافة، ودخلاً سنوياً مضموناً لا يقل عن €50,000، يزداد بمقدار €15,000 للزوج/الزوجة و€10,000 لكل طفل قاصر معال. مبلغ الشراء وحده لا يثبت الأهلية. اقرأ السياسة كاملة، بما فيها المستندات والشروط المستمرة، قبل الالتزام بأي أموال.
 
@@ -151,17 +151,17 @@ translationKey: "pensiya-na-kipre-dlya-pensionerov"
 
 - [وزارة المالية](https://www.gov.cy/mof/en/) — gov.cy
 - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [GESY — نظام الرعاية الصحية](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY — نظام الرعاية الصحية](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 
 - [قانون ضريبة الدخل — المادة 20 وSecond Schedule](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html)
 - [دائرة الضرائب — الإقامة الضريبية والموطن](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [دائرة الضرائب — TD38](https://www.mof.gov.cy/mof/TAX/taxdep.nsf/All/0D73178BF2726F42C22582280036FECD/%24file/TD038_2016.pdf?OpenElement=)
 - [اتفاقية المملكة المتحدة وقبرص — المواد 17 و18 و29](https://www.gov.uk/government/publications/cyprus-tax-treaties/2018-uk-cyprus-double-taxation-convention-as-amended-by-the-2018-protocol-in-force)
-- [HIO — فئات المستفيدين](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — رسوم الأخصائيين والاستثناءات](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — فئات المستفيدين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — رسوم الأخصائيين والاستثناءات](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 
-- [HIO — معدلات الاشتراكات والرسوم](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — حصص زيارات الطبيب الشخصي](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
+- [HIO — معدلات الاشتراكات والرسوم](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — حصص زيارات الطبيب الشخصي](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
 - [الزيادات السنوية لمعاش الدولة البريطاني في الخارج](https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad)
 
 - [دائرة الضرائب — إعفاءات اشتراكات GHS](https://www.gov.cy/media/sites/167/2026/01/Guidance-for-GHS-2023.pdf)

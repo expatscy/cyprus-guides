@@ -58,7 +58,7 @@ faqSchema:
 
 NHS ממליץ לפנות לרופא משפחה אם מצב הרוח הירוד נמשך יותר משבועיים, קשה לכם להתמודד או שמה שאתם מנסים בעצמכם לא עוזר. זו הנחיה רפואית כללית; בקשו מרופא בקפריסין הערכה והכוונה לתמיכה מקומית מתאימה. במצב חירום מיידי חייגו **112** ואל תחכו לסף של שבועיים או לשעות הפעילות של קו סיוע.
 
-אם אתם מבוטחי GeSY, שאלו את הרופא האישי שלכם לאיזה שירות לפנות ומה תנאי הגישה. [ההנחיות של HIO לרופאים מומחים במרפאות חוץ](https://www.gesy.org.cy/en-us/hiospecialistsaccess) מציעות גישה באמצעות הפניה וגישה ישירה למומחים שיש להם חוזה; בגישה ישירה יש בדרך כלל השתתפות עצמית. בררו את נותן השירות, ההפניה, העלויות והתורים הפנויים, ואל תסתמכו על הערכת זמן המתנה קבועה. עוד על המערכת ב[מדריך לבריאות בקפריסין](/he/life/healthcare-cyprus-gesy/).
+אם אתם מבוטחי GeSY, שאלו את הרופא האישי שלכם לאיזה שירות לפנות ומה תנאי הגישה. [ההנחיות של HIO לרופאים מומחים במרפאות חוץ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiospecialistsaccess) מציעות גישה באמצעות הפניה וגישה ישירה למומחים שיש להם חוזה; בגישה ישירה יש בדרך כלל השתתפות עצמית. בררו את נותן השירות, ההפניה, העלויות והתורים הפנויים, ואל תסתמכו על הערכת זמן המתנה קבועה. עוד על המערכת ב[מדריך לבריאות בקפריסין](/he/life/healthcare-cyprus-gesy/).
 
 ## מה מציעים Cyprus Samaritans?
 
@@ -95,6 +95,6 @@ Cyprus Samaritans מפרסמים את המספר 80007773, פתוח מדי יו�
 
 - [Cyprus Samaritans: קו סיוע, שעות ומדיניות גיל](https://cyprussamaritans.org/)
 - [NHS: מצב רוח ירוד, עצב ודיכאון](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/)
-- [GeSY: גישה למומחים במרפאות חוץ](https://www.gesy.org.cy/en-us/hiospecialistsaccess)
+- [GeSY: גישה למומחים במרפאות חוץ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiospecialistsaccess)
 - [משרד החינוך: קורסי שפה במרכזי החינוך למבוגרים](https://www.moec.gov.cy/epimorfotika/xenes_glosses.html)
 - [משרד החוץ הבריטי: אנשי קשר לשעת חירום בקפריסין](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)

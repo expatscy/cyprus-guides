@@ -59,7 +59,7 @@ Do not use an integration timetable to decide whether distress deserves attentio
 
 The NHS advises seeing a GP if low mood lasts more than two weeks, you are struggling to cope, or things you try yourself are not helping. This is general medical guidance; ask a clinician in Cyprus for an assessment and the appropriate local support. For an immediate emergency, call **112**; do not wait for a two-week threshold or helpline opening time.
 
-If you are a GeSY beneficiary, ask your personal doctor about the appropriate service and access conditions. [HIO's outpatient-specialist guidance](https://www.gesy.org.cy/en-us/hiospecialistsaccess) provides both referral access and direct access to contracted specialists; direct access generally involves a personal contribution. Confirm the relevant provider, referral, charges and appointment availability rather than relying on a fixed waiting-time estimate.
+If you are a GeSY beneficiary, ask your personal doctor about the appropriate service and access conditions. [HIO's outpatient-specialist guidance](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiospecialistsaccess) provides both referral access and direct access to contracted specialists; direct access generally involves a personal contribution. Confirm the relevant provider, referral, charges and appointment availability rather than relying on a fixed waiting-time estimate.
 
 ## What does Cyprus Samaritans offer?
 
@@ -96,6 +96,6 @@ Cyprus Samaritans publishes 80007773, open daily 16:00–00:00, for free, confid
 
 - [Cyprus Samaritans: helpline, hours and age policy](https://cyprussamaritans.org/)
 - [NHS: low mood, sadness and depression](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/)
-- [GeSY: outpatient-specialist access](https://www.gesy.org.cy/en-us/hiospecialistsaccess)
+- [GeSY: outpatient-specialist access](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiospecialistsaccess)
 - [Ministry of Education: Adult Education Centre language courses](https://www.moec.gov.cy/epimorfotika/xenes_glosses.html)
 - [UK Foreign Office: Cyprus emergency contacts](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)

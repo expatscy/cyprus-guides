@@ -103,7 +103,7 @@ translationKey: "spouse-employment-kipr-rabota-suprugov"
 
 ### الرعاية الصحية والاشتراكات
 
-راجعوا [فئات المستفيدين لدى هيئة التأمين الصحي (HIO)](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) حسب الجنسية والإقامة المعتادة والوضع القانوني. إذن العمل وحده لا يحسم أهلية الرعاية الصحية. [الالتزام بدفع الاشتراكات](https://www.gesy.org.cy/en-us/hiofinancing) مسألة منفصلة؛ لا تعتبروا الاشتراك دليلاً على الاستحقاق ولا تفترضوا منح معاش من اسم التصريح.
+راجعوا [فئات المستفيدين لدى هيئة التأمين الصحي (HIO)](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) حسب الجنسية والإقامة المعتادة والوضع القانوني. إذن العمل وحده لا يحسم أهلية الرعاية الصحية. [الالتزام بدفع الاشتراكات](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) مسألة منفصلة؛ لا تعتبروا الاشتراك دليلاً على الاستحقاق ولا تفترضوا منح معاش من اسم التصريح.
 
 بدائل Plan A/GESY في قائمة الأسرة هي متطلبات لوثائق الطلب. تأكدوا من دليل التأمين المطلوب للكفيل والزوج.
 

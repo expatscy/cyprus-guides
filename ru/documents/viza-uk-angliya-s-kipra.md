@@ -28,7 +28,7 @@ faqSchema:
 
 > **Официальные источники:**
 > - [British High Commission Nicosia](https://www.gov.uk/world/organisations/british-high-commission-nicosia) — Высокая комиссия
-> - [UK Visa Application](https://www.gov.uk/apply-uk-visa) — Подача заявки онлайн
+> - [UK Visa Application](https://www.gov.uk/apply-to-come-to-the-uk) — Подача заявки онлайн
 > - [GOV.UK visa fees from 8 April 2026](https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-april-2026) — официальная таблица сборов
 > - [GOV.UK ETA](https://www.gov.uk/eta) — электронное разрешение на въезд
 > - [VFS Global UK in Cyprus](https://www.vfsglobal.co.uk/cy/en) — Визовый центр VFS
@@ -46,7 +46,7 @@ faqSchema:
 - **Никосия** — основной офис
 - Выберите визовый центр, предлагаемый актуальной системой записи.
 
-Процесс начинается онлайн на [gov.uk](https://www.gov.uk/apply-uk-visa): заполнение анкеты, оплата сбора, запись на сдачу биометрии. Только после этого вы лично посещаете VFS для сдачи отпечатков и фото.
+Процесс начинается онлайн на [gov.uk](https://www.gov.uk/apply-to-come-to-the-uk): заполнение анкеты, оплата сбора, запись на сдачу биометрии. Только после этого вы лично посещаете VFS для сдачи отпечатков и фото.
 
 ### Какие типы виз доступны?
 
@@ -90,7 +90,7 @@ faqSchema:
 
 ## Сколько стоит британская виза?
 
-| Тип визы | Стоимость (по данным [gov.uk](https://www.gov.uk/apply-uk-visa)) |
+| Тип визы | Стоимость (по данным [gov.uk](https://www.gov.uk/apply-to-come-to-the-uk)) |
 |----------|------|
 | Standard Visitor (до 6 мес.) | £135 |
 | Standard Visitor (2 года) | £506 |

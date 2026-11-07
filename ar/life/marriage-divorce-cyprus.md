@@ -28,7 +28,7 @@ faqSchema:
 > **المصادر الرسمية:**
 > - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — تسجيل الزواج
 > - [Family Courts (CyLaw)](https://www.cylaw.org/) — قانون الأسرة
-> - [MFA Consular Forms](https://mfa.gov.cy/consular-forms.html) — نماذج المستندات
+> - [وزارة الخارجية القبرصية](https://www.gov.cy/mfa/en/) — نماذج المستندات
 > - [بلدية ليماسول: الزواج المدني](https://www.limassol.org.cy/en/civil-weddings) — الإجراءات والرسوم (تم التحقق 2026-11-07)
 
 ## كيف تتزوج في قبرص؟

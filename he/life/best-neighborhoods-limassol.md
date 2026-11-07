@@ -76,9 +76,9 @@ translationKey: "luchshie-rayony-limassola-dlya-zhizni"
 
 ## איך הבריאות צריכה להשפיע על הבחירה?
 
-[הזכאות ל-GESY](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) תלויה בתושבות רגילה ובקטגוריית הזכאים הרלוונטית. הגישה לשירותים מחייבת רישום במרשם הזכאים ורישום ברשימה של רופא אישי, לפי [השאלות הנפוצות על הרישום](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq).
+[הזכאות ל-GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) תלויה בתושבות רגילה ובקטגוריית הזכאים הרלוונטית. הגישה לשירותים מחייבת רישום במרשם הזכאים ורישום ברשימה של רופא אישי, לפי [השאלות הנפוצות על הרישום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq).
 
-[רשימת שירותי הבריאות של HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) כוללת אשפוז דרך ספקים בהסכם, בכפוף לתנאי הגישה והשירות הרלוונטיים. קרבה לבית חולים לבדה אינה מקנה זכאות ואינה מכסה כל שירות. בדקו את הזכאות שלכם, זמינות רופאים ואת הספק של כל טיפול מתמשך.
+[רשימת שירותי הבריאות של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) כוללת אשפוז דרך ספקים בהסכם, בכפוף לתנאי הגישה והשירות הרלוונטיים. קרבה לבית חולים לבדה אינה מקנה זכאות ואינה מכסה כל שירות. בדקו את הזכאות שלכם, זמינות רופאים ואת הספק של כל טיפול מתמשך.
 
 ## אילו בדיקות עוזרות לבחור?
 

@@ -24,7 +24,7 @@ translationKey: "shtrafy-kipr-kamery-jcc-oplata"
 מצלמות בכבישי קפריסין עובדות באופן פעיל. בואו נחקור איך לבדוק ולשלם קנסות.
 
 > **מקורות רשמיים:**
-> - [משטרת קפריסין — תנועה](https://www.police.gov.cy/police/police.nsf/dmldept2_en/dmldept2_en) — משטרת תנועה
+> - [משטרת קפריסין](https://www.gov.cy/police/en/) — משטרת תנועה
 > - [JCC Smart](https://www.jccsmart.com/) — תשלום קנסות מקוון
 > - [מערכת מצלמות](https://www.cycamerasystem.com.cy/) — בדיקת קנסות מצלמות
 
@@ -209,4 +209,4 @@ translationKey: "shtrafy-kipr-kamery-jcc-oplata"
 
 ## מקורות
 
-- [Cyprus Police — Traffic](https://www.police.gov.cy/police/police.nsf/dmldept2_en/dmldept2_en) — gov.cy
+- [משטרת קפריסין](https://www.gov.cy/police/en/) — gov.cy

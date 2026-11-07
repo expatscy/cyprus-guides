@@ -140,7 +140,7 @@ faqSchema:
 
 ## الرعاية الصحية والاشتراكات
 
-تعتمد [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) على الجنسية والإقامة المعتادة والوضع القانوني المنطبق. و[الالتزام بالاشتراكات](https://www.gesy.org.cy/en-us/hiofinancing) مسألة منفصلة تعتمد على فئة المساهم والدخل. لا تستنتج التزاماً عاماً بالاشتراك ولا استبعاداً عاماً من اسم التصريح وحده.
+تعتمد [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) على الجنسية والإقامة المعتادة والوضع القانوني المنطبق. و[الالتزام بالاشتراكات](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) مسألة منفصلة تعتمد على فئة المساهم والدخل. لا تستنتج التزاماً عاماً بالاشتراك ولا استبعاداً عاماً من اسم التصريح وحده.
 
 استخدم قائمة التأمين الفعلية لمسارك. وطابق سياسة الهجرة مع هذا المتطلب، والأهلية للرعاية الصحية مع شروط HIO. راجع [الرعاية الصحية وGESY](/ar/life/healthcare-cyprus-gesy/).
 

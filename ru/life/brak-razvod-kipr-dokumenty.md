@@ -29,7 +29,7 @@ faqSchema:
 > **Официальные источники:**
 > - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Регистрация браков
 > - [Family Courts (CyLaw)](https://www.cylaw.org/) — Семейное право
-> - [MFA Consular Forms](https://mfa.gov.cy/consular-forms.html) — Формы для документов
+> - [МИД Кипра](https://www.gov.cy/mfa/en/) — Формы для документов
 > - [Муниципалитет Лимассола: гражданские церемонии](https://www.limassol.org.cy/en/civil-weddings) — порядок подачи уведомления и сборы (проверено 2026-11-07)
 
 ## Как зарегистрировать брак на Кипре?

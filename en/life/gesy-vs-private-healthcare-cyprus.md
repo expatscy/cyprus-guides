@@ -36,11 +36,11 @@ Use this comparison together with our [healthcare system overview](/en/life/heal
 | Waiting time | Ask the contracted provider about the appointment or procedure | Ask the named provider; obtain actual availability |
 | Provider choice | Choose providers contracted for the relevant GeSY service | Check the policy’s network, reimbursement and prior approval |
 
-The [HIO financing rules](https://www.gesy.org.cy/en-us/hiofinancing) distinguish co-payments from personal contributions. The annual co-payment cap is €150 generally, or €75 for Guaranteed Minimum Income recipients, low-income pensioners and children under 21. The €25 direct-specialist charge and a medicine price difference are separate personal contributions; the cap does not turn every charge into a covered co-payment.
+The [HIO financing rules](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) distinguish co-payments from personal contributions. The annual co-payment cap is €150 generally, or €75 for Guaranteed Minimum Income recipients, low-income pensioners and children under 21. The €25 direct-specialist charge and a medicine price difference are separate personal contributions; the cap does not turn every charge into a covered co-payment.
 
 ## Who is eligible for GeSY?
 
-Payment of contributions does not itself establish entitlement. The [HIO beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) require the conditions of the relevant category:
+Payment of contributions does not itself establish entitlement. The [HIO beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) require the conditions of the relevant category:
 
 - Cypriot citizens ordinarily resident in Republic-controlled areas or the UK sovereign bases in Cyprus.
 - EU citizens ordinarily resident in Republic-controlled areas who work there or hold permanent residence under the EU free-movement law.
@@ -70,11 +70,11 @@ For illustration, if €180,000 is all employee salary subject to the standard e
 
 ## What does GeSY cover?
 
-Outpatient services began on 1 June 2019 and inpatient care on 1 June 2020. The [HIO healthcare-service list](https://www.gesy.org.cy/en-us/hioghshealthcareservices) includes personal doctors, outpatient specialists, laboratories, pharmacies, inpatient care, nurses and midwives, allied health professionals, preventive dental services, palliative care and rehabilitation. Use the relevant service’s referral, diagnosis, provider and benefit rules.
+Outpatient services began on 1 June 2019 and inpatient care on 1 June 2020. The [HIO healthcare-service list](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) includes personal doctors, outpatient specialists, laboratories, pharmacies, inpatient care, nurses and midwives, allied health professionals, preventive dental services, palliative care and rehabilitation. Use the relevant service’s referral, diagnosis, provider and benefit rules.
 
 ### Preventive dental care
 
-The [HIO dental activity catalogue](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) provides one preventive dental visit after a year has passed since the previous GeSY dental visit. No referral is required. The listed services depend on age:
+The [HIO dental activity catalogue](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf) provides one preventive dental visit after a year has passed since the previous GeSY dental visit. No referral is required. The listed services depend on age:
 
 - Under 4: oral check and oral-health advice for the beneficiary, parent or guardian.
 - Age 4 to under 6: scaling, oral check and oral-health advice.
@@ -119,15 +119,15 @@ For an emergency, call 112 and describe the situation. For planned care, verify 
 
 ## Sources
 
-- [HIO — beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — registration FAQ](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — contribution rates and charges](https://www.gesy.org.cy/en-us/hiofinancing)
+- [HIO — beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — registration FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — contribution rates and charges](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
 - [HIO — Greek financing table and precise reduced-cap age condition](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=%2Fel-gr%2F&lookuppage=hiofinancing)
-- [HIO — personal-doctor FAQ](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — specialist FAQ](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
-- [HIO — healthcare services](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — dental catalogue](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf)
-- [HIO — implementation timetable](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — contact centre](https://www.gesy.org.cy/en-us/contactus)
+- [HIO — personal-doctor FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — specialist FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
+- [HIO — healthcare services](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — dental catalogue](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf)
+- [HIO — implementation timetable](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — contact centre](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=contactus)
 - [UK government — emergency contacts in Cyprus](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)
 - [Universal Life — MultiCare benefit table](https://www.universallife.com.cy/storage/library/6968b83fcb967.pdf)

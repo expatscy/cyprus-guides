@@ -26,7 +26,7 @@ faqSchema:
 
 > **المصادر الرسمية:**
 > - [British High Commission Nicosia](https://www.gov.uk/world/organisations/british-high-commission-nicosia) — المفوضية العليا البريطانية
-> - [UK Visa Application](https://www.gov.uk/apply-uk-visa) — تقديم الطلب أونلاين
+> - [UK Visa Application](https://www.gov.uk/apply-to-come-to-the-uk) — تقديم الطلب أونلاين
 > - [GOV.UK رسوم التأشيرات من 8 أبريل 2026](https://www.gov.uk/government/publications/visa-regulations-revised-table/home-office-immigration-and-nationality-fees-8-april-2026) — جدول الرسوم الرسمي
 > - [GOV.UK المعالجة السريعة](https://www.gov.uk/faster-decision-visa-settlement) — Priority وSuper Priority
 > - [GOV.UK ETA](https://www.gov.uk/eta) — تصريح السفر الإلكتروني
@@ -47,7 +47,7 @@ faqSchema:
 - **نيقوسيا** — المكتب الرئيسي
 - اختر مركز الطلبات الذي يتيحه نظام الحجز الحالي.
 
-العملية تبدأ أونلاين على [gov.uk](https://www.gov.uk/apply-uk-visa): ملء النموذج، دفع الرسوم، حجز موعد للبيومترية. بعد ذلك فقط تزور مكتب VFS شخصياً لتقديم البصمات والصورة.
+العملية تبدأ أونلاين على [gov.uk](https://www.gov.uk/apply-to-come-to-the-uk): ملء النموذج، دفع الرسوم، حجز موعد للبيومترية. بعد ذلك فقط تزور مكتب VFS شخصياً لتقديم البصمات والصورة.
 
 ### أنواع التأشيرات المتاحة
 
@@ -85,7 +85,7 @@ faqSchema:
 
 ## كم تكلفة التأشيرة البريطانية؟
 
-| نوع التأشيرة | التكلفة (حسب [gov.uk](https://www.gov.uk/apply-uk-visa)) |
+| نوع التأشيرة | التكلفة (حسب [gov.uk](https://www.gov.uk/apply-to-come-to-the-uk)) |
 |-----------|------|
 | Standard Visitor (حتى 6 أشهر) | GBP 135 |
 | Standard Visitor (سنتان) | GBP 506 |

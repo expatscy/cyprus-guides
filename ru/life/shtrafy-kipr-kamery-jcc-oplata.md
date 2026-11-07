@@ -27,7 +27,7 @@ faqSchema:
 Камеры на дорогах Кипра работают активно. О покупке и регистрации [автомобиля](/ru/life/avto-mashina-kipr-registratsiya/) и обмене [водительских прав](/ru/life/voditelskie-prava-kipr-obmen-poluchenie/) — отдельные статьи. Разберём, как проверять и оплачивать штрафы.
 
 > **Официальные источники:**
-> - [Cyprus Police — Traffic](https://www.police.gov.cy/police/police.nsf/dmldept2_en/dmldept2_en) — Дорожная полиция
+> - [Полиция Кипра](https://www.gov.cy/police/en/) — Дорожная полиция
 > - [JCC Smart](https://www.jccsmart.com/) — Оплата штрафов онлайн
 > - [Camera System](https://www.cycamerasystem.com.cy/) — Проверка штрафов с камер
 
@@ -199,4 +199,4 @@ faqSchema:
 
 ## Источники
 
-- [Cyprus Police — Traffic](https://www.police.gov.cy/police/police.nsf/dmldept2_en/dmldept2_en) — gov.cy
+- [Полиция Кипра](https://www.gov.cy/police/en/) — gov.cy

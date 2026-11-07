@@ -26,7 +26,7 @@ faqSchema:
 
 > **מקורות רשמיים:**
 > - [British High Commission Nicosia](https://www.gov.uk/world/organisations/british-high-commission-nicosia) — הנציבות העליונה
-> - [UK Visa Application](https://www.gov.uk/apply-uk-visa) — הגשת בקשה מקוונת
+> - [UK Visa Application](https://www.gov.uk/apply-to-come-to-the-uk) — הגשת בקשה מקוונת
 > - [GOV.UK visa fees](https://visa-fees.homeoffice.gov.uk/y/cyprus/eur) — אגרות ויזה מקפריסין
 > - [GOV.UK ETA](https://www.gov.uk/eta) — אישור נסיעה אלקטרוני
 > - [VFS Global UK in Cyprus](https://www.vfsglobal.co.uk/cy/en) — מרכז הויזות
@@ -45,7 +45,7 @@ faqSchema:
 
 - **ניקוסיה** — מרכז הבקשות הפעיל לביומטריה
 
-התהליך מתחיל באופן מקוון ב-[gov.uk](https://www.gov.uk/apply-uk-visa): מילוי טופס, תשלום אגרה, קביעת תור לביומטריה. רק לאחר מכן מבקרים פיזית ב-VFS למסירת טביעות אצבע וצילום.
+התהליך מתחיל באופן מקוון ב-[gov.uk](https://www.gov.uk/apply-to-come-to-the-uk): מילוי טופס, תשלום אגרה, קביעת תור לביומטריה. רק לאחר מכן מבקרים פיזית ב-VFS למסירת טביעות אצבע וצילום.
 
 ### סוגי ויזות
 
@@ -83,7 +83,7 @@ faqSchema:
 
 ## כמה עולה ויזה בריטית?
 
-| סוג ויזה | עלות (לפי [gov.uk](https://www.gov.uk/apply-uk-visa)) |
+| סוג ויזה | עלות (לפי [gov.uk](https://www.gov.uk/apply-to-come-to-the-uk)) |
 |-----------|------|
 | Standard Visitor (עד 6 חודשים) | £135 |
 | Standard Visitor (שנתיים) | £506 |

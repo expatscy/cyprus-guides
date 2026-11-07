@@ -186,5 +186,5 @@ faqSchema:
 
 ## מקורות
 
-- [GESY](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 - [שגרירות ישראל בניקוסיה](https://embassies.gov.il/nicosia/) — משרד החוץ

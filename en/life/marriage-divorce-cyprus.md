@@ -45,7 +45,7 @@ Marriage and family documents are important for many immigration procedures in C
 > **Official sources:**
 > - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Marriage registration
 > - [Family Courts (CyLaw)](https://www.cylaw.org/) — Family law
-> - [MFA Consular Forms](https://mfa.gov.cy/consular-forms.html) — Document forms
+> - [Ministry of Foreign Affairs](https://www.gov.cy/mfa/en/) — Document forms
 > - [Limassol Municipality: Civil Weddings](https://www.limassol.org.cy/en/civil-weddings) — notice procedure and fees (checked 2026-11-07)
 
 ## How do I get married in Cyprus?

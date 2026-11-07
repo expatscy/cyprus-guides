@@ -79,7 +79,7 @@ The ordinary **2026 personal income-tax bands apply to taxable income**: 0% up t
 
 Employees' Social Insurance rate is **8.8% of insurable earnings**. In **2026**, the employee ceiling is **EUR 5,742 per month for monthly-paid employees** or **EUR 1,325 per week for weekly-paid employees**. [Applied contribution rates](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) and [2026 ceiling notice](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5).
 
-The employee **GESY contribution rate is 2.65%**; its annual assessment limit is **EUR 180,000 per natural person across the applicable contribution categories**, separate from the Social Insurance ceiling. [HIO financing rules](https://www.gesy.org.cy/en-us/hiofinancing).
+The employee **GESY contribution rate is 2.65%**; its annual assessment limit is **EUR 180,000 per natural person across the applicable contribution categories**, separate from the Social Insurance ceiling. [HIO financing rules](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing).
 
 Ask payroll for a calculation based on your actual income and any relief for which you qualify. Joining a particular employer does not establish personal tax-exemption eligibility.
 

@@ -160,7 +160,7 @@ howtoSchema:
 
 تتطلب قائمة الرحالة الرقمي شهادة تأمين Plan A تغطي العلاج الداخلي والعلاج الخارجي ونقل الجثمان.
 
-تصريح الرحالة الرقمي وحده لا يثبت أهلية الاستفادة من GeSY. تتطلب [قواعد منظمة التأمين الصحي](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) الإقامة المعتادة وفئة مستفيدين مناسبة؛ وبالنسبة لمواطني الدول الثالثة تهم شروط الإقامة الدائمة أو المساواة في المعاملة أو الشروط العائلية. قيّم أي استحقاق بشكل منفصل، ولا تفترض أن هذا التصريح يمنحه ولا أن كل رحالة رقمي مستبعد في كل الظروف.
+تصريح الرحالة الرقمي وحده لا يثبت أهلية الاستفادة من GeSY. تتطلب [قواعد منظمة التأمين الصحي](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) الإقامة المعتادة وفئة مستفيدين مناسبة؛ وبالنسبة لمواطني الدول الثالثة تهم شروط الإقامة الدائمة أو المساواة في المعاملة أو الشروط العائلية. قيّم أي استحقاق بشكل منفصل، ولا تفترض أن هذا التصريح يمنحه ولا أن كل رحالة رقمي مستبعد في كل الظروف.
 
 ## هل تُحتسب هذه الإقامة للجنسية؟
 
@@ -190,5 +190,5 @@ howtoSchema:
 - [النماذج والمستندات الرسمية](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/)
 - [الإقامة الضريبية والموطن](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [إدارة الضرائب: رسم الدمغة](https://www.gov.cy/mof-tax/documents/chartosima/)
-- [أهلية الاستفادة من GeSY](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [أهلية الاستفادة من GeSY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [قانون السجل المدني: أحكام الجنسية الحالية](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)

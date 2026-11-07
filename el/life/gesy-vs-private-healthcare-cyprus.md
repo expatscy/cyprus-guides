@@ -36,11 +36,11 @@ faqSchema:
 | Χρόνος αναμονής | Ρωτήστε τον συμβεβλημένο πάροχο για το ραντεβού ή την επέμβαση | Ρωτήστε τον συγκεκριμένο πάροχο· ζητήστε την πραγματική διαθεσιμότητα |
 | Επιλογή παρόχου | Επιλέξτε παρόχους συμβεβλημένους για τη σχετική υπηρεσία ΓεΣΥ | Ελέγξτε το δίκτυο, την επιστροφή εξόδων και την προηγούμενη έγκριση του συμβολαίου |
 
-Οι [κανόνες χρηματοδότησης του ΟΑΥ](https://www.gesy.org.cy/en-us/hiofinancing) ξεχωρίζουν τις συμμετοχές από τις προσωπικές επιβαρύνσεις. Το ετήσιο ανώτατο όριο συμμετοχών είναι γενικά €150, ή €75 για δικαιούχους Ελάχιστου Εγγυημένου Εισοδήματος, συνταξιούχους χαμηλού εισοδήματος και παιδιά κάτω των 21 ετών. Η επιβάρυνση των €25 για άμεση επίσκεψη σε ειδικό και η διαφορά τιμής φαρμάκου είναι ξεχωριστές προσωπικές επιβαρύνσεις. Το όριο δεν μετατρέπει κάθε χρέωση σε συμμετοχή που καλύπτεται από αυτό.
+Οι [κανόνες χρηματοδότησης του ΟΑΥ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) ξεχωρίζουν τις συμμετοχές από τις προσωπικές επιβαρύνσεις. Το ετήσιο ανώτατο όριο συμμετοχών είναι γενικά €150, ή €75 για δικαιούχους Ελάχιστου Εγγυημένου Εισοδήματος, συνταξιούχους χαμηλού εισοδήματος και παιδιά κάτω των 21 ετών. Η επιβάρυνση των €25 για άμεση επίσκεψη σε ειδικό και η διαφορά τιμής φαρμάκου είναι ξεχωριστές προσωπικές επιβαρύνσεις. Το όριο δεν μετατρέπει κάθε χρέωση σε συμμετοχή που καλύπτεται από αυτό.
 
 ## Ποιος δικαιούται το ΓεΣΥ;
 
-Η πληρωμή εισφορών από μόνη της δεν δίνει δικαίωμα στο ΓεΣΥ. Σύμφωνα με τις [κατηγορίες δικαιούχων του ΟΑΥ](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), πρέπει να πληροίτε τις προϋποθέσεις της κατηγορίας σας:
+Η πληρωμή εισφορών από μόνη της δεν δίνει δικαίωμα στο ΓεΣΥ. Σύμφωνα με τις [κατηγορίες δικαιούχων του ΟΑΥ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), πρέπει να πληροίτε τις προϋποθέσεις της κατηγορίας σας:
 
 - Κύπριοι πολίτες που διαμένουν συνήθως σε περιοχές που ελέγχονται από τη Δημοκρατία ή στις Βρετανικές Κυρίαρχες Βάσεις στην Κύπρο.
 - Πολίτες της ΕΕ που διαμένουν συνήθως σε περιοχές που ελέγχονται από τη Δημοκρατία και εργάζονται εκεί ή έχουν μόνιμη διαμονή βάσει του δικαίου της ΕΕ για την ελεύθερη κυκλοφορία.
@@ -70,11 +70,11 @@ faqSchema:
 
 ## Τι καλύπτει το ΓεΣΥ;
 
-Η εξωνοσοκομειακή περίθαλψη ξεκίνησε την 1η Ιουνίου 2019 και η νοσοκομειακή την 1η Ιουνίου 2020. Ο [κατάλογος υπηρεσιών υγείας του ΟΑΥ](https://www.gesy.org.cy/en-us/hioghshealthcareservices) περιλαμβάνει προσωπικούς ιατρούς, εξωνοσοκομειακούς ειδικούς, εργαστήρια, φαρμακεία, νοσοκομειακή περίθαλψη, νοσηλευτές και μαίες, συναφή επαγγέλματα υγείας, προληπτικές οδοντιατρικές υπηρεσίες, παρηγορητική φροντίδα και αποκατάσταση. Χρησιμοποιήστε τους κανόνες παραπομπής, διάγνωσης, παρόχου και παροχών της σχετικής υπηρεσίας.
+Η εξωνοσοκομειακή περίθαλψη ξεκίνησε την 1η Ιουνίου 2019 και η νοσοκομειακή την 1η Ιουνίου 2020. Ο [κατάλογος υπηρεσιών υγείας του ΟΑΥ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) περιλαμβάνει προσωπικούς ιατρούς, εξωνοσοκομειακούς ειδικούς, εργαστήρια, φαρμακεία, νοσοκομειακή περίθαλψη, νοσηλευτές και μαίες, συναφή επαγγέλματα υγείας, προληπτικές οδοντιατρικές υπηρεσίες, παρηγορητική φροντίδα και αποκατάσταση. Χρησιμοποιήστε τους κανόνες παραπομπής, διάγνωσης, παρόχου και παροχών της σχετικής υπηρεσίας.
 
 ### Προληπτική οδοντιατρική φροντίδα
 
-Ο [κατάλογος οδοντιατρικών δραστηριοτήτων του ΟΑΥ](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) προβλέπει μία προληπτική οδοντιατρική επίσκεψη αφού περάσει ένας χρόνος από την προηγούμενη οδοντιατρική επίσκεψη στο ΓεΣΥ. Δεν απαιτείται παραπομπή. Οι αναγραφόμενες υπηρεσίες εξαρτώνται από την ηλικία:
+Ο [κατάλογος οδοντιατρικών δραστηριοτήτων του ΟΑΥ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf) προβλέπει μία προληπτική οδοντιατρική επίσκεψη αφού περάσει ένας χρόνος από την προηγούμενη οδοντιατρική επίσκεψη στο ΓεΣΥ. Δεν απαιτείται παραπομπή. Οι αναγραφόμενες υπηρεσίες εξαρτώνται από την ηλικία:
 
 - Κάτω των 4: στοματικός έλεγχος και συμβουλές στοματικής υγείας για τον δικαιούχο, τον γονέα ή τον κηδεμόνα.
 - Ηλικία 4 έως κάτω των 6: αποτρύγωση, στοματικός έλεγχος και συμβουλές στοματικής υγείας.
@@ -119,15 +119,15 @@ faqSchema:
 
 ## Πηγές
 
-- [ΟΑΥ — κατηγορίες δικαιούχων](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [ΟΑΥ — συχνές ερωτήσεις εγγραφής](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [ΟΑΥ — συντελεστές εισφορών και επιβαρύνσεις](https://www.gesy.org.cy/en-us/hiofinancing)
+- [ΟΑΥ — κατηγορίες δικαιούχων](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [ΟΑΥ — συχνές ερωτήσεις εγγραφής](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [ΟΑΥ — συντελεστές εισφορών και επιβαρύνσεις](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
 - [ΟΑΥ — ελληνικός πίνακας χρηματοδότησης και ακριβής προϋπόθεση ηλικίας μειωμένου ορίου](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=%2Fel-gr%2F&lookuppage=hiofinancing)
-- [ΟΑΥ — συχνές ερωτήσεις προσωπικού ιατρού](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [ΟΑΥ — συχνές ερωτήσεις ειδικών](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
-- [ΟΑΥ — υπηρεσίες υγείας](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [ΟΑΥ — οδοντιατρικός κατάλογος](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf)
-- [ΟΑΥ — χρονοδιάγραμμα εφαρμογής](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [ΟΑΥ — κέντρο επικοινωνίας](https://www.gesy.org.cy/en-us/contactus)
+- [ΟΑΥ — συχνές ερωτήσεις προσωπικού ιατρού](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [ΟΑΥ — συχνές ερωτήσεις ειδικών](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
+- [ΟΑΥ — υπηρεσίες υγείας](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [ΟΑΥ — οδοντιατρικός κατάλογος](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf)
+- [ΟΑΥ — χρονοδιάγραμμα εφαρμογής](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [ΟΑΥ — κέντρο επικοινωνίας](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=contactus)
 - [Κυβέρνηση ΗΒ — επαφές έκτακτης ανάγκης στην Κύπρο](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)
 - [Universal Life — πίνακας παροχών MultiCare](https://www.universallife.com.cy/storage/library/6968b83fcb967.pdf)

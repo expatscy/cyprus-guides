@@ -104,5 +104,5 @@ After birth, ask the HIO about your child's eligibility and registration, and ar
 - [Ministry of Interior: birth certificates for births in Cyprus](https://www.gov.cy/moi/en/documents/birth-certificates-birth-in-cyprus/).
 - [Civil Registry Law, section 109](https://www.cylaw.org/nomoi/enop/ind/2002_1_141/section-sc852d7c40-bca1-5785-16b3-2a04cd997a2c.html).
 - [Official maternity-benefit FAQ](https://maternity-benefit.service.gov.cy/en/faq) and [Social Insurance Law, section 29](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
-- [HIO financing and co-payment guidance](https://www.gesy.org.cy/en-us/hiofinancing).
+- [HIO financing and co-payment guidance](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing).
 - [National childhood vaccination programme, 2026](https://www.gov.cy/media/sites/24/2026/02/NATIONAL-VACCINATION-PROGRAM-FOR-CHILDREN-AND-ADOLESCENTS-2026.pdf).

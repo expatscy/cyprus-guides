@@ -197,8 +197,8 @@ translationKey: "vizitersky-vnzh-kipr-visitor-permit"
 وضع الزائر وحده **لا يمنح أهلية GESY**:
 
 - القائمة تشترط **تأميناً خاصاً Plan A**
-- تحقق من [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility): الجنسية، الإقامة المعتادة والوضع القانوني
-- [الالتزام بدفع اشتراكات GHS](https://www.gesy.org.cy/en-us/hiofinancing) مسألة منفصلة تتعلق بالدخل والفئة؛ دفع الاشتراك لا يمنح أهلية العلاج
+- تحقق من [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility): الجنسية، الإقامة المعتادة والوضع القانوني
+- [الالتزام بدفع اشتراكات GHS](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) مسألة منفصلة تتعلق بالدخل والفئة؛ دفع الاشتراك لا يمنح أهلية العلاج
 
 ## ما هو المسار للحصول على الجنسية القبرصية؟
 

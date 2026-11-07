@@ -63,7 +63,7 @@ Er sagt, **95 % seiner eigenen Kommunikation** laufe auf Russisch. Das ist seine
 
 Dmitry schätzt die zusätzliche Versicherung seiner Familie zum Zeitpunkt des Interviews auf **etwa 3.000 € im Jahr**. Er erzählt, er habe nach Schulbesuchen die **American Academy** gewählt und ihre Atmosphäre für seine Kinder bevorzugt. Das sind die berichteten Erfahrungen und Entscheidungen seiner Familie, kein aktuelles Versicherungsangebot und keine Bewertung aller Schulen.
 
-**Aktueller Hinweis zur Gesundheit:** Die [Leistungsliste der HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) enthält **stationäre Versorgung** durch Vertragsanbieter. Prüfen Sie die [Anspruchsberechtigung](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), die jeweilige abgedeckte Leistung und ihre Zugangsbedingungen. Die Versicherungsdiskussion im Interview belegt keinen pauschalen Ausschluss teurer Operationen. Zur weiteren Planung lesen Sie unseren [Vergleich GeSY und Privatmedizin](/de/life/gesy-vs-private-krankenversicherung-zypern/) und den [Schulvergleich](/de/life/schools-cyprus-comparison/).
+**Aktueller Hinweis zur Gesundheit:** Die [Leistungsliste der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) enthält **stationäre Versorgung** durch Vertragsanbieter. Prüfen Sie die [Anspruchsberechtigung](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), die jeweilige abgedeckte Leistung und ihre Zugangsbedingungen. Die Versicherungsdiskussion im Interview belegt keinen pauschalen Ausschluss teurer Operationen. Zur weiteren Planung lesen Sie unseren [Vergleich GeSY und Privatmedizin](/de/life/gesy-vs-private-krankenversicherung-zypern/) und den [Schulvergleich](/de/life/schools-cyprus-comparison/).
 
 ## Steuern im Gespräch und aktuelle Hinweise
 
@@ -101,6 +101,6 @@ Nutzen Sie das Interview, um Fragen zu Ihrem eigenen Umzug, zur Gesundheitsverso
 ## Quellen
 
 - [Originalinterview und veröffentlichte Untertitel](https://www.youtube.com/watch?v=ZxMemLmj4MM) — Metadaten des Herausgebers und zugeordneter Bericht des Gastes; relevante Untertitelpassagen um 00:00–03:19, 05:33–05:48 und 35:58–38:40
-- [HIO: Gesundheitsleistungen](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO: Anspruchsberechtigung](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [HIO: Gesundheitsleistungen](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO: Anspruchsberechtigung](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [Steuerbehörde: Steueransässigkeit und Domizil](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)

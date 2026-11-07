@@ -64,7 +64,7 @@ faqSchema:
 
 דמיטרי מעריך את הביטוח הנוסף של משפחתו ב**כ-3,000 אירו בשנה** בזמן הראיון. הוא מספר שבחר ב-**American Academy** אחרי ביקור בבתי ספר ושהעדיף את האווירה שלה לילדיו. אלה החוויה והבחירות של משפחתו כפי שדווחו, לא הצעת ביטוח עדכנית ולא הערכה של כל בתי הספר.
 
-**הערה עדכנית על בריאות:** [רשימת השירותים של HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) כוללת **אשפוז** אצל ספקים מוסכמים. בדקו את [זכאות המבוטחים](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), את השירות המכוסה הספציפי ואת תנאי הגישה אליו. דיון הביטוח בראיון אינו מוכיח החרגה גורפת של ניתוחים יקרים. לתכנון נוסף ראו את [השוואת GeSY לרפואה פרטית](/he/life/gesy-vs-private-healthcare-cyprus/) ואת [השוואת בתי הספר](/he/life/schools-cyprus-comparison/).
+**הערה עדכנית על בריאות:** [רשימת השירותים של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) כוללת **אשפוז** אצל ספקים מוסכמים. בדקו את [זכאות המבוטחים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), את השירות המכוסה הספציפי ואת תנאי הגישה אליו. דיון הביטוח בראיון אינו מוכיח החרגה גורפת של ניתוחים יקרים. לתכנון נוסף ראו את [השוואת GeSY לרפואה פרטית](/he/life/gesy-vs-private-healthcare-cyprus/) ואת [השוואת בתי הספר](/he/life/schools-cyprus-comparison/).
 
 ## הדיון במיסים וההנחיות הנוכחיות
 
@@ -102,6 +102,6 @@ faqSchema:
 ## מקורות
 
 - [הראיון המקורי והכתוביות שפורסמו](https://www.youtube.com/watch?v=ZxMemLmj4MM) — נתוני המפרסם וסיפור האורח המיוחס לו; קטעי כתוביות רלוונטיים סביב 00:00–03:19, 05:33–05:48 ו-35:58–38:40
-- [HIO: שירותי בריאות](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO: זכאות מבוטחים](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [HIO: שירותי בריאות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO: זכאות מבוטחים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [רשות המסים: תושבות מס ודומיסיל](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)

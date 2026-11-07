@@ -59,7 +59,7 @@ Entscheiden Sie nicht anhand eines Integrationszeitplans, ob Ihr Leiden Beachtun
 
 Der NHS rät zum Hausarzt, wenn die gedrückte Stimmung länger als zwei Wochen anhält, Sie schlecht zurechtkommen oder eigene Maßnahmen nicht helfen. Das ist ein allgemeiner medizinischer Rat; lassen Sie sich von einer Ärztin oder einem Arzt auf Zypern untersuchen und über passende lokale Unterstützung beraten. Bei akuter Gefahr rufen Sie **112** an und warten Sie weder zwei Wochen noch die Öffnungszeit einer Hotline ab.
 
-Wenn Sie bei GeSY versichert sind, fragen Sie Ihren persönlichen Arzt nach der passenden Stelle und den Zugangsbedingungen. Nach den [Hinweisen der HIO zu ambulanten Fachärzten](https://www.gesy.org.cy/en-us/hiospecialistsaccess) gibt es den Zugang mit Überweisung und den direkten Zugang zu Vertragsfachärzten; beim direkten Zugang fällt in der Regel ein Eigenanteil an. Klären Sie Anbieter, Überweisung, Kosten und freie Termine, statt sich auf eine feste Wartezeit zu verlassen. Mehr zum System im [Ratgeber zur Gesundheitsversorgung](/de/life/healthcare-cyprus-gesy/).
+Wenn Sie bei GeSY versichert sind, fragen Sie Ihren persönlichen Arzt nach der passenden Stelle und den Zugangsbedingungen. Nach den [Hinweisen der HIO zu ambulanten Fachärzten](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiospecialistsaccess) gibt es den Zugang mit Überweisung und den direkten Zugang zu Vertragsfachärzten; beim direkten Zugang fällt in der Regel ein Eigenanteil an. Klären Sie Anbieter, Überweisung, Kosten und freie Termine, statt sich auf eine feste Wartezeit zu verlassen. Mehr zum System im [Ratgeber zur Gesundheitsversorgung](/de/life/healthcare-cyprus-gesy/).
 
 ## Was bietet Cyprus Samaritans?
 
@@ -96,6 +96,6 @@ Cyprus Samaritans nennt die Nummer 80007773, täglich 16:00–00:00 Uhr, für ko
 
 - [Cyprus Samaritans: Hotline, Zeiten und Altersregel](https://cyprussamaritans.org/)
 - [NHS: gedrückte Stimmung, Traurigkeit und Depression](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/)
-- [GeSY: Zugang zu ambulanten Fachärzten](https://www.gesy.org.cy/en-us/hiospecialistsaccess)
+- [GeSY: Zugang zu ambulanten Fachärzten](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiospecialistsaccess)
 - [Bildungsministerium: Sprachkurse der Erwachsenenbildungszentren](https://www.moec.gov.cy/epimorfotika/xenes_glosses.html)
 - [Britisches Außenministerium: Notfallkontakte auf Zypern](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)

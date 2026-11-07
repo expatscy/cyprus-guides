@@ -391,7 +391,7 @@ faqSchema:
 
 Дмитрий оценивает дополнительную страховку семьи примерно в **3000 евро в год** на момент интервью. Он рассказывает, что выбрал **American Academy** после посещения школ и что ему понравилась её атмосфера для детей. Это сообщённый опыт и выбор его семьи, а не актуальное страховое предложение и не оценка всех школ.
 
-**Актуально о медицине:** в [списке услуг HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) есть **стационарная помощь** от договорных поставщиков. Проверьте [право на участие](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), конкретную покрываемую услугу и условия доступа. Обсуждение страховки в интервью не доказывает общего исключения дорогих операций. Для планирования смотрите наше [сравнение GeSY и частной медицины](/ru/life/gesy-vs-chastnaya-strahovka-kipr/) и [сравнение школ](/ru/life/shkoly-kipr-sravnenie-island-trinity-pascal/).
+**Актуально о медицине:** в [списке услуг HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) есть **стационарная помощь** от договорных поставщиков. Проверьте [право на участие](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), конкретную покрываемую услугу и условия доступа. Обсуждение страховки в интервью не доказывает общего исключения дорогих операций. Для планирования смотрите наше [сравнение GeSY и частной медицины](/ru/life/gesy-vs-chastnaya-strahovka-kipr/) и [сравнение школ](/ru/life/shkoly-kipr-sravnenie-island-trinity-pascal/).
 
 ## Налоги в разговоре и действующие разъяснения
 
@@ -429,6 +429,6 @@ faqSchema:
 ## Источники
 
 - [Оригинальное интервью и опубликованные субтитры](https://www.youtube.com/watch?v=ZxMemLmj4MM) — метаданные издателя и рассказ гостя; соответствующие фрагменты субтитров около 00:00–03:19, 05:33–05:48 и 35:58–38:40
-- [HIO: медицинские услуги](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO: право на участие](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [HIO: медицинские услуги](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO: право на участие](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [Налоговый департамент: налоговое резидентство и домицилий](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)

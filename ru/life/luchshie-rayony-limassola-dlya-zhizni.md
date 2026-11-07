@@ -66,9 +66,9 @@ faqSchema:
 
 ## Как медицина должна влиять на выбор?
 
-[Право на GESY](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) зависит от постоянного проживания и применимой категории бенефициара. Для доступа нужна запись в реестр бенефициаров и регистрация в списке личного врача — см. [FAQ по регистрации](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq).
+[Право на GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) зависит от постоянного проживания и применимой категории бенефициара. Для доступа нужна запись в реестр бенефициаров и регистрация в списке личного врача — см. [FAQ по регистрации](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq).
 
-[Перечень услуг HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) включает стационарное лечение у контрактных поставщиков при соблюдении условий доступа и оказания услуг. Близость к больнице сама по себе не даёт права на GESY и не покрывает все услуги. Проверьте своё право на участие, доступность врача и поставщика по текущему лечению.
+[Перечень услуг HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) включает стационарное лечение у контрактных поставщиков при соблюдении условий доступа и оказания услуг. Близость к больнице сама по себе не даёт права на GESY и не покрывает все услуги. Проверьте своё право на участие, доступность врача и поставщика по текущему лечению.
 
 ## Какие проверки помогут выбрать?
 

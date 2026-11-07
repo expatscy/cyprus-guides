@@ -33,7 +33,7 @@ Ein [Bankkonto auf Zypern](/de/business/banks-cyprus-comparison/) als russischer
 
 > **Offizielle Quellen:**
 > - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — AML-Anforderungen der Zentralbank von Zypern
-> - [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism_en) — EU-Geldwäscherichtlinien (einschließlich 6AMLD)
+> - [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) — EU-Geldwäscherichtlinien (einschließlich 6AMLD)
 > - [EU Sanctions Map](https://www.sanctionsmap.eu/) — aktuelle Sanktionskarte der EU
 > - [MOKAS — Unit for Combating Money Laundering](https://www.law.gov.cy/law/mokas/mokas.nsf/) — Zyperns FIU (Finanzermittlungsstelle)
 
@@ -244,6 +244,6 @@ Die AML/KYC-Prüfung für Russen auf Zypern ist ein langer Prozess, der Geduld v
 ## Quellen
 
 - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — Central Bank of Cyprus
-- [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism_en) — European Commission
+- [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) — European Commission
 - [MOKAS — Unit for Combating Money Laundering](https://www.law.gov.cy/law/mokas/mokas.nsf/) — gov.cy
 - [Financial Ombudsman of Cyprus](https://www.financialombudsman.gov.cy/) — gov.cy

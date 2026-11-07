@@ -33,7 +33,7 @@ faqSchema:
 
 > **Επίσημες πηγές:**
 > - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — Απαιτήσεις της Κεντρικής Τράπεζας της Κύπρου για AML
-> - [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism_en) — Οδηγίες της ΕΕ κατά της νομιμοποίησης εσόδων από παράνομες δραστηριότητες (συμπ. 6AMLD)
+> - [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) — Οδηγίες της ΕΕ κατά της νομιμοποίησης εσόδων από παράνομες δραστηριότητες (συμπ. 6AMLD)
 > - [EU Sanctions Map](https://www.sanctionsmap.eu/) — Επικαιροποιημένος χάρτης κυρώσεων της ΕΕ
 > - [MOKAS — Unit for Combating Money Laundering](https://www.law.gov.cy/law/mokas/mokas.nsf/) — Η κυπριακή FIU (Μονάδα Χρηματοοικονομικών Πληροφοριών)
 
@@ -244,6 +244,6 @@ faqSchema:
 ## Πηγές
 
 - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — Central Bank of Cyprus
-- [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism_en) — European Commission
+- [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) — European Commission
 - [MOKAS — Unit for Combating Money Laundering](https://www.law.gov.cy/law/mokas/mokas.nsf/) — gov.cy
 - [Financial Ombudsman of Cyprus](https://www.financialombudsman.gov.cy/) — gov.cy

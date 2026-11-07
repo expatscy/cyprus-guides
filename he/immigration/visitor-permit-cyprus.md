@@ -197,8 +197,8 @@ translationKey: "vizitersky-vnzh-kipr-visitor-permit"
 סטטוס מבקר לבדו **אינו מקנה זכאות ל-GESY**:
 
 - הרשימה דורשת **ביטוח פרטי Plan A**
-- בדקו את [קטגוריות הזכאים של HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility): אזרחות, מקום מגורים רגיל וסטטוס חוקי
-- [חובת תשלום דמי GHS](https://www.gesy.org.cy/en-us/hiofinancing) היא שאלה נפרדת של הכנסה וקטגוריה; תשלום דמי ביטוח אינו מקנה זכאות לטיפול
+- בדקו את [קטגוריות הזכאים של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility): אזרחות, מקום מגורים רגיל וסטטוס חוקי
+- [חובת תשלום דמי GHS](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) היא שאלה נפרדת של הכנסה וקטגוריה; תשלום דמי ביטוח אינו מקנה זכאות לטיפול
 
 ## איך אשרת ביקור בקפריסין מובילה לאזרחות?
 

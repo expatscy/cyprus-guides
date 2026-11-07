@@ -30,7 +30,7 @@ faqSchema:
 Zypern ist die natürliche Brücke zwischen dem Nahen Osten und der Europäischen Union. Die geografische Lage, die EU-Mitgliedschaft und die wettbewerbsfähigen Steuersätze machen die Insel zum Ausgangspunkt für arabische Unternehmer, die den europäischen Markt erreichen und zugleich nah an ihren Heimatmärkten bleiben wollen.
 
 > **Offizielle Quellen:**
-> - [Registrar of Companies — Zypern](https://www.gov.cy/mcit/companies/) — Firmenregistrierung
+> - [Registrar of Companies — Zypern](https://www.companies.gov.cy/en/) — Firmenregistrierung
 > - [Steuerbehörde](https://www.gov.cy/mof-tax/en/) — Steuerregeln
 > - [CIPA — Investitionsförderagentur](https://www.investcyprus.org.cy/) — Investitionsanreize
 > - [Industrie- und Handelskammer Zypern](https://www.ccci.org.cy/) — Networking und Unterstützung

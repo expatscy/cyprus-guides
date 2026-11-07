@@ -27,7 +27,7 @@ faqSchema:
 
 > **المصادر الرسمية:**
 > - [Ministry of Health](https://www.moh.gov.cy/) — وزارة الصحة
-> - [GESY](https://www.gesy.org.cy/en-us/home-en) — نظام الصحة الوطني
+> - [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — نظام الصحة الوطني
 > - تحقق من المتطلبات في [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/)
 
 ## ما هي المتطلبات اللازمة للهجرة في قبرص؟
@@ -225,5 +225,5 @@ faqSchema:
 ## المصادر
 
 - [Ministry of Health](https://www.moh.gov.cy/) — gov.cy
-- [GESY](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy

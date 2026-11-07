@@ -37,11 +37,11 @@ faqSchema:
 | זמן המתנה | שאלו את נותן השירות המקושר ל-GeSY על התור או ההליך | שאלו את נותן השירות המסוים וקבלו זמינות בפועל |
 | בחירת נותן שירות | נותני שירות שחתומים עם GeSY על השירות הרלוונטי | בדקו את רשת הפוליסה, ההחזר והאישור מראש |
 
-[כללי המימון של HIO](https://www.gesy.org.cy/en-us/hiofinancing) מבחינים בין השתתפויות עצמיות להפרשות אישיות. תקרת ההשתתפות העצמית השנתית היא 150 יורו בדרך כלל, או 75 יורו לנהנים מהכנסה מינימלית מובטחת, פנסיונרים בעלי הכנסה נמוכה וילדים מתחת לגיל 21. תוספת ה-25 יורו למומחה ישיר והפרש מחיר בתרופה הם תשלומים אישיים נפרדים; התקרה אינה הופכת כל חיוב להשתתפות עצמית מכוסה.
+[כללי המימון של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) מבחינים בין השתתפויות עצמיות להפרשות אישיות. תקרת ההשתתפות העצמית השנתית היא 150 יורו בדרך כלל, או 75 יורו לנהנים מהכנסה מינימלית מובטחת, פנסיונרים בעלי הכנסה נמוכה וילדים מתחת לגיל 21. תוספת ה-25 יורו למומחה ישיר והפרש מחיר בתרופה הם תשלומים אישיים נפרדים; התקרה אינה הופכת כל חיוב להשתתפות עצמית מכוסה.
 
 ## מי זכאי ל-GeSY?
 
-תשלום הפרשות אינו מבסס כשלעצמו זכאות. [קטגוריות הזכאים של HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) דורשות את תנאי הקטגוריה הרלוונטית:
+תשלום הפרשות אינו מבסס כשלעצמו זכאות. [קטגוריות הזכאים של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) דורשות את תנאי הקטגוריה הרלוונטית:
 
 - אזרחים קפריסאים המתגוררים דרך קבע באזורים שבשליטת הרפובליקה או בבסיסי הריבונות הבריטיים בקפריסין.
 - אזרחי האיחוד האירופי המתגוררים דרך קבע באזורים שבשליטת הרפובליקה, שעובדים שם או בעלי מעמד של תושבות קבע לפי דיני התנועה החופשית של האיחוד.
@@ -71,11 +71,11 @@ faqSchema:
 
 ## מה GeSY מכסה?
 
-שירותי החוץ החלו ב-1 ביוני 2019 והאשפוז ב-1 ביוני 2020. [רשימת שירותי הבריאות של HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) כוללת רופאים אישיים, מומחים חוץ, מעבדות, בתי מרקחת, אשפוז, אחיות ומיילדות, מקצועות בריאות משלימים, רפואת שיניים מונעת, טיפול פליאטיבי ושיקום. יש לפעול לפי כללי ההפניה, האבחנה, נותן השירות ומגבלות ההטבה של כל שירות.
+שירותי החוץ החלו ב-1 ביוני 2019 והאשפוז ב-1 ביוני 2020. [רשימת שירותי הבריאות של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) כוללת רופאים אישיים, מומחים חוץ, מעבדות, בתי מרקחת, אשפוז, אחיות ומיילדות, מקצועות בריאות משלימים, רפואת שיניים מונעת, טיפול פליאטיבי ושיקום. יש לפעול לפי כללי ההפניה, האבחנה, נותן השירות ומגבלות ההטבה של כל שירות.
 
 ### רפואת שיניים מונעת
 
-[קטלוג פעילויות השיניים של HIO](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) מאפשר ביקור מונע אחד אחרי שחלפה שנה מהביקור הקודם אצל רופא שיניים ב-GeSY. אין צורך בהפניה. השירותים המפורטים תלויים בגיל:
+[קטלוג פעילויות השיניים של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf) מאפשר ביקור מונע אחד אחרי שחלפה שנה מהביקור הקודם אצל רופא שיניים ב-GeSY. אין צורך בהפניה. השירותים המפורטים תלויים בגיל:
 
 - מתחת לגיל 4: בדיקת פה וייעוץ לבריאות הפה לנהנה, להורה או לאפוטרופוס.
 - מגיל 4 עד מתחת ל-6: הסרת אבנית, בדיקת פה וייעוץ.
@@ -120,15 +120,15 @@ faqSchema:
 
 ## מקורות
 
-- [HIO — קטגוריות זכאים](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — שאלות נפוצות על רישום](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — שיעורי הפרשות וחיובים](https://www.gesy.org.cy/en-us/hiofinancing)
+- [HIO — קטגוריות זכאים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — שאלות נפוצות על רישום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — שיעורי הפרשות וחיובים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
 - [HIO — טבלת המימון ביוונית ותנאי הגיל המדויק של התקרה המופחתת](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=%2Fel-gr%2F&lookuppage=hiofinancing)
-- [HIO — שאלות נפוצות על הרופא האישי](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — שאלות נפוצות על מומחים](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
-- [HIO — שירותי בריאות](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — קטלוג שיניים](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf)
-- [HIO — לוח זמנים ליישום](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — מוקד שירות](https://www.gesy.org.cy/en-us/contactus)
+- [HIO — שאלות נפוצות על הרופא האישי](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — שאלות נפוצות על מומחים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
+- [HIO — שירותי בריאות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — קטלוג שיניים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf)
+- [HIO — לוח זמנים ליישום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — מוקד שירות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=contactus)
 - [ממשלת בריטניה — אנשי קשר לחירום בקפריסין](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)
 - [Universal Life — טבלת הטבות MultiCare](https://www.universallife.com.cy/storage/library/6968b83fcb967.pdf)

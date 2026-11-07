@@ -80,7 +80,7 @@ faqSchema:
 
 Ставка взносов работника в Социальное страхование — **8,8% от страхуемого заработка**. В **2026 году** потолок для работника — **€5 742 в месяц при месячной оплате** или **€1 325 в неделю при недельной оплате**. [Действующие ставки взносов](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) и [уведомление о потолке на 2026 год](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5).
 
-**Ставка взноса работника в GESY — 2,65%**; годовой лимит начисления — **€180 000 на физическое лицо по всем применимым категориям взносов**, отдельно от потолка Социального страхования. [Правила финансирования HIO](https://www.gesy.org.cy/en-us/hiofinancing).
+**Ставка взноса работника в GESY — 2,65%**; годовой лимит начисления — **€180 000 на физическое лицо по всем применимым категориям взносов**, отдельно от потолка Социального страхования. [Правила финансирования HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing).
 
 Попросите у бухгалтерии расчёт по вашему фактическому доходу и льготам, на которые вы имеете право. Трудоустройство к конкретному работодателю само по себе не даёт права на персональное налоговое освобождение.
 
@@ -131,7 +131,7 @@ faqSchema:
 - [FAQ о минимальной зарплате](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04) — Департамент трудовых отношений
 - [Закон о подоходном налоге](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — cylaw.org
 - [Ставки взносов Социального страхования](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) и [потолок 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5) — gov.cy
-- [Финансирование GESY](https://www.gesy.org.cy/en-us/hiofinancing) — HIO
+- [Финансирование GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) — HIO
 - [Закон о прозрачных и предсказуемых условиях труда](https://www.cylaw.org/nomoi/enop/non-ind/2023_1_25/full.html) — cylaw.org
 - [Закон о рабочем времени](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_63/full.html) — cylaw.org
 - [Оплачиваемый ежегодный отпуск](https://www.gov.cy/en/service/31545/) — gov.cy

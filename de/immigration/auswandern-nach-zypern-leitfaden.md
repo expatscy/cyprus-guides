@@ -93,7 +93,7 @@ Siehe [Banken in Zypern](/de/business/banks-cyprus-comparison/), [Kontoeröffnun
 
 ## 5. Gesundheitsversorgung und Versicherung
 
-Prüfen Sie die [Anspruchskategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) für Ihre Staatsangehörigkeit, Ihren gewöhnlichen Aufenthalt und Ihren Rechtsstatus. Das Arbeitsrecht einer Genehmigung oder die Zahlung eines Beitrags allein begründen keinen Anspruch auf GESY.
+Prüfen Sie die [Anspruchskategorien der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) für Ihre Staatsangehörigkeit, Ihren gewöhnlichen Aufenthalt und Ihren Rechtsstatus. Das Arbeitsrecht einer Genehmigung oder die Zahlung eines Beitrags allein begründen keinen Anspruch auf GESY.
 
 Nutzen Sie die Versicherungsanforderung Ihrer Genehmigungskategorie. Die Checkliste für Digital Nomads nennt Plan A mit stationärer und ambulanter Behandlung und Überführung von Verstorbenen. Lassen Sie sich vom Versicherer bestätigen, dass Ihre Police die jeweilige Checkliste erfüllt.
 

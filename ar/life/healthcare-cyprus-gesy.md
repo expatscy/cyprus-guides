@@ -32,7 +32,7 @@ faqSchema:
 
 ### الاشتراكات
 
-يورد [إرشاد HIO للتمويل](https://www.gesy.org.cy/en-us/hiofinancing) هذه النسب القياسية منذ 1 مارس 2020:
+يورد [إرشاد HIO للتمويل](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) هذه النسب القياسية منذ 1 مارس 2020:
 
 | الفئة | النسبة والأساس |
 |----------|---------------|
@@ -46,7 +46,7 @@ faqSchema:
 
 ### من يمكنه الاستخدام؟
 
-تميز [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) بين:
+تميز [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) بين:
 
 - **المواطنون القبارصة:** إقامة معتادة في المناطق الخاضعة لسيطرة الجمهورية أو في القواعد السيادية البريطانية في قبرص.
 - **مواطنو الاتحاد الأوروبي:** إقامة معتادة في المناطق الخاضعة لسيطرة الجمهورية وعمل فيها، أو تصريح إقامة دائمة بموجب قانون حرية التنقل في الاتحاد.
@@ -58,13 +58,13 @@ faqSchema:
 
 ## كيف أسجل في GESY؟
 
-تشترط [الأسئلة الشائعة للتسجيل لدى HIO](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) التسجيل في كل من سجل مستفيدي GHS وقائمة طبيب شخصي.
+تشترط [الأسئلة الشائعة للتسجيل لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) التسجيل في كل من سجل مستفيدي GHS وقائمة طبيب شخصي.
 
 1. تحقق من فئتك كمستفيد والأدلة المطلوبة.
 2. قدّم طلب التسجيل عبر بوابة المستفيدين، أو اطلب المساعدة من طبيب شخصي. يفحص HIO السجل المدني أو سجل الهجرة، وعند الاقتضاء سجلات التأمين الاجتماعي؛ وقد يطلب مستندات إضافية.
 3. اختر طبيباً شخصياً متعاقداً عبر الإنترنت أو بزيارته. بعد قبول الطلب الإلكتروني، زر الطبيب لتأكيد بياناتك وتوقيع نموذج القبول المتبادل.
 
-إذا تغيرت ظروف إقامتك أو عملك، اسأل HIO كيف تحدّث أدلتك. قد تعيد [عملية إعادة التقييم لدى HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process) تقييم الأهلية أو تنهيها حين لا تتحقق الشروط القانونية؛ اتبع التعليمات في أي إشعار.
+إذا تغيرت ظروف إقامتك أو عملك، اسأل HIO كيف تحدّث أدلتك. قد تعيد [عملية إعادة التقييم لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process) تقييم الأهلية أو تنهيها حين لا تتحقق الشروط القانونية؛ اتبع التعليمات في أي إشعار.
 
 ## ماذا يدفع المستفيدون مقابل الخدمات؟
 
@@ -117,13 +117,13 @@ faqSchema:
 
 ## المصادر
 
-- [HIO — الجدول الزمني للتنفيذ](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — الخدمات الصحية](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — فئات المستفيدين](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — الأسئلة الشائعة للتسجيل](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — إعادة تقييم الأهلية](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process)
-- [HIO — نسب الاشتراك والرسوم](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — الأسئلة الشائعة عن خدمات الطبيب الشخصي](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — الأسئلة الشائعة عن خدمات الأخصائيين](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — الجدول الزمني للتنفيذ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — الخدمات الصحية](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — فئات المستفيدين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — الأسئلة الشائعة للتسجيل](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — إعادة تقييم الأهلية](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process)
+- [HIO — نسب الاشتراك والرسوم](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — الأسئلة الشائعة عن خدمات الطبيب الشخصي](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — الأسئلة الشائعة عن خدمات الأخصائيين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 - [الحكومة البريطانية — الرعاية الصحية في قبرص](https://www.gov.uk/guidance/healthcare-in-cyprus)
 - [قانون اللاجئين — المادة 20H الحالية](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_6/full.html)

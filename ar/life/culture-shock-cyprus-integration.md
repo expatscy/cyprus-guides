@@ -58,7 +58,7 @@ faqSchema:
 
 تنصح NHS بمراجعة الطبيب العام إذا استمر المزاج المنخفض أكثر من أسبوعين، أو وجدت صعوبة في التكيف، أو لم تفلح الأشياء التي تجربها بنفسك. هذه إرشادات طبية عامة؛ اطلب من طبيب في قبرص تقييم حالتك وإرشادك إلى الدعم المحلي المناسب. في حالة الطوارئ الفورية اتصل بالرقم **112** ولا تنتظر مرور أسبوعين ولا ساعات عمل خط المساعدة.
 
-إذا كنت مستفيداً من GeSY، فاسأل طبيبك الشخصي عن الخدمة المناسبة وشروط الوصول. توفر [إرشادات HIO للأخصائيين الخارجيين](https://www.gesy.org.cy/en-us/hiospecialistsaccess) الوصول بالإحالة والوصول المباشر إلى الأخصائيين المتعاقدين؛ والوصول المباشر يتضمن عموماً مساهمة شخصية. تأكد من المزوّد والإحالة والرسوم وتوفر المواعيد بدلاً من الاعتماد على مدة انتظار ثابتة. وللمزيد عن النظام راجع [دليل الرعاية الصحية في قبرص](/ar/life/healthcare-cyprus-gesy/).
+إذا كنت مستفيداً من GeSY، فاسأل طبيبك الشخصي عن الخدمة المناسبة وشروط الوصول. توفر [إرشادات HIO للأخصائيين الخارجيين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiospecialistsaccess) الوصول بالإحالة والوصول المباشر إلى الأخصائيين المتعاقدين؛ والوصول المباشر يتضمن عموماً مساهمة شخصية. تأكد من المزوّد والإحالة والرسوم وتوفر المواعيد بدلاً من الاعتماد على مدة انتظار ثابتة. وللمزيد عن النظام راجع [دليل الرعاية الصحية في قبرص](/ar/life/healthcare-cyprus-gesy/).
 
 ## ماذا تقدم Cyprus Samaritans؟
 
@@ -95,6 +95,6 @@ faqSchema:
 
 - [Cyprus Samaritans: خط المساعدة والساعات وسياسة العمر](https://cyprussamaritans.org/)
 - [NHS: المزاج المنخفض والحزن والاكتئاب](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/low-mood-sadness-depression/)
-- [GeSY: الوصول إلى الأخصائيين الخارجيين](https://www.gesy.org.cy/en-us/hiospecialistsaccess)
+- [GeSY: الوصول إلى الأخصائيين الخارجيين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiospecialistsaccess)
 - [وزارة التربية: دورات اللغة في مراكز تعليم الكبار](https://www.moec.gov.cy/epimorfotika/xenes_glosses.html)
 - [وزارة الخارجية البريطانية: جهات الاتصال في الطوارئ بقبرص](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)

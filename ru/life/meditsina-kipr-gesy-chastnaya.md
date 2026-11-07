@@ -32,7 +32,7 @@ faqSchema:
 
 ### Взносы
 
-[Рекомендации HIO по финансированию](https://www.gesy.org.cy/en-us/hiofinancing) приводят такие стандартные ставки с 1 марта 2020 года:
+[Рекомендации HIO по финансированию](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) приводят такие стандартные ставки с 1 марта 2020 года:
 
 | Категория | Ставка и база |
 |----------|---------------|
@@ -46,7 +46,7 @@ faqSchema:
 
 ### Кто может пользоваться?
 
-[Категории бенефициаров HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) различают:
+[Категории бенефициаров HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) различают:
 
 - **Граждане Кипра:** обычное проживание в районах под контролем Республики или на британских суверенных базах на Кипре.
 - **Граждане ЕС:** обычное проживание в районах под контролем Республики и работа там либо разрешение на постоянное проживание по праву ЕС о свободе передвижения.
@@ -58,13 +58,13 @@ ARC, налоговый номер или разрешение на прожив
 
 ## Как зарегистрироваться в GESY?
 
-[Ответы HIO о регистрации](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) требуют записи и в реестр бенефициаров GHS, и в список личного врача.
+[Ответы HIO о регистрации](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) требуют записи и в реестр бенефициаров GHS, и в список личного врача.
 
 1. Проверьте свою категорию бенефициара и нужные доказательства.
 2. Отправьте заявку через портал бенефициаров или попросите помощи у личного врача. HIO проверяет гражданский или миграционный реестр и, если применимо, записи социального страхования; он может запросить дополнительные документы.
 3. Выберите врача по контракту онлайн или придите к нему. После принятия онлайн-заявки посетите врача, чтобы подтвердить данные и подписать форму взаимного согласия.
 
-Если изменились условия проживания или работы, спросите HIO, как обновить доказательства. [Процесс повторной оценки HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process) может пересмотреть или прекратить право, если условия закона больше не выполняются; следуйте инструкциям в уведомлении.
+Если изменились условия проживания или работы, спросите HIO, как обновить доказательства. [Процесс повторной оценки HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process) может пересмотреть или прекратить право, если условия закона больше не выполняются; следуйте инструкциям в уведомлении.
 
 ## Сколько платят бенефициары за услуги?
 
@@ -117,13 +117,13 @@ ARC, налоговый номер или разрешение на прожив
 
 ## Источники
 
-- [HIO — график внедрения](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — медицинские услуги](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — категории бенефициаров](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — ответы о регистрации](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — повторная оценка права](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process)
-- [HIO — ставки взносов и платежи](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — вопросы об услугах личного врача](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — вопросы об услугах специалистов](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — график внедрения](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — медицинские услуги](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — категории бенефициаров](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — ответы о регистрации](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — повторная оценка права](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process)
+- [HIO — ставки взносов и платежи](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — вопросы об услугах личного врача](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — вопросы об услугах специалистов](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 - [Правительство Великобритании — медицина на Кипре](https://www.gov.uk/guidance/healthcare-in-cyprus)
 - [Закон о беженцах — действующий section 20H](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_6/full.html)

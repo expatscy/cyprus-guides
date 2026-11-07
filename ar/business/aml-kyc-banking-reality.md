@@ -33,7 +33,7 @@ faqSchema:
 
 > **المصادر الرسمية:**
 > - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — متطلبات البنك المركزي القبرصي في مجال مكافحة غسل الأموال
-> - [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism_en) — توجيهات الاتحاد الأوروبي لمكافحة غسل الأموال (بما فيها 6AMLD)
+> - [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) — توجيهات الاتحاد الأوروبي لمكافحة غسل الأموال (بما فيها 6AMLD)
 > - [EU Sanctions Map](https://www.sanctionsmap.eu/) — خريطة عقوبات الاتحاد الأوروبي المحدّثة
 > - [MOKAS — Unit for Combating Money Laundering](https://www.law.gov.cy/law/mokas/mokas.nsf/) — وحدة المعلومات المالية في قبرص (FIU)
 
@@ -244,6 +244,6 @@ faqSchema:
 ## المصادر
 
 - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — Central Bank of Cyprus
-- [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism_en) — European Commission
+- [EU Anti-Money Laundering Directives](https://finance.ec.europa.eu/financial-crime/anti-money-laundering-and-countering-financing-terrorism-eu-level_en) — European Commission
 - [MOKAS — Unit for Combating Money Laundering](https://www.law.gov.cy/law/mokas/mokas.nsf/) — gov.cy
 - [Financial Ombudsman of Cyprus](https://www.financialombudsman.gov.cy/) — gov.cy

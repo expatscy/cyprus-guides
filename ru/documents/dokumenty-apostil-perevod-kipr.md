@@ -28,7 +28,7 @@ faqSchema:
 Для жизни на Кипре требуется множество документов из России и других стран. Они понадобятся при [оформлении ВНЖ](/ru/immigration/vnzh-pmzh-kipr-dlya-rossiyan-2026/), [открытии банковского счёта](/ru/business/bankovskiy-schet-kipr-dlya-rossiyan/) и подаче на [гражданство](/ru/immigration/grazhdanstvo-kipra-naturalizatsiya/). Разберём, как их правильно оформить.
 
 > **Официальные источники:**
-> - [MFA Cyprus — Consular Services](https://mfa.gov.cy/consular-forms.html) — Формы документов
+> - [МИД Кипра](https://www.gov.cy/mfa/en/) — Формы документов
 > - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Регистрация документов
 > - [Apostille Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=41) — Гаагская конвенция
 
@@ -225,5 +225,5 @@ faqSchema:
 
 ## Источники
 
-- [MFA Cyprus — Consular Services](https://mfa.gov.cy/consular-forms.html) — gov.cy
+- [МИД Кипра](https://www.gov.cy/mfa/en/) — gov.cy
 - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — gov.cy

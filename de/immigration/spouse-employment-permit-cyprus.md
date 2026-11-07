@@ -101,7 +101,7 @@ Lassen Sie Aufgaben, Eigentumsverhältnisse, Arbeitgeberbeziehung und Aufenthalt
 
 ### Gesundheitsversorgung und Beiträge
 
-Prüfen Sie die [Leistungsberechtigtenkategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) nach Staatsangehörigkeit, gewöhnlichem Aufenthalt und Rechtsstatus. Eine Arbeitserlaubnis allein klärt den Anspruch auf Gesundheitsversorgung nicht. Die [Beitragspflicht](https://www.gesy.org.cy/en-us/hiofinancing) ist eine getrennte Frage; betrachten Sie einen Beitrag nicht als Nachweis eines Anspruchs und leiten Sie aus dem Namen der Erlaubnis keinen Rentenanspruch ab.
+Prüfen Sie die [Leistungsberechtigtenkategorien der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) nach Staatsangehörigkeit, gewöhnlichem Aufenthalt und Rechtsstatus. Eine Arbeitserlaubnis allein klärt den Anspruch auf Gesundheitsversorgung nicht. Die [Beitragspflicht](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) ist eine getrennte Frage; betrachten Sie einen Beitrag nicht als Nachweis eines Anspruchs und leiten Sie aus dem Namen der Erlaubnis keinen Rentenanspruch ab.
 
 Die Plan-A-/GESY-Alternativen der Familiencheckliste sind Anforderungen an die Antragsunterlagen. Klären Sie, welcher Versicherungsnachweis für Sponsor und Ehepartner gilt.
 

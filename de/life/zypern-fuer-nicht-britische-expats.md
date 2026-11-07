@@ -92,7 +92,7 @@ Beim Auswandern müssen Sie sich beim Einwohnermeldeamt **abmelden**. Dies hat s
 
 ### GESY auf Zypern
 
-Das zyprische Gesundheitssystem [GESY](https://www.gesy.org.cy/en-us/home-en):
+Das zyprische Gesundheitssystem [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en):
 
 - Pflichtmitgliedschaft bei Arbeit auf Zypern: **2,65%** (Arbeitnehmer), **4,0%** (Selbständige)
 - Gute Grundversorgung, aber begrenzte Facharztkapazitäten
@@ -197,6 +197,6 @@ Fragen? In unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](htt
 
 ## Quellen
 
-- [GESY](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 - [Deutsche Botschaft Nikosia](https://nikosia.diplo.de/) — Auswärtiges Amt
 - [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/) — DRV

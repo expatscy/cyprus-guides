@@ -37,11 +37,11 @@ faqSchema:
 | Время ожидания | Спросите у клиники, работающей по GeSY, про приём или процедуру | Спросите у конкретной клиники и узнайте реальные даты |
 | Выбор клиники | Клиники, работающие по GeSY для нужной услуги | Проверьте сеть полиса, возмещение и согласование |
 
-[Правила финансирования HIO](https://www.gesy.org.cy/en-us/hiofinancing) отличают доплаты от личных взносов. Годовой потолок доплат — €150, а для получателей гарантированного минимального дохода, пенсионеров с низким доходом и детей до 21 года — €75. Сбор €25 за визит к специалисту без направления и разница в цене лекарства — отдельные личные взносы; потолок не превращает любой платёж в покрываемую доплату.
+[Правила финансирования HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) отличают доплаты от личных взносов. Годовой потолок доплат — €150, а для получателей гарантированного минимального дохода, пенсионеров с низким доходом и детей до 21 года — €75. Сбор €25 за визит к специалисту без направления и разница в цене лекарства — отдельные личные взносы; потолок не превращает любой платёж в покрываемую доплату.
 
 ## Кто имеет право на GeSY?
 
-Сам факт уплаты взносов право не устанавливает. [Категории бенефициаров HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) требуют выполнения условий нужной категории:
+Сам факт уплаты взносов право не устанавливает. [Категории бенефициаров HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) требуют выполнения условий нужной категории:
 
 - Граждане Кипра, обычно проживающие в районах под контролем Республики или на британских суверенных базах на Кипре.
 - Граждане ЕС, обычно проживающие в районах под контролем Республики, которые там работают или имеют постоянное проживание по праву ЕС о свободе передвижения.
@@ -71,11 +71,11 @@ faqSchema:
 
 ## Что покрывает GeSY?
 
-Амбулаторные услуги начались 1 июня 2019 года, стационарная помощь — 1 июня 2020 года. [Перечень услуг HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) включает личных врачей, амбулаторных специалистов, лаборатории, аптеки, стационар, медсестёр и акушерок, смежных специалистов, профилактическую стоматологию, паллиативную помощь и реабилитацию. По каждой услуге смотрите правила о направлении, диагнозе, клинике и лимитах.
+Амбулаторные услуги начались 1 июня 2019 года, стационарная помощь — 1 июня 2020 года. [Перечень услуг HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) включает личных врачей, амбулаторных специалистов, лаборатории, аптеки, стационар, медсестёр и акушерок, смежных специалистов, профилактическую стоматологию, паллиативную помощь и реабилитацию. По каждой услуге смотрите правила о направлении, диагнозе, клинике и лимитах.
 
 ### Профилактический уход за зубами
 
-[Каталог стоматологических услуг HIO](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) предусматривает один профилактический визит после того, как прошёл год с предыдущего стоматологического визита по GeSY. Направление не нужно. Услуги зависят от возраста:
+[Каталог стоматологических услуг HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf) предусматривает один профилактический визит после того, как прошёл год с предыдущего стоматологического визита по GeSY. Направление не нужно. Услуги зависят от возраста:
 
 - До 4 лет: осмотр полости рта и советы по гигиене для ребёнка, родителя или опекуна.
 - От 4 до 6 лет: снятие налёта, осмотр и советы по гигиене.
@@ -120,15 +120,15 @@ faqSchema:
 
 ## Источники
 
-- [HIO — категории бенефициаров](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — вопросы о регистрации](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — ставки взносов и доплаты](https://www.gesy.org.cy/en-us/hiofinancing)
+- [HIO — категории бенефициаров](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — вопросы о регистрации](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — ставки взносов и доплаты](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
 - [HIO — греческая таблица финансирования и точное возрастное условие сниженного потолка](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=%2Fel-gr%2F&lookuppage=hiofinancing)
-- [HIO — вопросы о личном враче](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — вопросы о специалистах](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
-- [HIO — услуги здравоохранения](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — каталог стоматологических услуг](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf)
-- [HIO — график внедрения](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — контактный центр](https://www.gesy.org.cy/en-us/contactus)
+- [HIO — вопросы о личном враче](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — вопросы о специалистах](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
+- [HIO — услуги здравоохранения](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — каталог стоматологических услуг](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf)
+- [HIO — график внедрения](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — контактный центр](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=contactus)
 - [Правительство Великобритании — экстренные контакты на Кипре](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)
 - [Universal Life — таблица льгот MultiCare](https://www.universallife.com.cy/storage/library/6968b83fcb967.pdf)

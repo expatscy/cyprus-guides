@@ -26,7 +26,7 @@ translationKey: "shtrafy-kipr-kamery-jcc-oplata"
 الكاميرات على طرق قبرص تعمل بنشاط. دعونا نستكشف كيفية فحص ودفع الغرامات.
 
 > **المصادر الرسمية:**
-> - [شرطة قبرص — المرور](https://www.police.gov.cy/police/police.nsf/dmldept2_en/dmldept2_en) — شرطة المرور
+> - [شرطة قبرص](https://www.gov.cy/police/en/) — شرطة المرور
 > - [JCC Smart](https://www.jccsmart.com/) — دفع الغرامات عبر الإنترنت
 > - [نظام الكاميرات](https://www.cycamerasystem.com.cy/) — فحص غرامات الكاميرات
 
@@ -211,4 +211,4 @@ translationKey: "shtrafy-kipr-kamery-jcc-oplata"
 
 ## المصادر
 
-- [Cyprus Police — Traffic](https://www.police.gov.cy/police/police.nsf/dmldept2_en/dmldept2_en) — gov.cy
+- [شرطة قبرص](https://www.gov.cy/police/en/) — gov.cy

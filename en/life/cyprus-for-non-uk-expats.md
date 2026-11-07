@@ -78,7 +78,7 @@ Canada taxes based on residency, not citizenship. If you sever residential ties 
 
 Canada has no reciprocal healthcare agreement with Cyprus. Provincial health insurance (OHIP, MSP, etc.) typically expires 3–12 months after you leave the province, depending on the province. After that:
 
-- You must qualify for [GESY](https://www.gesy.org.cy/en-us/home-en) through employment or permanent residency, or
+- You must qualify for [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) through employment or permanent residency, or
 - Purchase private health insurance
 
 There is no S1 form equivalent for Canadians.
@@ -130,7 +130,7 @@ UK passport holders have a relatively smooth banking experience in Cyprus — th
 
 If you are not British, you do not have access to the S1 form system (which allows UK pensioners to have GESY costs covered by the UK). Your healthcare options are:
 
-1. **GESY through employment** — if you work for a Cypriot employer or are self-employed and registered with Social Insurance, you qualify for [GESY](https://www.gesy.org.cy/en-us/home-en). Contributions: 2.65% of income (employees), 4.0% (self-employed), 2.90% (employer contribution). See our [GESY guide](/en/life/healthcare-cyprus-gesy/).
+1. **GESY through employment** — if you work for a Cypriot employer or are self-employed and registered with Social Insurance, you qualify for [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en). Contributions: 2.65% of income (employees), 4.0% (self-employed), 2.90% (employer contribution). See our [GESY guide](/en/life/healthcare-cyprus-gesy/).
 2. **GESY through permanent residency** — holders of long-term residence permits qualify.
 3. **Private health insurance** — if you are on a visitor permit, Digital Nomad Visa, or do not yet qualify for GESY. Costs range from €500–1,500/year per person depending on age and coverage. Many immigration permits require proof of private insurance as part of the application.
 
@@ -204,4 +204,4 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 
 ## Sources
 
-- [GESY](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY

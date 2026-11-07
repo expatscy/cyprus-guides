@@ -65,7 +65,7 @@ Lassen Sie sich von der Social Insurance Ihre Berufskategorie, die nötigen Nach
 
 ### Anmeldung bei GESY
 
-Die [Hinweise der HIO zur Registrierung](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) beschreiben einen eigenen Antrag als Leistungsberechtigter und Nachweise je Kategorie. Wenn die Voraussetzungen es erlauben, kann ein Hausarzt bei der Anmeldung helfen. **Beitragszahlung und Anmeldung bei der Social Insurance begründen weder automatisch den Anspruch noch schließen sie die Anmeldung bei GESY ab.**
+Die [Hinweise der HIO zur Registrierung](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) beschreiben einen eigenen Antrag als Leistungsberechtigter und Nachweise je Kategorie. Wenn die Voraussetzungen es erlauben, kann ein Hausarzt bei der Anmeldung helfen. **Beitragszahlung und Anmeldung bei der Social Insurance begründen weder automatisch den Anspruch noch schließen sie die Anmeldung bei GESY ab.**
 
 ## Welche Sozialversicherungsbeiträge fallen an?
 
@@ -75,7 +75,7 @@ Die [Tabelle der Berufskategorien für den 5. Januar 2026 bis 3. Januar 2027](ht
 
 Der offizielle Dienst bietet das Formular **YKA 1-017**, einen Antrag auf Beitragszahlung nach dem tatsächlichen Einkommen. Geringe Einnahmen allein bedeuten nicht automatisch, dass die Grundlage Ihrer Berufskategorie entfällt. Fragen Sie die Social Insurance nach den Nachweisen und der Entscheidung zu Ihrem Antrag.
 
-Die [Finanzierungsseite der HIO](https://www.gesy.org.cy/en-us/hiofinancing) nennt **4 % GESY-Beitrag auf die Vergütung von Selbstständigen** und eine **jährliche Gesamtbeitragsgrundlage von €180.000 je natürlicher Person** über alle zutreffenden Kategorien. Prüfen Sie Beitragsgrundlagen, Einzugsregeln und Ihre Umstände gesondert. Die Addition der Prozentsätze ergibt keinen einheitlichen effektiven Satz auf Ihr gesamtes tatsächliches Einkommen.
+Die [Finanzierungsseite der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) nennt **4 % GESY-Beitrag auf die Vergütung von Selbstständigen** und eine **jährliche Gesamtbeitragsgrundlage von €180.000 je natürlicher Person** über alle zutreffenden Kategorien. Prüfen Sie Beitragsgrundlagen, Einzugsregeln und Ihre Umstände gesondert. Die Addition der Prozentsätze ergibt keinen einheitlichen effektiven Satz auf Ihr gesamtes tatsächliches Einkommen.
 
 Zahlen können Sie über den [offiziellen Zahlungsdienst der Social Insurance](https://www.gov.cy/service/pliromes-eisforon-ypiresion-koinonikon-asfaliseon/), der von der Seite für Selbstständige verlinkt ist. Klären Sie den Zahlungszeitraum und weitere fällige Abgaben.
 

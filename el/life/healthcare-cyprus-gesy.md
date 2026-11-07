@@ -32,7 +32,7 @@ faqSchema:
 
 ### Εισφορές
 
-Ο [οδηγός χρηματοδότησης του ΟΑΥ (HIO)](https://www.gesy.org.cy/en-us/hiofinancing) αναφέρει τους ακόλουθους τυπικούς συντελεστές από την 1η Μαρτίου 2020:
+Ο [οδηγός χρηματοδότησης του ΟΑΥ (HIO)](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) αναφέρει τους ακόλουθους τυπικούς συντελεστές από την 1η Μαρτίου 2020:
 
 | Κατηγορία | Συντελεστής και βάση |
 |----------|---------------|
@@ -46,7 +46,7 @@ faqSchema:
 
 ### Ποιοι μπορούν να το χρησιμοποιήσουν;
 
-Οι [κατηγορίες δικαιούχων του ΟΑΥ](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) διακρίνουν:
+Οι [κατηγορίες δικαιούχων του ΟΑΥ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) διακρίνουν:
 
 - **Κύπριοι πολίτες:** συνήθης διαμονή στις περιοχές που ελέγχονται από τη Δημοκρατία ή στις Βρετανικές Κυρίαρχες Βάσεις στην Κύπρο.
 - **Πολίτες της ΕΕ:** συνήθης διαμονή στις περιοχές που ελέγχονται από τη Δημοκρατία και εργασία εκεί, ή άδεια μόνιμης διαμονής βάσει του δικαίου της ΕΕ για την ελεύθερη κυκλοφορία.
@@ -58,13 +58,13 @@ faqSchema:
 
 ## Πώς εγγράφομαι στο ΓεΣΥ;
 
-Οι [συχνές ερωτήσεις εγγραφής του ΟΑΥ](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) απαιτούν εγγραφή τόσο στο Μητρώο Δικαιούχων του ΓεΣΥ όσο και σε κατάλογο προσωπικού ιατρού.
+Οι [συχνές ερωτήσεις εγγραφής του ΟΑΥ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) απαιτούν εγγραφή τόσο στο Μητρώο Δικαιούχων του ΓεΣΥ όσο και σε κατάλογο προσωπικού ιατρού.
 
 1. Ελέγξτε την κατηγορία δικαιούχου σας και τα απαιτούμενα αποδεικτικά στοιχεία.
 2. Υποβάλετε το αίτημα εγγραφής μέσω της Πύλης Δικαιούχων ή ζητήστε βοήθεια από προσωπικό ιατρό. Ο ΟΑΥ ελέγχει το Μητρώο Πολιτών ή το Μητρώο Μετανάστευσης και, όπου εφαρμόζεται, τα αρχεία Κοινωνικών Ασφαλίσεων· μπορεί να ζητήσει πρόσθετα έγγραφα.
 3. Επιλέξτε έναν συμβεβλημένο προσωπικό ιατρό ηλεκτρονικά ή πηγαίνοντας στον ίδιο τον ιατρό. Αφού γίνει αποδεκτό ένα ηλεκτρονικό αίτημα, επισκεφθείτε τον ιατρό για να επιβεβαιώσετε τα στοιχεία σας και να υπογράψετε το έντυπο αμοιβαίας αποδοχής.
 
-Εάν αλλάξουν οι συνθήκες διαμονής ή απασχόλησής σας, ρωτήστε τον ΟΑΥ πώς να ενημερώσετε τα αποδεικτικά σας στοιχεία. Η [διαδικασία επαναξιολόγησης του ΟΑΥ](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process) μπορεί να επαναξιολογήσει ή να τερματίσει την επιλεξιμότητα όταν δεν πληρούνται πλέον οι νόμιμες προϋποθέσεις· ακολουθήστε τις οδηγίες οποιασδήποτε ειδοποίησης.
+Εάν αλλάξουν οι συνθήκες διαμονής ή απασχόλησής σας, ρωτήστε τον ΟΑΥ πώς να ενημερώσετε τα αποδεικτικά σας στοιχεία. Η [διαδικασία επαναξιολόγησης του ΟΑΥ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process) μπορεί να επαναξιολογήσει ή να τερματίσει την επιλεξιμότητα όταν δεν πληρούνται πλέον οι νόμιμες προϋποθέσεις· ακολουθήστε τις οδηγίες οποιασδήποτε ειδοποίησης.
 
 ## Τι πληρώνουν οι δικαιούχοι για τις υπηρεσίες;
 
@@ -117,13 +117,13 @@ faqSchema:
 
 ## Πηγές
 
-- [ΟΑΥ — χρονοδιάγραμμα υλοποίησης](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [ΟΑΥ — υπηρεσίες υγείας](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [ΟΑΥ — κατηγορίες δικαιούχων](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [ΟΑΥ — συχνές ερωτήσεις εγγραφής](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [ΟΑΥ — επαναξιολόγηση επιλεξιμότητας](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process)
-- [ΟΑΥ — συντελεστές εισφορών και χρεώσεις](https://www.gesy.org.cy/en-us/hiofinancing)
-- [ΟΑΥ — συχνές ερωτήσεις για τις υπηρεσίες προσωπικού ιατρού](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [ΟΑΥ — συχνές ερωτήσεις για τις υπηρεσίες ειδικών](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [ΟΑΥ — χρονοδιάγραμμα υλοποίησης](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [ΟΑΥ — υπηρεσίες υγείας](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [ΟΑΥ — κατηγορίες δικαιούχων](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [ΟΑΥ — συχνές ερωτήσεις εγγραφής](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [ΟΑΥ — επαναξιολόγηση επιλεξιμότητας](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process)
+- [ΟΑΥ — συντελεστές εισφορών και χρεώσεις](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [ΟΑΥ — συχνές ερωτήσεις για τις υπηρεσίες προσωπικού ιατρού](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [ΟΑΥ — συχνές ερωτήσεις για τις υπηρεσίες ειδικών](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 - [Βρετανική κυβέρνηση — υγειονομική περίθαλψη στην Κύπρο](https://www.gov.uk/guidance/healthcare-in-cyprus)
 - [Νόμος περί Προσφύγων — ισχύον άρθρο 20Η](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_6/full.html)

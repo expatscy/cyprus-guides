@@ -31,13 +31,13 @@ Before retiring in Cyprus, check your residence route, pension tax treatment, he
 > **Official sources:**
 > - [Ministry of Finance](https://www.gov.cy/mof/en/) — tax department and treaty information
 > - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — visas and residence permits
-> - [GESY — Healthcare System](https://www.gesy.org.cy/en-us/home-en) — registration and coverage
+> - [GESY — Healthcare System](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — registration and coverage
 
 ## Which residence route should I check?
 
 The Migration Department’s published [Category F guidance](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis/) describes secured annual income from abroad, without engaging in business, trade or profession in Cyprus. It lists at least €9,568.17 for the applicant and €4,613.22 for each dependent; income may include pensions, dividends, deposit interest and rent. These published income figures do not guarantee approval. Check the Department’s current checklist, immigration status while waiting and absence conditions before applying.
 
-For an economically inactive EU citizen staying longer than three months, the [MEU1 guidance](https://www.mip.gov.cy/dmmip/md.nsf/All/0C6B5279E8E5086CC22589330037689E?OpenDocument=) requires sufficient resources and comprehensive sickness insurance. The registration application is submitted within four months of entry. Use the Department’s current submission-office and document information.
+For an economically inactive EU citizen staying longer than three months, the [MEU1 guidance](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/=) requires sufficient resources and comprehensive sickness insurance. The registration application is submitted within four months of entry. Use the Department’s current submission-office and document information.
 
 The [investor immigration-permit policy](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) has separate investment and qualitative conditions. The residential-property option requires a first sale from a developer of at least €300,000 plus VAT, and secure annual income of at least €50,000, increased by €15,000 for a spouse and €10,000 per dependent minor child. The purchase amount alone does not establish eligibility. Read the full policy, including evidence and continuing conditions, before committing funds.
 
@@ -151,17 +151,17 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 
 - [Ministry of Finance](https://www.gov.cy/mof/en/) — gov.cy
 - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [GESY — Healthcare System](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY — Healthcare System](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 
 - [Income Tax Law — section 20 and Second Schedule](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html)
 - [Tax Department — residency and domicile](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Tax Department — TD38](https://www.mof.gov.cy/mof/TAX/taxdep.nsf/All/0D73178BF2726F42C22582280036FECD/%24file/TD038_2016.pdf?OpenElement=)
 - [UK–Cyprus treaty — Articles 17, 18 and 29](https://www.gov.uk/government/publications/cyprus-tax-treaties/2018-uk-cyprus-double-taxation-convention-as-amended-by-the-2018-protocol-in-force)
-- [HIO — beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — specialist charges and exceptions](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — specialist charges and exceptions](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 
-- [HIO — contribution rates and charges](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — personal-doctor visit allowances](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
+- [HIO — contribution rates and charges](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — personal-doctor visit allowances](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
 - [UK State Pension annual increases abroad](https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad)
 
 - [Tax Department — GHS contribution exemptions](https://www.gov.cy/media/sites/167/2026/01/Guidance-for-GHS-2023.pdf)

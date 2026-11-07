@@ -65,7 +65,7 @@ faqSchema:
 
 Ο Ντμίτρι υπολογίζει την πρόσθετη ασφάλιση της οικογένειάς του σε **περίπου 3.000 ευρώ τον χρόνο** τη στιγμή της συνέντευξης. Περιγράφει ότι επέλεξε το **American Academy** αφού επισκέφθηκε σχολεία και προτίμησε την ατμόσφαιρά του για τα παιδιά του. Πρόκειται για την εμπειρία και τις επιλογές της οικογένειάς του, και όχι για τρέχουσα προσφορά ασφάλισης ή αξιολόγηση όλων των σχολείων.
 
-**Τρέχουσα σημείωση για την υγεία:** Ο [κατάλογος υπηρεσιών του ΟΑΥ](https://www.gesy.org.cy/en-us/hioghshealthcareservices) περιλαμβάνει τη **νοσοκομειακή φροντίδα** που παρέχεται από συμβεβλημένους παρόχους. Ελέγξτε την [επιλεξιμότητα των δικαιούχων](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), τη συγκεκριμένη καλυπτόμενη υπηρεσία και τους όρους πρόσβασής της. Η συζήτηση για την ασφάλιση στη συνέντευξη δεν αποδεικνύει γενικό αποκλεισμό ακριβών επεμβάσεων. Δείτε τη [σύγκριση ΓεΣΥ και ιδιωτικής περίθαλψης](/el/life/gesy-vs-private-healthcare-cyprus/) και τη [σύγκριση σχολείων](/el/life/schools-cyprus-comparison/) για τον περαιτέρω προγραμματισμό σας.
+**Τρέχουσα σημείωση για την υγεία:** Ο [κατάλογος υπηρεσιών του ΟΑΥ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) περιλαμβάνει τη **νοσοκομειακή φροντίδα** που παρέχεται από συμβεβλημένους παρόχους. Ελέγξτε την [επιλεξιμότητα των δικαιούχων](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), τη συγκεκριμένη καλυπτόμενη υπηρεσία και τους όρους πρόσβασής της. Η συζήτηση για την ασφάλιση στη συνέντευξη δεν αποδεικνύει γενικό αποκλεισμό ακριβών επεμβάσεων. Δείτε τη [σύγκριση ΓεΣΥ και ιδιωτικής περίθαλψης](/el/life/gesy-vs-private-healthcare-cyprus/) και τη [σύγκριση σχολείων](/el/life/schools-cyprus-comparison/) για τον περαιτέρω προγραμματισμό σας.
 
 ## Η φορολογική συζήτηση και οι ισχύουσες οδηγίες
 
@@ -103,6 +103,6 @@ faqSchema:
 ## Πηγές
 
 - [Αρχική συνέντευξη και δημοσιευμένοι υπότιτλοι](https://www.youtube.com/watch?v=ZxMemLmj4MM) — μεταδεδομένα του εκδότη και αποδιδόμενη μαρτυρία του καλεσμένου· σχετικά αποσπάσματα υποτίτλων γύρω στα 00:00–03:19, 05:33–05:48 και 35:58–38:40
-- [ΟΑΥ: υπηρεσίες υγείας](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [ΟΑΥ: επιλεξιμότητα δικαιούχων](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [ΟΑΥ: υπηρεσίες υγείας](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [ΟΑΥ: επιλεξιμότητα δικαιούχων](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [Τμήμα Φορολογίας: φορολογική κατοικία και domicile](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)

@@ -32,7 +32,7 @@ Die ambulante Phase von GESY begann am 1. Juni 2019, die stationären Leistungen
 
 ### Beiträge
 
-Die [Finanzierungshinweise der HIO](https://www.gesy.org.cy/en-us/hiofinancing) nennen diese Standardsätze seit dem 1. März 2020:
+Die [Finanzierungshinweise der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) nennen diese Standardsätze seit dem 1. März 2020:
 
 | Kategorie | Satz und Bemessungsgrundlage |
 |----------|---------------|
@@ -46,7 +46,7 @@ Die Beitragsbemessungsgrundlage ist auf 180.000 € pro Jahr und Person über al
 
 ### Wer kann es nutzen?
 
-Die [Anspruchskategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) unterscheiden:
+Die [Anspruchskategorien der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) unterscheiden:
 
 - **Zyprische Staatsbürger:** gewöhnlicher Aufenthalt in den von der Republik kontrollierten Gebieten oder auf den britischen Hoheitsbasen auf Zypern.
 - **EU-Bürger:** gewöhnlicher Aufenthalt in den von der Republik kontrollierten Gebieten und Arbeit dort oder eine Daueraufenthaltserlaubnis nach dem EU-Freizügigkeitsrecht.
@@ -58,13 +58,13 @@ Eine ARC, eine Steuernummer oder ein Aufenthaltstitel allein begründet keinen A
 
 ## Wie registriere ich mich bei GESY?
 
-Die [Registrierungs-FAQ der HIO](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) verlangt die Eintragung sowohl in das GHS-Versichertenregister als auch in eine Hausarztliste.
+Die [Registrierungs-FAQ der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) verlangt die Eintragung sowohl in das GHS-Versichertenregister als auch in eine Hausarztliste.
 
 1. Prüfen Sie Ihre Anspruchskategorie und die nötigen Nachweise.
 2. Senden Sie den Antrag über das Versichertenportal oder lassen Sie sich von einem Hausarzt helfen. Die HIO prüft das Zivil- oder Migrationsregister und, falls zutreffend, Sozialversicherungsdaten; sie kann weitere Unterlagen anfordern.
 3. Wählen Sie einen Vertragshausarzt online oder bei einem Besuch. Nachdem ein Online-Antrag angenommen wurde, besuchen Sie den Arzt, um Ihre Daten zu bestätigen und das Formular zur gegenseitigen Annahme zu unterschreiben.
 
-Wenn sich Aufenthalts- oder Beschäftigungsverhältnisse ändern, fragen Sie die HIO, wie Sie Ihre Nachweise aktualisieren. Das [Neubewertungsverfahren der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process) kann den Anspruch neu prüfen oder beenden, wenn die gesetzlichen Bedingungen nicht mehr erfüllt sind; befolgen Sie die Anweisungen in einem Bescheid.
+Wenn sich Aufenthalts- oder Beschäftigungsverhältnisse ändern, fragen Sie die HIO, wie Sie Ihre Nachweise aktualisieren. Das [Neubewertungsverfahren der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process) kann den Anspruch neu prüfen oder beenden, wenn die gesetzlichen Bedingungen nicht mehr erfüllt sind; befolgen Sie die Anweisungen in einem Bescheid.
 
 ## Was zahlen Versicherte für Leistungen?
 
@@ -117,13 +117,13 @@ Für ein Schengen-Visum für den Kurzaufenthalt verlangen die [Versicherungsrege
 
 ## Quellen
 
-- [HIO — Zeitplan der Einführung](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — Gesundheitsleistungen](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — Anspruchskategorien](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — Registrierungs-FAQ](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — Neubewertung des Anspruchs](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process)
-- [HIO — Beitragssätze und Gebühren](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — FAQ zu Hausarztleistungen](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — FAQ zu Facharztleistungen](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — Zeitplan der Einführung](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — Gesundheitsleistungen](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — Anspruchskategorien](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — Registrierungs-FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — Neubewertung des Anspruchs](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process)
+- [HIO — Beitragssätze und Gebühren](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — FAQ zu Hausarztleistungen](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — FAQ zu Facharztleistungen](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 - [Britische Regierung — Gesundheitsversorgung in Zypern](https://www.gov.uk/guidance/healthcare-in-cyprus)
 - [Flüchtlingsgesetz — aktueller Section 20H](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_6/full.html)

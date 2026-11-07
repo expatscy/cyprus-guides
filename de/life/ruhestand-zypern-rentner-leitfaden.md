@@ -31,13 +31,13 @@ Prüfen Sie vor dem Ruhestand auf Zypern Aufenthaltsweg, Rentenbesteuerung, Ansp
 > **Offizielle Quellen:**
 > - [Finanzministerium](https://www.gov.cy/mof/en/) — Steuerabteilung und Informationen zu Abkommen
 > - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — Visa und Aufenthaltsgenehmigungen
-> - [GESY — Gesundheitssystem](https://www.gesy.org.cy/en-us/home-en) — Registrierung und Leistungen
+> - [GESY — Gesundheitssystem](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — Registrierung und Leistungen
 
 ## Welchen Aufenthaltsweg sollte ich prüfen?
 
 Der veröffentlichte [Leitfaden zur Category F](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis/) des Migration Department beschreibt ein gesichertes jährliches Einkommen aus dem Ausland, ohne dass in Zypern eine Geschäfts-, Handels- oder Berufstätigkeit ausgeübt wird. Genannt werden mindestens €9.568,17 für den Antragsteller und €4.613,22 für jeden Angehörigen. Das Einkommen kann Renten, Dividenden, Einlagenzinsen und Mieten umfassen. Diese veröffentlichten Beträge garantieren keine Genehmigung. Prüfen Sie vor dem Antrag die aktuelle Antragsliste des Departments, Ihren Aufenthaltsstatus während der Wartezeit und die Bedingungen zur Abwesenheit.
 
-Für einen wirtschaftlich nicht aktiven EU-Bürger, der länger als drei Monate bleibt, verlangt der [MEU1-Leitfaden](https://www.mip.gov.cy/dmmip/md.nsf/All/0C6B5279E8E5086CC22589330037689E?OpenDocument=) ausreichende Mittel und eine umfassende Krankenversicherung. Der Registrierungsantrag wird innerhalb von vier Monaten nach der Einreise gestellt. Nutzen Sie die aktuellen Angaben des Departments zu Einreichungsstelle und Unterlagen.
+Für einen wirtschaftlich nicht aktiven EU-Bürger, der länger als drei Monate bleibt, verlangt der [MEU1-Leitfaden](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/=) ausreichende Mittel und eine umfassende Krankenversicherung. Der Registrierungsantrag wird innerhalb von vier Monaten nach der Einreise gestellt. Nutzen Sie die aktuellen Angaben des Departments zu Einreichungsstelle und Unterlagen.
 
 Die [Richtlinie zur Aufenthaltserlaubnis für Investoren](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) hat gesonderte Investitions- und qualitative Bedingungen. Die Option Wohnimmobilie verlangt einen Erstverkauf durch einen Bauträger von mindestens €300.000 zuzüglich MwSt. und ein gesichertes Jahreseinkommen von mindestens €50.000, erhöht um €15.000 für den Ehepartner und €10.000 je minderjährigem unterhaltsberechtigtem Kind. Der Kaufbetrag allein begründet keine Berechtigung. Lesen Sie die ganze Richtlinie mit Nachweisen und fortlaufenden Bedingungen, bevor Sie Geld binden.
 
@@ -151,17 +151,17 @@ Haben Sie eine Frage? Fragen Sie in unserer Community: [Telegram](https://t.me/e
 
 - [Finanzministerium](https://www.gov.cy/mof/en/) — gov.cy
 - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [GESY — Gesundheitssystem](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY — Gesundheitssystem](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 
 - [Income Tax Law — Abschnitt 20 und Second Schedule](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html)
 - [Tax Department — Ansässigkeit und Domizil](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Tax Department — TD38](https://www.mof.gov.cy/mof/TAX/taxdep.nsf/All/0D73178BF2726F42C22582280036FECD/%24file/TD038_2016.pdf?OpenElement=)
 - [Abkommen Vereinigtes Königreich–Zypern — Artikel 17, 18 und 29](https://www.gov.uk/government/publications/cyprus-tax-treaties/2018-uk-cyprus-double-taxation-convention-as-amended-by-the-2018-protocol-in-force)
-- [HIO — Leistungsberechtigte Kategorien](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — Facharztgebühren und Ausnahmen](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — Leistungsberechtigte Kategorien](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — Facharztgebühren und Ausnahmen](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 
-- [HIO — Beitragssätze und Gebühren](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — Kontingente für Hausarztbesuche](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
+- [HIO — Beitragssätze und Gebühren](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — Kontingente für Hausarztbesuche](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
 - [Jährliche Erhöhungen der britischen State Pension im Ausland](https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad)
 
 - [Tax Department — Befreiungen von GHS-Beiträgen](https://www.gov.cy/media/sites/167/2026/01/Guidance-for-GHS-2023.pdf)

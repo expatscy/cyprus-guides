@@ -104,5 +104,5 @@ faqSchema:
 - [Министерство внутренних дел: свидетельства о рождении для рождений на Кипре](https://www.gov.cy/moi/en/documents/birth-certificates-birth-in-cyprus/).
 - [Civil Registry Law, статья 109](https://www.cylaw.org/nomoi/enop/ind/2002_1_141/section-sc852d7c40-bca1-5785-16b3-2a04cd997a2c.html).
 - [Официальный FAQ по пособию по материнству](https://maternity-benefit.service.gov.cy/en/faq) и [Social Insurance Law, статья 29](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
-- [Рекомендации HIO по финансированию и доплатам](https://www.gesy.org.cy/en-us/hiofinancing).
+- [Рекомендации HIO по финансированию и доплатам](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing).
 - [Национальная программа вакцинации детей, 2026](https://www.gov.cy/media/sites/24/2026/02/NATIONAL-VACCINATION-PROGRAM-FOR-CHILDREN-AND-ADOLESCENTS-2026.pdf).

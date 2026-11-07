@@ -95,7 +95,7 @@ Approval brings a collection notification; rejection brings a letter giving reas
 
 Article 23 entitles qualifying family members with residence or permanent-residence rights to **employment or self-employment**. Article 25 says possession of the card, registration certificate or application certificate cannot be made a precondition for exercising a right: entitlement may be proved by other means. The documents evidence qualifying rights rather than granting them automatically.
 
-GeSY eligibility is a separate assessment under the [HIO's ordinary-residence and beneficiary/dependant criteria](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility). A MEU2 application or card alone does not establish every healthcare eligibility condition.
+GeSY eligibility is a separate assessment under the [HIO's ordinary-residence and beneficiary/dependant criteria](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility). A MEU2 application or card alone does not establish every healthcare eligibility condition.
 
 For another family-employment route, read the [spouse-employment guide](/en/immigration/spouse-employment-permit-cyprus/) and confirm its own conditions rather than assuming the same rights.
 

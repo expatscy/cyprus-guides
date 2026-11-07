@@ -140,7 +140,7 @@ Die veröffentlichte Obergrenze beträgt **500 Genehmigungen**, erhöht von 100 
 
 ## Gesundheitsversorgung und Beiträge
 
-Die [Leistungsberechtigten-Kategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) hängen von Staatsangehörigkeit, gewöhnlichem Aufenthalt und dem geltenden Rechtsstatus ab. Die [Beitragspflicht](https://www.gesy.org.cy/en-us/hiofinancing) ist eine getrennte Frage und hängt von der Beitragszahler- und Einkommenskategorie ab. Schließen Sie allein aus dem Namen der Genehmigung weder auf eine allgemeine Beitragspflicht noch auf einen allgemeinen Ausschluss.
+Die [Leistungsberechtigten-Kategorien der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) hängen von Staatsangehörigkeit, gewöhnlichem Aufenthalt und dem geltenden Rechtsstatus ab. Die [Beitragspflicht](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) ist eine getrennte Frage und hängt von der Beitragszahler- und Einkommenskategorie ab. Schließen Sie allein aus dem Namen der Genehmigung weder auf eine allgemeine Beitragspflicht noch auf einen allgemeinen Ausschluss.
 
 Nutzen Sie die Versicherungs-Checkliste Ihres Weges. Prüfen Sie die Einwanderungsrichtlinie gegen diese Anforderung und den Anspruch auf Gesundheitsversorgung gegen die Bedingungen der HIO. Siehe [Gesundheitsversorgung und GESY](/de/life/healthcare-cyprus-gesy/).
 

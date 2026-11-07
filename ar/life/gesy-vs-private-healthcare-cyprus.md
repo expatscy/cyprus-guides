@@ -37,11 +37,11 @@ faqSchema:
 | وقت الانتظار | اسأل مقدم الخدمة المتعاقد مع GeSY عن الموعد أو الإجراء | اسأل مقدم الخدمة المحدد واحصل على التوفر الفعلي |
 | اختيار مقدم الخدمة | مقدمو الخدمة المتعاقدون مع GeSY للخدمة المعنية | راجع شبكة الوثيقة والسداد والموافقة المسبقة |
 
-تميز [قواعد التمويل لدى HIO](https://www.gesy.org.cy/en-us/hiofinancing) بين المبالغ المشتركة والمساهمات الشخصية. السقف السنوي للمبالغ المشتركة 150 يورو عموماً، أو 75 يورو لمتلقي الحد الأدنى المضمون للدخل والمتقاعدين منخفضي الدخل والأطفال دون 21 عاماً. رسم الـ25 يورو للأخصائي المباشر وفرق سعر الدواء مساهمتان شخصيتان منفصلتان؛ والسقف لا يحول كل رسم إلى مبلغ مشترك مغطى.
+تميز [قواعد التمويل لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) بين المبالغ المشتركة والمساهمات الشخصية. السقف السنوي للمبالغ المشتركة 150 يورو عموماً، أو 75 يورو لمتلقي الحد الأدنى المضمون للدخل والمتقاعدين منخفضي الدخل والأطفال دون 21 عاماً. رسم الـ25 يورو للأخصائي المباشر وفرق سعر الدواء مساهمتان شخصيتان منفصلتان؛ والسقف لا يحول كل رسم إلى مبلغ مشترك مغطى.
 
 ## من يستحق GeSY؟
 
-دفع الاشتراكات لا يثبت الاستحقاق بحد ذاته. تتطلب [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) استيفاء شروط الفئة المعنية:
+دفع الاشتراكات لا يثبت الاستحقاق بحد ذاته. تتطلب [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) استيفاء شروط الفئة المعنية:
 
 - المواطنون القبارصة المقيمون عادةً في المناطق الخاضعة لسيطرة الجمهورية أو القواعد السيادية البريطانية في قبرص.
 - مواطنو الاتحاد الأوروبي المقيمون عادةً في المناطق الخاضعة لسيطرة الجمهورية ممن يعملون فيها أو لديهم إقامة دائمة بموجب قانون التنقل الحر في الاتحاد.
@@ -71,11 +71,11 @@ faqSchema:
 
 ## ماذا يغطي GeSY؟
 
-بدأت الخدمات الخارجية في 1 يونيو 2019 والرعاية الداخلية في 1 يونيو 2020. تشمل [قائمة خدمات الرعاية الصحية لدى HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) الأطباء الشخصيين والأخصائيين الخارجيين والمختبرات والصيدليات والرعاية الداخلية والممرضين والقابلات والمهن الصحية المساندة ورعاية الأسنان الوقائية والرعاية التلطيفية وإعادة التأهيل. طبّق قواعد الإحالة والتشخيص ومقدم الخدمة وحدود المنفعة الخاصة بكل خدمة.
+بدأت الخدمات الخارجية في 1 يونيو 2019 والرعاية الداخلية في 1 يونيو 2020. تشمل [قائمة خدمات الرعاية الصحية لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) الأطباء الشخصيين والأخصائيين الخارجيين والمختبرات والصيدليات والرعاية الداخلية والممرضين والقابلات والمهن الصحية المساندة ورعاية الأسنان الوقائية والرعاية التلطيفية وإعادة التأهيل. طبّق قواعد الإحالة والتشخيص ومقدم الخدمة وحدود المنفعة الخاصة بكل خدمة.
 
 ### رعاية الأسنان الوقائية
 
-يتيح [دليل أنشطة الأسنان لدى HIO](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) زيارة وقائية واحدة بعد مرور عام على آخر زيارة أسنان ضمن GeSY. لا إحالة مطلوبة. تعتمد الخدمات المدرجة على العمر:
+يتيح [دليل أنشطة الأسنان لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf) زيارة وقائية واحدة بعد مرور عام على آخر زيارة أسنان ضمن GeSY. لا إحالة مطلوبة. تعتمد الخدمات المدرجة على العمر:
 
 - دون 4 سنوات: فحص الفم ونصائح صحة الفم للمستفيد أو الوالد أو الوصي.
 - من 4 إلى أقل من 6 سنوات: إزالة الجير وفحص الفم والنصائح.
@@ -120,15 +120,15 @@ faqSchema:
 
 ## المصادر
 
-- [HIO — فئات المستفيدين](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — أسئلة شائعة عن التسجيل](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — نسب الاشتراكات والرسوم](https://www.gesy.org.cy/en-us/hiofinancing)
+- [HIO — فئات المستفيدين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — أسئلة شائعة عن التسجيل](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — نسب الاشتراكات والرسوم](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
 - [HIO — جدول التمويل اليوناني وشرط العمر الدقيق للسقف المخفض](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=%2Fel-gr%2F&lookuppage=hiofinancing)
-- [HIO — أسئلة شائعة عن الطبيب الشخصي](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — أسئلة شائعة عن الأخصائيين](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
-- [HIO — خدمات الرعاية الصحية](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — دليل خدمات الأسنان](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf)
-- [HIO — الجدول الزمني للتطبيق](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — مركز الاتصال](https://www.gesy.org.cy/en-us/contactus)
+- [HIO — أسئلة شائعة عن الطبيب الشخصي](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — أسئلة شائعة عن الأخصائيين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
+- [HIO — خدمات الرعاية الصحية](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — دليل خدمات الأسنان](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf)
+- [HIO — الجدول الزمني للتطبيق](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — مركز الاتصال](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=contactus)
 - [حكومة المملكة المتحدة — جهات الطوارئ في قبرص](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)
 - [Universal Life — جدول منافع MultiCare](https://www.universallife.com.cy/storage/library/6968b83fcb967.pdf)

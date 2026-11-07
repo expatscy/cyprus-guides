@@ -62,9 +62,9 @@ Wenn ein Krankenhaus oder eine Universität der Grund ist, diesen Stadtteil in B
 
 ## Wie sollte die Gesundheitsversorgung meine Wahl beeinflussen?
 
-Der [Anspruch auf GESY](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) hängt vom gewöhnlichen Aufenthalt und der zutreffenden Leistungsempfängerkategorie ab. Der Zugang setzt die Eintragung im Leistungsempfängerregister und die Registrierung auf der Liste eines persönlichen Arztes voraus, so die [FAQ zur Registrierung](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq).
+Der [Anspruch auf GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) hängt vom gewöhnlichen Aufenthalt und der zutreffenden Leistungsempfängerkategorie ab. Der Zugang setzt die Eintragung im Leistungsempfängerregister und die Registrierung auf der Liste eines persönlichen Arztes voraus, so die [FAQ zur Registrierung](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq).
 
-Die [Leistungsliste der HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) umfasst stationäre Versorgung durch Vertragsanbieter, vorbehaltlich der jeweiligen Zugangs- und Leistungsbedingungen. Die Nähe zu einem Krankenhaus allein begründet keinen Anspruch und deckt nicht jede Leistung ab. Prüfen Sie Ihren eigenen Anspruch, die Verfügbarkeit von Ärzten und den Anbieter für eine laufende Behandlung.
+Die [Leistungsliste der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) umfasst stationäre Versorgung durch Vertragsanbieter, vorbehaltlich der jeweiligen Zugangs- und Leistungsbedingungen. Die Nähe zu einem Krankenhaus allein begründet keinen Anspruch und deckt nicht jede Leistung ab. Prüfen Sie Ihren eigenen Anspruch, die Verfügbarkeit von Ärzten und den Anbieter für eine laufende Behandlung.
 
 ## Welche Checks helfen bei der Wahl?
 

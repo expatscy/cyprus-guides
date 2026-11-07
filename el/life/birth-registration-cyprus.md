@@ -104,5 +104,5 @@ faqSchema:
 - [Υπουργείο Εσωτερικών: πιστοποιητικά γέννησης για γεννήσεις στην Κύπρο](https://www.gov.cy/moi/en/documents/birth-certificates-birth-in-cyprus/).
 - [Civil Registry Law, άρθρο 109](https://www.cylaw.org/nomoi/enop/ind/2002_1_141/section-sc852d7c40-bca1-5785-16b3-2a04cd997a2c.html).
 - [Επίσημες συχνές ερωτήσεις για το επίδομα μητρότητας](https://maternity-benefit.service.gov.cy/en/faq) και [Social Insurance Law, άρθρο 29](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
-- [Οδηγίες του ΟΑΥ για τη χρηματοδότηση και τη συμμετοχή](https://www.gesy.org.cy/en-us/hiofinancing).
+- [Οδηγίες του ΟΑΥ για τη χρηματοδότηση και τη συμμετοχή](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing).
 - [Εθνικό πρόγραμμα παιδικών εμβολιασμών, 2026](https://www.gov.cy/media/sites/24/2026/02/NATIONAL-VACCINATION-PROGRAM-FOR-CHILDREN-AND-ADOLESCENTS-2026.pdf).

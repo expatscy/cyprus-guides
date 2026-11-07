@@ -103,7 +103,7 @@ translationKey: "spouse-employment-kipr-rabota-suprugov"
 
 ### בריאות ודמי ביטוח
 
-בדקו את [קטגוריות הזכאים של HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) לפי אזרחות, מגורים רגילים ומעמד חוקי. היתר עבודה לבדו אינו מכריע בזכאות לשירותי בריאות. [חובת התשלום](https://www.gesy.org.cy/en-us/hiofinancing) היא שאלה נפרדת; אל תתייחסו לתשלום כהוכחה לזכאות ואל תסיקו זכאות לפנסיה משם ההיתר.
+בדקו את [קטגוריות הזכאים של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) לפי אזרחות, מגורים רגילים ומעמד חוקי. היתר עבודה לבדו אינו מכריע בזכאות לשירותי בריאות. [חובת התשלום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) היא שאלה נפרדת; אל תתייחסו לתשלום כהוכחה לזכאות ואל תסיקו זכאות לפנסיה משם ההיתר.
 
 חלופות Plan A/GESY ברשימת המשפחה הן דרישות למסמכי הבקשה. ודאו איזו ראיית ביטוח חלה על הספונסר ועל בן/בת הזוג.
 

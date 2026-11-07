@@ -43,11 +43,11 @@ faqSchema:
 
 ## איך עובדים שירותי הבריאות לילדים בקפריסין?
 
-[קטגוריות הזכאים של HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) כוללות תלויים זכאים שמתגוררים בדרך כלל באזורים שבשליטת הרפובליקה. אם הזכאי הוא מחוץ לאיחוד האירופי והזכאות שלו נובעת ממעמד של תושב קבע, גם בני משפחתו צריכים מעמד של תושב קבע. חשובים אזרחות, מקום מגורים רגיל וקטגוריית הזכאי הרלוונטית. אישור עבודה של אחד ההורים לבדו אינו ערובה אוטומטית.
+[קטגוריות הזכאים של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) כוללות תלויים זכאים שמתגוררים בדרך כלל באזורים שבשליטת הרפובליקה. אם הזכאי הוא מחוץ לאיחוד האירופי והזכאות שלו נובעת ממעמד של תושב קבע, גם בני משפחתו צריכים מעמד של תושב קבע. חשובים אזרחות, מקום מגורים רגיל וקטגוריית הזכאי הרלוונטית. אישור עבודה של אחד ההורים לבדו אינו ערובה אוטומטית.
 
-כדי להשתמש בשירותי GeSY הילד צריך להיות רשום במרשם הזכאים (Beneficiary Record) וברשימת רופא אישי (Personal Doctor List). HIO מבחינה בין הרישום הזה לבין קישור אוטומטי של התיק הרפואי של קטין רשום לחשבון הפורטל של ההורה, שגם לו יש תנאים. פעלו לפי [הוראות הרישום](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) ובקשו מ-HIO להכריע בקטגוריה של המשפחה שלכם.
+כדי להשתמש בשירותי GeSY הילד צריך להיות רשום במרשם הזכאים (Beneficiary Record) וברשימת רופא אישי (Personal Doctor List). HIO מבחינה בין הרישום הזה לבין קישור אוטומטי של התיק הרפואי של קטין רשום לחשבון הפורטל של ההורה, שגם לו יש תנאים. פעלו לפי [הוראות הרישום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) ובקשו מ-HIO להכריע בקטגוריה של המשפחה שלכם.
 
-שירותי GeSY דרך ספקים מוסכמים כוללים רופאים אישיים, מומחים במרפאות חוץ, תרופות, אשפוז וטיפולי שיניים מונעים. הגישה והעלויות תלויות בכללי השירות. כיסוי אינו אומר שכל טיפול בחינם. [קטלוג שירותי השיניים שפורסם](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) כולל שירותי מניעה לפי גיל, גם לזכאים מגיל 12 ומעלה. זו אינה הטבה רק לילדים מתחת לגיל 16.
+שירותי GeSY דרך ספקים מוסכמים כוללים רופאים אישיים, מומחים במרפאות חוץ, תרופות, אשפוז וטיפולי שיניים מונעים. הגישה והעלויות תלויות בכללי השירות. כיסוי אינו אומר שכל טיפול בחינם. [קטלוג שירותי השיניים שפורסם](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf) כולל שירותי מניעה לפי גיל, גם לזכאים מגיל 12 ומעלה. זו אינה הטבה רק לילדים מתחת לגיל 16.
 
 אם אתם משתמשים בביטוח פרטי, בקשו הצעה לגילאים ולצרכים של המשפחה. השוו החרגות, תקופות המתנה וספקים מכוסים. התאימו אותו לרשימת המסמכים של מסלול השהייה. לדוגמה, הרשימה לילדים תלויים של נוודים דיגיטליים דורשת כיסוי אשפוז וטיפול אמבולטורי והובלת שרידים. בררו מול חברת הביטוח איך היא עומדת בדרישה, ואל תניחו פרמיה משפחתית אחידה.
 
@@ -125,7 +125,7 @@ faqSchema:
 - [משרד החינוך: חינוך לפני יסודי](https://www.moec.gov.cy/dde/en/infoserv_preprimary_general_information.html)
 - [משרד החינוך: תשלומי גן](https://www.moec.gov.cy/dde/en/preprimary_fees.html)
 - [משרד החינוך: מדריכי בתי ספר](https://www.moec.gov.cy/en/schools_info.html)
-- [HIO: קטגוריות זכאים](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), [רישום](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) ו[שירותי בריאות](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
+- [HIO: קטגוריות זכאים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), [רישום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) ו[שירותי בריאות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
 - [רשימת מסמכים לילד תלוי של נוודים דיגיטליים](https://www.gov.cy/app/uploads/sites/174/2025/12/Acc-Docs-children_19032025.pdf)
 - [פטור ממסמכים ציבוריים באיחוד האירופי](https://www.gov.cy/mjpo/en/exemption-of-certain-public-documents-from-the-apostille-requirement-according-to-regulation-eu-2016-1191/)
 - [חוק קצבת הילדים](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_167/full.html) ו[בקשות](https://www.gov.cy/en/service/child-benefit-and-single-parent-family-benefit/)

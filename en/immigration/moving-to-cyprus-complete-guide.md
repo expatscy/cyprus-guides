@@ -93,7 +93,7 @@ See [banks in Cyprus](/en/business/banks-cyprus-comparison/), [account opening](
 
 ## 5. Healthcare and Insurance
 
-Check [HIO's beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) for your nationality, ordinary residence and legal status. A permit's work rights or payment of a contribution alone do not establish GESY eligibility.
+Check [HIO's beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) for your nationality, ordinary residence and legal status. A permit's work rights or payment of a contribution alone do not establish GESY eligibility.
 
 Use your permit category's insurance requirement. The digital-nomad checklist specifies Plan A inpatient/outpatient cover and transportation of remains. Ask the insurer to confirm that the actual policy meets the relevant checklist.
 

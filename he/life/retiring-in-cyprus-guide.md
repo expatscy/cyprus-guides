@@ -31,13 +31,13 @@ translationKey: "pensiya-na-kipre-dlya-pensionerov"
 > **מקורות רשמיים:**
 > - [משרד האוצר](https://www.gov.cy/mof/en/) — מחלקת המסים ומידע על אמנות
 > - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — ויזות ואישורי שהייה
-> - [GESY — מערכת הבריאות](https://www.gesy.org.cy/en-us/home-en) — רישום וכיסוי
+> - [GESY — מערכת הבריאות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — רישום וכיסוי
 
 ## איזה מסלול מגורים כדאי לבדוק?
 
 [ההנחיות לקטגוריה F](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis/) שפרסם ה-Migration Department מתארות הכנסה שנתית מובטחת מחו״ל, ללא עיסוק בעסק, במסחר או במקצוע בקפריסין. מצוינים לפחות €9,568.17 למבקש ו-€4,613.22 לכל תלוי. ההכנסה יכולה לכלול פנסיות, דיבידנדים, ריבית על פיקדונות ושכר דירה. הסכומים המפורסמים האלה אינם מבטיחים אישור. לפני ההגשה בדקו את רשימת הבדיקה העדכנית של המחלקה, את מעמד ההגירה שלכם בזמן ההמתנה ואת תנאי ההיעדרות.
 
-לאזרח האיחוד שאינו פעיל כלכלית ושוהה יותר משלושה חודשים, [ההנחיות ל-MEU1](https://www.mip.gov.cy/dmmip/md.nsf/All/0C6B5279E8E5086CC22589330037689E?OpenDocument=) דורשות משאבים מספקים וביטוח רפואי מקיף. בקשת הרישום מוגשת תוך ארבעה חודשים מהכניסה. השתמשו במידע העדכני של המחלקה על מקום ההגשה והמסמכים.
+לאזרח האיחוד שאינו פעיל כלכלית ושוהה יותר משלושה חודשים, [ההנחיות ל-MEU1](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/=) דורשות משאבים מספקים וביטוח רפואי מקיף. בקשת הרישום מוגשת תוך ארבעה חודשים מהכניסה. השתמשו במידע העדכני של המחלקה על מקום ההגשה והמסמכים.
 
 ל[מדיניות אישור ההגירה למשקיעים](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) יש תנאי השקעה ותנאים איכותיים נפרדים. אפשרות הנכס למגורים דורשת מכירה ראשונה מיזם בסך לפחות €300,000 בתוספת מע״מ, והכנסה שנתית מובטחת של לפחות €50,000, שגדלה ב-€15,000 עבור בן/בת זוג וב-€10,000 לכל ילד קטין תלוי. סכום הרכישה לבדו אינו מקים זכאות. קראו את המדיניות במלואה, כולל מסמכים ותנאים מתמשכים, לפני שמתחייבים לכספים.
 
@@ -151,17 +151,17 @@ translationKey: "pensiya-na-kipre-dlya-pensionerov"
 
 - [משרד האוצר](https://www.gov.cy/mof/en/) — gov.cy
 - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [GESY — מערכת הבריאות](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [GESY — מערכת הבריאות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 
 - [חוק מס הכנסה — סעיף 20 ו-Second Schedule](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html)
 - [Tax Department — תושבות מס ודומיסיל](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Tax Department — TD38](https://www.mof.gov.cy/mof/TAX/taxdep.nsf/All/0D73178BF2726F42C22582280036FECD/%24file/TD038_2016.pdf?OpenElement=)
 - [האמנה בין בריטניה לקפריסין — סעיפים 17, 18 ו-29](https://www.gov.uk/government/publications/cyprus-tax-treaties/2018-uk-cyprus-double-taxation-convention-as-amended-by-the-2018-protocol-in-force)
-- [HIO — קטגוריות זכאים](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — תשלומי מומחים וחריגים](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — קטגוריות זכאים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — תשלומי מומחים וחריגים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 
-- [HIO — שיעורי תשלום ועמלות](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — מכסות ביקורי רופא אישי](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
+- [HIO — שיעורי תשלום ועמלות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — מכסות ביקורי רופא אישי](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
 - [עדכונים שנתיים לקצבת המדינה הבריטית בחו״ל](https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad)
 
 - [Tax Department — פטורים מתשלומי GHS](https://www.gov.cy/media/sites/167/2026/01/Guidance-for-GHS-2023.pdf)

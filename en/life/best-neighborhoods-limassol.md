@@ -67,9 +67,9 @@ If a hospital or university is the reason for considering this area, start with 
 
 ## How should healthcare affect my choice?
 
-[GeSY eligibility](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) depends on ordinary residence and the applicable beneficiary category. Access requires enrolment in the Beneficiary Record and registration on a Personal Doctor List, according to the [registration FAQ](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq).
+[GeSY eligibility](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) depends on ordinary residence and the applicable beneficiary category. Access requires enrolment in the Beneficiary Record and registration on a Personal Doctor List, according to the [registration FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq).
 
-The [HIO healthcare-services list](https://www.gesy.org.cy/en-us/hioghshealthcareservices) includes inpatient care through contracted providers, subject to the relevant access and service conditions. Proximity to a hospital alone does not establish eligibility or cover every service. Check your own eligibility, doctor availability and the provider for any ongoing treatment.
+The [HIO healthcare-services list](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) includes inpatient care through contracted providers, subject to the relevant access and service conditions. Proximity to a hospital alone does not establish eligibility or cover every service. Check your own eligibility, doctor availability and the provider for any ongoing treatment.
 
 ## Which checks help me choose?
 

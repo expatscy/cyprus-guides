@@ -43,11 +43,11 @@ faqSchema:
 
 ## كيف تعمل الرعاية الصحية للأطفال في قبرص؟
 
-تشمل [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) المعالين المؤهلين الذين يقيمون عادة في المناطق الخاضعة لسيطرة الجمهورية. وإذا كان المستفيد من خارج الاتحاد الأوروبي مؤهلاً عن طريق الإقامة الدائمة، فعلى أفراد أسرته أيضاً أن يحملوا الإقامة الدائمة. المهم هو الجنسية ومكان الإقامة المعتاد وفئة المستفيد المناسبة. وتصريح العمل لأحد الوالدين وحده ليس ضماناً تلقائياً.
+تشمل [فئات المستفيدين لدى HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) المعالين المؤهلين الذين يقيمون عادة في المناطق الخاضعة لسيطرة الجمهورية. وإذا كان المستفيد من خارج الاتحاد الأوروبي مؤهلاً عن طريق الإقامة الدائمة، فعلى أفراد أسرته أيضاً أن يحملوا الإقامة الدائمة. المهم هو الجنسية ومكان الإقامة المعتاد وفئة المستفيد المناسبة. وتصريح العمل لأحد الوالدين وحده ليس ضماناً تلقائياً.
 
-للحصول على خدمات GeSY يجب أن يكون الطفل مسجلاً في سجل المستفيدين (Beneficiary Record) وفي قائمة الطبيب الشخصي (Personal Doctor List). تفرّق HIO بين هذا التسجيل وبين الربط التلقائي للسجل الطبي لقاصر مسجل بحساب بوابة أحد الوالدين، وله بدوره شروط. اتبع [تعليمات التسجيل](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) واطلب من HIO تحديد فئة عائلتك.
+للحصول على خدمات GeSY يجب أن يكون الطفل مسجلاً في سجل المستفيدين (Beneficiary Record) وفي قائمة الطبيب الشخصي (Personal Doctor List). تفرّق HIO بين هذا التسجيل وبين الربط التلقائي للسجل الطبي لقاصر مسجل بحساب بوابة أحد الوالدين، وله بدوره شروط. اتبع [تعليمات التسجيل](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) واطلب من HIO تحديد فئة عائلتك.
 
-تشمل خدمات GeSY عبر مقدمي الخدمة المتعاقدين الأطباء الشخصيين وأخصائيي العيادات الخارجية والأدوية والعلاج الداخلي وطب الأسنان الوقائي. يعتمد الوصول والرسوم على قواعد كل خدمة. والتغطية لا تعني أن كل علاج مجاني. ويقدم [كتالوج خدمات الأسنان المنشور](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) خدمات وقائية حسب العمر، بما فيها للمستفيدين من سن 12 فما فوق. أي أنها ليست ميزة لمن هم دون 16 سنة فقط.
+تشمل خدمات GeSY عبر مقدمي الخدمة المتعاقدين الأطباء الشخصيين وأخصائيي العيادات الخارجية والأدوية والعلاج الداخلي وطب الأسنان الوقائي. يعتمد الوصول والرسوم على قواعد كل خدمة. والتغطية لا تعني أن كل علاج مجاني. ويقدم [كتالوج خدمات الأسنان المنشور](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf) خدمات وقائية حسب العمر، بما فيها للمستفيدين من سن 12 فما فوق. أي أنها ليست ميزة لمن هم دون 16 سنة فقط.
 
 إذا كنت تستخدم تأميناً خاصاً، فاطلب عرضاً يناسب أعمار عائلتك واحتياجاتها. قارن الاستثناءات وفترات الانتظار ومقدمي الخدمة المشمولين. وطابقه مع قائمة وثائق مسار الإقامة. فمثلاً تتطلب قائمة أطفال البدو الرقميين المعالين تغطية للعلاج الداخلي والخارجي ونقل الجثمان. اسأل شركة التأمين كيف تفي بهذا الشرط، ولا تفترض قسط عائلة موحداً.
 
@@ -125,7 +125,7 @@ faqSchema:
 - [الوزارة: التعليم ما قبل الابتدائي](https://www.moec.gov.cy/dde/en/infoserv_preprimary_general_information.html)
 - [الوزارة: رسوم ما قبل الابتدائي](https://www.moec.gov.cy/dde/en/preprimary_fees.html)
 - [الوزارة: أدلة المدارس](https://www.moec.gov.cy/en/schools_info.html)
-- [HIO: فئات المستفيدين](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) و[التسجيل](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) و[الخدمات الصحية](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
+- [HIO: فئات المستفيدين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) و[التسجيل](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) و[الخدمات الصحية](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
 - [قائمة وثائق الطفل المعال للبدو الرقميين](https://www.gov.cy/app/uploads/sites/174/2025/12/Acc-Docs-children_19032025.pdf)
 - [إعفاء الوثائق الرسمية في الاتحاد الأوروبي](https://www.gov.cy/mjpo/en/exemption-of-certain-public-documents-from-the-apostille-requirement-according-to-regulation-eu-2016-1191/)
 - [قانون إعانة الأطفال](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_167/full.html) و[الطلبات](https://www.gov.cy/en/service/child-benefit-and-single-parent-family-benefit/)

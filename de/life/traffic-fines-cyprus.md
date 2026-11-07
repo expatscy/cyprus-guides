@@ -24,7 +24,7 @@ faqSchema:
 Kameras auf Zyperns Straßen arbeiten aktiv. Hier erfahren Sie, wie Sie Bußgelder prüfen und bezahlen.
 
 > **Offizielle Quellen:**
-> - [Cyprus Police — Traffic](https://www.police.gov.cy/police/police.nsf/dmldept2_en/dmldept2_en) — Verkehrspolizei
+> - [Polizei Zypern](https://www.gov.cy/police/en/) — Verkehrspolizei
 > - [JCC Smart](https://www.jccsmart.com/) — Online-Bußgeldzahlung
 > - [Camera System](https://www.cycamerasystem.com.cy/) — Kamera-Bußgelder prüfen
 
@@ -194,4 +194,4 @@ Weiterführende Informationen: [Auto auf Zypern](/de/life/car-registration-cypru
 
 ## Quellen
 
-- [Cyprus Police — Traffic](https://www.police.gov.cy/police/police.nsf/dmldept2_en/dmldept2_en) — gov.cy
+- [Polizei Zypern](https://www.gov.cy/police/en/) — gov.cy

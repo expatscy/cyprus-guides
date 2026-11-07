@@ -161,7 +161,7 @@ howtoSchema:
 
 Список для цифровых кочевников требует страховой сертификат Plan A: стационарное лечение, амбулаторное лечение и перевозка тела.
 
-Одно разрешение цифрового кочевника не даёт права на GeSY. [Правила Организации медицинского страхования](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) требуют обычного проживания и подходящей категории бенефициара; для граждан третьих стран важны условия постоянного проживания, равного обращения или семейные условия. Оценивайте право на GeSY отдельно: не считайте, что это разрешение его даёт, и не считайте, что все цифровые кочевники исключены при любых обстоятельствах.
+Одно разрешение цифрового кочевника не даёт права на GeSY. [Правила Организации медицинского страхования](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) требуют обычного проживания и подходящей категории бенефициара; для граждан третьих стран важны условия постоянного проживания, равного обращения или семейные условия. Оценивайте право на GeSY отдельно: не считайте, что это разрешение его даёт, и не считайте, что все цифровые кочевники исключены при любых обстоятельствах.
 
 ## Засчитывается ли это проживание для гражданства?
 
@@ -191,5 +191,5 @@ howtoSchema:
 - [Официальные формы и документы](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/)
 - [Налоговое резидентство и domicile](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Налоговый департамент: гербовый сбор](https://www.gov.cy/mof-tax/documents/chartosima/)
-- [Право на GeSY](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [Право на GeSY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [Закон о гражданском реестре: действующие положения о гражданстве](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)

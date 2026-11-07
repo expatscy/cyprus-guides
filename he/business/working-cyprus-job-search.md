@@ -79,7 +79,7 @@ translationKey: "rabota-na-kipre-poisk-zarplaty"
 
 שיעור דמי הביטוח הלאומי של העובד הוא **8.8% מההכנסה המבוטחת**. ב-**2026**, תקרת העובד היא **€5,742 לחודש לעובדים בשכר חודשי** או **€1,325 לשבוע לעובדים בשכר שבועי**. [שיעורי ההפרשה בתוקף](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) ו[הודעת התקרה ל-2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5).
 
-**שיעור הפרשת העובד ל-GESY הוא 2.65%**; תקרת החישוב השנתית היא **€180,000 לאדם פרטי על פני קטגוריות ההפרשה הרלוונטיות**, בנפרד מתקרת הביטוח הלאומי. [כללי המימון של HIO](https://www.gesy.org.cy/en-us/hiofinancing).
+**שיעור הפרשת העובד ל-GESY הוא 2.65%**; תקרת החישוב השנתית היא **€180,000 לאדם פרטי על פני קטגוריות ההפרשה הרלוונטיות**, בנפרד מתקרת הביטוח הלאומי. [כללי המימון של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing).
 
 בקשו ממחלקת השכר חישוב לפי ההכנסה בפועל שלכם וכל הקלה שאתם זכאים לה. הצטרפות למעסיק מסוים אינה מקנה כשלעצמה זכאות לפטור ממס אישי.
 
@@ -139,7 +139,7 @@ translationKey: "rabota-na-kipre-poisk-zarplaty"
 - [שאלות ותשובות על שכר מינימום](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04) — מחלקת יחסי העבודה
 - [חוק מס הכנסה](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — cylaw.org
 - [שיעורי הפרשה לביטוח הלאומי](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/) ו[תקרה 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5) — gov.cy
-- [מימון GESY](https://www.gesy.org.cy/en-us/hiofinancing) — HIO
+- [מימון GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) — HIO
 - [חוק תנאי עבודה שקופים וצפויים](https://www.cylaw.org/nomoi/enop/non-ind/2023_1_25/full.html) — cylaw.org
 - [חוק שעות העבודה](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_63/full.html) — cylaw.org
 - [חופשה שנתית בתשלום](https://www.gov.cy/en/service/31545/) — gov.cy

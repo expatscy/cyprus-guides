@@ -159,7 +159,7 @@ howtoSchema:
 
 Ο κατάλογος του ψηφιακού νομάδα απαιτεί ασφαλιστήριο πιστοποιητικό Plan A που να καλύπτει νοσοκομειακή περίθαλψη, εξωνοσοκομειακή περίθαλψη και μεταφορά σορού.
 
-Η άδεια ψηφιακού νομάδα από μόνη της δεν τεκμηριώνει επιλεξιμότητα δικαιούχου του ΓεΣΥ. Οι [κανόνες του Οργανισμού Ασφάλισης Υγείας](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) απαιτούν συνήθη διαμονή και εφαρμοστέα κατηγορία δικαιούχου· για υπηκόους τρίτων χωρών, έχουν σημασία οι σχετικές προϋποθέσεις μόνιμης διαμονής, ίσης μεταχείρισης ή οικογένειας. Αξιολογήστε οποιοδήποτε δικαίωμα ξεχωριστά, αντί να υποθέτετε ότι η άδεια αυτή το παρέχει ή ότι κάθε ψηφιακός νομάδας αποκλείεται σε κάθε περίπτωση.
+Η άδεια ψηφιακού νομάδα από μόνη της δεν τεκμηριώνει επιλεξιμότητα δικαιούχου του ΓεΣΥ. Οι [κανόνες του Οργανισμού Ασφάλισης Υγείας](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) απαιτούν συνήθη διαμονή και εφαρμοστέα κατηγορία δικαιούχου· για υπηκόους τρίτων χωρών, έχουν σημασία οι σχετικές προϋποθέσεις μόνιμης διαμονής, ίσης μεταχείρισης ή οικογένειας. Αξιολογήστε οποιοδήποτε δικαίωμα ξεχωριστά, αντί να υποθέτετε ότι η άδεια αυτή το παρέχει ή ότι κάθε ψηφιακός νομάδας αποκλείεται σε κάθε περίπτωση.
 
 ## Μετράει αυτή η διαμονή για την υπηκοότητα;
 
@@ -189,5 +189,5 @@ howtoSchema:
 - [Official forms and accompanying documents](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/)
 - [Tax residency and domicility](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Tax Department — stamp duty](https://www.gov.cy/mof-tax/documents/chartosima/)
-- [GeSY beneficiary eligibility](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [GeSY beneficiary eligibility](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [Civil Registry Law — current citizenship provisions](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)

@@ -167,5 +167,5 @@ SWIFT-переводы из **санкционных банков** (Сберб�
 
 ## Источники
 
-- [ГЕСУ](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [ГЕСУ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 - [Посольство РФ на Кипре](https://cyprus.mid.ru/) — МИД РФ

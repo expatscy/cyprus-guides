@@ -89,9 +89,9 @@ translationKey: "luchshie-rayony-limassola-dlya-zhizni"
 
 ## كيف تؤثر الرعاية الصحية على اختياري؟
 
-[أهلية الاستفادة من GESY](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) تعتمد على الإقامة الاعتيادية وفئة المستفيد المنطبقة. الوصول إلى الخدمات يتطلب التسجيل في سجل المستفيدين والتسجيل في قائمة طبيب شخصي، وفق [الأسئلة الشائعة حول التسجيل](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq).
+[أهلية الاستفادة من GESY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) تعتمد على الإقامة الاعتيادية وفئة المستفيد المنطبقة. الوصول إلى الخدمات يتطلب التسجيل في سجل المستفيدين والتسجيل في قائمة طبيب شخصي، وفق [الأسئلة الشائعة حول التسجيل](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq).
 
-[قائمة خدمات HIO الصحية](https://www.gesy.org.cy/en-us/hioghshealthcareservices) تشمل الرعاية الاستشفائية عبر مزوّدين متعاقدين، رهناً بشروط الوصول والخدمة المعنية. القرب من مستشفى وحده لا يثبت الأهلية ولا يغطي كل خدمة. تحقّق من أهليتك، ومن توفر الأطباء، ومن المزوّد لأي علاج مستمر.
+[قائمة خدمات HIO الصحية](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) تشمل الرعاية الاستشفائية عبر مزوّدين متعاقدين، رهناً بشروط الوصول والخدمة المعنية. القرب من مستشفى وحده لا يثبت الأهلية ولا يغطي كل خدمة. تحقّق من أهليتك، ومن توفر الأطباء، ومن المزوّد لأي علاج مستمر.
 
 ---
 

@@ -64,7 +64,7 @@ faqSchema:
 
 يقدّر دميتري التأمين الإضافي لعائلته بـ **نحو 3,000 يورو سنوياً** وقت المقابلة. ويروي أنه اختار **American Academy** بعد زيارة مدارس وفضّل أجواءها لأطفاله. هذه تجربة عائلته واختياراتها كما رواها، وليست عرض تأمين حالياً ولا تقييماً لكل المدارس.
 
-**ملاحظة حالية عن الرعاية الصحية:** تتضمن [قائمة خدمات HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) **الرعاية الداخلية في المستشفى** عبر مزودين متعاقدين. تحقق من [أهلية المستفيدين](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) والخدمة المغطاة المحددة وشروط الحصول عليها. نقاش التأمين في المقابلة لا يثبت استثناءً شاملاً للعمليات المكلفة. للتخطيط، راجع [مقارنة GeSY والرعاية الخاصة](/ar/life/gesy-vs-private-healthcare-cyprus/) و[مقارنة المدارس](/ar/life/schools-cyprus-comparison/).
+**ملاحظة حالية عن الرعاية الصحية:** تتضمن [قائمة خدمات HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) **الرعاية الداخلية في المستشفى** عبر مزودين متعاقدين. تحقق من [أهلية المستفيدين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) والخدمة المغطاة المحددة وشروط الحصول عليها. نقاش التأمين في المقابلة لا يثبت استثناءً شاملاً للعمليات المكلفة. للتخطيط، راجع [مقارنة GeSY والرعاية الخاصة](/ar/life/gesy-vs-private-healthcare-cyprus/) و[مقارنة المدارس](/ar/life/schools-cyprus-comparison/).
 
 ## النقاش الضريبي والإرشادات الحالية
 
@@ -102,6 +102,6 @@ faqSchema:
 ## المصادر
 
 - [المقابلة الأصلية والترجمة المنشورة](https://www.youtube.com/watch?v=ZxMemLmj4MM) — بيانات الناشر ورواية الضيف المنسوبة إليه؛ مقاطع الترجمة ذات الصلة نحو 00:00–03:19 و05:33–05:48 و35:58–38:40
-- [HIO: الخدمات الصحية](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO: أهلية المستفيدين](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [HIO: الخدمات الصحية](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO: أهلية المستفيدين](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [دائرة الضرائب: الإقامة الضريبية والموطن](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)

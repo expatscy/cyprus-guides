@@ -31,13 +31,13 @@ faqSchema:
 > **Επίσημες πηγές:**
 > - [Υπουργείο Οικονομικών](https://www.gov.cy/mof/en/) — Τμήμα Φορολογίας και πληροφορίες για συμβάσεις
 > - [Υφυπουργείο Μετανάστευσης](https://www.gov.cy/mip-md/en/) — βίζα και άδειες διαμονής
-> - [ΓεΣΥ — Σύστημα Υγείας](https://www.gesy.org.cy/en-us/home-en) — εγγραφή και κάλυψη
+> - [ΓεΣΥ — Σύστημα Υγείας](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — εγγραφή και κάλυψη
 
 ## Ποια διαδρομή διαμονής να ελέγξω;
 
 Οι δημοσιευμένες [οδηγίες για την Κατηγορία Φ](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis/) του Τμήματος Μετανάστευσης περιγράφουν εξασφαλισμένο ετήσιο εισόδημα από το εξωτερικό, χωρίς άσκηση επιχείρησης, εμπορίου ή επαγγέλματος στην Κύπρο. Αναφέρουν τουλάχιστον €9.568,17 για τον αιτούντα και €4.613,22 για κάθε εξαρτώμενο· το εισόδημα μπορεί να περιλαμβάνει συντάξεις, μερίσματα, τόκους καταθέσεων και ενοίκια. Τα δημοσιευμένα αυτά ποσά εισοδήματος δεν εγγυώνται έγκριση. Ελέγξτε την τρέχουσα λίστα του Τμήματος, το μεταναστευτικό καθεστώς κατά την αναμονή και τις προϋποθέσεις απουσίας πριν υποβάλετε αίτηση.
 
-Για οικονομικά μη ενεργό πολίτη της ΕΕ που παραμένει περισσότερο από τρεις μήνες, οι [οδηγίες MEU1](https://www.mip.gov.cy/dmmip/md.nsf/All/0C6B5279E8E5086CC22589330037689E?OpenDocument=) απαιτούν επαρκείς πόρους και πλήρη ασφάλιση ασθενείας. Η αίτηση εγγραφής υποβάλλεται εντός τεσσάρων μηνών από την είσοδο. Χρησιμοποιήστε τις τρέχουσες πληροφορίες του Τμήματος για το γραφείο υποβολής και τα έγγραφα.
+Για οικονομικά μη ενεργό πολίτη της ΕΕ που παραμένει περισσότερο από τρεις μήνες, οι [οδηγίες MEU1](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/=) απαιτούν επαρκείς πόρους και πλήρη ασφάλιση ασθενείας. Η αίτηση εγγραφής υποβάλλεται εντός τεσσάρων μηνών από την είσοδο. Χρησιμοποιήστε τις τρέχουσες πληροφορίες του Τμήματος για το γραφείο υποβολής και τα έγγραφα.
 
 Η [πολιτική άδειας μετανάστευσης επενδυτών](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) έχει χωριστές επενδυτικές και ποιοτικές προϋποθέσεις. Η επιλογή οικιστικού ακινήτου απαιτεί πρώτη πώληση από κατασκευαστή αξίας τουλάχιστον €300.000 συν ΦΠΑ και εξασφαλισμένο ετήσιο εισόδημα τουλάχιστον €50.000, αυξημένο κατά €15.000 για σύζυγο και κατά €10.000 για κάθε ανήλικο εξαρτώμενο τέκνο. Το ποσό αγοράς από μόνο του δεν θεμελιώνει επιλεξιμότητα. Διαβάστε ολόκληρη την πολιτική, συμπεριλαμβανομένων των αποδεικτικών στοιχείων και των διαρκών προϋποθέσεων, πριν δεσμεύσετε κεφάλαια.
 
@@ -151,17 +151,17 @@ faqSchema:
 
 - [Υπουργείο Οικονομικών](https://www.gov.cy/mof/en/) — gov.cy
 - [Υφυπουργείο Μετανάστευσης](https://www.gov.cy/mip-md/en/) — gov.cy
-- [ΓεΣΥ — Σύστημα Υγείας](https://www.gesy.org.cy/en-us/home-en) — GeSY
+- [ΓεΣΥ — Σύστημα Υγείας](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=home-en) — GeSY
 
 - [Νόμος περί Φόρου Εισοδήματος — άρθρο 20 και Δεύτερο Παράρτημα](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html)
 - [Τμήμα Φορολογίας — κατοικία και domicile](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [Τμήμα Φορολογίας — TD38](https://www.mof.gov.cy/mof/TAX/taxdep.nsf/All/0D73178BF2726F42C22582280036FECD/%24file/TD038_2016.pdf?OpenElement=)
 - [Σύμβαση Ηνωμένου Βασιλείου–Κύπρου — άρθρα 17, 18 και 29](https://www.gov.uk/government/publications/cyprus-tax-treaties/2018-uk-cyprus-double-taxation-convention-as-amended-by-the-2018-protocol-in-force)
-- [ΟΑΥ — κατηγορίες δικαιούχων](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [ΟΑΥ — χρεώσεις και εξαιρέσεις ειδικών](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [ΟΑΥ — κατηγορίες δικαιούχων](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [ΟΑΥ — χρεώσεις και εξαιρέσεις ειδικών](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 
-- [ΟΑΥ — συντελεστές και χρεώσεις εισφορών](https://www.gesy.org.cy/en-us/hiofinancing)
-- [ΟΑΥ — επιτρεπόμενες επισκέψεις προσωπικού ιατρού](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
+- [ΟΑΥ — συντελεστές και χρεώσεις εισφορών](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [ΟΑΥ — επιτρεπόμενες επισκέψεις προσωπικού ιατρού](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
 - [Ετήσιες αυξήσεις βρετανικής κρατικής σύνταξης στο εξωτερικό](https://www.gov.uk/government/publications/state-pensions-annual-increases-if-you-live-abroad)
 
 - [Τμήμα Φορολογίας — απαλλαγές εισφορών ΓεΣΥ (GHS)](https://www.gov.cy/media/sites/167/2026/01/Guidance-for-GHS-2023.pdf)

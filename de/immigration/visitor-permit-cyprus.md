@@ -195,8 +195,8 @@ Trennen Sie Einkommen aus dem Ausland vom Recht zu arbeiten:
 Der Besucherstatus allein **begründet keinen GESY-Anspruch**:
 
 - Die Checkliste verlangt eine **private Versicherung Plan A**
-- Prüfen Sie die [Begünstigtenkategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility): Staatsangehörigkeit, gewöhnlicher Aufenthalt und Rechtsstatus
-- Die [Beitragspflicht zum GHS](https://www.gesy.org.cy/en-us/hiofinancing) ist eine getrennte Frage von Einkommen und Kategorie; Beiträge zu zahlen begründet keinen Leistungsanspruch
+- Prüfen Sie die [Begünstigtenkategorien der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility): Staatsangehörigkeit, gewöhnlicher Aufenthalt und Rechtsstatus
+- Die [Beitragspflicht zum GHS](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) ist eine getrennte Frage von Einkommen und Kategorie; Beiträge zu zahlen begründet keinen Leistungsanspruch
 
 ## Wie führt die Besuchererlaubnis zur Staatsbürgerschaft?
 

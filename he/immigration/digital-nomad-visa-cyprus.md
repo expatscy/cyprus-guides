@@ -160,7 +160,7 @@ howtoSchema:
 
 הרשימה לנוודים דיגיטליים דורשת אישור ביטוח Plan A המכסה טיפול מאושפז, טיפול אמבולטורי והובלת שרידים.
 
-היתר נווד דיגיטלי לבדו אינו מקים זכאות ל-GeSY. [כללי ארגון הביטוח הרפואי](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) דורשים מגורים רגילים וקטגוריית מוטב מתאימה; לאזרחי מדינות שלישיות חשובים תנאי תושבות קבע, שוויון יחס או תנאים משפחתיים. בדקו כל זכאות בנפרד: אל תניחו שההיתר הזה מקנה אותה, ואל תניחו שכל נווד דיגיטלי מוחרג בכל הנסיבות.
+היתר נווד דיגיטלי לבדו אינו מקים זכאות ל-GeSY. [כללי ארגון הביטוח הרפואי](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) דורשים מגורים רגילים וקטגוריית מוטב מתאימה; לאזרחי מדינות שלישיות חשובים תנאי תושבות קבע, שוויון יחס או תנאים משפחתיים. בדקו כל זכאות בנפרד: אל תניחו שההיתר הזה מקנה אותה, ואל תניחו שכל נווד דיגיטלי מוחרג בכל הנסיבות.
 
 ## האם המגורים האלה נספרים לאזרחות?
 
@@ -190,5 +190,5 @@ howtoSchema:
 - [טפסים ומסמכים רשמיים](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/)
 - [תושבות מס ו-domicile](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
 - [רשות המסים: מס בולים](https://www.gov.cy/mof-tax/documents/chartosima/)
-- [זכאות ל-GeSY](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [זכאות ל-GeSY](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
 - [חוק מרשם האוכלוסין: הוראות האזרחות הנוכחיות](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)

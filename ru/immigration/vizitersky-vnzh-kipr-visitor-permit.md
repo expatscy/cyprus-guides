@@ -199,8 +199,8 @@ faqSchema:
 Сам по себе визитерский статус **не даёт права на GESY**:
 
 - Чеклист требует **частную страховку Plan A**
-- Проверьте [категории бенефициаров HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility): гражданство, обычное место жительства и правовой статус
-- [Обязанность платить взносы GHS](https://www.gesy.org.cy/en-us/hiofinancing) — отдельный вопрос дохода и категории; уплата взносов не даёт права на лечение
+- Проверьте [категории бенефициаров HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility): гражданство, обычное место жительства и правовой статус
+- [Обязанность платить взносы GHS](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) — отдельный вопрос дохода и категории; уплата взносов не даёт права на лечение
 
 ## Можно ли получить гражданство через визитерский ВНЖ?
 

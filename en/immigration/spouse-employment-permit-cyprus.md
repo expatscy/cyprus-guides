@@ -103,7 +103,7 @@ Have the duties, ownership, employer relationship and immigration permissions as
 
 ### Healthcare and contributions
 
-Check [HIO's beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) for nationality, ordinary residence and legal status. Employment permission alone does not settle healthcare eligibility. [Contribution liability](https://www.gesy.org.cy/en-us/hiofinancing) is a separate question; do not treat a contribution as proof of entitlement or assume a pension award from the permit's name.
+Check [HIO's beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) for nationality, ordinary residence and legal status. Employment permission alone does not settle healthcare eligibility. [Contribution liability](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) is a separate question; do not treat a contribution as proof of entitlement or assume a pension award from the permit's name.
 
 The family checklist's Plan A/GESY alternatives are application-document requirements. Confirm which insurance evidence applies to the sponsor and spouse.
 

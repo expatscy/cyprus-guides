@@ -140,7 +140,7 @@ The published ceiling is **500 permits**, raised from 100 on 3 March 2022, not a
 
 ## Healthcare and Contributions
 
-[HIO beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) depend on nationality, ordinary residence and the applicable legal status. [Contribution liability](https://www.gesy.org.cy/en-us/hiofinancing) is a separate question and depends on the relevant contributor and income category. Do not infer either universal contribution liability or universal exclusion from the permit's name alone.
+[HIO beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) depend on nationality, ordinary residence and the applicable legal status. [Contribution liability](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) is a separate question and depends on the relevant contributor and income category. Do not infer either universal contribution liability or universal exclusion from the permit's name alone.
 
 Use the route's actual insurance checklist. An immigration policy should be checked against that requirement, and healthcare eligibility against HIO's conditions. See [healthcare and GESY](/en/life/healthcare-cyprus-gesy/).
 

@@ -32,7 +32,7 @@ GESY's outpatient stage began on 1 June 2019; inpatient services began on 1 June
 
 ### Contributions
 
-The [HIO financing guidance](https://www.gesy.org.cy/en-us/hiofinancing) lists these standard rates from 1 March 2020:
+The [HIO financing guidance](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) lists these standard rates from 1 March 2020:
 
 | Category | Rate and base |
 |----------|---------------|
@@ -46,7 +46,7 @@ The contribution base is capped at €180,000 annually per individual across app
 
 ### Who can use it?
 
-The [HIO beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) distinguish:
+The [HIO beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) distinguish:
 
 - **Cypriot citizens:** ordinary residence in Republic-controlled areas or the UK sovereign bases in Cyprus.
 - **EU citizens:** ordinary residence in Republic-controlled areas and work there, or a permanent residence permit under the EU free-movement law.
@@ -58,13 +58,13 @@ An ARC, a tax identification number or a residence permit alone does not establi
 
 ## How do I register for GESY?
 
-The [HIO registration FAQ](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) requires enrolment in both the GHS Beneficiary Record and a personal-doctor list.
+The [HIO registration FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) requires enrolment in both the GHS Beneficiary Record and a personal-doctor list.
 
 1. Check your beneficiary category and the required evidence.
 2. Submit the enrolment request through the Beneficiary Portal, or ask a personal doctor for help. The HIO checks the Civil Registry or Migration Registry and, where applicable, Social Insurance records; it may request additional documents.
 3. Select a contracted personal doctor online or by visiting the doctor. After an online request is accepted, visit the doctor to confirm your details and sign the mutual-acceptance form.
 
-If your residence or employment circumstances change, ask the HIO how to update your evidence. The [HIO re-evaluation process](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process) can reassess or terminate eligibility when the legal conditions are no longer met; follow the instructions in any notice.
+If your residence or employment circumstances change, ask the HIO how to update your evidence. The [HIO re-evaluation process](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process) can reassess or terminate eligibility when the legal conditions are no longer met; follow the instructions in any notice.
 
 ## What do beneficiaries pay for services?
 
@@ -117,13 +117,13 @@ For a short-stay Schengen visa, the [Visa Code insurance rules](https://eur-lex.
 
 ## Sources
 
-- [HIO — implementation timetable](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — healthcare services](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — registration FAQ](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — eligibility re-evaluation](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process)
-- [HIO — contribution rates and charges](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — personal-doctor services FAQ](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — specialist services FAQ](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — implementation timetable](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — healthcare services](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — registration FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — eligibility re-evaluation](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process)
+- [HIO — contribution rates and charges](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — personal-doctor services FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — specialist services FAQ](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 - [UK government — healthcare in Cyprus](https://www.gov.uk/guidance/healthcare-in-cyprus)
 - [Refugee Law — current section 20H](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_6/full.html)

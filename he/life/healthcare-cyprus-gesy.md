@@ -32,7 +32,7 @@ faqSchema:
 
 ### הפרשות
 
-[הנחיות המימון של HIO](https://www.gesy.org.cy/en-us/hiofinancing) מפרטות את השיעורים הרגילים האלה מ-1 במרץ 2020:
+[הנחיות המימון של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) מפרטות את השיעורים הרגילים האלה מ-1 במרץ 2020:
 
 | קטגוריה | שיעור ובסיס |
 |----------|---------------|
@@ -46,7 +46,7 @@ faqSchema:
 
 ### מי יכול להשתמש?
 
-[קטגוריות המוטבים של HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) מבחינות בין:
+[קטגוריות המוטבים של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) מבחינות בין:
 
 - **אזרחי קפריסין:** מגורי קבע באזורים שבשליטת הרפובליקה או בבסיסי הריבונות הבריטיים בקפריסין.
 - **אזרחי האיחוד האירופי:** מגורי קבע באזורים שבשליטת הרפובליקה ועבודה שם, או היתר שהייה קבועה לפי דיני התנועה החופשית של האיחוד.
@@ -58,13 +58,13 @@ ARC, מספר זיהוי לצורכי מס או היתר שהייה לבדם א�
 
 ## איך נרשמים ל-GESY?
 
-[שאלות הנפוצות של HIO על רישום](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq) דורשות רישום גם במרשם המוטבים של GHS וגם ברשימת רופא אישי.
+[שאלות הנפוצות של HIO על רישום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq) דורשות רישום גם במרשם המוטבים של GHS וגם ברשימת רופא אישי.
 
 1. בדקו את קטגוריית המוטב שלכם ואת ההוכחות הנדרשות.
 2. הגישו את בקשת הרישום דרך פורטל המוטבים, או בקשו עזרה מרופא אישי. ה-HIO בודק את מרשם האוכלוסין או מרשם ההגירה ובמקרה הצורך נתוני ביטוח לאומי; הוא עשוי לבקש מסמכים נוספים.
 3. בחרו רופא אישי שבחוזה באינטרנט או בביקור אצלו. אחרי שבקשה מקוונת התקבלה, בקרו אצל הרופא כדי לאשר את הפרטים ולחתום על טופס הסכמה הדדית.
 
-אם נסיבות המגורים או התעסוקה משתנות, שאלו את ה-HIO איך לעדכן את ההוכחות. [תהליך ההערכה מחדש של HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process) עשוי לבחון מחדש או לסיים זכאות כשהתנאים בחוק כבר אינם מתקיימים; פעלו לפי ההוראות בכל הודעה.
+אם נסיבות המגורים או התעסוקה משתנות, שאלו את ה-HIO איך לעדכן את ההוכחות. [תהליך ההערכה מחדש של HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process) עשוי לבחון מחדש או לסיים זכאות כשהתנאים בחוק כבר אינם מתקיימים; פעלו לפי ההוראות בכל הודעה.
 
 ## כמה משלמים המוטבים על שירותים?
 
@@ -117,13 +117,13 @@ ARC, מספר זיהוי לצורכי מס או היתר שהייה לבדם א�
 
 ## מקורות
 
-- [HIO — לוח זמני היישום](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — שירותי בריאות](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — קטגוריות מוטבים](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — שאלות נפוצות על רישום](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — הערכה מחדש של זכאות](https://www.gesy.org.cy/en-us/hiobeneficiaryre-evaluation-process)
-- [HIO — שיעורי הפרשה וחיובים](https://www.gesy.org.cy/en-us/hiofinancing)
-- [HIO — שאלות נפוצות על שירותי רופא אישי](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — שאלות נפוצות על שירותי מומחים](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
+- [HIO — לוח זמני היישום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — שירותי בריאות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — קטגוריות מוטבים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — שאלות נפוצות על רישום](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — הערכה מחדש של זכאות](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryre-evaluation-process)
+- [HIO — שיעורי הפרשה וחיובים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
+- [HIO — שאלות נפוצות על שירותי רופא אישי](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — שאלות נפוצות על שירותי מומחים](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
 - [ממשלת בריטניה — בריאות בקפריסין](https://www.gov.uk/guidance/healthcare-in-cyprus)
 - [חוק הפליטים — section 20H הנוכחי](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_6/full.html)

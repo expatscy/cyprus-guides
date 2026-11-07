@@ -99,7 +99,7 @@ Für Gründer beschreibt der Leitfaden **selbstständige oder angestellte Tätig
 
 Für die Familien von Gründern und Führungskräften beschreibt der Leitfaden ein sofortiges Aufenthaltsrecht und den Familiennachzug; der Arbeitsmarktzugang des Ehepartners gilt zu **denselben Bedingungen wie beim Sponsor**. Durchlaufen Sie das jeweilige Familienverfahren und prüfen Sie die Bedingungen für jede Person.
 
-Die verlinkte Migrations-Checkliste nennt eine **Krankenversicherung nach Plan A** mit Abdeckung für stationäre und ambulante Behandlung und die Überführung im Todesfall **oder** den Nachweis der GeSY-Registrierung plus private Versicherung für die Überführung. Klären Sie den Anspruch auf die staatliche Versorgung getrennt bei der [Health Insurance Organisation](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), bevor Sie sich darauf verlassen. Mehr zum System im [Ratgeber zu GeSY und Gesundheit](/de/life/healthcare-cyprus-gesy/).
+Die verlinkte Migrations-Checkliste nennt eine **Krankenversicherung nach Plan A** mit Abdeckung für stationäre und ambulante Behandlung und die Überführung im Todesfall **oder** den Nachweis der GeSY-Registrierung plus private Versicherung für die Überführung. Klären Sie den Anspruch auf die staatliche Versorgung getrennt bei der [Health Insurance Organisation](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), bevor Sie sich darauf verlassen. Mehr zum System im [Ratgeber zu GeSY und Gesundheit](/de/life/healthcare-cyprus-gesy/).
 
 ## Darf das Unternehmen weitere ausländische Mitarbeiter einstellen?
 

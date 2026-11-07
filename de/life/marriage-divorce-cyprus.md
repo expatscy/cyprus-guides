@@ -26,7 +26,7 @@ Ehe- und Familiendokumente sind für viele Einwanderungsverfahren auf Zypern von
 > **Offizielle Quellen:**
 > - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Eheschliessungen
 > - [Family Courts (CyLaw)](https://www.cylaw.org/) — Familienrecht
-> - [MFA Consular Forms](https://mfa.gov.cy/consular-forms.html) — Formulare für Dokumente
+> - [Außenministerium Zypern](https://www.gov.cy/mfa/en/) — Formulare für Dokumente
 > - [Gemeinde Limassol: Standesamtliche Trauungen](https://www.limassol.org.cy/en/civil-weddings) — Verfahren und Gebühren (geprüft 2026-11-07)
 
 ## Wie heiratet man auf Zypern?

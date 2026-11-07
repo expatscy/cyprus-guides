@@ -37,11 +37,11 @@ Nutzen Sie diesen Vergleich zusammen mit unserem [Überblick über das Gesundhei
 | Wartezeit | Fragen Sie den GeSY-Vertragsanbieter nach Termin oder Eingriff | Fragen Sie den genannten Anbieter; holen Sie die tatsächliche Verfügbarkeit ein |
 | Anbieterwahl | Anbieter mit GeSY-Vertrag für die jeweilige Leistung | Netz, Erstattung und Vorabgenehmigung der Police prüfen |
 
-Die [Finanzierungsregeln der HIO](https://www.gesy.org.cy/en-us/hiofinancing) unterscheiden Zuzahlungen von persönlichen Beiträgen. Die jährliche Zuzahlungsobergrenze beträgt allgemein EUR 150, für Bezieher des garantierten Mindesteinkommens, Rentner mit niedrigem Einkommen und Kinder unter 21 Jahren EUR 75. Die EUR 25 für den direkten Facharztbesuch und eine Preisdifferenz bei Medikamenten sind gesonderte persönliche Beiträge; die Obergrenze macht nicht jede Gebühr zu einer gedeckten Zuzahlung.
+Die [Finanzierungsregeln der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) unterscheiden Zuzahlungen von persönlichen Beiträgen. Die jährliche Zuzahlungsobergrenze beträgt allgemein EUR 150, für Bezieher des garantierten Mindesteinkommens, Rentner mit niedrigem Einkommen und Kinder unter 21 Jahren EUR 75. Die EUR 25 für den direkten Facharztbesuch und eine Preisdifferenz bei Medikamenten sind gesonderte persönliche Beiträge; die Obergrenze macht nicht jede Gebühr zu einer gedeckten Zuzahlung.
 
 ## Wer hat Anspruch auf GeSY?
 
-Die Zahlung von Beiträgen begründet für sich keinen Anspruch. Die [Anspruchskategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) verlangen die Voraussetzungen der jeweiligen Kategorie:
+Die Zahlung von Beiträgen begründet für sich keinen Anspruch. Die [Anspruchskategorien der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility) verlangen die Voraussetzungen der jeweiligen Kategorie:
 
 - Zyprische Staatsbürger mit gewöhnlichem Aufenthalt in den von der Republik kontrollierten Gebieten oder auf den britischen Militärbasen auf Zypern.
 - EU-Bürger mit gewöhnlichem Aufenthalt in den von der Republik kontrollierten Gebieten, die dort arbeiten oder nach EU-Freizügigkeitsrecht ein Daueraufenthaltsrecht haben.
@@ -71,11 +71,11 @@ Zur Veranschaulichung: Sind alle EUR 180.000 Arbeitnehmergehalt zum Standardsatz
 
 ## Was deckt GeSY ab?
 
-Die ambulanten Leistungen begannen am 1. Juni 2019, die stationäre Versorgung am 1. Juni 2020. Die [Leistungsliste der HIO](https://www.gesy.org.cy/en-us/hioghshealthcareservices) umfasst Hausärzte, ambulante Fachärzte, Labore, Apotheken, stationäre Versorgung, Pflegekräfte und Hebammen, Gesundheitsfachberufe, zahnärztliche Vorsorge, Palliativversorgung und Rehabilitation. Beachten Sie für jede Leistung die Regeln zu Überweisung, Diagnose, Anbieter und Leistungsgrenzen.
+Die ambulanten Leistungen begannen am 1. Juni 2019, die stationäre Versorgung am 1. Juni 2020. Die [Leistungsliste der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices) umfasst Hausärzte, ambulante Fachärzte, Labore, Apotheken, stationäre Versorgung, Pflegekräfte und Hebammen, Gesundheitsfachberufe, zahnärztliche Vorsorge, Palliativversorgung und Rehabilitation. Beachten Sie für jede Leistung die Regeln zu Überweisung, Diagnose, Anbieter und Leistungsgrenzen.
 
 ### Zahnärztliche Vorsorge
 
-Der [Zahnkatalog der HIO](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) sieht einen Vorsorgetermin vor, wenn seit dem letzten zahnärztlichen GeSY-Besuch ein Jahr vergangen ist. Eine Überweisung ist nicht nötig. Die aufgeführten Leistungen hängen vom Alter ab:
+Der [Zahnkatalog der HIO](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf) sieht einen Vorsorgetermin vor, wenn seit dem letzten zahnärztlichen GeSY-Besuch ein Jahr vergangen ist. Eine Überweisung ist nicht nötig. Die aufgeführten Leistungen hängen vom Alter ab:
 
 - Unter 4 Jahren: Mundkontrolle und Beratung zur Mundgesundheit für das Kind, Eltern oder Vormund.
 - 4 bis unter 6 Jahre: Zahnsteinentfernung, Mundkontrolle und Beratung.
@@ -120,15 +120,15 @@ Im Notfall rufen Sie 112 an und schildern die Lage. Bei geplanter Behandlung kl�
 
 ## Quellen
 
-- [HIO — Anspruchskategorien](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
-- [HIO — FAQ zur Registrierung](https://www.gesy.org.cy/en-us/hiobeneficiariesregistrationfaq)
-- [HIO — Beitragssätze und Gebühren](https://www.gesy.org.cy/en-us/hiofinancing)
+- [HIO — Anspruchskategorien](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility)
+- [HIO — FAQ zur Registrierung](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiariesregistrationfaq)
+- [HIO — Beitragssätze und Gebühren](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)
 - [HIO — griechische Finanzierungstabelle und genaue Altersbedingung der reduzierten Obergrenze](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=%2Fel-gr%2F&lookuppage=hiofinancing)
-- [HIO — FAQ zum Hausarzt](https://www.gesy.org.cy/en-us/hiopdservicesfaq)
-- [HIO — FAQ zu Fachärzten](https://www.gesy.org.cy/en-us/hiooutpatientspecialistsfaq)
-- [HIO — Gesundheitsleistungen](https://www.gesy.org.cy/en-us/hioghshealthcareservices)
-- [HIO — Zahnkatalog](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf)
-- [HIO — Umsetzungszeitplan](https://www.gesy.org.cy/en-us/hioimplementationtimeplan)
-- [HIO — Kontaktzentrum](https://www.gesy.org.cy/en-us/contactus)
+- [HIO — FAQ zum Hausarzt](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiopdservicesfaq)
+- [HIO — FAQ zu Fachärzten](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiooutpatientspecialistsfaq)
+- [HIO — Gesundheitsleistungen](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioghshealthcareservices)
+- [HIO — Zahnkatalog](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=el_GR&lookuphost=/el-gr/&lookuppage=announcementdef/20201218-dentists-activity-catalogue.pdf)
+- [HIO — Umsetzungszeitplan](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hioimplementationtimeplan)
+- [HIO — Kontaktzentrum](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=contactus)
 - [Britische Regierung — Notfallkontakte auf Zypern](https://www.gov.uk/foreign-travel-advice/cyprus/getting-help)
 - [Universal Life — MultiCare-Leistungstabelle](https://www.universallife.com.cy/storage/library/6968b83fcb967.pdf)

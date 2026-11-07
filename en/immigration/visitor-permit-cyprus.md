@@ -104,7 +104,7 @@ Its stated permit duration is up to the sponsor's permit validity, subject to im
 
 ## Healthcare and Contributions
 
-The autonomous checklist requires Plan A insurance. Visitor status alone does not establish GeSY entitlement: check [HIO's beneficiary categories](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility), including nationality, ordinary residence and legal status. [GHS contribution liability](https://www.gesy.org.cy/en-us/hiofinancing) is a separate income/category question; paying a contribution does not establish healthcare eligibility.
+The autonomous checklist requires Plan A insurance. Visitor status alone does not establish GeSY entitlement: check [HIO's beneficiary categories](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiobeneficiaryeligiblility), including nationality, ordinary residence and legal status. [GHS contribution liability](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) is a separate income/category question; paying a contribution does not establish healthcare eligibility.
 
 ## Absence, Re-Entry and Naturalisation
 
