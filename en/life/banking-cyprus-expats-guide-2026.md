@@ -3,7 +3,7 @@ slug: "banking-cyprus-expats-guide-2026"
 title: "Banking in Cyprus 2026: Accounts, Cards"
 description: "How to open a bank account in Cyprus in 2026. Bank comparison, fees, GBP transfers, Wise/Revolut, mortgages for British expats, and post-Brexit changes."
 date: 2026-04-09
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -41,7 +41,7 @@ The Cypriot banking landscape changed significantly in 2025: two major mergers, 
 
 > **Data sources:**
 > - [Bank of Cyprus](https://www.bankofcyprus.com/) -- official site, tariffs
-> - [Eurobank Limited](https://www.eurobank.com.cy/) -- Hellenic Bank and Eurobank Cyprus merged in September 2025
+> - [Eurobank Limited](https://www.eurobank.cy/) -- Hellenic Bank and Eurobank Cyprus merged in September 2025
 > - [Alpha Bank Cyprus / ex-AstroBank](https://www.alphabank.com.cy/en/astrobank) -- AstroBank operations transferred to Alpha Bank Cyprus in 2025
 > - [EU Council -- 19th sanctions package](https://www.consilium.europa.eu/en/press/press-releases/2025/10/23/19th-package-of-sanctions-against-russia-eu-targets-russian-energy-third-country-banks-and-crypto-providers/) -- sanctions reference
 > - [Chambers & Co -- crypto tax 8%](https://www.chambersandco.com/cyprus-8-crypto-tax-new-article-20e-regime-for-gains-on-crypto-assets-from-2026/)
@@ -51,7 +51,7 @@ The Cypriot banking landscape changed significantly in 2025: two major mergers, 
 | Bank | Assets | Status | Notes for expats |
 |------|--------|--------|-----------------|
 | **[Bank of Cyprus](https://www.bankofcyprus.com/)** | ~EUR 27B | Largest | Accounts for residents only. Conservative compliance -- may request extensive documentation |
-| **[Eurobank Limited](https://www.eurobank.com.cy/)** | ~EUR 20B | 2nd (formerly Hellenic, merged Sept 2025) | Accepts non-residents. Most expat-friendly. Main mortgage lender for foreigners |
+| **[Eurobank Limited](https://www.eurobank.cy/)** | ~EUR 20B | 2nd (formerly Hellenic, merged Sept 2025) | Accepts non-residents. Most expat-friendly. Main mortgage lender for foreigners |
 | **[Alpha Bank Cyprus](https://www.alphabank.com.cy/)** | ~EUR 6.6B | 3rd (formerly AstroBank, acquired Nov 2025) | Accepts expats |
 | ~~RCB Bank~~ | -- | Closed (2023) | No longer operating |
 
@@ -187,7 +187,7 @@ For retirees, pensions are typically the main income stream. Here is how the mai
 ### Pension Tax in Cyprus
 
 You can choose annually between:
-- **Flat 5%** on pension income above EUR 3,420/year (the first EUR 3,420 is tax-free)
+- **Flat 5%** on pension income above EUR 5,000/year (the first EUR 5,000 is tax-free; [Income Tax Law, section 20](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html))
 - **Standard progressive rates** (0% up to EUR 22,000 in 2026, then 20/25/30/35%)
 
 For most UK pension incomes, the flat 5% rate is more favourable. At a pension of GBP 20,000/year (~EUR 23,200), you would pay roughly EUR 988 in tax under the flat rate -- compared to approximately GBP 1,500 in the UK.
@@ -239,7 +239,7 @@ Source: [INDEX.cy](https://index.cy/articles/cyprus-mortgage-guide-2026/)
 | Loss carry-forward | Not allowed |
 | Taxable events | Sale, exchange, payment for goods/services |
 
-> **UK comparison:** In the UK, crypto gains are taxed as Capital Gains Tax at 10-20% (above the GBP 3,000 annual allowance in 2025/26). Cyprus's flat 8% with no minimum threshold is simpler and, for larger gains, significantly cheaper. If you are a UK crypto holder relocating to Cyprus, the timing of disposal matters -- gains realised after becoming Cypriot tax resident fall under the 8% rate.
+> **UK comparison:** In the UK, crypto gains are taxed as Capital Gains Tax at 18% or 24% (above the GBP 3,000 annual allowance). Cyprus's flat 8% with no minimum threshold is simpler and, for larger gains, significantly cheaper. If you are a UK crypto holder relocating to Cyprus, the timing of disposal matters -- gains realised after becoming Cypriot tax resident fall under the 8% rate.
 
 ### Regulation
 
@@ -305,5 +305,6 @@ See also: [Bank Account Comparison — BoC, Eurobank, Alpha Bank Cyprus](/en/bus
 
 ## Sources
 
+- [Capital Gains Tax rates](https://www.gov.uk/capital-gains-tax/rates) and [allowances](https://www.gov.uk/capital-gains-tax/allowances) — GOV.UK, checked 2026-11-07
 - [EU Council -- 19th sanctions package](https://www.consilium.europa.eu/en/press/press-releases/2025/10/23/19th-package-of-sanctions-against-russia-eu-targets-russian-energy-third-country-banks-and-crypto-providers/) — European Union
 - [Migration Department](https://www.gov.cy/mip-md/en/) — gov.cy

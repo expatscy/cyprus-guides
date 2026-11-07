@@ -1,13 +1,13 @@
 ---
 type: videos
-title: "Cyprus Business Club: Unternehmer auf Zypern"
-description: "Cyprus Business Club: Unternehmergemeinschaft auf Zypern. Networking, Geschaeftsmoeglichkeiten und der Weg in den Kreis erfolgreicher Menschen."
+slug: "cyprus-business-club-millionaires"
+title: "Cyprus Business Club: Unternehmergemeinschaft"
+description: "Tatyana Dyachenko spricht über den Cyprus Business Club: Mitgliedschaft, Veranstaltungen und Projekte. Klären Sie die Bedingungen vorab beim Veranstalter."
 date: 2024-12-10
-updated: 2026-10-03
+updated: 2026-11-07
 youtube_id: "vffr9M5kXro"
-duration: "PT35M00S"
+duration: "PT15M22S"
 upload_date: "2024-12-10"
-view_count: 6800
 tags:
   - Business
   - Arbeit
@@ -21,72 +21,56 @@ author: "Expats Cyprus"
 translationKey: "cyprus-business-club-millionery"
 
 topics_mentioned:
-  - "Wirtschaftsgemeinschaften Zyperns"
-  - "Networking auf Zypern"
   - "Cyprus Business Club"
-  - "Unternehmertum"
-  - "Investitionen"
-  - "Geschaeftsbeziehungen"
-
-faqs:
-  - question: "Was ist der Cyprus Business Club?"
-    answer: "Der Cyprus Business Club ist eine geschlossene Gemeinschaft von Unternehmern und Geschaeftsleuten auf Zypern. Der Club organisiert Veranstaltungen, Networking-Treffen und hilft Mitgliedern, Geschaeftspartner zu finden."
-  - question: "Wie wird man Mitglied im Cyprus Business Club?"
-    answer: "In der Regel ist eine Empfehlung eines bestehenden Mitglieds und ein Auswahlverfahren erforderlich. Der Club richtet sich an Geschaeftsinhaber und Top-Manager."
-  - question: "Warum braucht man einen Business-Club auf Zypern?"
-    answer: "Networking ist der Schluessel zum Geschaeftserfolg. Der Club bietet Zugang zu Kontakten, Partnerschaftsmoeglichkeiten, Investitionen und wertvoller Erfahrung anderer Unternehmer."
+  - "Mitgliedschaft und ihre Kosten im Interview"
+  - "Veranstaltungen und Networking"
+  - "Projekte und Unterstützung für Unternehmer"
+  - "Beispiele der Gesprächspartnerin"
 faqSchema:
-  - question: "Welche Steuervorteile bietet Zypern für Unternehmer aus Deutschland?"
-    answer: "Koerperschaftssteuer: 15 % (DE: ca. 30 % inkl. Gewerbesteuer). Non-Dom-Status: keine Steuern auf Dividenden und Kapitalertraege für 17 Jahre. Kein Doppelbesteuerungsabkommen noetig — das DBA DE-CY ist in Kraft. IP-Box-Regime: ab 2026 effektiv 3 % auf vollständig qualifizierende IP-Gewinne (80 % Abzug × 15 % KSt auf den verbleibenden Anteil). Achtung: Bei Wegzug aus Deutschland faellt ggf. Wegzugsbesteuerung (Exit Tax) an — vorher Steuerberater konsultieren."
-  - question: "Wie gruendet man eine Firma auf Zypern als deutscher Staatsbuerger?"
-    answer: "Gruendung einer Limited Company in 5-10 Werktagen über einen lokalen Anwalt oder Firmengruendungsservice. Kosten: 1.500-3.000 EUR (Gruendung + erstes Jahr). Noetig: Registrierter Firmensitz auf Zypern, lokaler Sekretaer, Bankkonto (Bank of Cyprus, Eurobank Limited oder Alpha Bank Cyprus). Als EU-Bürger keine Genehmigung noetig. Buchfuehrungspflicht ab Tag 1."
-  - question: "Gibt es deutsche Unternehmer-Netzwerke oder Business-Communities auf Zypern?"
-    answer: "Es gibt verschiedene Netzwerke: Cyprus Business Club (gemischt, hauptsaechlich Russisch/Englisch), AHK Zypern (Deutsch-zyprische Handelskammer), lokale BNI-Gruppen, und informelle deutschsprachige Treffen in Paphos und Limassol. Tipp: LinkedIn und Facebook-Gruppen wie 'Deutsche auf Zypern' sind gute Einstiegspunkte. Konferenzen wie IMH Real Estate oder ULI bieten hochkaraetiges Networking."
+  - question: "Worum geht es in diesem Interview zum Cyprus Business Club?"
+    answer: "Der Herausgeber stellt Tatyana Dyachenko als Inhaberin des Clubs zum Zeitpunkt des Interviews vor. Beschreibung und Kapitel behandeln, für wen der Club gedacht ist, Mitgliedskosten, Veranstaltungen, Projekte, Unterstützung und Beispiele der Gesprächspartnerin. Das Video wurde am 10. Dezember 2024 hochgeladen."
+  - question: "Welche Aktivitäten beschreibt der Club aktuell?"
+    answer: "Die Website des Clubs, geprüft am 3. Oktober 2026, beschreibt Business-Frühstücke, strategische Treffen, Masterminds, Investitionsgespräche und Podiumsdiskussionen. Das sind Beschreibungen des Veranstalters. Klären Sie vor einer Teilnahme die konkrete Veranstaltung und die Zugangsbedingungen."
+  - question: "Wie prüfe ich, ob die Mitgliedschaft zu mir passt?"
+    answer: "Fragen Sie den Veranstalter nach aktuellen Beiträgen, Teilnahmevoraussetzungen, enthaltenen Veranstaltungen und Leistungen, Kündigungsbedingungen und zusätzlichen Kosten. Vergleichen Sie die Bedingungen mit Ihren Zielen. Eine Mitgliedschaft bedeutet nicht, dass ein bestimmtes Geschäft oder Anlageergebnis folgt."
 ---
 
-> **Haftungsausschluss:** Die Meinungen und Erfahrungen in diesem Video stammen von den Podcast-Gaesten und spiegeln nicht unbedingt die Position des Kanalautors wider.
+> **Interview und Angaben des Veranstalters:** Die Beispiele der Gesprächspartnerin und die Beschreibungen des Clubs sind ihren Quellen zugeordnet. Klären Sie die aktuellen Bedingungen für Mitgliedschaft und Veranstaltungen direkt beim Veranstalter.
 
-## Cyprus Business Club: Im Kreis der Millionaere
+## Worum es in diesem Interview geht
 
-In dieser Folge erfahren wir, wie die Unternehmergemeinschaft auf Zypern funktioniert und wie man Teil davon wird.
+Der Herausgeber stellt **Tatyana Dyachenko** als Inhaberin des **Cyprus Business Club** zum Zeitpunkt des Interviews vor. Er beschreibt eine Gemeinschaft von Firmeninhabern, Führungskräften und Experten und stellt Fragen zu Beitritt, Kosten und Ergebnissen.
 
-### Über den Cyprus Business Club
+Das Video wurde am **10. Dezember 2024** hochgeladen. Betrachten Sie die Aussagen zur Mitgliedschaft als datiert und fragen Sie vor dem Beitritt die aktuellen Bedingungen des Veranstalters ab.
 
-Der Cyprus Business Club vereint Unternehmer und Geschaeftsleute:
+## Kapitel des Herausgebers
 
-- Regelmaessige Networking-Veranstaltungen
-- Geschlossene Business-Fruehstuecke
-- Partnerschaftsmoeglichkeiten
-- Erfahrungs- und Kontaktaustausch
+- **00:00** — Vorstellung von Tatyana
+- **00:29** — Für wen der Cyprus Business Club gedacht ist
+- **01:30** — Kosten der Mitgliedschaft
+- **02:40** — Wichtigste Veranstaltungen
+- **05:00** — Venture-Projekte und Immobilien
+- **06:06** — Ein künftiges Projekt und KI
+- **08:45** — Unterstützung für Unternehmer
+- **10:13** — Beispiele der Gesprächspartnerin
+- **12:05** — Warum Cyprus Business Club?
+- **15:10** — Fazit
 
-### Warum ein Business-Club wichtig ist
+## Was der Veranstalter heute beschreibt
 
-1. **Kontakte** -- Bekanntschaften mit erfolgreichen Menschen
-2. **Möglichkeiten** -- Geschaeftsprojekte und Investitionen
-3. **Wissen** -- Erfahrungen anderer Unternehmer
-4. **Unterstuetzung** -- eine Gemeinschaft Gleichgesinnter
+Die [Website des Clubs](https://cyprusbusinessclub.com/), geprüft am **3. Oktober 2026**, beschreibt eine Gemeinschaft von Unternehmern, Investoren und Firmenleitern aus mehreren Branchen. Als Aktivitäten nennt sie **Business-Frühstücke, strategische Treffen, Masterminds, Investitionsgespräche und Podiumsdiskussionen**.
 
-### Business auf Zypern
+Das sind Beschreibungen des Angebots durch den Veranstalter. Klären Sie die konkrete Veranstaltung, den Zugang als Mitglied und die Leistungen, die Sie erhalten. Betrachten Sie eine Werbeaussage nicht als Garantie für Partnerschaft, Rendite oder Geschäftserfolg.
 
-Zypern zieht Unternehmer an:
+## Fragen vor dem Beitritt
 
-- Niedrige Steuern (15 % Koerperschaftssteuer, war 12,5 % bis 2026)
-- EU-Mitgliedschaft
-- Englischsprachiges Geschaeftsumfeld
-- Guenstige Zeitzone für die Arbeit mit Europa und GUS-Laendern
+Fragen Sie den Veranstalter nach aktuellem Mitgliedsbeitrag, Voraussetzungen und Bewerbungsverfahren, enthaltenen Veranstaltungen und Leistungen, zusätzlichen Kosten sowie Bedingungen für Verlängerung und Kündigung. Vergleichen Sie das Angebot mit den Menschen, die Sie kennenlernen möchten, und der Zeit, die Sie investieren können.
 
-### Wie man Geschaeftskontakte aufbaut
+Zur weiteren Planung siehe unseren [Leitfaden zur Firmengründung](/de/business/company-registration-cyprus/), den [Steuerleitfaden](/de/business/taxes-cyprus-gesy-deductions/) und den [Umzugsleitfaden](/de/immigration/auswandern-nach-zypern-leitfaden/). Klären Sie die geltenden Anforderungen für Ihr eigenes Unternehmen und Ihre Aufenthaltssituation.
 
-- Besuchen Sie professionelle Veranstaltungen
-- Seien Sie aktiv in Wirtschaftsgemeinschaften
-- Bieten Sie anderen einen Mehrwert
-- Pflegen Sie Kontakte regelmaessig
+**Sehen Sie sich das Interview an**, um die Beschreibung und die Beispiele der Gesprächspartnerin zu hören.
 
----
-slug: "cyprus-business-club-millionaires"
+## Quellen
 
-**Sehen Sie sich das Video an**, um mehr über die Geschaeftskultur Zyperns zu erfahren!
-
-Weiterführende Informationen: [Firmengründung auf Zypern](/de/business/company-registration-cyprus/) · [Non-dom-Status](/de/business/non-dom-status-cyprus-60-day-rule/) · [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/).
-
-[IP-Box: Einkommensteuergesetz, §9(1)(κ) und Zweiter Anhang](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html>).
+- [Originalinterview und Beschreibung des Herausgebers](https://www.youtube.com/watch?v=vffr9M5kXro) — Aussagen der Gesprächspartnerin und Beschreibung des Clubs, Themen, Kapitelbezeichnungen, Upload-Datum
+- [Cyprus Business Club](https://cyprusbusinessclub.com/) — aktuelle Beschreibungen des Veranstalters, geprüft am 3. Oktober 2026

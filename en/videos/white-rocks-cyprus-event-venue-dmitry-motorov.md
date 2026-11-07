@@ -1,7 +1,7 @@
 ---
 type: "videos"
 title: "White Rocks: building an event venue near Limassol, Cyprus"
-description: "Dmitry Motorov explains the White Rocks event venue, birthdays, partnerships and event preparation. An interview about building a business in Cyprus, published in 2024."
+description: "Dmitry Motorov on the White Rocks event venue: birthdays, partnerships and event preparation. An interview on building a business in Cyprus, 2024."
 slug: "white-rocks-cyprus-event-venue-dmitry-motorov"
 date: 2024-10-25
 author: "Katerina Bletsch"

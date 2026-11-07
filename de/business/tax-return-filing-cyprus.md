@@ -3,7 +3,7 @@ slug: "tax-return-filing-cyprus"
 title: "Steuererklärung auf Zypern: TD1 & Fristen"
 description: "Wie Sie auf Zypern eine Steuererklärung einreichen: Formular TD1, TAXISnet (2025) / TFA (2026), Fristen, wer muss deklarieren, häufige Fehler."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -111,8 +111,6 @@ Wenn Sie im Laufe des Jahres den Arbeitgeber gewechselt haben:
 
 > „Beim Firmenwechsel ging die 20%-Steuerermäßigung verloren. Der Buchhalter sagt, die Monate von Januar bis Mai müssen ohne Ermäßigung neu berechnet werden."
 
-Ein Arbeitgeberwechsel beendet die 50%-Befreiung nicht automatisch; entscheidend sind die gesetzlichen Voraussetzungen. Geben Sie der neuen Lohnbuchhaltung die Nachweise Ihrer Berechtigung.
-
 ### Ausländisches Einkommen nicht angegeben
 
 Zypern besteuert das **Welteinkommen** seiner steuerlich Ansässigen. Wenn Sie Dividenden, Mieteinnahmen oder Freelance-Einkommen aus dem Ausland haben — geben Sie diese an. Prüfen Sie Meldepflicht und Befreiungen für die jeweilige Einkunftsart.
@@ -147,5 +145,3 @@ Weiterführende Informationen: [Steuernummer (TIN) beantragen](/de/business/tax-
 
 - [TAXISnet (2025) / TFA (2026)](https://taxportal.mof.gov.cy/) — gov.cy
 - [Tax Department — Individuals](https://www.gov.cy/mof-tax/documents/forologiki-dilosi-eisodimatos-atomoy/) — gov.cy
-
-[Migration Department: employment tax exemption](https://www.gov.cy/mip-md/en/documents/eu-blue-card/)

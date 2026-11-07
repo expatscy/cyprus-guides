@@ -1,9 +1,9 @@
 ---
 slug: "banken-zypern-guide-2026"
-title: "Banken Zypern 2026: Konten, Karten"
-description: "Bankkonto auf Zypern eröffnen 2026: BoC, Eurobank Limited, Alpha Bank. N26/DKB-Vergleich, SEPA, Non-dom-Vorteile, Firmenkonto. Guide für deutsche Auswanderer."
+title: "Bankkonto Zypern 2026: Banken, Gebühren, Überweisungen"
+description: "Bankkonto auf Zypern eröffnen 2026: welche Banken, Unterlagen, Dauer, Gebühren, Wise und Revolut, GBP-Überweisungen, Hypothek, Krypto-Steuer und Non-dom."
 date: 2026-04-09
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -18,350 +18,299 @@ draft: false
 translationKey: "banking-cyprus-expats-2026"
 faqSchema:
   - question: "Welche Banken gibt es auf Zypern 2026?"
-    answer: "Drei Hauptoptionen für Expats: Bank of Cyprus (groesste, ca. 27 Mrd. EUR Aktiva), Eurobank Limited (Hellenic Bank und Eurobank Cyprus fusionierten im September 2025), Alpha Bank Cyprus (ex-AstroBank, Uebertragung 2025). RCB Bank ist keine Kontoeroeffnungsoption."
-  - question: "Wie eroeffne ich als Deutscher ein Bankkonto auf Zypern?"
-    answer: "Als EU-Bürger brauchen Sie: Reisepass oder Personalausweis, Wohnsitznachweis (Mietvertrag oder Nebenkostenabrechnung, maximal 3 Monate alt), Einkommensnachweis (Arbeitsvertrag, Rentenbescheid oder Kontoauszuege), Steuernummer (TIN) oder steuerliche Ansaessigkeitsbescheinigung. Dauer: 3-5 Werktage. Kein SCHUFA-Auskunft noetig."
-  - question: "Kann ich mein deutsches N26- oder DKB-Konto auf Zypern weiter nutzen?"
-    answer: "Ja, EU-Recht garantiert das Recht auf Kontofuehrung. N26, DKB und ING funktionieren für SEPA-Ueberweisungen und Kartenzahlungen. Aber: kein zyprischer IBAN, keine Kreditprodukte, manche lokale Versorger (EAC, Water Board) akzeptieren keine auslaendischen IBANs. Ein lokales Konto ist zusaetzlich noetig."
-  - question: "Wie hoch ist die Kapitalertragssteuer auf Zypern mit Non-dom-Status?"
-    answer: "0% SDC auf Dividenden und Bankzinsen. Domiciled taxpayers zahlen ab 2026 5% SDC auf Dividenden und 17% auf Zinsen; SDC auf Mieteinnahmen ist abgeschafft. GeSY (2,65%) kann weiter anfallen. Der Non-dom-Status gilt bis zu 17 Jahre."
-  - question: "Brauche ich ein zyprisches Firmenkonto für meine Cyprus Ltd?"
-    answer: "Ja. Fuer die Gruendung einer Cyprus Ltd ist ein lokales Firmenkonto Pflicht (Einzahlung des Stammkapitals). Eroeeffnung dauert 4-8 Wochen, Kosten: 50-150 EUR/Quartal Kontofuehrung. Bank of Cyprus und Eurobank bieten Firmenkonten an."
+    answer: "Drei Hauptoptionen für Expats: Bank of Cyprus, Eurobank Limited (Hellenic Bank und Eurobank Cyprus fusionierten im September 2025) und Alpha Bank Cyprus (das Geschäft der AstroBank ging 2025 auf Alpha Bank Cyprus über). RCB Bank ist aus dem Bankgeschäft ausgestiegen und keine Option für eine Kontoeröffnung."
+  - question: "Wie eröffne ich als Ausländer ein Bankkonto auf Zypern?"
+    answer: "Sie brauchen: Reisepass, Wohnsitznachweis (nicht älter als 3 Monate), Nachweis der Mittelherkunft (Arbeitsvertrag oder Kontoauszüge), TIN oder steuerliche Ansässigkeitsbescheinigung, ARC (für Nicht-EU-Bürger). Dauer: EU-Bürger 3–5 Werktage, Nicht-EU 5–15 Werktage, Firmenkonto 4–8 Wochen. Banken können ablehnen, wenn die Mittelherkunft unklar ist oder Verbindungen zu einem Hochrisikoland bestehen."
   - question: "Funktionieren Wise und Revolut auf Zypern?"
-    answer: "Ja, über SEPA (litauische/belgische IBANs). Die meisten Arbeitgeber akzeptieren sie für Gehaltszahlung. Aber: kein zyprischer IBAN, keine Kreditprodukte, manche lokale Stellen (EAC, Water Board) akzeptieren keine Nicht-CY-IBANs. Wise/Revolut sind eine Ergaenzung, kein Ersatz für ein lokales Konto."
-  - question: "Wie hoch sind die Bankgebuehren auf Zypern?"
-    answer: "Persoenliches Konto: ab 24 EUR/Jahr (Bank of Cyprus: 6 EUR/Quartal, Eurobank Basis: 2 EUR/Monat). Debitkarte inklusive. SEPA-Ueberweisungen bis 1.000 EUR kostenlos. SWIFT-Auslandsueberweisungen: 0,10-0,20% plus 10-15 EUR Gebühr plus Korrespondenzbank."
+    answer: "Ja, über SEPA (litauische/belgische IBANs). Die meisten Arbeitgeber akzeptieren sie für Gehaltszahlungen. Aber: kein zyprischer IBAN, keine Kreditprodukte, und manche lokale Stellen (EAC, Water Board) akzeptieren keine Nicht-CY-IBANs. Sie ergänzen ein lokales Konto, ersetzen es aber nicht."
+  - question: "Wie überweise ich GBP auf ein zyprisches Konto?"
+    answer: "Die besten Optionen: Wise (Mittelkurs, 0,4–0,6 % Gebühr, 1–2 Tage), Revolut (Interbankenkurs innerhalb der Limits, danach 0,5 % Aufschlag) oder die Auslandsüberweisung Ihrer britischen Bank (meist 2–4 % inklusive Korrespondenzbankgebühren). Am günstigsten sind SEPA-Überweisungen in EUR von einem britischen EUR-Konto. Meiden Sie die Standard-Überweisung GBP→EUR Ihrer Bank — allein der Kursaufschlag kann 2–3 % kosten."
+  - question: "Bekommen britische Expats auf Zypern eine Hypothek?"
+    answer: "Ja. Eurobank Limited (ehemals Hellenic Bank) ist der wichtigste Kreditgeber für Nicht-Zyprer. Zinsen ab 2,95 % fest für 3 Jahre, LTV 60–70 % für Ausländer, DTI maximal 35–40 %. Bank of Cyprus vergibt Kredite nur an dauerhaft Ansässige. Seit dem Brexit gelten Briten bei Banken als Nicht-EU-Bürger, was die Bearbeitung verlängern kann."
+  - question: "Wie hoch ist die Krypto-Steuer auf Zypern 2026?"
+    answer: "Seit 1. Januar 2026 gilt eine Pauschalsteuer von 8 % auf Gewinne aus Krypto-Assets (neuer Artikel 20E). Verluste sind nur im selben Steuerjahr verrechenbar, ein Verlustvortrag ist nicht möglich. Quelle: Chambers and Co, Philippou Law."
+  - question: "Wie wirkt sich der Non-dom-Status auf das Banking auf Zypern aus?"
+    answer: "Non-dom-Residenten zahlen 0 % Special Defence Contribution (SDC) auf Dividenden und Einlagenzinsen, während domizilierte Steuerpflichtige die geltenden SDC-Sätze zahlen. GHS (GESY) mit 2,65 % kann auf die betreffenden Einkünfte weiter anfallen. Der Non-dom-Status gilt bis zu 17 Jahre."
 ---
-> **Kurzantwort:** Zyprische Banken verlangen viele Dokumente für die Kontoeroeffnung. Die Hauptoptionen sind Bank of Cyprus, Eurobank Limited und Alpha Bank Cyprus (ex-AstroBank). Revolut und Wise sind eine Ergaenzung, kein Ersatz.
+> **Kurzantwort:** Auf Zypern gibt es 3 Hauptbanken für Expats: Bank of Cyprus, Eurobank Limited und Alpha Bank Cyprus (ex-AstroBank). Die Monatsgebühren sind meist niedrig, fast überall gibt es Service auf Englisch, und Nicht-EU-Bürger brauchen für die Kontoeröffnung in der Regel einen Aufenthaltsnachweis.
 
-Die zyprische Bankenlandschaft hat sich 2025 grundlegend veraendert: zwei Grossfusionen, verschaerfte AML-Pruefungen und neue Steuerregeln ab 2026. Fuer deutsche Auswanderer heisst das: andere Spielregeln als bei N26, DKB oder Sparkasse. Kein SCHUFA, keine Kontoeroeffnung in 5 Minuten per App — aber auch keine Abgeltungsteuer auf Kapitalertraege. Hier ist der vollstaendige Guide.
+Die zyprische Bankenlandschaft hat sich 2025 stark verändert: zwei große Fusionen, strengere Compliance-Prüfungen und neue Regeln für Nicht-EU-Bürger nach dem Brexit. Hier steht, was 2026 funktioniert. Die Banknamen wurden am 12. Juli 2026 geprüft, Beispiele für Gebühren und Zinsen stammen aus den genannten Quellen von 2025 und April 2026.
+
+> **Für Briten:** Seit dem Brexit gelten britische Staatsangehörige bei Banken als Nicht-EU-Bürger. Das heißt: längere Kontoeröffnung, strengere Unterlagen und kein automatisches Recht auf einen zyprischen IBAN. Planen Sie früh und stellen Sie den Antrag möglichst schon vor dem Umzug.
+
+> **Für Deutsche und andere EU-Bürger:** Als EU-Bürger gelten für Sie die kürzeren Fristen für EU-Bürger (siehe unten), und SEPA-Überweisungen zwischen Deutschland und Zypern laufen in Euro ohne Währungstausch. Die [EU-Zahlungskontenrichtlinie 2014/92/EU](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32014L0092) gibt Verbrauchern mit rechtmäßigem Wohnsitz in der EU das Recht auf ein Basiskonto in jedem EU-Land. Wie Einkünfte zwischen beiden Ländern besteuert werden, regelt das [DBA Deutschland–Zypern](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA.html); Details in unserem [DBA-Ratgeber](/de/business/dba-deutschland-zypern/).
 
 > **Quellen:**
-> - [Bank of Cyprus](https://www.bankofcyprus.com/) — Offizielle Website, Gebühren
-> - [Eurobank Limited](https://www.eurobank.com.cy/) — Hellenic Bank und Eurobank Cyprus fusionierten im September 2025
-> - [Alpha Bank Cyprus / ex-AstroBank](https://www.alphabank.com.cy/en/astrobank) — AstroBank-Geschäft wurde 2025 auf Alpha Bank Cyprus übertragen
-> - [EU-Zahlungskontenrichtlinie 2014/92/EU](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32014L0092) — Recht auf Basiskonto
-> - [Chambers & Co — Krypto-Steuer 8%](https://www.chambersandco.com/cyprus-8-crypto-tax-new-article-20e-regime-for-gains-on-crypto-assets-from-2026/)
-> - [DBA Deutschland–Zypern](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA.html) — Doppelbesteuerungsabkommen
+> - [Bank of Cyprus](https://www.bankofcyprus.com/) — offizielle Website, Gebühren
+> - [Eurobank Limited](https://www.eurobank.cy/) — Hellenic Bank und Eurobank Cyprus fusionierten im September 2025
+> - [Alpha Bank Cyprus / ex-AstroBank](https://www.alphabank.com.cy/en/astrobank) — das Geschäft der AstroBank ging 2025 auf Alpha Bank Cyprus über
+> - [Rat der EU — 19. Sanktionspaket](https://www.consilium.europa.eu/en/press/press-releases/2025/10/23/19th-package-of-sanctions-against-russia-eu-targets-russian-energy-third-country-banks-and-crypto-providers/) — Sanktionen
+> - [Chambers & Co — Krypto-Steuer 8 %](https://www.chambersandco.com/cyprus-8-crypto-tax-new-article-20e-regime-for-gains-on-crypto-assets-from-2026/)
 
-## Banken auf Zypern: Wer ist wer?
+## Welche sind die wichtigsten Banken auf Zypern?
 
-| Bank | Aktiva | Status | Fuer Auswanderer |
-|------|--------|--------|-----------------|
-| **[Bank of Cyprus](https://www.bankofcyprus.com/)** | ~€27 Mrd. | Groesste Bank | Ja (Residenten). Strengste AML-Pruefung |
-| **[Eurobank Limited](https://www.eurobank.com.cy/)** | ~€20 Mrd. | Nr. 2 (ehem. Hellenic Bank, Fusion Sept. 2025) | Ja (auch Nicht-Residenten) |
-| **[Alpha Bank Cyprus](https://www.alphabank.com.cy/)** | ~€6,6 Mrd. | Nr. 3 (ex-AstroBank, Uebertragung 2025) | Ja |
-| ~~RCB Bank~~ | — | Aus dem Bankgeschäft ausgestiegen | Keine Kontoeroeffnungsoption |
+| Bank | Bilanzsumme | Status | Hinweise für Expats |
+|------|-------------|--------|---------------------|
+| **[Bank of Cyprus](https://www.bankofcyprus.com/)** | ~€27 Mrd. | Größte Bank | Konten nur für Ansässige. Konservative Compliance — kann umfangreiche Unterlagen verlangen |
+| **[Eurobank Limited](https://www.eurobank.cy/)** | ~€20 Mrd. | Nr. 2 (ehem. Hellenic, Fusion Sept. 2025) | Nimmt Nicht-Ansässige. Am offensten für Expats. Wichtigster Hypothekengeber für Ausländer |
+| **[Alpha Bank Cyprus](https://www.alphabank.com.cy/)** | ~€6,6 Mrd. | Nr. 3 (ehem. AstroBank, übernommen Nov. 2025) | Nimmt Expats |
+| ~~RCB Bank~~ | — | Geschlossen (2023) | Nicht mehr tätig |
 
-> **Wichtig:** AstroBank-Geschäft wurde auf Alpha Bank Cyprus übertragen. Hellenic Bank und Eurobank Cyprus fusionierten zu Eurobank Limited. Wenn Sie Konten bei einer Legacy-Bank hatten, prüfen Sie die aktuellen Migrationshinweise.
-
-### Was Deutsche sofort bemerken
-
-- **Keine SCHUFA.** Bonitaetspruefung auf Zypern basiert auf Einkommensnachweisen und Bankhistorie, nicht auf einem zentralen Scoring-System. Die SCHUFA hat auf Zypern keine Relevanz.
-- **Kein Online-Onboarding in 5 Minuten.** Kontoeroeffnung erfordert persoenliches Erscheinen in der Filiale mit Unterlagen. N26-Geschwindigkeit gibt es hier nicht.
-- **Einlagensicherung wie in der EU.** Bis €100.000 pro Bank und Person — identisch zum deutschen Einlagensicherungsfonds (Richtlinie 2014/49/EU).
-- **Banking auf Englisch.** Alle drei Banken bieten vollstaendigen Service auf Englisch. Griechisch nicht erforderlich.
+> **Wichtig:** Das Geschäft der AstroBank ging auf Alpha Bank Cyprus über. Hellenic Bank und Eurobank Cyprus fusionierten zu Eurobank Limited. Wenn Sie bei einer der alten Banken ein Konto hatten, prüfen Sie die Migrationshinweise der heutigen Bank, bevor Sie alte E-Banking-Zugangsdaten nutzen.
 
 ---
 
-## Wie eröffne ich als Deutscher ein Konto?
+## Wie eröffne ich ein Bankkonto?
 
-### Dokumente
+### Unterlagen
 
-1. **Reisepass oder Personalausweis** (EU-ID genuegt)
-2. **Wohnsitznachweis** — Mietvertrag oder Nebenkostenabrechnung (maximal 3 Monate alt). Deutscher Wohnsitznachweis wird akzeptiert, wenn Sie noch keinen zyprischen haben
-3. **Einkommensnachweis** — Arbeitsvertrag, Rentenbescheid, Kontoauszuege oder Steuerbescheid
-4. **Steuernummer (TIN)** oder steuerliche Ansaessigkeitsbescheinigung — deutsche Steuer-ID wird bei Ersteroeffnung akzeptiert
-5. **Keine Strafregisterauskunft noetig** für EU-Bürger (manche Banken verlangen sie bei Nicht-EU)
+1. Gültiger Reisepass (oder EU-Personalausweis; britische Pässe sind keine EU-Dokumente mehr)
+2. Wohnsitznachweis (Nebenkostenabrechnung oder Mietvertrag, nicht älter als 3 Monate — bei der Ersteröffnung wird eine britische Nebenkostenabrechnung akzeptiert)
+3. Nachweis der Mittelherkunft (Arbeitsvertrag, Jahresabschluss der Firma, Rentenbescheid, Depotauszug)
+4. Steuernummer (TIN) oder steuerliche Ansässigkeitsbescheinigung — Ihre britische UTR (Unique Taxpayer Reference) oder eine zyprische TIN, falls Sie schon eine haben
+5. ARC (Alien Registration Certificate) — für Nicht-EU-Bürger, dazu gehören jetzt auch Briten
+6. Führungszeugnis (manche Banken verlangen es)
 
-> **Fuer DRV-Rentner:** Bringen Sie Ihren letzten Rentenbescheid mit. Die Banken kennen die Deutsche Rentenversicherung — eine monatliche DRV-Rente gilt als stabiles Einkommen.
+> **Nach dem Brexit:** Briten werden bei Einwanderungs- und Bankprüfungen als Drittstaatsangehörige behandelt. Beantragen Sie Ihre Aufenthaltsdokumente beim [Migration Department](https://www.gov.cy/mip-md/en/), sobald Ihr Weg nach Zypern feststeht; ohne sie eröffnen die meisten Banken kein Konto.
 
 ### Dauer
 
-| Szenario | Dauer |
-|----------|-------|
-| EU-Bürger, persoenliches Konto | 3-5 Werktage |
-| Nicht-EU, persoenliches Konto | 5-15 Werktage |
-| Firmenkonto (einfache Struktur) | 4-8 Wochen |
-| Firmenkonto (komplexe Holdingstruktur) | 1-3 Monate |
+| Szenario | Übliche Dauer |
+|----------|---------------|
+| EU-Bürger, privates Konto | 3–5 Werktage |
+| Nicht-EU (inkl. Briten nach dem Brexit), privates Konto | 5–15 Werktage |
+| Firmenkonto (einfache Struktur) | 4–8 Wochen |
+| Firmenkonto (komplexe Struktur, mehrere Direktoren) | 1–3 Monate |
 
-### Haeufige Ablehnungsgruende
+### Häufige Ablehnungsgründe
 
-- Unvollstaendige oder abgelaufene Dokumente
-- Unklarer Einkommensnachweis (vage „Selbstaendig" reicht nicht — konkreter Vertrag oder Steuerbescheid noetig)
-- Geschaeft in risikobehafteter Branche (Krypto, Forex, Gluecksspiel, Offshore-Strukturen)
-- Gleichzeitige Antraege bei mehreren Banken (wird intern gemeldet und fuehrt zu Verzoegerungen)
+- Unvollständige oder veraltete Unterlagen (vor allem Wohnsitznachweis älter als 3 Monate)
+- Unklare Mittelherkunft — „Ersparnisse" reicht nicht, die Bank will Kontoauszüge sehen
+- Verbindung zu einem Hochrisikoland (Russland, Belarus, Iran — betrifft Briten nicht)
+- Geschäft in einer Risikobranche (Krypto, Forex, Glücksspiel, Offshore-Strukturen)
+- Anträge bei mehreren Banken gleichzeitig (Banken tauschen diese Information aus)
 
 ---
 
-## Wie hoch sind die Bankgebühren im Vergleich?
+## Wie hoch sind die Gebühren?
 
-### Persoenliche Konten
+### Private Konten
 
-| Bank | Kontofuehrung | Debitkarte | SEPA (online) | SWIFT (ausgehend) |
+| Bank | Kontoführung | Debitkarte | SEPA (online) | SWIFT (ausgehend) |
 |------|--------------|------------|---------------|-------------------|
-| **Bank of Cyprus** | €6/Quartal (€24/Jahr) | Inklusive | Kostenlos bis €1.000 | 0,10-0,20% + €10-15 + €10-60 Korrespondenzbank |
-| **Eurobank** | €2/Monat (€24/Jahr) Basis | Inklusive | Kostenlos bis €1.000 | Vergleichbar |
-| **Eurobank** | €25/Quartal (€100/Jahr) Standard | Inklusive | Kostenlos bis €1.000 | Vergleichbar |
-| **Alpha Bank** | In Umstellung (post-Fusion) | In Umstellung | In Umstellung | In Umstellung |
+| **Bank of Cyprus** | €6/Quartal (€24/Jahr) | Inklusive | Kostenlos bis €1.000 | 0,10–0,20 % + €10–15 + €10–60 Korrespondenzbank |
+| **Eurobank** | €2/Monat (€24/Jahr) Basis | Inklusive | Kostenlos bis €1.000 | Ähnlich |
+| **Eurobank** | €25/Quartal (€100/Jahr) Standard | Inklusive | Kostenlos bis €1.000 | Ähnlich |
+| **Alpha Bank** | Noch offen (nach Fusion) | Noch offen | Noch offen | Noch offen |
 
-**Guenstigste Option:** Bank of Cyprus ohne Dispositionskredit oder Eurobank Basis = **€24/Jahr**.
+**Günstigste Option:** Bank of Cyprus ohne Dispositionskredit oder Eurobank Basis = **€24/Jahr**. Zum Vergleich: Ungefähr so viel kostet ein britisches Girokonto an versteckten Wechselkursgebühren in einem einzigen Urlaub.
 
-### Vergleich: Zyprisches Konto vs. deutsches Girokonto
+### Firmenkonten
 
-| | DKB (kostenlos) | N26 Standard | ING (kostenlos) | Bank of Cyprus |
-|---|---|---|---|---|
-| Kontofuehrung | €0 | €0 | €0 | €24/Jahr |
-| SEPA-Ueberweisung | Kostenlos | Kostenlos | Kostenlos | Kostenlos bis €1.000 |
-| Bargeld (Eurozone) | Kostenlos (Visa) | 3-5x/Monat kostenlos | Kostenlos (ab €50) | €0,35-0,65 pro Abhebung (Fremdbank) |
-| Zyprischer IBAN | Nein | Nein | Nein | **Ja** |
-| Kreditprodukte | Ja (DE-Wohnsitz) | Nein (Standard) | Ja (DE-Wohnsitz) | Ja |
-| Versorger (EAC, Water Board) | **Eingeschraenkt** | **Eingeschraenkt** | **Eingeschraenkt** | **Ja** |
-| Hypothek auf Zypern | Nein | Nein | Nein | **Ja** (ab 2,95%) |
-| Gehalt zyprischer AG | Moeglich, aber Arbeitgeber bevorzugen CY-IBAN | Moeglich | Moeglich | **Standard** |
-
-**Fazit:** DKB/N26/ING weiterfuehren für EU-weite Kartenzahlungen und als Backup. Fuer den Alltag auf Zypern (Miete, Strom, Wasser, Gehalt, Hypothek) brauchen Sie ein lokales Konto.
-
-### Firmenkonten (Cyprus Ltd)
-
-Kontofuehrung: **€50-150/Quartal**. Internationale Ueberweisungen: **€15-30** pro Transaktion plus Korrespondenzbank. Firmenkarten: **€30-50/Jahr**.
+Kontoführung: **€50–150/Quartal**. Auslandsüberweisungen: **€15–30** pro Transaktion plus Korrespondenzbankgebühren. Karten: **€30–50/Jahr**. Zur Firmengründung: [Firmengründung auf Zypern](/de/business/company-registration-cyprus/).
 
 ---
 
-## Funktionieren Wise, Revolut und N26?
+## Wie überweise ich Geld aus Großbritannien?
 
-| Merkmal | Wise | Revolut | N26 |
-|---------|------|---------|-----|
-| Funktioniert? | Ja | Ja | Ja (DE-Konto behalten) |
-| IBAN | Litauisch (LT) | Litauisch/Belgisch (LT/BE) | Deutsch (DE) |
-| SEPA-Ueberweisungen | Ja, kostenlos | Ja, kostenlos | Ja, kostenlos |
-| Gehalt vom Arbeitgeber | Die meisten akzeptieren | Die meisten akzeptieren | Moeglich |
-| Kreditprodukte | Nein | Nein | Nein (nach Abmeldung DE) |
-| EAC, Water Board | Koennen Nicht-CY-IBAN ablehnen | Koennen ablehnen | Koennen ablehnen |
-| **Empfehlung** | Ergaenzung, kein Ersatz | Ergaenzung, kein Ersatz | Ergaenzung, kein Ersatz |
+Hier verlieren britische Expats am häufigsten unnötig Geld. Die Standardlösung — die britische Bank schickt eine Überweisung GBP→EUR — kostet mit Kursaufschlag und Gebühren meist 2–4 %. Bei monatlichen Überweisungen summiert sich das übers Jahr.
 
-**Empfehlung für Auswanderer:** Lokales Konto für Versorger, Miete und Gehalt. Wise/Revolut für internationale Ueberweisungen und Kartenzahlungen im Alltag. N26/DKB als Backup und für restliche DE-Verpflichtungen (Versicherungen, DRV-Rente, Riester-Beitraege).
+### Die besten Optionen
 
----
+| Methode | Kosten | Dauer | Hinweise |
+|---------|--------|-------|----------|
+| **[Wise](https://wise.com/)** | 0,4–0,6 % | 1–2 Werktage | Mittelkurs. Am besten für regelmäßige Überweisungen. GBP-Debitkarte = sofortige Aufladung |
+| **[Revolut](https://www.revolut.com/)** | Kostenlos (innerhalb der Limits), dann 0,5 % | Sofort (SEPA) | Interbankenkurs Mo–Fr zu Marktzeiten. Am Wochenende 1 % Aufschlag |
+| **CurrencyFair / OFX** | 0,3–0,5 % | 1–3 Werktage | Gut für große Beträge (Immobilienkauf, Rentenauszahlung) |
+| **Auslandsüberweisung der britischen Bank** | 2–4 % insgesamt | 2–5 Werktage | Nur ohne Alternative. Schlechter Kurs + Gebühren + Korrespondenzbank |
+| **Dauerauftrag auf ein EUR-Konto** | Unterschiedlich | Laufend | Manche britische Banken bieten EUR-Konten. In EUR an sich selbst überweisen, dann per SEPA nach Zypern. So entfällt der Kursaufschlag auf die Überweisung selbst |
 
-## Wie funktionieren SEPA-Überweisungen?
+### Die effiziente Lösung
 
-Als EU-Bürger in der Eurozone: **SEPA-Ueberweisungen zwischen Deutschland und Zypern sind kostenlos und dauern 1 Werktag.** Das ist der groesste Vorteil gegenueber Nicht-EU-Laendern.
+1. **Britisches Konto behalten** — für die britische Staatsrente, Mieteinnahmen in Großbritannien, HMRC-Erstattungen und gelegentliche britische Lastschriften
+2. **Wise oder Revolut als Brücke nutzen** — GBP zum echten Kurs in EUR tauschen, dann per SEPA auf das zyprische Konto
+3. **Regelmäßige Überweisung einrichten** — die Auto-Umrechnung von Wise überweist nach Zeitplan
+4. **Bei großen Beträgen** (Immobilienkauf, Rentenauszahlung) — CurrencyFair, OFX und Wise am selben Tag vergleichen. Der Unterschied zwischen 0,3 % und 1,5 % bei €200.000 beträgt €2.400
 
-### Typische Geldstroeme nach dem Umzug
-
-| Richtung | Zweck | Empfohlener Weg |
-|----------|-------|----------------|
-| DE → CY | Mietkaution, Erstausstattung | SEPA von DKB/ING an CY-Konto |
-| DE → CY | Monatliche DRV-Rente | SEPA-Dauerauftrag (DRV überweist direkt auf CY-IBAN) |
-| DE → CY | Mieteinnahmen aus DE-Immobilie | SEPA vom Mieterkonto/Hausverwaltung |
-| CY → DE | Riester-Beitraege | SEPA-Dauerauftrag |
-| CY → DE | Versicherungsbeitraege (Anwartschaft GKV) | SEPA-Dauerauftrag |
-| DACH → CY | Gehalt (Remote für DE-Firma) | SEPA vom Arbeitgeber auf CY- oder Wise-Konto |
-
-### SWIFT (ausserhalb SEPA-Raum)
-
-SWIFT-Ueberweisungen von zyprischen Banken: **0,10-0,20% + €10-15 Bankgebuehr + €10-60 Korrespondenzbank**. Dauer: 3-7 Werktage. Alternative für haeufige Nicht-EUR-Ueberweisungen: Wise (deutlich guenstiger, Echtzeit-Wechselkurs).
+> **Faster Payments:** Britische Faster Payments (FPS) bringen Geld sofort auf Wise/Revolut. Von dort dauert SEPA nach Zypern Minuten bis Stunden. Insgesamt meist am selben Tag — statt 3–5 Tage per klassischer Banküberweisung.
 
 ---
 
-## Wie profitieren deutsche Anleger vom Non-Dom-Status?
+## Kann ich Wise und Revolut auf Zypern nutzen?
 
-Fuer deutsche Auswanderer mit Kapitalvermoegen ist der **Non-dom-Status** das zentrale Steuerargument für Zypern. Der Vergleich:
+Wer aus Großbritannien kommt, hat meist schon eines davon oder beide. So funktionieren sie vor Ort.
 
-### Kapitalertraege: Deutschland vs. Zypern (Non-dom)
+| Merkmal | Wise | Revolut |
+|---------|------|---------|
+| Funktioniert auf Zypern? | Ja | Ja |
+| IBAN | Litauisch (LT) | Litauisch/Belgisch (LT/BE) |
+| SEPA-Überweisungen | Ja, kostenlos | Ja, kostenlos |
+| Gehalt vom Arbeitgeber | Die meisten akzeptieren | Die meisten akzeptieren |
+| Kreditprodukte | Nein | Nein (Revolut-Kredite in manchen Märkten, nicht auf Zypern) |
+| Lokale Versorger (EAC, Water Board) | Können Nicht-CY-IBAN ablehnen | Können Nicht-CY-IBAN ablehnen |
+| Geldautomat | 2 kostenlos/Monat (€200), dann 1,75 % | Freibetrag je nach Tarif: €200–400/Monat |
+| GBP-Guthaben | Ja — GBP halten, bei gutem Kurs tauschen | Ja — mehrere Währungen |
+| **Fazit** | Am besten für regelmäßige GBP→EUR-Überweisungen | Am besten für Alltag und Reisen |
 
-| Ertragsart | Deutschland | Zypern (Non-dom) | Ersparnis |
-|-----------|-------------|-----------------|-----------|
-| **Dividenden** | 26,375% (Abgeltungsteuer 25% + 5,5% Soli) | **0% SDC** (nur 2,65% GeSY) | ~23,7 Prozentpunkte |
-| **Zinsen auf Spareinlagen** | 26,375% | **0% SDC** (nur 2,65% GeSY) | ~23,7 Prozentpunkte |
-| **Mieteinnahmen (CY-Immobilie)** | 26,375% (bei Vermietung im Ausland, je nach Sachverhalt) | **0% SDC** (nur 2,65% GeSY) | ~23,7 Prozentpunkte |
+**Praxistipp:** Eröffnen Sie ein lokales zyprisches Konto für Versorger, lokale Lastschriften und alles, was einen CY-IBAN braucht. Für den Rest — Auslandsüberweisungen, Kartenzahlungen, Online-Einkäufe — Wise/Revolut. Die Kombination ist besser als eines allein. Ein deutsches Girokonto können Sie als Ergänzung weiterführen.
 
-> **Quelle:** Non-dom-Status befreit von der Special Defence Contribution (SDC). Gilt bis zu 17 Jahre mit Verlaengerungsmoeglichkeit. Details: [Non-dom-Status und 60-Tage-Regel](/de/business/non-dom-status-cyprus-60-day-rule/).
+### Wofür Sie einen zyprischen IBAN brauchen
 
-### Rechenbeispiel
-
-Ein deutscher Anleger mit **€100.000 Dividenden pro Jahr**:
-
-| | Deutschland | Zypern (Non-dom) |
-|---|---|---|
-| Bruttoertrag | €100.000 | €100.000 |
-| Abgeltungsteuer (26,375%) | -€26.375 | — |
-| SDC (0%, Non-dom) | — | €0 |
-| GeSY (2,65%) | — | -€2.650 |
-| **Netto** | **€73.625** | **€97.350** |
-| **Jaehrliche Ersparnis** | | **€23.725** |
-
-> **Wichtig:** Die Abgeltungsteuer in Deutschland entfaellt nur, wenn Sie Ihren deutschen Steuerwohnsitz vollstaendig aufgeben (Abmeldung + keine Wohnung in DE). Das [DBA Deutschland–Zypern](/de/business/dba-deutschland-zypern/) regelt die Zuordnung. Dividenden aus deutschen Unternehmen unterliegen weiterhin max. 15% Quellensteuer in Deutschland (Art. 10 DBA), anrechenbar auf Zypern.
-
-### Banking-Konsequenz
-
-- **Zinsertraege auf zyprischen Bankkonten**: 0% SDC für Non-doms. Bei aktuellen EUR-Festgeldzinsen von 3-4% bedeutet das: auf €500.000 Einlage ca. €15.000-20.000 Zinsen — in Deutschland waeren davon €3.956-5.275 Abgeltungsteuer faellig, auf Zypern **€0 SDC** (nur €397-530 GeSY).
-- **Dividenden auf Depotkonto**: CY-Broker oder internationaler Broker mit CY-Steuerresidenz — 0% SDC.
-- **Mieteinnahmen aus CY-Immobilie**: SDC ist seit 2026 abgeschafft — nur Einkommensteuer nach regulaerem Tarif (0-35%, mit €22.000 Freibetrag).
-
-### Steuerreform 2026: Was sich aendert
-
-Ab 1. Januar 2026 gelten neue Regeln. Fuer Anleger relevant:
-
-- **SDC auf Dividenden nach Verlust des Non-dom**: reduziert von 17% auf **5%** (Uebergangsphase)
-- **Krypto-Gewinne**: feste **8%** (statt regulaerer Einkommensteuer)
-- **Stempelsteuer**: abgeschafft
-
-Details: [Steuerreform Zypern 2026](/de/business/cyprus-tax-reform-2026/)
+- Dauerauftrag für Strom (EAC)
+- Dauerauftrag für Wasser (Water Board)
+- Manche Vermieter bestehen auf einer lokalen Überweisung
+- Gemeindesteuern
+- Sozialversicherungsbeiträge (bei Anstellung)
+- GESY-Beiträge (Gesundheitssystem; zahlt der Arbeitgeber, der aber Ihren CY-IBAN braucht)
 
 ---
 
-## Wie hängen Wegzugsbesteuerung und Banking zusammen?
+## Wie bekomme ich meine Rente nach Zypern?
 
-Die [Wegzugsbesteuerung (§ 6 AStG)](/de/business/gmbh-wegzugsbesteuerung-auswandern/) betrifft GmbH-Gesellschafter, die nach Zypern auswandern. Bankenseitig bedeutet das:
+Für Rentner ist die Rente meist das wichtigste Einkommen. So funktionieren die britischen Rentenarten.
 
-### Vor dem Umzug klaeren
+### Britische Staatsrente (UK State Pension)
 
-1. **Liquiditaet sicherstellen** — die Wegzugssteuer wird auf den fiktiven Veraeusserungsgewinn Ihrer GmbH-Anteile berechnet. Bei hoher Bewertung kann das einen sechsstelligen Betrag bedeuten. Klare Bankstrategie vor dem Umzug.
-2. **Ratenzahlung beantragen** — seit 2022: 7 Jahresraten möglich (innerhalb EU). Die Raten koennen vom deutschen Konto bedient werden.
-3. **Deutsches Konto behalten** — für die Ratenzahlung an das Finanzamt und laufende DE-Verpflichtungen (GmbH-Geschaeftsfuehrer-Gehalt, Ausschuettungen).
-4. **Sicherheitsleistung** — das Finanzamt kann bei Ratenzahlung eine Bankbuergschaft oder Festgeld als Sicherheit verlangen.
+- Wird auf jedes Bankkonto weltweit gezahlt, auch auf ein zyprisches
+- Wird in GBP gezahlt — das Wechselkursrisiko tragen Sie
+- Auf Zypern **voll jährlich angepasst** (anders als z. B. in Australien oder Kanada, wo sie eingefroren ist)
+- Einrichtung: über das [International Pension Centre](https://www.gov.uk/international-pension-centre) oder online über Ihr [Government Gateway](https://www.gov.uk/log-in-register-hmrc-online-services)
+- **Tipp:** Lassen Sie sie auf Ihr Wise-GBP-Konto zahlen, tauschen Sie selbst und überweisen Sie nach Zypern. So vermeiden Sie den schlechten Kurs, den Banken auf eingehende GBP-Zahlungen anwenden
 
-### Bankstruktur nach Umzug (typisch für GmbH-Inhaber)
+### Private und betriebliche Renten
 
-| Konto | Zweck | Bank |
-|-------|-------|------|
-| DE Girokonto | Wegzugssteuer-Raten, DE-Versicherungen, GmbH-Verhaeltnis | DKB, ING oder Sparkasse |
-| CY Privatkonto | Gehalt, Miete, Alltag | Bank of Cyprus oder Eurobank |
-| CY Firmenkonto | Cyprus Ltd Geschaeftskonto | Bank of Cyprus oder Eurobank |
-| Wise/Revolut | Internationale Ueberweisungen, Waehrungstausch | — |
+- Nach dem [Doppelbesteuerungsabkommen Großbritannien–Zypern](https://www.gov.uk/government/publications/cyprus-tax-treaties) werden Renten nur auf Zypern besteuert (nicht in Großbritannien), sobald Sie auf Zypern steuerlich ansässig sind
+- Leistungsorientierte Renten (Defined Benefit, DB): im britischen Plan lassen und als Einkommen beziehen. Eine DB-Rente nur übertragen, wenn ein FCA-regulierter Berater das ausdrücklich empfiehlt
+- Beitragsorientierte Renten (Defined Contribution, DC) / SIPP: Übertragung in eine QROPS (Qualifying Recognised Overseas Pension Scheme) auf Zypern oder in einem EU-Land möglich — nach dem Brexit gibt es aber wenige QROPS-Optionen. Die meisten Expats lassen den SIPP in Großbritannien und entnehmen von dort
+- **Die steuerfreie 25-%-Einmalzahlung** nach britischen Regeln bleibt verfügbar, wenn Sie aus einer britischen Rente entnehmen. Bei Übertragung in eine QROPS verlieren Sie sie
+- **Vor jeder Übertragung** einen grenzüberschreitenden unabhängigen Finanzberater (IFA) fragen, der von FCA und CySEC reguliert ist. Ein Fehler kann Zehntausende an unnötiger Steuer kosten
 
----
+### Rentenbesteuerung auf Zypern
 
-## Wie eröffne ich ein Firmenkonto?
+Sie können jedes Jahr wählen:
+- **Pauschal 5 %** auf Renteneinkünfte über €5.000/Jahr (die ersten €5.000 sind steuerfrei; [Einkommensteuergesetz, Abschnitt 20](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html))
+- **Regulärer Stufentarif** (0 % bis €22.000 im Jahr 2026, dann 20/25/30/35 %)
 
-Wer eine **Cyprus Ltd** gruendet (beliebteste Rechtsform: 15% KSt ab 2026), braucht ein lokales Firmenkonto. Ohne zyprisches Firmenkonto keine Gruendung.
-
-### Ablauf
-
-1. Firmenname beim Department of Registrar reservieren
-2. Gruendungsdokumente erstellen (Secretary oder Anwalt)
-3. **Firmenkonto eröffnen** — Einreichung bei der Bank mit: Satzung, Gesellschaftervertrag, Passport/ID aller Direktoren, Geschaeftsplan, Einkommensnachweis der Gesellschafter
-4. Stammkapital einzahlen (mindestens €1.000 ueblich, gesetzlich kein Minimum)
-
-### Dauer und Kosten
-
-| Posten | Details |
-|--------|---------|
-| Kontoeroeffnung | 4-8 Wochen (AML-Pruefung) |
-| Kontofuehrung | €50-150/Quartal |
-| Auslandsueberweisungen | €15-30/Transaktion |
-| Firmenkarte | €30-50/Jahr |
-
-> **Tipp:** Bank of Cyprus ist für Firmenkonten am verbreitetsten. Eurobank ist schneller bei der Eroeffnung. Bereiten Sie einen 1-2-seitigen Geschaeftsplan vor — die AML-Abteilung will verstehen, woher das Geld kommt und wofuer es verwendet wird.
-
-Details zur Gruendung: [Firmengründung auf Zypern](/de/business/company-registration-cyprus/)
+Für die meisten britischen Renten ist der Pauschalsatz von 5 % günstiger. Bei einer Rente von £20.000/Jahr (~€23.200) zahlen Sie mit dem Pauschalsatz rund €988 Steuer — gegenüber etwa £1.500 in Großbritannien.
 
 ---
 
-## Wie funktioniert Krypto-Banking auf Zypern?
+## Welche Hypothekenoptionen haben britische Expats?
 
-### Steuer ab 1. Januar 2026
-
-**Feste 8% auf Krypto-Gewinne** (neue Artikel 20E). Quelle: [Chambers & Co](https://www.chambersandco.com/cyprus-8-crypto-tax-new-article-20e-regime-for-gains-on-crypto-assets-from-2026/)
-
-| Merkmal | Regel |
-|---------|-------|
-| Steuersatz | 8% auf Gewinne |
-| Verlustverrechnung | Nur innerhalb desselben Jahres |
-| Verlustvortrag | Nicht zulaessig |
-| Steuerpflichtige Vorgaenge | Verkauf, Tausch, Bezahlung von Waren/Dienstleistungen |
-
-### Vergleich: Deutschland vs. Zypern
-
-| | Deutschland | Zypern (ab 2026) |
-|---|---|---|
-| Steuersatz | Bis zu 45% (regulaerer EStG-Satz, wenn < 1 Jahr Haltefrist) | **Pauschal 8%** |
-| Haltefrist-Befreiung | Steuerfrei nach 1 Jahr | Keine Haltefrist-Befreiung |
-| Verlustverrechnung | Ja, mit Einschraenkungen (§ 23 EStG, max. €20.000/Jahr) | Ja, nur im selben Jahr |
-
-Fuer aktive Trader mit hohen Gewinnen und kurzen Haltefristen: Zypern ist deutlich guenstiger. Fuer langfristige HODLer, die in Deutschland nach 1 Jahr steuerfrei verkaufen koennten: individuell abwaegen.
-
-### Regulierung
-
-CySEC reguliert Krypto-Dienstleister (CASP-Lizenz). Mehrere lizenzierte Boersen operieren von Zypern aus. Zypern gehoert zu den kryptofreundlichsten EU-Jurisdiktionen.
-
----
-
-## Können Deutsche eine Hypothek auf Zypern aufnehmen?
+Als Brite eine Immobilie auf Zypern zu kaufen ist einfach, bei der Finanzierung gibt es aber Grenzen.
 
 | Merkmal | Details |
 |---------|---------|
-| Hauptbank | Eurobank Limited (ehem. Hellenic Bank) — am offensten für Auslaender |
-| Zinssatz | Ab 2,95% (3 Jahre fixiert) |
-| LTV | 60-70% (Auslaender) |
-| DTI | Max. 35-40% |
-| Bank of Cyprus | Nur für staendige Residenten |
-| Waehrung | EUR |
-| Laufzeit | Bis 30 Jahre (Hoechstalter 65-70) |
+| Wichtigster Kreditgeber für Ausländer | Eurobank Limited (ehemals Hellenic Bank) |
+| Zinssatz | Ab 2,95 % fest für 3 Jahre |
+| Beleihungsquote (LTV) | 60–70 % für nicht-zyprische Käufer |
+| Schuldenquote (DTI) | Maximal 35–40 % |
+| Bank of Cyprus | Nur dauerhaft Ansässige — meist 5+ Jahre Aufenthalt nötig |
+| Währung | Nur EUR |
+| Maximale Laufzeit | Bis 30 Jahre (Altersgrenze bei Laufzeitende: 65–70) |
+| Folgen des Brexits | Briten gelten als Nicht-EU. Längere Bearbeitung, strengere Compliance |
 
 Quelle: [INDEX.cy](https://index.cy/articles/cyprus-mortgage-guide-2026/)
 
-### Fuer deutsche Immobilienkaufer
+### Was Eurobank für einen Hypothekenantrag braucht
 
-- **Keine SCHUFA-Abfrage** — die Bank prueft zyprisches Einkommen, Arbeitsvertrag und Bankhistorie
-- **Eigenkapital mitbringen** — bei 60-70% LTV brauchen Sie 30-40% Eigenkapital. SEPA-Ueberweisung von DKB/ING auf CY-Konto, Herkunftsnachweis bereithalten
-- **DBA beachten** — Mieteinnahmen aus Zypern werden auf Zypern besteuert (Art. 6 DBA, Belegenheitsstaat). Mit Non-dom: 0% SDC auf Mieteinnahmen, nur regulaere Einkommensteuer
-- **Ausfuehrlicher Hypotheken-Guide**: [Hypothek auf Zypern](/de/business/russische-hypothek-von-zypern-bezahlen/) (Schwerpunkt internationale Kaeufer)
+- Gültiger Reisepass und ARC
+- Einkommensnachweis (Steuererklärungen der letzten 3 Jahre, P60 oder Jahresabschlüsse)
+- Nachweis des Eigenkapitals (meist 30–40 % des Kaufpreises)
+- Immobilienbewertung (organisiert die Bank)
+- Abtretung einer Lebensversicherung (verlangen die meisten zyprischen Kreditgeber)
+- Saubere Kredithistorie — zyprische Banken können britische Kreditauskünfte prüfen
+
+> **Vergleich mit Großbritannien:** Zyprische Zinsen (2,95–4 %) sind 2026 ungefähr mit britischen vergleichbar. Der große Unterschied ist die LTV: Britische Erstkäufer bekommen 90–95 % LTV, auf Zypern brauchen Ausländer 30–40 % Eigenkapital. Planen Sie das Eigenkapital entsprechend.
+
+> **Ausführlich:** unser [Hypotheken-Ratgeber für Zypern](/de/property/hypothek-zypern-fuer-auslaender/).
 
 ---
 
-## Wie empfange ich meine DRV-Rente auf Zypern?
+## Wie ist Kryptowährung auf Zypern geregelt?
 
-Fuer Rentner, die nach Zypern auswandern:
+### Steuer (ab 1. Januar 2026)
 
-1. **SEPA-Ueberweisung direkt auf CY-Konto** — Melden Sie der DRV Ihre neue Bankverbindung (zyprischer IBAN). Die Rente wird monatlich per SEPA überwiesen, ohne Gebühren
-2. **Besteuerung nach DBA** — DRV-Rente wird auf **Zypern** besteuert (Art. 17 DBA, Ansaessigkeitsstaat). In Deutschland keine Steuer (Freistellungsbescheinigung beim BZSt beantragen)
-3. **Zyprische Einkommensteuer** — Freibetrag €22.000, dann progressive Saetze 20-35%. Fuer eine typische DRV-Rente von €1.500/Monat (€18.000/Jahr): **€0 zyprische Steuer** (unter Freibetrag)
-4. **Beamtenpensionen** — Ausnahme: Kassenstaatsprinzip (Art. 18 DBA), Besteuerung in Deutschland
+**Pauschal 8 %** auf Gewinne aus Krypto-Assets (neuer Artikel 20E). Quelle: [Chambers & Co](https://www.chambersandco.com/cyprus-8-crypto-tax-new-article-20e-regime-for-gains-on-crypto-assets-from-2026/)
 
-> **Rechenbeispiel Rentner:** €1.800/Monat DRV-Rente = €21.600/Jahr. In Deutschland: ca. €2.500 Steuer (bei Einzelveranlagung, abhaengig vom Rentenbeginn). Auf Zypern: **€0 zyprische Einkommensteuer**, weil der Betrag unter dem Freibetrag von €22.000 liegt. Dazu 0% SDC auf Bankzinsen und Dividenden (Non-dom).
+| Merkmal | Regel |
+|---------|-------|
+| Steuersatz | 8 % auf Gewinne |
+| Verluste | Nur im selben Steuerjahr verrechenbar |
+| Verlustvortrag | Nicht zulässig |
+| Steuerpflichtige Vorgänge | Verkauf, Tausch, Bezahlung von Waren/Dienstleistungen |
 
-Details: [Finanzamt-Checkliste beim Umzug](/de/life/finanzamt-nach-umzug-zypern/)
+> **Vergleich mit Großbritannien:** In Großbritannien werden Krypto-Gewinne mit Capital Gains Tax von 18 % oder 24 % besteuert (über dem Jahresfreibetrag von £3.000). Die pauschalen 8 % auf Zypern ohne Mindestschwelle sind einfacher und bei größeren Gewinnen deutlich günstiger. Für Briten mit Krypto, die nach Zypern ziehen, zählt der Zeitpunkt des Verkaufs: Gewinne nach Eintritt der zyprischen Steueransässigkeit fallen unter die 8 %.
+
+### Regulierung
+
+- CySEC reguliert Krypto-Dienstleister (CASP-Lizenz nötig)
+- Mehrere lizenzierte Börsen arbeiten von Zypern aus
+- Zypern gehört zu den kryptofreundlichsten Ländern der EU
+
+---
+
+## Wie wirkt sich der Non-dom-Status auf das Banking aus?
+
+Der Steuerstatus **non-domiciled** (Non-dom) steht neuen Residenten bis zu 17 Jahre offen (mit möglicher Verlängerung). Mehr dazu: [Non-dom-Status und 60-Tage-Regel](/de/business/non-dom-status-cyprus-60-day-rule/).
+
+| Steuer | Non-dom-Satz | Regulärer Satz |
+|--------|--------------|----------------|
+| SDC auf Dividenden | **0 %** | 5 % |
+| SDC auf Einlagenzinsen | **0 %** | 17 % |
+| SDC auf Mieteinnahmen | **0 %** | Ab 2026 abgeschafft |
+| GHS (GESY) | 2,65 % | 2,65 % |
+
+Bei Verlust des Non-dom-Status: SDC auf Dividenden sinkt auf 5 % (Steuerreform 2026). Quelle: [Philippou Law](https://philippoulaw.com/articles/cyprus-tax-reform-2026/). Überblick: [Steuerreform Zypern 2026](/de/business/cyprus-tax-reform-2026/).
+
+**Was das für Ihr Bankkonto heißt:** Non-dom + Einlage bei einer zyprischen Bank = **0 % Steuer auf Zinsen**. Bei EUR-Einlagenzinsen von 3–4 % im Jahr 2026 bringt eine Einlage von €100.000 jährlich €3.000–4.000 Zinsen — komplett ohne SDC. In Großbritannien würden dieselben Zinsen über dem Sparerfreibetrag von £1.000 (Personal Savings Allowance) mit Ihrem Grenzsteuersatz (20–45 %) besteuert. Über 17 Jahre ist der Unterschied erheblich.
+
+---
+
+## Was sollten Sie über EU-Sanktionen wissen?
+
+- Zyprische Banken haben die **Compliance seit 2022 deutlich verschärft**. Auch normale Kontoeröffnungen brauchen heute mehr Unterlagen als früher
+- Wer geschäftliche Verbindungen nach Russland, Belarus oder Iran hat, muss mit zusätzlichen Prüfungen rechnen
+- **MIR und SBP** (russische Zahlungssysteme) sind in der EU seit Januar 2026 verboten, nach dem [19. Sanktionspaket](https://www.consilium.europa.eu/en/press/press-releases/2025/10/23/19th-package-of-sanctions-against-russia-eu-targets-russian-energy-third-country-banks-and-crypto-providers/)
+- **45 russische Banken** unterliegen einem vollständigen Transaktionsverbot (18. Paket, Juli 2025)
+- Normale GBP→EUR-Überweisungen von britischen Banken sind davon nicht betroffen
 
 ---
 
 ## Wie gehe ich Schritt für Schritt vor?
 
 ### Schritt 1: Lokales Konto eröffnen
-**Bank of Cyprus** (wenn Resident, €24/Jahr) oder **Eurobank** (wenn noch kein Wohnsitz, ab €24/Jahr). Mitbringen: Reisepass/Perso, Mietvertrag, Arbeitsvertrag oder Rentenbescheid.
+**Eurobank** ist der beste Start für britische Expats (nimmt Nicht-Ansässige, am flexibelsten mit Nicht-EU-Bürgern). **Bank of Cyprus**, wenn Sie schon dauerhaft ansässig sind. Mitbringen: Reisepass, ARC, Mietvertrag, Arbeitsvertrag oder Rentenbescheid, Nachweis der Mittel.
 
-### Schritt 2: Deutsches Konto behalten
-DKB, N26 oder ING weiterfuehren — für Versicherungen, Riester, Wegzugssteuer-Raten, DRV-Rente (bis SEPA-Umstellung auf CY-Konto). [EU-Zahlungskontenrichtlinie](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32014L0092) garantiert das Recht auf Kontofuehrung auch nach Abmeldung.
+### Schritt 2: Wise und Revolut einrichten
+Falls noch nicht vorhanden, beide vor der Abreise aus Großbritannien eröffnen (eine britische Adresse ist leichter zu verifizieren). Wise für regelmäßige GBP→EUR-Überweisungen, Revolut für Kartenzahlungen im Alltag. Beide ergänzen das zyprische Konto.
 
-### Schritt 3: Wise/Revolut einrichten
-Fuer internationale Ueberweisungen und guenstige Kartenzahlungen im Alltag. Ergaenzung zum lokalen Konto.
+### Schritt 3: Rente umleiten
+Staatsrente: auf Ihr Wise-GBP-Konto umleiten, dann selbst tauschen und nach Zypern schicken. Private Rente: weiter aus dem britischen Plan beziehen. Vor strukturellen Änderungen einen grenzüberschreitenden IFA fragen.
 
 ### Schritt 4: Non-dom-Status beantragen
-Wenn Sie kuerzlich zugezogen sind: [Non-dom-Status](/de/business/non-dom-status-cyprus-60-day-rule/) sichern. 0% auf Dividenden und Zinsen für bis zu 17 Jahre. Der einzelne groesste Steuervorteil für deutsche Kapitalanleger auf Zypern.
+Wenn Sie kürzlich nach Zypern gezogen sind, beantragen Sie den Non-dom-Status: 0 % auf Dividenden und Einlagenzinsen für bis zu 17 Jahre. Das ist geschenktes Geld — es kostet nur den Papierkram.
 
-### Schritt 5: Firmenkonto (falls Cyprus Ltd)
-4-8 Wochen Vorlauf einplanen. Geschaeftsplan vorbereiten. Details: [Firmengründung auf Zypern](/de/business/company-registration-cyprus/)
+### Schritt 5: Hypothek planen (falls Sie kaufen)
+Fragen Sie früh bei Eurobank nach einer Hypothek. Sammeln Sie die britischen Steuererklärungen der letzten 3 Jahre, sichern Sie das Eigenkapital und holen Sie eine Vorabzusage, bevor Sie Immobilien besichtigen. Nach Einreichung des vollständigen Antrags dauert es 4–8 Wochen.
 
 ---
 
 **Siehe auch:**
-- [Die ersten 90 Tage auf Zypern](/de/life/erste-90-tage-zypern/) — Woche für Woche nach dem Umzug
-- [Wegzugsbesteuerung für GmbH-Inhaber](/de/business/gmbh-wegzugsbesteuerung-auswandern/) — § 6 AStG im Detail
-- [DBA Deutschland-Zypern](/de/business/dba-deutschland-zypern/) — Steuerverteilung nach Einkommensart
-- [Lebenshaltungskosten Zypern vs Deutschland](/de/life/lebenshaltungskosten-zypern-vs-deutschland/) — Kostenvergleich
-- [Non-dom-Status und die 60-Tage-Regel](/de/business/non-dom-status-cyprus-60-day-rule/) — Steuervorteile nutzen
-- [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/) — was Sie auf Zypern erwartet
-- [Steuerreform Zypern 2026](/de/business/cyprus-tax-reform-2026/) — alle Änderungen im Überblick
+- [Bankenvergleich — BoC, Eurobank, Alpha Bank Cyprus](/de/business/banks-cyprus-comparison/)
+- [Auswandern nach Zypern — der komplette Leitfaden](/de/immigration/auswandern-nach-zypern-leitfaden/)
+- [Die ersten 90 Tage auf Zypern](/de/life/erste-90-tage-zypern/)
+- [Finanzamt-Checkliste beim Umzug](/de/life/finanzamt-nach-umzug-zypern/)
+- [Wegzugsbesteuerung für GmbH-Inhaber](/de/business/gmbh-wegzugsbesteuerung-auswandern/)
+- [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/)
+- [Lebenshaltungskosten Zypern vs. Deutschland](/de/life/lebenshaltungskosten-zypern-vs-deutschland/)
 
----
-
-*Daten aktuell: April 2026. Bankkonditionen aendern sich — pruefen Sie die offiziellen Websites. Schreiben Sie uns auf [Telegram](https://t.me/expatscy) wenn Ihnen Fehler auffallen.*
+*Banknamen geprüft am 12. Juli 2026; Beispiele für Gebühren, Zinsen und Sanktionen stützen sich auf die neuesten genannten Quellen von 2025 und April 2026. Bankkonditionen ändern sich — prüfen Sie immer die offizielle Website der Bank. Schreiben Sie uns auf [Telegram](https://t.me/expatscy), wenn Ihnen etwas Veraltetes auffällt.*
 
 ---
 
 ## Quellen
 
-- [EU Council -- 19th sanctions package](https://www.consilium.europa.eu/en/press/press-releases/2025/10/23/19th-package-of-sanctions-against-russia-eu-targets-russian-energy-third-country-banks-and-crypto-providers/) — European Union
+- [Capital Gains Tax: Sätze](https://www.gov.uk/capital-gains-tax/rates) und [Freibeträge](https://www.gov.uk/capital-gains-tax/allowances) — GOV.UK, geprüft am 2026-11-07
+- [Rat der EU — 19. Sanktionspaket](https://www.consilium.europa.eu/en/press/press-releases/2025/10/23/19th-package-of-sanctions-against-russia-eu-targets-russian-energy-third-country-banks-and-crypto-providers/) — Europäische Union
 - [Migration Department](https://www.gov.cy/mip-md/en/) — gov.cy

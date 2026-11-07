@@ -3,7 +3,7 @@ slug: "money-transfer-cyprus-swift-crypto"
 title: "Money Transfers to Cyprus: All Methods"
 description: "How to send money to Cyprus in 2026: SWIFT, SEPA, Wise, Revolut, crypto. Fees, timelines, and bank compliance requirements for each method."
 date: 2026-01-24
-updated: 2026-03-15
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -15,13 +15,13 @@ draft: false
 translationKey: "perevod-deneg-kipr-kripta-swift"
 faqSchema:
   - question: "What is the cheapest way to transfer money to Cyprus?"
-    answer: "SEPA transfers within EU are free or EUR 0.50. From outside EU: Wise (0.5-1% fee), crypto USDT to EUR (1-2%), Revolut (free between users)."
+    answer: "Fees depend on the sending bank or service and on the route, so compare before you send. Euro transfers inside the EU normally go by SEPA. From outside the EU, compare your bank's SWIFT charges with Wise, which shows its fixed and variable fee for each route in its calculator (wise.com pricing page, checked 2026-11-07). Converting crypto to euros is risky for a Cyprus bank account."
   - question: "Can I use Revolut in Cyprus?"
     answer: "Yes, Revolut works fully: IBAN, card payments, SEPA transfers. Top up via bank transfer or card. No restrictions for Cyprus residents."
   - question: "Are SWIFT transfers still working to Cyprus?"
-    answer: "From EU/UK/UAE — yes, normal processing. From Russia — only via intermediary banks (Raiffeisen, OTP) with delays of 3-7 business days."
+    answer: "From EU/UK/UAE — yes, normal processing. From Russia — difficult and under close scrutiny; see the Russia-to-Cyprus transfer guide."
 ---
-> **Short answer:** The cheapest way to send money internationally from Cyprus is Wise (0.4-0.6% fee, 1-2 days). SWIFT transfers cost EUR 15-45 per transaction and take 2-5 business days.
+> **Short answer:** To receive money in Cyprus, expect the bank to ask for the source of funds, so coordinate large payments with your banker first. Euro payments from the EU normally arrive by SEPA and payments from outside the EU by SWIFT. Fees depend on the sending bank or service; Wise shows its fee for each route before you pay.
 
 
 Transferring money to Cyprus is one of the main headaches for expats. Whether you need to fund a [bank account](/en/business/bank-account-cyprus-foreigners/) or pay for [property](/en/property/buying-property-cyprus/), this guide covers all available methods. If you are transferring specifically from Russia, see our dedicated [Russia-to-Cyprus transfer guide](/en/business/money-transfer-russia-cyprus/) for sanctions workarounds.
@@ -59,17 +59,18 @@ For receiving SWIFT, the Cyprus bank will request:
 
 - **Source of funds** (where the money came from)
 - **Documents** (income certificates, property sale, etc.)
-- **Pre-approval** — especially for amounts from €10,000
+- **Pre-approval** — especially for larger amounts
 
 ### Important Nuance
 
 > "Usually when Bank of Cyprus receives money it wasn't expecting, it holds it without crediting until the owner provides compliance documents. This money isn't visible even in pending — only to the manager."
 
-### Amounts Over €24,000
+### Large Amounts
 
-- Automatically go through **compliance**
-- Without documents — **returned to sender**
+- May go through **compliance** review
+- Without documents — may be **returned to sender**
 - Account **may be blocked**
+- Thresholds are set by each bank; the figures quoted in this article are community examples, not rules
 
 ## How does cryptocurrency work for transfers?
 
@@ -200,7 +201,7 @@ Doesn't work from banks under sanctions.
 
 ## What do experts recommend?
 
-1. **Coordinate with bank in advance** — especially amounts from €5,000
+1. **Coordinate with bank in advance** — especially larger amounts
 2. **Keep all documents** — source of funds, contracts, certificates
 3. **Don't mix crypto and bank** — these are different worlds in Cyprus
 4. **Have a backup channel** — Revolut/Wise in case of blocks

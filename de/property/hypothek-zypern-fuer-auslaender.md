@@ -1,9 +1,9 @@
 ---
 slug: "hypothek-zypern-fuer-auslaender"
-title: "Hypothek auf Zypern: Banken und Zinsen 2026"
-description: "Wie man eine Hypothek auf Zypern erhält: Banken, Zinssätze 2026, Anzahlung für EU- und Nicht-EU-Bürger, Dokumente, Fallstricke."
+title: "Hypothek auf Zypern: Zinsen für ausländische Käufer"
+description: "Hypothekenprodukte auf Zypern im Vergleich: datierte Zinsbeispiele, Aufenthaltsvoraussetzungen, Baufinanzierung, Unterlagen und Eintragungskosten."
 date: 2026-02-22
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Immobilien"
 author: "Expats Cyprus"
 tags:
@@ -15,266 +15,108 @@ tags:
 draft: false
 translationKey: "ipoteka-na-kipre-dlya-inostrantsev"
 faqSchema:
-  - question: "Können Deutsche auf Zypern eine Hypothek aufnehmen?"
-    answer: "Ja. EU-Bürger erhalten in der Regel bessere Konditionen als Nicht-EU-Bürger. Typische Bedingungen: Anzahlung 20–30%, Laufzeit bis 30 Jahre, variable Zinsen 3,5–5% (2026). Bank of Cyprus und Eurobank bieten Hypothekenprodukte für Expats an. Wichtig: stabiles Einkommen auf Zypern oder nachweisbares Auslandseinkommen."
-  - question: "Wie hoch sind die Hypothekenzinsen auf Zypern 2026?"
-    answer: "Variable Zinsen liegen bei 3,5–5% (abhängig von Bank, Bonität und Beleihungswert). Feste Zinsen sind auf Zypern selten — die meisten Hypotheken sind variabel, gekoppelt an die EZB-Leitzinsen. Zum Vergleich: In Deutschland liegen Baufinanzierungszinsen bei ca. 3,5–4% (fest, 10 Jahre)."
-  - question: "Welche Dokumente brauche ich für eine Hypothek auf Zypern?"
-    answer: "Standarddokumente: Reisepass, Einkommensnachweis (Gehaltsabrechnungen der letzten 6 Monate oder Steuerbescheide), Kontoauszüge, Immobilienbewertung (durch die Bank), Kaufvertrag. Bei Einkommen aus Deutschland: ggf. Übersetzung der Steuerbescheide und Bestätigung des Arbeitgebers."
----
-> **Kurzantwort:** Hypotheken für Auslaender auf Zypern: bis 70% LTV, Zinsen 3-5%, Laufzeit bis 30 Jahre. Eigenkapital ab 30% erforderlich.
-
-Eine Hypothek auf Zypern ist ein echtes Instrument zum Immobilienkauf, auch für Ausländer. Aber die Bedingungen für Residents, EU-Bürger und Nicht-EU-Bürger unterscheiden sich erheblich. Wir analysieren Banken, Zinssätze, Dokumente und Fallstricke.
-
-> **Offizielle Quellen:**
-> - [Bank of Cyprus — Hypothekenprodukte](https://www.bankofcyprus.com/en-gb/Personal/loans/Housing/) — Bedingungen der BoC
-> - [Eurobank — Home Loan](https://www.eurobank.cy/en/personal/housing/home-loan) — Hypothek der Eurobank
-> - [Alpha Bank Cyprus](https://www.alphabank.com.cy/) — ex-AstroBank seit 2025
-> - [Central Bank of Cyprus — Statistiken](https://www.centralbank.cy/en/publications/financial-stability-report) — Daten zu Zinssätzen
-> - [gov.cy — Zinssubventionsprogramm](https://www.gov.cy/mof/en/interest-rate-subsidy-scheme-for-income-qualified-home-loans/) — Subventionierungsprogramm
-
-## Wie hoch sind die Zinssätze 2026?
-
-Der durchschnittliche Hypothekenzinssatz auf Zypern beträgt **3,78%** (Dezember 2025, Daten der Zentralbank). Das ist etwa **~1,7 Prozentpunkte höher** als der Durchschnitt der Eurozone (2,43%).
-
-### Variable Zinssätze
-
-| Bank | Satz | Bemerkung |
-|------|------|----------|
-| Ancoria Bank | ~3,28-3,45% | Niedrigster am Markt |
-| Societe Generale Cyprus | ~3,28% | Kleine Bank |
-| CDB Bank | ~3,96% | EURIBOR + Marge |
-| Alpha Bank Cyprus (ex-AstroBank) | Aktuelle Tarife prüfen | AstroBank-Geschäft wurde 2025 auf Alpha Bank Cyprus übertragen |
-| Eurobank Limited (ehemals Hellenic Bank) | ~4,3-4,5% | Für Nicht-Residents |
-| Bank of Cyprus | 4,35-4,50% | ECB + 2,20-2,35% Marge |
-
-### Feste Zinssätze (Eurobank)
-
-| Fixierungszeitraum | Satz |
-|-----------------|--------|
-| 3 Jahre | **2,95%** |
-| 5 Jahre | **3,10%** |
-| 10 Jahre | **3,60%** |
-
-Nach Ablauf des festen Zeitraums wird zu einem variablen Zinssatz übergegangen. Fixierung für 10 Jahre ist nur für Wohnimmobilien verfügbar.
-
-## Wie viel Anzahlung brauche ich?
-
-| Käufer | Anzahlung | Max LTV |
-|--------|----------|---------|
-| Zypern Resident — Wohnimmobilie | **20%** | 80% |
-| Zypern Resident — Anlageimmobilie | **40%** | 60% |
-| EU-Bürger, Nicht-Resident | **30-40%** | 60-70% |
-| Nicht-EU-Bürger | **40-50%** | 50-60% |
-| Gebrauchte Immobilie ohne title deed | **50%** | 50% |
-
-**Wichtig:** LTV wird von der **kleineren** der beiden Werte berechnet — Kaufpreis oder Bankbewertung. Wenn die Bank niedriger bewertet — wird die effektive LTV strenger.
-
-## Welche Bank sollte ich wählen?
-
-### Eurobank Limited (ehemals Hellenic Bank)
-
-**Am ausländerfreundlichsten.** Die einzige große Bank mit klaren Produkten für Nicht-Residents:
-
-| Produkt | Für wen |
-|---------|---------|
-| Home Loan | Wohnimmobilie — nur Residents |
-| Holiday Home | Sekundäres/Ferienhaus — offen für Nicht-Residents |
-| Real Estate Loan | Investitionen / buy-to-let / Land |
-| Green Homes | Energieeffiziente Objekte — reduzierter Zinssatz |
-
-- Zinssatz für Nicht-Residents: ~4,3-4,5%
-- Laufzeit: bis 25-30 Jahre (Rückzahlung bis 65 Jahre)
-- Anzahlung für Nicht-Residents: ab 40%
-- Akzeptiert Nicht-Residents mit vollständiger AML-Dokumentation
-
-### Bank of Cyprus
-
-Größte Bank. **Nur für Residents** — Nicht-Residents werden praktisch nicht bedient.
-
-- Zinssatz: ECB + 2,20-2,35% = ~4,35-4,50%
-- Wohnimmobilie: bis 80% LTV, bis 35 Jahre
-- Anlageimmobilie: bis 60% LTV, bis 20 Jahre
-- Bonus: für Wohneigentum — keine Bearbeitungsgebühren
-
-### Alpha Bank Cyprus
-
-**Beste Bedingungen für Alter:**
-- Maximale Laufzeit: bis **40 Jahre**
-- Alter bei Rückzahlung: bis **70 Jahre** (andere — 65)
-- Zinssatz: ab ~4,28%
-- Nützlich für Käufer über 40-45 Jahre
-
-### Ancoria Bank
-
-- Niedrigster Zinssatz: **~3,28-3,45%**
-- Maximalbetrag: €300.000
-- Laufzeit: bis 35 Jahre
-- Für Nicht-Residents: Anzahlung 30-40%
-
-## Wie lang ist die maximale Kreditlaufzeit?
-
-| Bank | Max. Laufzeit | Auszahlungsalter |
-|------|----------|------------------|
-| Alpha Bank | **40 Jahre** | 70 |
-| Ancoria Bank | 35 Jahre | 65 |
-| Bank of Cyprus (Wohnimmobilie) | 35 Jahre | 65 |
-| Eurobank | 25-30 Jahre | 65 |
-| Bank of Cyprus (Anlageimmobilie) | 20 Jahre | 65 |
-
-**Praktisch:** Ein 50-jähriger Käufer erhält in den meisten Banken maximal 15 Jahre (bis 65). Bei Alpha Bank — bis 20 Jahre (bis 70).
-
-## Was gilt für Nicht-EU-Bürger?
-
-### Schritt 1: Genehmigung des Ministerrats
-
-**Erforderlich vor Hypothekenantrag.** Nicht-EU-Bürger müssen die Genehmigung des Council of Ministers erhalten (Formular Comm. 145).
-
-| Parameter | Wert |
-|----------|------|
-| Umfang | Bis zu 1 Wohnimmobilie + berufliche Immobilie + Land bis 4.014 m² |
-| Bearbeitungszeit | 30-45 Tage (Limassol) — mehrere Monate (Paphos) |
-| Anforderungen | Saubere Kriminalbilanz, finanzielle Leistungsfähigkeit |
-| EU-Bürger | **Nicht erforderlich** |
-
-### Schritt 2: Bankwahl
-
-Die realistische Wahl für Nicht-EU — **Eurobank** (Holiday Home oder Real Estate Loan). Andere Banken arbeiten entweder nicht mit Nicht-Residents oder erfordern einen ständigen Wohnsitz.
-
-### Schritt 3: Dokumente
-
-Standardpaket + beglaubigte Übersetzung aller Dokumente ins Englische oder Griechische + erweiterte AML-Prüfung (Herkunft der Mittel, Steuererklärungen des Wohnlandes).
-
-### Gesamtbedingungen für Nicht-EU-Bürger
-
-| Parameter | Wert |
-|----------|------|
-| Anzahlung | 40-50% |
-| Max. LTV | 50-70% |
-| Bank | Eurobank Limited (Hauptoption) |
-| Zinssatz | ~4,3-4,5% (+0,25-0,5% zu Resident-Sätzen) |
-| AML-Dokumente | Erweitert |
-
-## Welche Dokumente werden benötigt?
-
-### Für alle Kreditnehmer
-- Reisepass
-- Einkommensnachweis (Gehaltsabrechnungen für 3-6 Monate)
-- Bankauszüge für 3-6 Monate
-- Steuererklärungen für 2-3 Jahre
-- Kaufvertrag / vorläufige Vereinbarung
-- Objektbewertung durch lizenzierten Schätzer
-- Title deed (oder Äquivalent für Neubauten)
-- Feuer- und Erdbebversicherung
-
-### Zusätzlich für Nicht-Residents
-- Steuererklärungen aus dem Wohnland
-- Beschäftigungsbestätigung oder Nachweis von Auslandsbetrieb
-- Bankauszüge aus Auslandsbank
-- **Beglaubigte Übersetzung** aller Dokumente ins Englische oder Griechische
-- Erweiterte AML-Dokumentation (Herkunft der Mittel)
-
-### Zusätzlich für Selbstständige
-- Geschäftsregistrierungsdokumente
-- Revidierte Jahresabschlüsse für 2-3 Jahre
-- Einkommensnachweis des Buchhalters
-
-## Wie berechnet sich die Kredithöhe?
-
-Banken verwenden die DTI-Regel (Schulden-Einkommens-Verhältnis): monatliche Zahlung nicht mehr als **30-35% des Nettoeinkommens**.
-
-| Nettoeinkommen/Monat | Max. Zahlung (35%) | Ungefähre Kreditbelastung (4,5%, 20 Jahre) | Immobilienwert (40% Anzahlung) |
-|------------------|--------------------|----------------------------------------|----------------------------------|
-| €3.000 | €1.050 | ~€165.000 | ~€275.000 |
-| €4.000 | €1.400 | ~€220.000 | ~€367.000 |
-| €5.000 | €1.750 | ~€275.000 | ~€458.000 |
-| €7.000 | €2.450 | ~€385.000 | ~€642.000 |
-
-## Welche Abschlusskosten fallen an?
-
-| Kosten | Betrag |
-|--------|--------|
-| Hypothekenregistrierung (Grundbuchamt) | **1% der Kreditbelastung** |
-| Bankgebühr für Abwicklung | 0,5-1% (oft nicht für Wohneigentum) |
-| Objektbewertung | €150-700 |
-| Anwalt (Hypothekendokumente) | €500-1.500 |
-| Lebensversicherung (obligatorisch, jährlich) | Abhängig von Alter und Betrag |
-| Feuer-/Erdbebenversicherung (jährlich) | €200-500 |
-| Stempelgebühr | **Ab 1. Januar 2026 abgeschafft** |
-
-**Gesamtkosten für Transaktionsabschluss:**
-- Gebrauchte Immobilie mit title deed: **7-11%** des Wertes
-- Neubau (MwSt 5%, Wohnimmobilie): **10-14%**
-- Neubau (MwSt 19%, nicht Wohnimmobilie): **21-24%**
-
-## Gibt es Hypotheken für Anlageimmobilien?
-
-Verfügbar, aber mit strengeren Bedingungen:
-
-- LTV: maximal **60%** (Anzahlung 40%+)
-- Laufzeit: bis 20-25 Jahre
-- Zinssatz: +0,25-0,5% zu Basiszinssatz
-- Banken **berücksichtigen normalerweise nicht** das zukünftige Mietseinkommen bei der Zahlungsfähigkeitsprüfung
-- **Rohbau**: Banken **finanzieren nicht** — Objekt muss zu 100% fertig sein mit individuellem title deed
-- Gebrauchtes ohne title deed: maximal 50% LTV
-
-## Welche staatlichen Programme gibt es?
-
-### Zinssubventionsprogramm (Finanzministerium)
-
-- Der Staat kompensiert **2%** des Zinssatzes
-- Familieneinkommen: bis **€50.000/Jahr**
-- Weitere Informationen: [unser Artikel zu Subventionen](/de/property/wohnungsbaufoerderung-zypern-home-programm)
-
-### Zuschuss für junge Familien (Innenministerium)
-
-- Bis zu **€50.000** nicht zurückzahlbarer Zuschuss
-- Alter: bis 41 Jahre
-- Kann mit Hypothek kombiniert werden
-- Weitere Informationen: [unser Artikel zu Subventionen](/de/property/wohnungsbaufoerderung-zypern-home-programm)
-
-## Was passiert, wenn ich Zypern verlasse?
-
-Eine Hypothek wird **nicht annulliert**, wenn Sie weggehen:
-- Die Schuld bleibt bestehen, die Immobilie ist Sicherheit
-- Wenn Sie zahlen einstellen — beginnt die Bank mit Inkasso
-- Wenn der Verkauf den Schuldenstand nicht deckt — der Rest wird persönliche Schuld
-- **Innerhalb der EU**: Gerichtsentscheidungen werden direkt vollstreckt (Brussels I Regulation)
-- **Außerhalb der EU**: Banken nutzen internationale Inkassounternehmen
-- Ein Teil der problematischen zypern Hypotheken wurde an Investoren mit notleidenden Schulden verkauft — sie sind aggressiv bei Inkasso
-
-## Häufig gestellte Fragen
-
-**Kann man eine Hypothek ohne ständigen Wohnsitz erhalten?**
-Ja, aber die Bankwahl ist begrenzt (Eurobank — Hauptoption). Anzahlung ab 40%, Zinssatz höher um 0,25-0,5%.
-
-**Akzeptieren sie Auslandseinkommen?**
-Eurobank — ja, mit erweiterte Dokumentation. Bank of Cyprus — praktisch nein (nur Residents).
-
-**Kann man eine Hypothek auf Rohbau erhalten?**
-Nein. Banken finanzieren nur **fertige Objekte** mit individuellem title deed.
-
-**Kann man eine Hypothek zu einer anderen Bank refinanzieren?**
-Ja, aber: (1) Vorfälligkeitsentschädigung in der alten Bank, (2) neue Hypothekenregistrierung (1%), (3) neue Bewertung. Sinnvoll bei Zinsunterschied > 0,5%.
-
-**Wie lange dauert die Genehmigung?**
-Residents: 2-4 Wochen. Nicht-Residents: 4-8 Wochen. Nicht-EU (einschließlich Council of Ministers): 2-4 Monate.
-
-
-> **Immobilie auf Zypern gesucht?** [Vergleichen Sie 1.000+ Objekte direkt vom Bauträger auf research.cy](https://research.cy/search/) — ohne Makler, mit Preishistorie und Bezirksanalyse.
-
+  - question: "Was zeigen veröffentlichte Hypothekenzinsen?"
+    answer: "Die CBC meldet für Dezember 2025 einen gewichteten Durchschnittszins von 3,12 % für neue Wohnungsbaukredite über alle Zinsbindungsfristen. Das Beispiel von Ancoria vom 9. Juli 2026 verwendet 3,913 % Zinsen und 3,980 % effektiven Jahreszins unter den genannten Annahmen. Das sind datierte Zahlen, keine aktuellen persönlichen Angebote."
+  - question: "Können Ausländer ohne Daueraufenthalt eine Hypothek bekommen?"
+    answer: "Das Eurobank-Produkt Holiday Home richtet sich ausdrücklich an ständige und nicht ständige Einwohner Zyperns, mit Finanzierung bis zu 70 % des Immobilienwerts, vorbehaltlich der Genehmigung. Der Haupt-Home-Loan richtet sich an ständige Einwohner Zyperns. Fragen Sie, welches Produkt zu Ihrem Aufenthaltsstatus und Ihrem Verwendungszweck passt."
+  - question: "Wie viel Anzahlung brauchen Nicht-EU-Bürger?"
+    answer: "Die zitierten Produktseiten legen keinen allgemeinen, von der Staatsangehörigkeit abhängigen Prozentsatz fest. Die Grenzen hängen vom Produkt und von der Prüfung durch die Bank ab. Eurobank wirbt mit Finanzierung bis zu 70 % bei Holiday Home und 80 % bei ihrem Haupt-Home-Loan; der Eigenanteil beim Letzteren kann in bar oder als zusätzlicher Kredit gegen eine andere Immobilie erbracht werden."
+  - question: "Kann eine Hypothek einen Bau finanzieren?"
+    answer: "Ja. Die zitierten Produkte von Bank of Cyprus, Eurobank, Alpha und Ancoria schließen Bauvorhaben ein. Ancoria beschreibt Auszahlungen in Raten je nach Baufortschritt. Projektunterlagen, Sicherheiten und Bedingungen der Bank gelten weiterhin; nicht jeder Kauf vom Plan kommt infrage."
+  - question: "Wie lange dauert die Genehmigung?"
+    answer: "Fragen Sie nach einem Zeitplan für Ihren Fall. Bank of Cyprus unterscheidet die Vorabgenehmigung von der endgültigen Genehmigung: Bewertung und übrige Bedingungen müssen noch erfüllt werden. Die Genehmigung zum Immobilienerwerb ist ein eigenes Verfahren, getrennt von der Kreditprüfung."
 ---
 
-**Weitere Leitfaeden:**
-- [Immobilienkauf auf Zypern für Expats](/de/property/buying-property-cyprus) -- kompletter Kaufprozess
-- [Immobiliensteuern: MwSt, CGT, Gebühren](/de/property/immobiliensteuern-zypern-mwst-cgt) -- Steuernuebersicht
-- [Title Deed: Eigentumsrecht](/de/property/title-deed-zypern-eigentumsrecht) -- Eigentumsnachweis und Fallstricke
+Vergleichen Sie das Produkt für Ihren Verwendungszweck und Ihren Aufenthaltsstatus, bevor Sie sich zum Kauf verpflichten. Die folgenden Bedingungen wurden am **3. Oktober 2026** mit den eigenen Seiten der Kreditgeber abgeglichen. Veröffentlichte Höchstwerte stehen weiterhin unter dem Vorbehalt der individuellen Genehmigung.
 
-Fragen zur Hypothek auf Zypern -- in unserem [Telegram-Kanal](https://t.me/expatscy).
+## Was zeigen datierte Zinsangaben?
 
----
+Der [Immobilienbericht der Zentralbank von Zypern für das 4. Quartal 2025](https://www.centralbank.cy/images/media/pdf/RPPI_2025Q4_ENG.pdf) nennt einen **gewichteten Durchschnittszins von 3,12 % für neue Wohnungsbaukredite über alle Zinsbindungsfristen im Dezember 2025**, verglichen mit **4,30 % im Dezember 2024**. Diese historische Reihe ist weder ein aktuelles Angebot noch ein Durchschnitt aller laufenden Hypotheken.
 
-## Quellen
+[Ancorias Seite zum Erstwohnsitz](https://www.ancoriabank.com/personal-banking/housing-loans/first-residence-loan/) enthält ein repräsentatives Beispiel vom **9. Juli 2026**: **100.000 € über 35 Jahre**, Eigenanteil **über 30 %**, **3-Monats-Euribor 2,313 % plus 1,60 % Marge**, **3,913 % Zinsen**, **3,980 % effektiver Jahreszins** und eine angegebene **monatliche Rate von 438 €**. Das Beispiel enthält nicht die Kosten für die Abtretung der Lebensversicherung, den Artemis-Bericht, die Bewertung und die Feuerversicherung. Holen Sie ein aktuelles Angebot mit allen relevanten Kosten ein.
 
-- [Central Bank of Cyprus — Statistics](https://www.centralbank.cy/en/publications/financial-stability-report) — Central Bank of Cyprus
-- [gov.cy — Interest Rate Subsidy Scheme](https://www.gov.cy/mof/en/interest-rate-subsidy-scheme-for-income-qualified-home-loans/) — gov.cy
+Die Seiten [Home Loan](https://www.eurobank.cy/en/personal/housing/home-loan) und [Holiday Home](https://www.eurobank.cy/en/personal/housing/holiday-home) der Eurobank bieten anfängliche Festzinsperioden von **3, 5 oder 10 Jahren**, je nach Produkt und Kriterien der Bank, danach einen variablen Zins. Fragen Sie nach dem geltenden Basiszins, der Marge und den Gebühren bei vorzeitiger Rückzahlung.
+
+## Welche veröffentlichten Produkte passen zum Kauf?
+
+| Produkt und Primärquelle | Veröffentlichte Finanzierungsgrenze | Aufenthalts- oder Laufzeitbedingungen |
+|---|---|---|
+| [Eurobank Home Loan](https://www.eurobank.cy/en/personal/housing/home-loan) | Bis zu 80 % des Werts der Hauptwohnung | Ständige Einwohner Zyperns; Laufzeit höchstens bis zum frühesten von: Nutzungsdauer des Objekts, 30 Jahre oder Alter des Kreditnehmers 65 |
+| [Eurobank Holiday Home](https://www.eurobank.cy/en/personal/housing/holiday-home) | Bis zu 70 % des Immobilienwerts | Ständige und nicht ständige Einwohner Zyperns; Laufzeit höchstens bis zum frühesten von: Nutzungsdauer, 25 Jahre oder Alter des Kreditnehmers 65 |
+| [Wohnbauprodukte der Bank of Cyprus](https://www.bankofcyprus.com/en-gb/Personal/loans/Housing/) | Erstwohnung bis zu 80 %; Ferienhaus bis zu 70 %; Anlageimmobilie bis zu 60 % | Produktspezifische Prüfung und Sicherheitenbedingungen |
+| [Alpha Residence](https://www.alphabank.com.cy/en/individuals/loans/housing-loans/alpha-residence) | Erste Hauptwohnung bis zu 80 % des Kaufpreises; zweite Wohnung bis zu 70 % | Ständige Einwohner Zyperns; bis zu 30 Jahre einschließlich tilgungsfreier Zeit, Alter höchstens 65 bei Fälligkeit |
+| [Ancoria First Residence](https://www.ancoriabank.com/personal-banking/housing-loans/first-residence-loan/) | Beworben bis zu 300.000 € und 80 % des geschätzten Werts; höhere Beträge nur auf Angebot | 5–35 Jahre; Alter höchstens 65 bei Fälligkeit |
+
+Das sind Produktgrenzen, keine garantierten Beträge. Eurobank prüft Einkommen, Ausgaben und Lebenshaltungskosten sowie die Sicherheiten. Der Eigenanteil beim Haupt-Home-Loan kann in bar **oder als zusätzlicher Kredit gegen eine andere Immobilie** erbracht werden; 80 % Finanzierung verlangen nicht immer 20 % Bargeld.
+
+Bank of Cyprus legt üblicherweise das Alter **65** bei Fälligkeit zugrunde, mit Verlängerung auf **70**, wenn die Rückzahlungsfähigkeit nachgewiesen werden kann. Gehen Sie nicht davon aus, dass alle Kreditgeber dieselbe Altersgrenze haben.
+
+Das [Real Estate Loan](https://www.eurobank.cy/en/personal/housing/real-estate) der Eurobank umfasst Investition, Vermietung, Bau, Renovierung und Grundstückskauf. Die Höchstlaufzeit ist das früheste von: Nutzungsdauer des Objekts, **25 Jahre** oder Alter des Kreditnehmers **65**, mit höchstens **15 Jahren** beim Kauf von Grundstücken und Land. Fragen Sie, wie Mieteinnahmen und Projektrisiko bewertet werden.
+
+## Kann eine Bank eine unfertige Immobilie finanzieren?
+
+Bauvorhaben sind in den zitierten Produkten von Bank of Cyprus, Eurobank, Alpha und Ancoria eingeschlossen. Ancoria beschreibt **Auszahlungen in Raten je nach Baufortschritt**. Das belegt nicht, dass jeder Kauf vom Plan infrage kommt.
+
+Eurobank nennt als Immobilienunterlagen unter anderem die Eigentumsurkunde (Title Deed), die Planungsgenehmigung oder die Bescheinigung eines Architekten, die Baugenehmigung oder eine Bescheinigung über den laufenden Antrag mit fachlicher Erklärung sowie einen von Fachleuten unterschriebenen Zeitplan und eine Kostenanalyse. Für die Bewertung sind Baupläne erforderlich. Klären Sie, wie Eigentum, Kaufvertrag, Sicherheiten der Bank und Auszahlungsbedingungen für Ihr Vorhaben gelten.
+
+Eurobank wirbt mit einer tilgungsfreien Zeit für das Baukapital von bis zu **12 Monaten**, wobei **Zinsen weiter zu zahlen sind**, vorbehaltlich der Prüfung. Ancoria wirbt mit bis zu **zwei Jahren** tilgungsfreier Zeit für das Baukapital, ebenfalls mit Zinszahlung. Das sind Optionen einzelner Kreditgeber.
+
+## Was ist bei den Regeln für den Erwerb durch Ausländer anders?
+
+[Cap. 109](https://www.cylaw.org/nomoi/enop/non-ind/0_109/full.html) und das [Verfahren des Innenministeriums](https://www.gov.cy/moi/en/purchasing-property/) regeln die Erwerbsgenehmigung für Käufer, die unter die gesetzliche Definition des Ausländers fallen. **EU- und EWR-Bürger sind ausgenommen**; unter ausländischer Kontrolle stehende Unternehmen können darunter fallen. Erwerbsgenehmigung und Kreditprüfung sind getrennte Verfahren: Das Gesetz legt keine allgemeine Regel fest, nach der die Genehmigung vor dem Hypothekenantrag vorliegen muss.
+
+Das Ministerium nennt als Alternativen ein Grundstück für eine selbstgenutzte Wohnung oder ungeteiltes Land bis zu **4.000 m²**, oder bis zu **zwei Einheiten**: zwei Häuser, ein Haus und ein Geschäft bis **100 m²** oder ein Haus und ein Büro bis **250 m²**. Die Regel für Paare gilt gemeinsam. Anträge werden mit dem Formular **COMM 145** bei der Bezirksverwaltung am Ort der Immobilie gestellt, **ohne Antragsgebühr** und mit einer veröffentlichten Bearbeitungsschätzung von **2–3 Wochen**. Das ist kein Zeitplan für die Hypothek und keine garantierte Frist für die Genehmigung.
+
+Stimmen Sie Erwerbsgenehmigung, Eintragung und Auszahlung mit der Bank und Ihrem Anwalt ab. Die Genehmigung zum Immobilienerwerb verleiht selbst keine Aufenthaltsrechte.
+
+## Welche Unterlagen sind erforderlich?
+
+Die Orientierungsliste der Eurobank umfasst Angaben zu Identität, Einkommen, Kontakt und beruflicher Tätigkeit, bei Bedarf zusätzliche Angaben zum wirtschaftlichen Profil oder zur Geschäftsbeziehung. Für Angestellte nennt sie **Gehaltsabrechnungen von drei Monaten** und Nachweise über sonstiges Einkommen; für Selbstständige eine **Einkommensteuererklärung, einen Sozialversicherungsauszug oder andere Belege**; dazu die oben genannten Immobilienunterlagen. Die Anforderungen können je nach Fall abweichen.
+
+Bank of Cyprus nennt für Angestellte aktuelle Gehaltsnachweise, für Selbstständige je nach Fall Steuerformulare, aktuelle Jahresabschlüsse, Sozialversicherungsnachweise oder eine Bescheinigung eines Buchhalters. Verlangen Sie eine schriftliche Checkliste zu Auslandseinkommen, Übersetzungen, Beglaubigungen und Nachweisen zur Mittelherkunft, statt von einem einzigen Standardpaket auszugehen.
+
+## Wie kann ich die Tragbarkeit durchrechnen?
+
+Das ist ein **hypothetisches Budget**, keine Regel der Bank zur Schuldenquote und kein Kreditangebot. Annahmen: **35 % des monatlichen Nettoeinkommens** für Zahlungen, ein konstanter Zins von **4,5 % pro Jahr**, **240 Monatsraten**, keine Gebühren und eine Finanzierung von **60 % des Kaufpreises**.
+
+| Monatliches Nettoeinkommen | Hypothetisches Zahlungsbudget | Ungefähre Kreditsumme | Hypothetischer Preis bei 60 % Finanzierung |
+|---|---|---|---|
+| 3.000 € | 1.050 € | 165.969 € | 276.615 € |
+| 4.000 € | 1.400 € | 221.292 € | 368.819 € |
+| 5.000 € | 1.750 € | 276.615 € | 461.024 € |
+| 7.000 € | 2.450 € | 387.260 € | 645.434 € |
+
+Die Berechnung verwendet monatliche Tilgung. Die tatsächliche Genehmigung hängt von der Prüfung der Bank ab; Zinsänderungen oder zusätzliche Kosten verändern das Budget.
+
+## Was kosten Hypothek und Kauf?
+
+Das [DLS-Verfahren für Hypotheken](https://portal.dls.moi.gov.cy/en/application_forms/ypothiki-stis-eleftheres-perioches-kai-katechomenes-perioches-lefkosias-kai-larnakas/) erhebt **1 % des eingetragenen Hypothekenwerts** für Immobilien in nicht besetzten Gebieten, dazu **zwei Hypothekeneintragungsbescheinigungen zu je 5 €**. Setzen Sie den eingetragenen Hypothekenwert nicht automatisch mit dem Barkreditbetrag gleich. Für bestimmte am selben Tag gelöschte und ersetzte Hypotheken zum selben Zweck gibt es Ermäßigungen oder Befreiungen; prüfen Sie die genauen Bedingungen.
+
+Fragen Sie getrennte Beträge für Bearbeitungs- und Rechtsdokumentationsgebühren, Bewertung, Ihren Anwalt, Lebensversicherung und Gebäudeversicherung ab. Der Haupt-Home-Loan der Eurobank verlangt eine Lebensversicherung und eine Feuer- und Erdbebenversicherung. Seine Online-Berechnungen enthalten bestimmte Bearbeitungs- und Dokumentationsgebühren und die anwendbaren Hypothekeneintragungsgebühren, **schließen aber die Prämien für Lebens- sowie Feuer- und Erdbebenversicherung und die Bewertungskosten aus**. Die Bank weist darauf hin, dass Versicherungen den effektiven Jahreszins und den Gesamtbetrag erhöhen. Vergleichen Sie, welche Kosten jede Zahl enthält.
+
+Die [DLS-Hinweise zum Kaufvertrag](https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/) bestätigen die Abschaffung der Stempelsteuer **zum 1. Januar 2026**; Dokumente, die **auch nur eine Partei vor diesem Datum** unterschrieben hat, behalten die früheren Anforderungen. Mehrwertsteuer und Übertragungsgebühren haben eigene Regeln: Siehe den [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/). Holen Sie ein Budget für Ihre konkrete Transaktion ein, statt mit einem allgemeinen Prozentsatz für Abschlusskosten zu rechnen.
+
+## Kann ich umschulden, und wie lange dauert die Genehmigung?
+
+Der Home Loan der Eurobank umfasst die Übertragung bestehender Kredite, die ursprünglich für die genannten Wohnzwecke gewährt wurden. Seine Bedingungen zur vorzeitigen Rückzahlung unterscheiden Festzinsperioden, in denen nach geltendem Recht Gebühren anfallen können, von variablen Perioden, in denen nach Angabe der Bank keine Gebühren für vorzeitige Rückzahlung gelten. Gehen Sie nicht davon aus, dass jede Umschuldung eine Strafe oder eine neue 1-%-Gebühr auf die gesamte Hypothek auslöst: Maßgeblich sind die Bedingungen der Bank und die DLS-Bedingungen für den Austausch einer Hypothek.
+
+Bank of Cyprus unterscheidet Vorabgenehmigung, endgültige Genehmigung und Auszahlung. Bewertung und Sicherheit müssen ihrer Richtlinie entsprechen, und die übrigen Bedingungen müssen vor der Freigabe der Mittel erfüllt sein. Fragen Sie nach einem Zeitplan für Ihren Fall.
+
+Alpha warnt, dass versäumte Rückzahlungen das Haus gefährden können. Besprechen Sie Rückzahlungsvereinbarungen und finanzielle Schwierigkeiten mit der Bank, wenn Sie ins Ausland ziehen.
+
+## Gibt es staatliche Programme?
+
+Das [Zinszuschussprogramm des Finanzministeriums](https://www.gov.cy/mof/en/interest-rate-subsidy-scheme-for-income-qualified-home-loans/) kündigte Anträge vom **2. Januar bis 31. März 2025** an. Zu den Bedingungen gehören qualifizierende, ordnungsgemäß bediente Wohnungsbaukredite mit variablem Zins, unterzeichnet vom **1. Januar 2022 bis 31. Dezember 2023**, eine Kreditobergrenze von **400.000 €**, ein Familieneinkommen von bis zu **50.000 € pro Jahr** und beglichene oder geregelte Steuerverpflichtungen bis **2023**. Umschuldung und Umstrukturierung früherer Kredite sind ausgeschlossen.
+
+Der angekündigte Zuschuss beträgt **50 % des durchschnittlichen Zinsanstiegs gegenüber dem Vertragsabschluss**, für **zwei Jahre ab der ersten Auszahlung**, begrenzt auf **zwei Prozentpunkte**. Das ist kein pauschales Versprechen, 2 % jedes Hypothekenzinses zu übernehmen, und kein Beleg dafür, dass neue Anträge offen sind.
+
+Am **4. Mai 2026** [kündigte das Innenministerium an](https://www.gov.cy/esoterika-themata/parachorisi-prosthetis-epidotisis-e11-ekat-gia-stirixi-epiprostheton-277-neon-kai-nearon-zevgarion/), mit rund 11 Mio. € weitere **277** junge Menschen und Paare (bis 41 Jahre) zu fördern, die **bereits einen Antrag** im Wohnprogramm gestellt hatten; das Programm sieht je nach Einkommen und Familienzusammensetzung bis zu **50.000 €** vor. Gehen Sie nicht von einem neuen Anspruch oder von Vereinbarkeit mit einer Hypothek aus, ohne die geltenden Bedingungen zu prüfen. Siehe unseren [Leitfaden zu den Wohnprogrammen](/de/property/wohnungsbaufoerderung-zypern-home-programm/).
+
+## Verwandte Leitfäden
+
+- [Immobilienkauf: kompletter Leitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026/)
+- [Versteckte Kaufkosten](/de/property/versteckte-kosten-immobilienkauf-zypern/)
+- [Title Deed und Eigentum](/de/property/title-deed-zypern-eigentumsrecht/)
+- [Immobiliensuche auf research.cy](https://research.cy/search/)
+
+Fragen zu Hypotheken auf Zypern: Stellen Sie sie in unserem [Telegram-Kanal](https://t.me/expatscy).

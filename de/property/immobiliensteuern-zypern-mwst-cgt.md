@@ -3,7 +3,7 @@ slug: "immobiliensteuern-zypern-mwst-cgt"
 title: "Immobiliensteuern auf Zypern 2026: MwSt 5%"
 description: "Immobiliensteuern auf Zypern: ermäßigte MwSt 5% vs 19%, Kapitalertragssteuer (CGT) und Übertragungsgebuehren beim Kauf und Verkauf."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Immobilien"
 author: "Expats Cyprus"
 tags:
@@ -71,7 +71,7 @@ Seit Juni 2023 gilt eine neue Regelung (Gesetz 42(I)/2023). Voraussetzungen für
 Wenn die Planungsgenehmigung erteilt oder der Antrag darauf **bis einschließlich 31. Oktober 2023** eingereicht wurde, können die alten Übergangsregeln gelten:
 
 - 5% auf die ersten **200 m²** ohne Flaechen- und Wertbegrenzung
-- Die **15. Juni 2026**-Frist gilt, wenn die Baugenehmigung bis **31. Dezember 2024** erteilt wurde
+- Die **15. Juni 2026**-Frist gilt, wenn die Baugenehmigung (eine eigene, spätere Genehmigung als die oben genannte Planungsgenehmigung) bis **31. Dezember 2024** erteilt wurde
 - Wenn die Baugenehmigung nach **1. Januar 2025** erteilt wurde oder noch nicht erteilt ist, gilt als Antragsfrist **31. Dezember 2026**
 
 ### Was passiert, wenn man zum 5%-Satz kauft und dann vermietet?
@@ -130,7 +130,7 @@ Der Hauptwohnsitzfreibetrag von €150.000 umfasst Grundstücksfläche bis 1.500
 ### Wann keine CGT faellig wird
 
 - Schenkung zwischen Ehepartnern
-- Schenkung an Kinder (bis zum 3. Grad)
+- Schenkung zwischen Verwandten bis zum 3. Grad
 - Erbschaft
 - Schenkung für wohltätige Zwecke an eine vom Ministerrat genehmigte zyprische Einrichtung
 

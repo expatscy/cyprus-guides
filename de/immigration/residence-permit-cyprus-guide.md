@@ -1,9 +1,9 @@
 ---
 slug: "residence-permit-cyprus-guide"
-title: "Aufenthaltsgenehmigung Zypern: Leitfaden"
-description: "Aufenthaltsgenehmigungen in Zypern: BCS-Arbeitsvisum, Besuchererlaubnis, Daueraufenthalt, Digital Nomad Visa. Anforderungen und Fristen 2026."
+title: "Aufenthaltsgenehmigung Zypern 2026: Arten und Regeln"
+description: "Aufenthaltsgenehmigung Zypern: Arbeit in Auslandsfirmen, Besucher, Familie, Investor und Digital Nomad. Unterlagen, Gebühren und Reiseregeln laut Behörde."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -15,256 +15,165 @@ tags:
 draft: false
 translationKey: "vnzh-guide"
 faqSchema:
-  - question: "Welche Aufenthaltsgenehmigungen gibt es in Zypern?"
-    answer: "Die wichtigsten Typen sind: BCS-Arbeitsvisum (für IT/High-Skill, Fast-Track zur Staatsbürgerschaft in 4-5 Jahren), Besuchererlaubnis (kein Arbeitsrecht), Daueraufenthalt über Immobilieninvestition (ab 300.000 €), Digital Nomad Visum (für Nicht-EU-Bürger) und Self-Employed Permit."
-  - question: "Wie lange dauert die Bearbeitung einer Aufenthaltsgenehmigung in Zypern?"
-    answer: "BCS-Arbeitsvisa werden in der Regel innerhalb von 1-3 Monaten bearbeitet. Der Daueraufenthalt (Kategorie F) über Immobilieninvestition dauert ca. 2-3 Monate. Besuchererlaubnisse können 3-6 Monate in Anspruch nehmen."
-  - question: "Brauche ich als deutscher EU-Bürger eine Aufenthaltsgenehmigung?"
-    answer: "Nein, als EU-Bürger haben Sie Freizügigkeit. Sie müssen sich aber innerhalb von 4 Monaten beim Civil Registry anmelden und erhalten den sogenannten Yellow Slip — eine Anmeldebescheinigung, die als Aufenthaltsnachweis dient."
+  - question: "Wie hoch ist das Mindestgehalt für ein BCS-Arbeitsvisum auf Zypern?"
+    answer: "Für die Kategorie mit hohem Gehalt bei einem Unternehmen mit ausländischer Beteiligung liegt das veröffentlichte Minimum bei 2.500 EUR brutto im Monat, mit passender akademischer Qualifikation oder mindestens zwei Jahren einschlägiger Erfahrung und einem Arbeitsvertrag über mindestens zwei Jahre. Für bestehende BCS-Key-Personnel-Inhaber mit mindestens 2.000 EUR Gehalt gibt es eine begrenzte Ausnahme: Verlängerung beim selben Arbeitgeber bis zum 31. Dezember 2026."
+  - question: "Können Inhaber einer Besuchererlaubnis die GESY-Gesundheitsversorgung auf Zypern nutzen?"
+    answer: "Prüfen Sie die Leistungsberechtigten-Kategorien der HIO für Ihre Staatsangehörigkeit, Ihren gewöhnlichen Aufenthalt und Ihren Rechtsstatus. Eine Besuchererlaubnis oder gezahlte Beiträge allein begründen keinen Anspruch auf Gesundheitsversorgung. Die Checkliste für Besucher verlangt gesondert eine Plan-A-Versicherung für stationäre und ambulante Behandlung und die Überführung der sterblichen Überreste."
+  - question: "Wie viel Immobilienwert brauche ich für den Daueraufenthalt auf Zypern?"
+    answer: "Die Wohnoption der Investorenregelung verlangt ein Haus oder eine Wohnung aus Erstverkauf für mindestens 300.000 EUR zuzüglich MwSt. mit dem geforderten Nachweis der ausländischen Finanzierung. Das gesicherte Jahreseinkommen beginnt bei 50.000 EUR, dazu 15.000 EUR für den Ehepartner und 10.000 EUR je minderjähriges Kind. Es gibt weitere Anlageoptionen und Bedingungen. Der Daueraufenthaltsstatus ist von der Aufenthaltskarte des Erwachsenen zu unterscheiden, die nach zehn Jahren ersetzt werden muss."
 ---
-> **Kurzantwort:** Zypern bietet 7 Haupttypen von Aufenthaltsgenehmigungen. Am schnellsten ist das BCS-Arbeitsvisum (1-3 Monate Bearbeitung).
+> **Kurzantwort:** Wählen Sie die Kategorie, die Ihren geplanten Aufenthalt und Ihre Tätigkeit abdeckt. Genehmigungen für Beschäftigung, Besucher, Familie, Investoren und Digital Nomads haben verschiedene Bedingungen, Gebühren, Unterlagen und Reiseregeln. Aufenthaltskarte, Antragsquittung und Eintragung im Ausländerregister sind verschiedene Dokumente.
 
-Zypern stellt weiterhin alle Arten von Aufenthaltsgenehmigungen für Drittstaatsangehörige aus — es gibt kein allgemeines Verbot. Hier ein Überblick über die wichtigsten Optionen zur Legalisierung und ihre Besonderheiten.
+Die Primärquellen unten wurden am **3. Oktober 2026** geprüft. Nutzen Sie die aktuelle Checkliste Ihrer Kategorie. Dieser Vergleich ist keine vollständige Antragsliste.
 
-> **Offizielle Quellen:**
-> - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — Migrationsbehörde Zyperns
+## Welche Aufenthaltswege soll ich vergleichen?
 
-## Welche Aufenthaltstypen gibt es?
+| Situation | Wo nachlesen |
+|---|---|
+| Beschäftigung | Unternehmen mit ausländischer Beteiligung unten; [EU Blue Card](/de/immigration/eu-blue-card-cyprus/) |
+| Aufenthalt als Besucher | Bedingungen für Besucher unten; [Leitfaden Besuchererlaubnis](/de/immigration/visitor-permit-cyprus/) |
+| Familienaufenthalt oder Arbeit | Familienkategorien unten; [Arbeit des Ehepartners](/de/immigration/spouse-employment-permit-cyprus/) |
+| Remote-Arbeit für ausländischen Arbeitgeber oder Kunden | [Leitfaden Digital Nomad](/de/immigration/digital-nomad-visum-zypern/) |
+| Längerfristiger Status | Investorenbedingungen unten; [Daueraufenthalt EU](/de/immigration/long-term-residence-permit-cyprus/) |
 
-| Aufenthaltstyp | Arbeitsrecht | Weg zur Staatsbürgerschaft | Schwierigkeit |
-|---------------|-------------|---------------------------|--------------|
-| BCS/High-skill | Ja, bei bestimmtem Arbeitgeber | 4–5 Jahre (Fast-Track) | Mittel |
-| Visitor (Besucher) | Nein | 7–8 Jahre | Hoch |
-| Spouse Employment | Ja, bei bestimmtem Arbeitgeber | Zusammen mit Ehepartner | Mittel |
-| Daueraufenthalt (Immobilien) | Nein | Kein Fast-Track | Mittel |
-| Self-Employed | Ja (selbstständig) | 7–8 Jahre | Hoch |
+EU-Bürger und berechtigte Familienangehörige folgen eigenen Regeln: siehe den [Leitfaden für EU-Familien](/de/immigration/eu-citizen-spouse-cyprus-yellow-slip/). Prüfen Sie vor dem Antrag sowohl den Aufenthaltsanspruch als auch die geplante Erwerbstätigkeit.
 
-## Was ist das BCS-Arbeitsvisum?
+## Beschäftigung bei Unternehmen mit ausländischer Beteiligung
 
-### Was ist das
+### Bedingungen für Arbeitgeber und Arbeitnehmer
 
-**BCS** — ein spezielles Programm für IT-Unternehmen und hochqualifizierte Fachkräfte. Ursprünglich wurde es geschaffen, um Technologieunternehmen nach Zypern zu locken.
+Die [Richtlinie der Migrationsbehörde](https://www.gov.cy/mip-md/en/documents/legislation-and-policy/) beschränkt sich nicht auf IT-Unternehmen. Neue berechtigte Arbeitgeber registrieren sich zuerst über das **Business Support Center (BSC)**. Unternehmen, die bereits im Register der Behörde stehen, arbeiten ohne diese neue Formalität weiter nach der Richtlinie.
 
-[Offizielle Seite Companies of Foreign Interests](https://www.gov.cy/mip-md/en/)
+Die **Kategorie mit hohem Gehalt** verlangt:
 
-### Anforderungen
+- Mindestens **2.500 EUR Bruttomonatsgehalt**.
+- Einschlägige akademische Qualifikation **oder mindestens zwei Jahre einschlägige Erfahrung** für die Stelle.
+- Einen Arbeitsvertrag von **mindestens zwei Jahren**, auch wenn Sie die Genehmigung nur für ein Jahr beantragen.
+- Die Bedingungen des Gesetzes zur einheitlichen Genehmigung und die Unterlagen der Kategorie.
 
-- Mindestgehalt **2.500 €/Monat** (brutto)
-- Der Arbeitgeber muss ein **registriertes BCS-Unternehmen** sein
-- Polizeiliches Führungszeugnis aus dem Herkunftsland
-- Arbeitsvertrag
+Bestehende Inhaber einer BCS-Key-Personnel-Genehmigung mit mindestens **2.000 EUR Bruttomonatsgehalt** dürfen nach der veröffentlichten Übergangsausnahme beim **selben Arbeitgeber bis zum 31. Dezember 2026** weiter verlängern. Für Unterstützungskräfte gelten andere Anforderungen, darunter eine Arbeitsmarktprüfung und ein vom Arbeitsministerium gestempelter Vertrag.
 
-### Ablauf der Beantragung
+### Einreise, Antrag und Verlängerung
 
-1. Der Arbeitgeber reicht den **Entry Permit** bei der Migrationsbehörde ein
-2. Nach Genehmigung wird der Entry Permit per E-Mail zugesandt
-3. Sie reisen mit dem Entry Permit nach Zypern ein (funktioniert als Einmalvisum)
-4. Innerhalb von **7 Tagen** müssen Sie bei der Migrationsbehörde Dokumente einreichen und biometrische Daten abgeben
-5. Sie erhalten das **ARC (Alien Registration Certificate)** und einen **Receipt**
+Nach dem [Verfahren der Kategorie](https://www.gov.cy/mip-md/en/documents/procedure-for-application-submission-for-entry-and-residence-processing-time-and-maximum-duration-of-residence/) dürfen Arbeitnehmer mit hohem Gehalt mit einem Konsulatsvisum **oder** einer vom Arbeitgeber beantragten Einreisegenehmigung einreisen. Unterstützungskräfte brauchen eine Einreisegenehmigung.
 
-### Wichtige Details
+Folgen Sie nach der Ankunft dem Verfahren des Ausländerregisters und dem Antrag auf Aufenthalt und Beschäftigung. Anträge werden im Hauptsitz der Behörde in Nikosia mit den Unterlagen und Gebühren gestellt. Biometrische Daten und eine Unterschrift sind erforderlich, mit Zahlungsbeleg und gültigem Reisedokument. Die Seite erlaubt die Aufnahme bei der Antragstellung oder kurz danach bei der Einwanderungsstelle der Bezirkspolizei. Beachten Sie die Bedingung in Ihrem Einreisedokument und gehen Sie nicht von einer allgemeinen Sieben-Tage-Regel für die Biometrie aus.
 
-- Der **Entry Permit** ist kein Visum, sondern eine Einreiseerlaubnis für Arbeitszwecke
-- Wenn Sie bei einem Konsulat ein „nationales Arbeitsvisum" beantragen, kann dies abgelehnt und auf den Entry Permit verwiesen werden
-- Der **Receipt** mit Stempel berechtigt zum Aufenthalt und zur Wiedereinreise nach Zypern
-- Das **ARC (Yellow Paper)** allein ist **kein Einreisedokument**
+Die Behörde veröffentlicht:
 
-### Fristen für die Biometrie
+- **70 EUR** für die Ausstellung von Einreise- und Aufenthaltsgenehmigung mit einer Gültigkeit von einem bis drei Jahren.
+- **80 EUR** für Ausstellung oder Verlängerung der Aufenthaltsgenehmigung mit einer Gültigkeit von einem bis drei Jahren.
+- Weitere **70 EUR für die Ersteintragung** im Ausländerregister, wo sie anfällt.
+- Prüfung **innerhalb eines Monats bei ordnungsgemäß ausgefüllten Anträgen**; fehlende Angaben oder Unterlagen verlängern die Zeit.
+- Eine an den Vertrag gebundene Geltungsdauer von **bis zu drei aufeinanderfolgenden Jahren**.
+- Online-Antrag auf Verlängerung **90 bis 30 Tage vor Ablauf**, mit einem verifizierten CY-Login-Konto.
 
-Laut Entry Permit müssen die biometrischen Daten innerhalb von **7 Tagen nach Einreise** abgegeben werden. In der Praxis:
+Das sind die veröffentlichten Gebühren und Anweisungen der Kategorie, kein Gesamtbudget für den Umzug und keine unbedingte Garantie für eine Entscheidung. Prüfen Sie vor der Zahlung die Checkliste und den jeweiligen Vorgang.
 
-- Kleine Verzögerungen (bis 30 Tage) sind meist unkritisch
-- Formal handelt es sich aber um einen Verstoß
-- Es können Fragen bei der Verlängerung oder der Beantragung der Staatsbürgerschaft aufkommen
+## Aufenthalt als Besucher
 
-## Was ist die Besuchererlaubnis?
+### Zweck und Antrag
 
-### Für wen geeignet
+Die [Besucherrichtlinie](https://www.gov.cy/mip-md/en/documents/visitors-and-family-members/) verweist auf Vorschrift 14: Besucheraufenthalt dient Urlaub, Rundreisen oder der Prüfung, ob ein Leben auf Zypern in Frage kommt. Inhaber **dürfen in der Republik keine Erwerbstätigkeit ausüben**. Betrachten Sie Einkommen aus dem Ausland nicht als Beleg dafür, dass eine Besuchererlaubnis die geplante Remote-Arbeit deckt.
 
-- Remote-Arbeiter mit Einkommen aus dem Ausland
-- Rentner (beliebt bei deutschen Rentnern in Paphos)
-- Personen mit passivem Einkommen
-- Ehepartner von Berufstätigen (als Angehörige)
+Stellen Sie den Antrag vor Ablauf des Visums mit dem Formular **MVIS8** und der richtigen Checkliste der Besucherkategorie. Die veröffentlichten Gebühren sind **70 EUR für Ausstellung oder Verlängerung** plus **70 EUR für die Ersteintragung im Ausländerregister**, wo sie anfällt. Die Behörde beschreibt die Prüfung in der Regel binnen vier Monaten, wenn Angaben und Unterlagen ausreichen.
 
-> **Für Auswanderer aus Deutschland:** Die Besuchererlaubnis ist der übliche Weg für deutsche Rentner und Freiberufler. Beachten Sie die **Wegzugsbesteuerung** (§ 6 AStG) bei der Aufgabe des deutschen Wohnsitzes, wenn Sie Anteile an Kapitalgesellschaften halten. Das **DBA Deutschland-Zypern** regelt die Besteuerung Ihrer Renten und Einkünfte — lassen Sie sich vor dem Umzug steuerlich beraten. Mehr dazu im [Auswandern-Leitfaden](/de/immigration/auswandern-nach-zypern-leitfaden/).
+Die übliche erste Besuchererlaubnis gilt **ein Jahr**, begrenzt durch die Gültigkeit des Reisepasses. Nach der Richtlinie endet sie, wo anwendbar, drei Monate vor Ablauf des Passes. Die Verlängerung hängt davon ab, dass Sie die Bedingungen weiter erfüllen. Für religiöse und ehebezogene Besucherkategorien gelten eigene Fristen.
 
-### Finanzielle Anforderungen
+### Finanzen und Unterlagen des selbstständigen Besuchers
 
-Für **unabhängige Besucher**:
+Die [Checkliste für selbstständige Besucher](https://www.gov.cy/app/uploads/sites/174/2025/12/SUPPORTING-DOCUMENTS-VISITOR-PERMIT-1a.docx) verlangt ausreichende stabile Mittel und bestimmte Bankbelege:
 
-- **24.000 €/Jahr** ausländische Überweisungen auf ein zyprisches Bankkonto
-- Bei der Erstbeantragung können **10.000 € in bar** eingezahlt werden
-- Auf dem Konto müssen mindestens **6.000 €** zum Zeitpunkt der Antragstellung vorhanden sein
-- Für Familien — zusätzliche Anforderungen (ca. **+5.000 €** für den Ehepartner)
+- Auslandsüberweisungen auf den Namen des Antragstellers von mindestens **2.000 EUR im Monat oder 24.000 EUR im Jahr**, **plus 20 % für den Ehepartner** und **15 % je Kind**. Überweisungen ins Ausland oder an Dritte zählen bei dieser Berechnung nicht.
+- Kontoauszüge eines Finanzinstituts auf Zypern für die vorangegangenen zwölf Monate bei Verlängerung oder ab Kontoeröffnung bei der Erstgenehmigung, mit der festgelegten Erklärung zur Familiengröße und der Einkommensübersicht.
+- Für die **Erstgenehmigung** wird auch eine Überweisung oder Bareinzahlung von mindestens **10.000 EUR** akzeptiert. Bei Bareinzahlung ist die **Zollanmeldung für Bargeld** nötig.
+- Bei der **Verlängerung** ein Kontostand von mindestens **6.000 EUR**, unabhängig von der Familiengröße. Die Checkliste nennt das nicht als allgemeine Kontostandsanforderung beim Erstantrag.
+- Zu den festgelegten Einkommensnachweisen zählen Renten und andere aufgeführte Quellen, mit eng beschriebenen Ausnahmen für bestimmte zypriotische Einkünfte. Halten Sie sich an die Checkliste selbst und nehmen Sie nicht an, dass jede Einkommensquelle gilt.
+- **Plan-A-Versicherung** für stationäre und ambulante Behandlung und Überführung der sterblichen Überreste, Nachweis der Unterkunft und weitere Unterlagen. Führungszeugnis und die genannten ärztlichen Bescheinigungen sind in dieser Checkliste **nur für die Erstgenehmigung** vorgesehen.
 
 ### Bankgarantie
 
-Für Bürger bestimmter Drittstaaten wird eine **Bankgarantie** verlangt:
+Dieselbe Checkliste verlangt das Original einer **zehnjährigen Garantie eines zypriotischen Kreditinstituts**, auf den Namen des Antragstellers von dessen eigenem Konto, für mögliche Rückführungskosten. Die Höhe hängt vom Herkunftsland ab; bei der Verlängerung wird eine Kopie eingereicht.
 
-- Betrag: ca. **500–550 €**
-- Wird bei einer zyprischen Bank ausgestellt (in der Regel Bank of Cyprus)
-- Wird bei Ausreise aus Zypern oder Statuswechsel zurückerstattet (der Vorgang kann jedoch Monate dauern)
+Die [Rückgabe der Garantie](https://www.gov.cy/mip-md/en/documents/return-of-bank-guarantee-2/) verlangt einen berechtigten Grund und einen schriftlichen Antrag. Beispiele sind ein anderer rechtmäßiger Status oder eine Ausreise, bei der der Republik keine Abschiebekosten entstanden sind. Die durchschnittliche Dauer von drei Monaten läuft ab dem Antrag und setzt einen solchen Grund voraus. Die Ausreise allein ist keine unbedingte Rückerstattungsgarantie.
 
-### Abhängiger Besucher (Dependent Visitor)
+## Familienaufenthalt und Arbeit des Ehepartners
 
-Der Ehepartner eines Berufstätigen kann eine **abhängige Besuchererlaubnis** erhalten:
+Nutzen Sie die tatsächliche Familienkategorie und gehen Sie nicht davon aus, dass die Rechte aller Ehepartner gleich sind.
 
-- Kein Arbeitsrecht
-- An den Status des Hauptantragstellers gebunden
-- Bei Scheidung muss der Status geändert werden
+Die [Hinweise der Behörde zu Familien von Beschäftigten in Unternehmen mit ausländischer Beteiligung](https://www.gov.cy/mip-md/en/documents/family-members-of-third-country-nationals-employed-at-companies-of-foreign-interests/) unterscheiden Familiennachzug von abhängigem Besucheraufenthalt für Familienangehörige, die die Bedingungen des Nachzugs vorübergehend nicht erfüllen.
 
-### Recht auf GESY
+Nach dem [veröffentlichten Verfahren zum Familiennachzug](https://www.gov.cy/mip-md/en/documents/family-members-of-certain-third-country-nationals-that-are-legally-residing-in-cypurs-fr-family-reunification/) hat ein berechtigter Ehe- oder Lebenspartner eines Beschäftigten eines solchen Unternehmens freien Zugang zu **abhängiger Beschäftigung**, ohne vom Arbeitsministerium gestempelten Vertrag, vorbehaltlich der gesetzlichen Bedingungen für eine einheitliche Arbeitsgenehmigung. Diese Kategorie **gibt keinen Zugang zur Selbstständigkeit**. Für Ehe- und Lebenspartner von langfristig Aufenthaltsberechtigten und von konzernintern entsandten Arbeitnehmern gilt eine andere Regel: Ihr freier Arbeitsmarktzugang schließt die Selbstständigkeit ein.
 
-**Wichtiger Hinweis:** Besucher **zahlen** Beiträge zum GESY (Gesundheitssystem), können es aber **nicht nutzen**. Es handelt sich nicht um eine Versicherung, sondern um eine Abgabe.
+Die Seite zum Familiennachzug nennt Bedingungen für Zusammenführenden und Familie und Ausnahmen. Für die übliche Ehepartnerkategorie verlangt sie ein **Alter von mindestens 21 Jahren** und eine Ehe von mindestens **einem Jahr vor dem Antrag**. Schließen Sie nicht allein aus der Familienbeziehung auf einen Anspruch oder ein allgemeines Mindestgehalt von 1.000 EUR.
 
-> **Vergleich zur GKV:** Anders als in Deutschland, wo jeder gesetzlich Versicherte automatisch Anspruch auf Leistungen hat, sind Visitor-Permit-Inhaber trotz GESY-Beiträgen von der Nutzung ausgeschlossen. Eine **private Krankenversicherung** ist zusätzlich notwendig (ca. 500–1.500 € pro Person/Jahr).
+Die [Hinweise zum abhängigen Besucheraufenthalt für Familien solcher Beschäftigter](https://www.gov.cy/mip-md/en/documents/family-members-of-employees-at-companies-of-foreign-or-cypriot-interests-under-the-strategy-for-attracting-companies-to-operate-and-or-expand-their-activities-in-cyprus/) betreffen Ehepartner und unterhaltsberechtigte Kinder, die die Nachzugsbedingungen vorübergehend nicht erfüllen, und weitere genannte Angehörige. Lassen Sie vor Arbeitsaufnahme, Arbeitgeberwechsel, Trennung oder Gründung einer eigenen Firma den geltenden Status und die geplante Tätigkeit prüfen.
 
-## Wie funktioniert die Spouse Employment Permit?
+## Daueraufenthalt für Investoren
 
-### Was ist das
+Die [aktuelle Investorenrichtlinie](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) betrifft die beschleunigte Einwanderungsgenehmigung nach Vorschrift 6(2); die vierte Überarbeitung gilt seit dem **2. Mai 2023**, mit späteren Klarstellungen.
 
-**Spouse Employment** — eine Arbeitserlaubnis für Ehepartner von BCS-Inhabern, um in Zypern zu arbeiten.
+### Anlage- und Familienbedingungen
 
-### Bedingungen
+- Die Wohnoption verlangt **ein Haus oder eine Wohnung aus Erstverkauf vom Bauträger für mindestens 300.000 EUR zuzüglich MwSt.** mit den geforderten Nachweisen zur ausländischen Finanzierung und Zahlung. Die Richtlinie bietet auch weitere Optionen: andere Immobilien, Gesellschaftskapital und Investmentfonds. Deren Bedingungen unterscheiden sich.
+- Das gesicherte Jahreseinkommen beginnt bei **50.000 EUR**, dazu **15.000 EUR für den Ehepartner** und **10.000 EUR je minderjähriges Kind**. Bei der Wohnoption stammt das Einkommen aus dem Ausland. Bei den anderen Anlagekategorien kann es zypriotische Einkünfte enthalten, die in Zypern besteuert werden. Die Klarstellung vom 17. Mai 2023 lässt auch den Nachweis durch einen unabhängigen vereidigten Buchhalter zu, nicht nur die ausländische Steuererklärung.
+- Es gelten Führungszeugnis, Unterkunft, Versicherung und weitere qualitative und dokumentarische Bedingungen. Antragsteller und Ehepartner verpflichten sich, nicht zu arbeiten, außer als Direktoren der Gesellschaft, in die sie nach dieser Richtlinie investiert haben. Die genannten Ausnahmen für andere Beteiligungen und unbezahlte Direktoren sind an der gewählten Anlage zu prüfen.
+- Der Ehepartner und **minderjährige Kinder unter 18 Jahren** fallen unter die Regeln für Angehörige. Für ältere Kinder gelten gesondert festgelegte Bedingungen und Anträge; sie sind nicht alle automatisch eingeschlossen.
 
-- Mindestgehalt **1.000 €/Monat**
-- **Teilzeitarbeit** möglich
-- Arbeit bei **jedem zyprischen Unternehmen** möglich
-- Die Beantragung wird vom **Arbeitgeber** initiiert
+### Daueraufenthaltsstatus, Karte und fortlaufende Bedingungen
 
-### Einschränkungen
+Der Daueraufenthaltsstatus ist von der Aufenthaltskarte zu unterscheiden. Nach der Richtlinie läuft die Karte des Investors oder erwachsenen Angehörigen nach **zehn Jahren ab und muss ersetzt werden**. Die Karte eines minderjährigen Angehörigen gilt bis zur Volljährigkeit mit 18.
 
-- Keine **Selbstständigkeit** erlaubt
-- Keine Dienstleistungen „auf eigene Rechnung"
-- Nur Anstellung per Arbeitsvertrag
+Die **Klarstellung vom 17. Mai 2023** schafft den jährlichen Einkommensnachweis ab, verlangt Führungszeugnisse **alle drei Jahre** und behält den jährlichen Nachweis der Anlage und der Krankenversicherung bei, wenn die Familienangehörigen nicht weiter GESY-Leistungsberechtigte sind. Werden die laufenden Kriterien nicht erfüllt, kann ein Verfahren zur Aufhebung eingeleitet werden.
 
-### Arbeit im eigenen Unternehmen
+Ein Antragsteller im Ausland muss sich **innerhalb eines Jahres nach der Benachrichtigung über die Genehmigung** auf Zypern niederlassen. Nach der Richtlinie geht der Daueraufenthalt nach **mindestens zwei Jahren außerhalb Zyperns** verloren oder wenn ein Daueraufenthalt in einem anderen Land erworben wird.
 
-Laut Erfahrungsberichten kann der Ehepartner:
+Die veröffentlichte Prüfdauer beträgt etwa **zwei Monate ab vollständigem Antrag**, vorausgesetzt, alle Kriterien sind erfüllt und es liegt kein Hindernis wegen Vorstrafen, öffentlicher Ordnung oder Sicherheit vor. Das ist kein Versprechen auf Genehmigung oder Einbürgerung.
 
-1. Ein Unternehmen gründen
-2. Spouse Employment beantragen
-3. Sich selbst in diesem Unternehmen anstellen
-4. Sich ein Gehalt ab 1.000 € zahlen
+## Digital Nomad
 
-**Wichtig:** Nur Geschäftsführer ohne Gehalt zu sein — ist nicht erlaubt.
+Das [Programm](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/) gilt für berechtigte Drittstaatsangehörige (nicht EU/EWR), die mit Telekommunikationstechnik remote für einen im Ausland registrierten Arbeitgeber oder für Kunden im Ausland arbeiten.
 
-## Wie erhält man Daueraufenthalt durch Immobilien?
+Die Einkommensschwelle liegt bei **3.500 EUR stabilem monatlichem Nettoeinkommen nach Steuern und Abgaben**, **plus 20 % für Ehe- oder Lebenspartner** und **15 % je Kind**. Die erste Genehmigung gilt **ein Jahr**; die Verlängerung ist für **höchstens weitere zwei Jahre** möglich. Ehe- oder Lebenspartner und minderjährige Kinder können für die Dauer des Antragstellers einen Antrag stellen, ohne Recht auf Arbeit oder wirtschaftliche Tätigkeit auf Zypern.
 
-### Anforderungen
+Die veröffentlichte Obergrenze beträgt **500 Genehmigungen**, erhöht von 100 am 3. März 2022, und ist keine Jahresquote. Der Erstantrag wird **innerhalb von drei Monaten nach der Ankunft** gestellt; die Verlängerung mindestens **einen Monat vor Ablauf**. Unterlagen, Versicherung, Gebühren und Antragsbedingungen finden Sie im [vollständigen Leitfaden](/de/immigration/digital-nomad-visum-zypern/).
 
-- Kauf einer Immobilie im Wert von mindestens **300.000 €**
-- Zahlung **aus dem Ausland**
-- Einkommensnachweis ab **50.000 €/Jahr** aus dem Ausland
-- Sauberes Führungszeugnis
+## Gesundheitsversorgung und Beiträge
 
-### Was es bietet
+Die [Leistungsberechtigten-Kategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) hängen von Staatsangehörigkeit, gewöhnlichem Aufenthalt und dem geltenden Rechtsstatus ab. Die [Beitragspflicht](https://www.gesy.org.cy/en-us/hiofinancing) ist eine getrennte Frage und hängt von der Beitragszahler- und Einkommenskategorie ab. Schließen Sie allein aus dem Namen der Genehmigung weder auf eine allgemeine Beitragspflicht noch auf einen allgemeinen Ausschluss.
 
-- **Permanenter** Status (keine Verlängerung nötig)
-- Recht auf dauerhaften Aufenthalt
-- **Kein** Arbeitsrecht
+Nutzen Sie die Versicherungs-Checkliste Ihres Weges. Prüfen Sie die Einwanderungsrichtlinie gegen diese Anforderung und den Anspruch auf Gesundheitsversorgung gegen die Bedingungen der HIO. Siehe [Gesundheitsversorgung und GESY](/de/life/healthcare-cyprus-gesy/).
 
-### Für Familien
+## Einreise, Ausreise und Reisen im Schengen-Raum
 
-- Der Ehepartner kann als Angehöriger beantragen
-- Kinder werden in den Antrag einbezogen
+Die Reiseregeln hängen von Kategorie und Dokument ab. Zum Beispiel nennt das **Verfahren für Unternehmen mit ausländischer Beteiligung** die Wiedereinreise mit **gültiger Genehmigung und Reisepass**, sofern der Inhaber nicht länger als **drei Monate** außerhalb Zyperns geblieben ist. Für einen noch nicht geprüften Aufenthaltsantrag beschreibt diese Seite die Wiedereinreise mit dem **Zahlungsbeleg mit Wiedereinreisestempel**. Folgen Sie den Anweisungen Ihrer Kategorie und übertragen Sie das nicht auf jede Quittung, Genehmigung oder Abwesenheit.
 
-## Wie funktioniert das Digital Nomad Visa?
+Prüfen Sie vor der Buchung den Stand Ihres Antrags und die Anforderungen des Reiselands. Die Eintragung im Ausländerregister ersetzt nicht den erforderlichen Reisepass, die Aufenthalts- oder die Einreisedokumente.
 
-[Offizielle Informationen zur Digital Nomad Visa](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/)
+Die [Hinweise von Your Europe](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-family/index_en.htm) nennen Zypern ein Land außerhalb des Schengen-Raums und unterscheiden gewöhnliche Aufenthaltsgenehmigungen von Aufenthaltskarten berechtigter EU-Familienangehöriger. Prüfen Sie die Visumpflicht für Ihre Staatsangehörigkeit und Ihr Dokument. Eine gewöhnliche zypriotische Aufenthaltsgenehmigung bedeutet nicht für jeden automatisch Befreiung von der Schengen-Visumpflicht.
 
-### Für wen
+Für einen Antrag auf Zypern nutzen Sie den [Schengen-Leitfaden](/de/documents/schengen-visa-cyprus/). Die [Übersicht der Kommission](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en) verweist Antragsteller allgemein an das Konsulat, das für ihren rechtmäßigen Wohnort zuständig ist, und an das Land des Hauptreiseziels. Eine noch ausstehende zypriotische Karte, ein bestimmtes Konsulat oder frühere Erfahrungen anderer Antragsteller garantieren weder Annahme noch Genehmigung.
 
-Spezielles Visum für **digitale Nomaden**:
+## Verlängerung und längerfristige Pläne
 
-- Arbeit für Arbeitgeber/Kunden außerhalb Zyperns
-- Einkommen ab 3.500 €/Monat
-- Laufzeit: 1 Jahr, verlängerbar bis maximal 3 Jahre
-- Jährliches Kontingent: 1.000 Visa
+Nutzen Sie die Checkliste und die Verlängerungsfrist der genauen Kategorie. Klären Sie, welche Unterlagen zu Unterkunft, Einkommen, Versicherung und weitere erneut vorzulegen sind. Eine Änderung der Stempelsteuer belegt nicht, dass für jeden Mietvertrag nur Unterschriften des Gemeindevorstehers akzeptiert werden.
 
-### Besonderheiten
+[Die Stempelsteuer wurde zum 1. Januar 2026 abgeschafft](https://www.gov.cy/mof-tax/documents/chartosima/). Dokumente, die bis zum 31. Dezember 2025 von mindestens einer Partei erstellt und unterschrieben wurden, bleiben unter den bisherigen Regeln. Prüfen Sie die Beglaubigungsanforderung der jeweiligen Checkliste gesondert.
 
-- Einfacher zu beantragen als die Besuchererlaubnis
-- Aber **kein Anspruch auf GESY**
+Fünf Jahre irgendeines rechtmäßigen Aufenthalts begründen nicht automatisch den Anspruch auf den Status eines langfristig Aufenthaltsberechtigten in der EU. Es gelten Bedingungen zu qualifizierendem Aufenthalt, Abwesenheit, Mitteln, Versicherung, Integration und weitere; für die Blue Card gelten eigene Regeln. Siehe den [Leitfaden zum Daueraufenthalt](/de/immigration/long-term-residence-permit-cyprus/). Bedingte Mobilität in einen anderen teilnehmenden EU-Staat ist kein automatischer Aufenthalt in jedem EU-Land; Irland und Dänemark liegen außerhalb des Anwendungsbereichs der Richtlinie.
 
-## Was gilt für Ein- und Ausreise?
+Für die Planung der Einbürgerung nutzen Sie den [Leitfaden zur ordentlichen Einbürgerung](/de/immigration/zypern-staatsbuergerschaft-einbuergerung/) oder den [Weg für hochqualifizierte Personen](/de/immigration/cyprus-citizenship-naturalization/). Die zulässige Gesamtabwesenheit von neunzig Tagen im letzten Zwölfmonatszeitraum der Einbürgerung ist keine allgemeine Grenze für jede Reise in allen qualifizierenden Jahren. Für die Anforderung des Griechisch-Zertifikats gibt es festgelegte Ausnahmen aufgrund der Ausbildung.
 
-### Mit Receipt
+## Häufige Fragen
 
-Während Sie auf die Plastikkarte warten, können Sie mit dem **Receipt** mit Stempel ein- und ausreisen:
+### Wie hoch ist das Mindestgehalt für ein BCS-Arbeitsvisum auf Zypern?
 
-- Eine **Re-entry**-Markierung ist erforderlich
-- Beschränkung: in der Regel **nicht mehr als 90 Tage** Abwesenheit am Stück
-- Das ARC (Yellow Paper) ist **kein** Einreisedokument
+Für die Kategorie mit hohem Gehalt bei einem Unternehmen mit ausländischer Beteiligung liegt das veröffentlichte Minimum bei 2.500 EUR brutto im Monat, mit passender akademischer Qualifikation oder mindestens zwei Jahren einschlägiger Erfahrung und einem Arbeitsvertrag über mindestens zwei Jahre. Für bestehende BCS-Key-Personnel-Inhaber mit mindestens 2.000 EUR Gehalt gibt es eine begrenzte Ausnahme: Verlängerung beim selben Arbeitgeber bis zum 31. Dezember 2026.
 
-### Mit Plastikkarte
+### Können Inhaber einer Besuchererlaubnis die GESY-Gesundheitsversorgung auf Zypern nutzen?
 
-Mit der fertigen Aufenthaltskarte:
+Prüfen Sie die Leistungsberechtigten-Kategorien der HIO für Ihre Staatsangehörigkeit, Ihren gewöhnlichen Aufenthalt und Ihren Rechtsstatus. Eine Besuchererlaubnis oder gezahlte Beiträge allein begründen keinen Anspruch auf Gesundheitsversorgung. Die Checkliste für Besucher verlangt gesondert eine Plan-A-Versicherung für stationäre und ambulante Behandlung und die Überführung der sterblichen Überreste.
 
-- Freie Einreise nach Zypern
-- Für den Schengen-Raum ist dennoch ein Visum erforderlich
+### Wie viel Immobilienwert brauche ich für den Daueraufenthalt auf Zypern?
 
-## Brauche ich ein Schengen-Visum?
-
-### Mit Plastikkarte
-
-Mit der fertigen Aufenthaltskarte stellen Schengen-Staaten in der Regel Visa aus. Beliebte Optionen:
-
-- **Griechenland** — gilt als besonders entgegenkommend
-- **Italien** — verlangt Dokumente mit „blauen Siegeln"
-- **Spanien** — Bearbeitungszeiten können lang sein
-
-### Mit Receipt (ohne Plastikkarte)
-
-Mit dem Receipt ist ein Schengen-Visum **schwieriger, aber möglich**:
-
-- Am häufigsten akzeptiert **Griechenland**
-- Es gab erfolgreiche Fälle mit **Italien** und **Spanien**
-- Sie sollten auf eine Ablehnung vorbereitet sein
-
-## Wie verlängere ich die Aufenthaltserlaubnis?
-
-### Erforderliche Dokumente
-
-- Mietvertrag (Unterschriften genügen, Stempelsteuer ist abgeschafft)
-- Kontoauszug
-- Versicherung
-- Rechnungen für Nebenkosten
-
-### Beglaubigung des Mietvertrags
-
-Ab 1. Januar 2026:
-
-- Stempelsteuer **abgeschafft**
-- Unterschriften werden beim **Koinotarchis/Muhtaris** (örtlichen Gemeindevorsteher) beglaubigt
-- Ein **Certified Officer** eignet sich nicht für Mietverträge
-
-## Welche praktischen Tipps gibt es?
-
-1. **Eröffnen Sie ein Bankkonto im Voraus** — für Drittstaatsangehörige ist dies schwierig und kann Monate dauern
-2. **Bewahren Sie alle Dokumente auf** — bei Verlängerung und Beantragung der [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/) wird die gesamte Historie benötigt
-3. **Überschreiten Sie nicht 90 Tage** Abwesenheit — das ist entscheidend für die Staatsbürgerschaft
-4. **Führen Sie eine Tabelle** der Ein-/Ausreisen
-5. **Verlängern Sie rechtzeitig** — 1–2 Monate vor Ablauf
-6. **Beginnen Sie frühzeitig, [Griechisch zu lernen](/de/life/learning-greek-language-cyprus/)** — die [Griechisch-Prüfung](/de/immigration/greek-language-exam-citizenship/) ist Voraussetzung für die Staatsbürgerschaft
-
-## Was sollte ich noch lesen?
-
-- [Visitor Permit](/de/immigration/visitor-permit-cyprus/)
-- [Spouse Employment](/de/immigration/spouse-employment-permit-cyprus/)
-- [Digital Nomad Visum](/de/immigration/digital-nomad-visum-zypern/)
-- [EU Blue Card](/de/immigration/eu-blue-card-cyprus/)
-- [Visum wechseln](/de/immigration/switching-visa-types-cyprus/)
-- [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/)
-- [Auswandern nach Zypern](/de/immigration/auswandern-nach-zypern-leitfaden/)
-
----
-
-Die Wahl des Aufenthaltstyps hängt von Ihrer Situation ab: Arbeit, Einkommen, Familie, Pläne bezüglich der Staatsbürgerschaft. Wir empfehlen eine Beratung durch einen Migrationsexperten für Ihren konkreten Fall.
-
----
-
-## Quellen
-
-- [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [Official Digital Nomad Visa Information](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/) — gov.cy
+Die Wohnoption der Investorenregelung verlangt ein Haus oder eine Wohnung aus Erstverkauf für mindestens 300.000 EUR zuzüglich MwSt. mit dem geforderten Nachweis der ausländischen Finanzierung. Das gesicherte Jahreseinkommen beginnt bei 50.000 EUR, dazu 15.000 EUR für den Ehepartner und 10.000 EUR je minderjähriges Kind. Es gibt weitere Anlageoptionen und Bedingungen. Der Daueraufenthaltsstatus ist von der Aufenthaltskarte des Erwachsenen zu unterscheiden, die nach zehn Jahren ersetzt werden muss.

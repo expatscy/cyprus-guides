@@ -1,7 +1,7 @@
 ---
 slug: "working-cyprus-job-search"
 title: "Jobs in Zypern: Suche, Gehalt, Rechte"
-description: "So finden Sie einen Job in Zypern: offizielle Stellenportale, Bewerbungstipps, datierte Verdienstdaten, Mindestlohnbedingungen und Arbeitnehmerrechte, die Sie vor der Zusage prüfen sollten."
+description: "Job in Zypern finden: offizielle Stellenportale, Bewerbungstipps, datierte Verdienstdaten, Mindestlohn und Arbeitnehmerrechte, die Sie vor der Zusage prüfen."
 date: 2026-01-24
 updated: 2026-10-21
 category: "Geschäft"

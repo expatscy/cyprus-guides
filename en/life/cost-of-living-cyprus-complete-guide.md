@@ -3,7 +3,7 @@ slug: "cost-of-living-cyprus-complete-guide"
 title: "Cyprus Living Costs: Guide by City 2026"
 description: "Full breakdown of living costs in Cyprus: rent, groceries, utilities, transport, healthcare. Singles and family budgets for Limassol, Paphos, Larnaca, Nicosia."
 date: 2026-02-22
-updated: 2026-10-05
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -24,10 +24,10 @@ faqSchema:
   - question: "How does the cost of living in Cyprus compare to the UK?"
     answer: "Cyprus is roughly 30-40% cheaper than London and 15-25% cheaper than most English cities outside the capital. Eurostat's 2025 food price-level data puts Cyprus close to the EU average, with large differences by product category."
 ---
-> **Short answer:** Monthly living costs in Cyprus for a single person range from EUR 1,200 in Nicosia to EUR 2,500+ in central Limassol. Rent is the biggest variable, followed by transport and dining habits.
+> **Short answer:** Monthly living costs in Cyprus for a single person range from EUR 1,400–2,000 in Larnaca/Nicosia to EUR 2,000–2,800 in Limassol. Rent is the biggest variable, followed by transport and dining habits.
 
 
-Cyprus is one of Europe's most popular relocation destinations. The cost of living here is significantly lower than in the UK — roughly 30–40% cheaper than London and 15–25% cheaper than most English cities outside the capital. Compared to other EU countries, it is lower than Germany, France, or the Netherlands, but higher than Greece or Bulgaria. Here is a detailed breakdown of all expenses by category and city. For the latest April 2026 prices and a ready monthly budget, see our [monthly budget calculator guide](/en/life/cost-of-living-cyprus-2026/). Moving from the UK? Our [Cyprus vs UK comparison](/en/life/cost-of-living-cyprus-vs-uk/) covers the specifics.
+Cyprus is one of Europe's most popular relocation destinations. The cost of living here is significantly lower than in the UK — roughly 30–40% cheaper than London and 15–25% cheaper than most English cities outside the capital. Compared to other EU countries, it is lower than Germany, France, or the Netherlands, but higher than Greece or Bulgaria. Here is a detailed breakdown of all expenses by category and city. For a ready monthly budget, see our [monthly budget calculator guide](/en/life/cost-of-living-cyprus-2026/). Moving from the UK? Our [Cyprus vs UK comparison](/en/life/cost-of-living-cyprus-vs-uk/) covers the specifics.
 
 > **For UK expats:** All prices are in euros. At £1 = ~€1.17 (March 2026), your Sterling pension or savings stretches further here. Post-Brexit, UK citizens need a [residence permit](/en/immigration/residence-permit-cyprus-guide/) to live in Cyprus — but the process is straightforward.
 
@@ -61,7 +61,7 @@ Housing is the largest expense. Prices vary dramatically between cities and neig
 
 **Limassol** is the most expensive city — high expat demand, IT companies, and limited seafront supply push rents above Nicosia. A fixed 50% premium is too blunt: using the midpoint of Index.cy's 2026 asking-rent ranges for standard long-term 1- and 2-bedroom apartments, Limassol sits roughly 24–30% above Nicosia, while seafront, new-build, and fully furnished units can be much higher.
 
-**Paphos** is popular with British retirees — lower rents than Limassol, English widely spoken, and a large expat community. See our [Paphos city guide](/en/life/best-neighborhoods-limassol/) for neighbourhood details.
+**Paphos** is popular with British retirees — lower rents than Limassol, English widely spoken, and a large expat community. For the neighbourhood detail of the premium market nearby, see our [Limassol neighbourhoods guide](/en/life/best-neighborhoods-limassol/).
 
 **Larnaca** and **Nicosia** offer the most affordable housing options.
 

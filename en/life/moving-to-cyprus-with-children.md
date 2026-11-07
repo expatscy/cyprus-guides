@@ -49,7 +49,7 @@ To access GeSY services, the child must be enrolled in the Beneficiary Record an
 
 GeSY's services through contracted providers include personal doctors, outpatient specialists, pharmaceuticals, inpatient care and preventive dentistry. Access and charges depend on the service rules; coverage does not mean every treatment is free. The [published dental catalogue](https://www.gesy.org.cy/el-gr/announcementdef/20201218-dentists-activity-catalogue.pdf) provides age-specific preventive services, including for beneficiaries aged 12 and over, rather than an under-16-only benefit.
 
-If using private insurance, obtain a quote for your family's ages and needs, and compare exclusions, waiting periods and covered providers. Match it to the residence checklist: the digital-nomad dependent-child checklist, for example, requires inpatient and outpatient cover and transportation of a corpse. Confirm how the insurer meets that requirement rather than assuming a universal family premium.
+If using private insurance, obtain a quote for your family's ages and needs, and compare exclusions, waiting periods and covered providers. Match it to the residence checklist: the digital-nomad dependent-child checklist, for example, requires inpatient and outpatient cover and transportation of remains. Confirm how the insurer meets that requirement rather than assuming a universal family premium.
 
 Bring vaccination and medical records and ask the child's clinician to review them and advise on any catch-up care. Confirm appointment availability and charges directly; do not assume public emergency care is free for every insurance or residence status.
 
@@ -62,7 +62,7 @@ Select your route before preparing documents. The [digital-nomad scheme](https:/
 - Passport validity of at least three months from application.
 - The sponsor's child's birth certificate.
 - A custody decision or the other parent's consent where applicable.
-- Health insurance for inpatient and outpatient care and transportation of a corpse.
+- Health insurance for inpatient and outpatient care and transportation of remains.
 - School registration or attendance evidence from an institution in Cyprus or abroad only where the child is a pupil or student.
 
 Check the full official checklist for the remaining financial, accommodation, medical and other requirements, and distinguish an initial application from renewal. The checklist's legacy reference to stamping rental agreements should be checked against current law; do not treat its wording as confirmation of a current stamp-duty charge.

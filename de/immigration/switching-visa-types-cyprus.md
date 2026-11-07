@@ -1,7 +1,7 @@
 ---
 slug: "switching-visa-types-cyprus"
 title: "Aufenthaltstitel wechseln in Zypern"
-description: "Aufenthaltskategorie in Zypern wechseln: ausgewählte Zulassungsregeln, Arbeitgeberwechsel bei CFI, Familien- und Studentenwege, Bearbeitungszeiten und Receipt-Prüfung."
+description: "Aufenthaltskategorie in Zypern wechseln: Zulassungsregeln, Arbeitgeberwechsel bei CFI, Familien- und Studentenwege, Bearbeitungszeiten und Receipt-Prüfung."
 date: 2026-02-22
 updated: 2026-10-21
 category: "Einwanderung"

@@ -1,9 +1,9 @@
 ---
 slug: "social-insurance-cyprus-pension"
-title: "Sozialversicherung auf Zypern: Beiträge"
-description: "Sozialversicherung auf Zypern: wie sie funktioniert, welche Beiträge gezahlt werden, wie man einen Auszug erhält, was für die Rente angerechnet wird."
+title: "Sozialversicherung Zypern: Beiträge und Rente"
+description: "Sozialversicherung auf Zypern: Beitragssätze, Auszug über CY Login, Anmeldung als Selbstständiger, Rentenbedingungen und Anrechnung von EU-Zeiten."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -14,208 +14,98 @@ tags:
 draft: false
 translationKey: "social-insurance-kipr-pensiya"
 faqSchema:
-  - question: "Werden meine deutschen Rentenversicherungsbeiträge auf Zypern angerechnet?"
-    answer: "Ja. Dank EU-Verordnung 883/2004 werden Versicherungszeiten aus Deutschland auf Zypern und umgekehrt angerechnet. Für die zyprische Rente werden mindestens 15 Versicherungsjahre benötigt (einschließlich EU-Zeiten). Die deutsche Rente wird weiterhin aus Deutschland gezahlt — unabhängig vom Wohnsitz."
   - question: "Wie hoch sind die Sozialversicherungsbeiträge auf Zypern?"
-    answer: "Arbeitnehmer: 8,8% vom Bruttogehalt (Arbeitgeber zahlt ebenfalls 8,8%). Selbstständige: 16,6% (Gesamt). Dazu kommen: GeSY 2,65% (AN) / 2,9% (AG). Vergleich Deutschland: Sozialversicherung ~40% gesamt (RV + KV + PV + AV). Auf Zypern insgesamt deutlich günstiger."
+    answer: "Arbeitnehmer und Arbeitgeber zahlen je 8,8 % des versicherbaren Einkommens, der Staat gibt 5,2 % dazu. Selbstständige zahlen 16,6 % auf ihre jeweilige Bemessungsgrundlage. Die Obergrenze 2026 beträgt 5.742 Euro im Monat für Monatslohn-Arbeitnehmer oder 1.325 Euro pro Woche für Wochenlohn-Arbeitnehmer. GESY und andere Abgaben haben eigene Regeln."
+  - question: "Wie prüfe ich meine Sozialversicherungszeiten auf Zypern?"
+    answer: "Über den offiziellen Dienst für den Beitragsauszug mit einem authentifizierten CY-Login-Konto. Er zeigt für ein Jahr oder den gesamten Zeitraum das versicherte Einkommen und die Versicherungseinheiten. Fehlen Einträge, wenden Sie sich an die Social Insurance Services."
+  - question: "Helfen Versicherungszeiten aus einem anderen Land für die zyprische Rente?"
+    answer: "Zeiten aus EU, EWR und der Schweiz werden zusammengerechnet, wenn das für die Anspruchsvoraussetzungen nötig ist. Für die anteilige Rente verlangt Zypern in der Regel mindestens ein Jahr zyprische Versicherung. Es werden Zeiten koordiniert, aber keine Rentengelder übertragen. Für andere Länder muss das geltende Abkommen geprüft werden."
 ---
-> **Kurzantwort:** Social Insurance Zypern: Arbeitnehmer 8,8%, Arbeitgeber 8,8% vom Bruttolohn. Rente ab 65 Jahren, Mindestbeitragszeit 15 Jahre.
 
-Social Insurance — das Sozialversicherungssystem Zyperns. Alle Erwerbstätigen zahlen Beiträge, die Anspruch auf Rente und Sozialleistungen begründen.
-
-> **Offizielle Quellen:**
-> - [Social Insurance Services](https://www.gov.cy/mlsi/en/) — Sozialversicherungsdienst
-> - [Social Insurance in Cyprus (PDF)](https://www.gov.cy/mlsi/en/) — Vollständiger Leitfaden
-> - [Versicherungspflichtige Grundeinkünfte](https://www.gov.cy/mlsi/en/) — Beitragsberechnung
-
-## Was ist die Social Insurance?
-
-### Definition
-
-**Social Insurance** — Pflichtbeiträge, die zahlen:
-
-- **Arbeitnehmer** — vom Gehalt
-- **Arbeitgeber** — zusätzlich
-- **Selbstständige** — eigenständig
-
-### Was sie bietet
-
-- **Altersrente**
-- **Arbeitslosengeld**
-- **Krankengeld**
-- **Mutterschaftsgeld**
-- **Leistungen** bei Arbeitsunfällen
+Die Social Insurance ist das zyprische Sozialversicherungssystem. Für Angestellte und Selbstständige gelten unterschiedliche Regeln. Beiträge allein begründen nicht automatisch jede Leistung: Es kommt auf die Versicherungsgeschichte, die Beschäftigungsart und die Voraussetzungen der einzelnen Leistung an. Grundlage ist das [Sozialversicherungsgesetz](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
 
 ## Wie hoch sind die Beitragssätze?
 
-### Für Angestellte
+### Angestellte
 
-| Beitragszahler | Satz |
-|----------------|------|
-| Arbeitnehmer | 8,8% |
-| Arbeitgeber | 8,8% |
-| **Insgesamt** | **17,6%** |
+| Zahler | Anteil am versicherbaren Einkommen |
+|--------|------------------------------------|
+| Arbeitnehmer | 8,8 % |
+| Arbeitgeber | 8,8 % |
+| Staat | 5,2 % |
+| **Finanzierung der Social Insurance insgesamt** | **22,8 %** |
 
-> Seit 2024 beträgt der Satz 8,8% (zuvor 8,3%). Quelle: [PwC Cyprus Tax Facts](https://taxsummaries.pwc.com/cyprus).
+Das sind die seit dem 1. Januar 2024 geltenden Sätze. Sie beschreiben die Finanzierung der Social Insurance, nicht jeden Abzug oder jede Arbeitgeberabgabe. [Offizielle Beitragssätze](https://www.gov.cy/mlsi-eurescy/en/documents/apply-for-a-social-insurance-number/).
 
-### Für Selbstständige
+Für **2026** liegt die Obergrenze des versicherbaren Einkommens bei **5.742 Euro pro Monat** für Monatslohn-Arbeitnehmer (ab 1. Januar) oder **1.325 Euro pro Woche** für Wochenlohn-Arbeitnehmer (ab 5. Januar). Diese Grenzen legen keine Obergrenze für GESY fest. [Offizielle Mitteilung zur Obergrenze 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/8477F2B7998AD8F1C2258D6800300FC5).
 
-- **16,6%** vom Einkommen (beide Anteile zusammen)
-- Wird vom Selbstständigen selbst gezahlt
+### Selbstständige
 
-## Wie bekomme ich einen Sozialversicherungsauszug?
+Der Beitrag von Selbstständigen beträgt **16,6 %** des jeweiligen versicherbaren Einkommens. Die Berufstabelle 2026 legt je Beruf und, wo angegeben, je Erfahrung ein wöchentliches Mindesteinkommen fest; das Maximum liegt bei **1.325 Euro pro Woche**. Sie gilt **vom 5. Januar 2026 bis zum 3. Januar 2027**. Das ist eine andere Grundlage als das Monatsgehalt eines Angestellten. [Offizielle Berufstabelle 2026](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/E3FAA841210065C3C2258E37002C0420?OpenDocument).
 
-### Wozu wird er benötigt
+Die offizielle Beitragstabelle 2026 nennt außerdem **GESY mit 4 %** und einen **HRDA-Beitrag von 0,5 % ab 5. Januar 2026** auf das wöchentliche versicherbare Einkommen. Für GESY gelten eigene Berechnungsregeln; gehen Sie nicht davon aus, dass das Maximum der Social Insurance alle Abgaben begrenzt. [Offizielle Beitragstabelle für Selbstständige](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/CC73852B37301B20C2258E37002C21E4?OpenDocument). Zu Anmeldung, Berufskategorien und dem Antrag auf Zahlung nach tatsächlichem Einkommen siehe den [Ratgeber Selbstständigkeit](/de/business/self-employed-cyprus-guide/).
 
-Ein SI-Auszug wird benötigt für:
+## Wie bekomme ich einen Beitragsauszug?
 
-- **Blue Card** — Beschäftigungsnachweis
-- **Staatsbürgerschaft** — Nachweis der Beitragszeit
-- **Kredite** — Einkommensnachweis
-- **LTRP** — Aufenthaltsnachweis
+Nutzen Sie den [offiziellen Dienst für den Gesamtbeitragsauszug](https://www.gov.cy/en/service/social-insurance-total-contribution-statement/) mit einem **authentifizierten CY-Login-Konto**. Sie können einen Auszug für ein bestimmtes Jahr oder für den gesamten Zeitraum erhalten, für den persönlichen oder amtlichen Gebrauch.
 
-### Wie man ihn erhält
+Die [FAQ des Dienstes](https://sis-citizen-reporting.service.gov.cy/en/faq) erklärt, dass der Eintrag **versicherbares und gleichgestelltes Einkommen sowie Versicherungseinheiten** zeigt. Sie unterscheidet tatsächliches Einkommen und tatsächliches GHS-Einkommen. Beträge ab 2008 werden in Euro angezeigt. Fehlende Einträge können mehrere Ursachen haben, etwa noch nicht abgeschlossene Erfassung oder technische Probleme. Lassen Sie die Social Insurance Services prüfen, bevor Sie davon ausgehen, dass keine Beiträge gezahlt wurden.
 
-**Persönlich:**
-- Zum Social Insurance-Büro gehen
-- Einen Auszug (Statement) anfordern
+Auf der offiziellen Dienstseite stehen die Kontakte der Bezirke, darunter **veveosislim@sid.mlsi.gov.cy** für Limassol. Welche Identitätsprüfung und welchen Zustellweg der Dienst verlangt, klären Sie dort. Schicken Sie keine Ausweisdokumente nach einer inoffiziellen E-Mail-Vorlage. Die **Hotline 1450 ist Montag bis Freitag von 08:00 bis 17:00 Uhr erreichbar**; das ist die Zeit der Hotline, nicht die Öffnungszeit der Ämter.
 
-**Per E-Mail:**
+## Wie melde ich mich als Selbstständiger an?
 
-> „Für den Fernerhalt wurde empfohlen, eine E-Mail an Social Insurance zu schreiben und einen Auszug anzufordern, unter Angabe der Sozialversicherungsnummer und des Namens. Eine Passkopie beilegen."
+Der [offizielle Dienst zur Versicherung von Selbstständigen](https://www.gov.cy/service/asfalisi-aftotelos-ergazomenon/) bietet das Anmeldeformular **YKA 1-013**, die Kontakte der Bezirke und Hinweise zur Einreichung. Dort gibt es auch eigene Formulare für Berufswechsel, Beendigung, Zeiten ohne Tätigkeit und den Antrag auf Zahlung nach tatsächlichem Einkommen.
 
-**E-Mail-Beispiel (Limassol):** veveosislim@sid.mlsi.gov.cy
+Ob Ihr Aufenthaltstitel Selbstständigkeit erlaubt, prüfen Sie getrennt. Die Anmeldung bei der Social Insurance gibt selbst keine Arbeitserlaubnis. Lesen Sie den [Ratgeber Selbstständigkeit](/de/business/self-employed-cyprus-guide/), bevor Sie Formular und Nachweise wählen.
 
-### Was der Auszug zeigt
+## Wie funktioniert die Rente?
 
-- Beschäftigungszeiträume
-- Beitragshöhe nach Monaten
-- Arbeitgeber
+Das reguläre gesetzliche Rentenalter ist **65**. Eine Rente ab **63** ist nur unter den besonderen Bedingungen der vorzeitigen Rente möglich, einschließlich der nötigen Versicherungszeit oder der Invaliditätsregel; sie steht nicht automatisch jedem offen. [Offizielle Informationen zur Rente](https://www.mlsi.gov.cy/mlsi/sdg/sdg.nsf/All/4678B9CAD7F09671C2258DA20047FD79).
 
-**Zeigt nicht:** Berufsbezeichnung (nur Beschäftigungstatsache)
+Die üblichen Versicherungsbedingungen:
 
-## Wie registriere ich mich als Selbstständiger?
+- mindestens **15 tatsächliche Einheiten der Grundversicherung** und **780 Wochen seit Beginn der Versicherung**;
+- tatsächliche und gleichgestellte Einheiten der Grundversicherung von mindestens **30 % der Jahre des gesetzlichen Bezugszeitraums**.
 
-### Wohin gehen
+Das sind Tests nach Versicherungseinheiten und verstrichener Zeit, keine Garantie für eine volle Rente nach 15 Arbeitsjahren. Die Rente hat einen Grund- und einen Zusatzanteil, die nach den gesetzlichen Regeln berechnet werden. Bei vorzeitigem Beginn sinkt die Rente um **0,5 % für jeden ganzen oder angefangenen Monat vor dem 65. Lebensjahr**, also um **12 %** bei Beginn mit 63. Die Kürzung gilt lebenslang. [Sozialversicherungsgesetz, Art. 35, 35A und Dritter Anhang](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
 
-Zum **Social Insurance**-Büro am Wohnort.
+### Versicherung in anderen Ländern
 
-### Dokumente
+Die offizielle Rentenbeschreibung nennt die Zusammenrechnung von Zeiten aus **EU, EWR und der Schweiz**, wenn sie für die Anspruchsvoraussetzungen nötig ist. Zypern verlangt dafür in der Regel **mindestens ein Jahr zyprische Versicherung** und berechnet eine anteilige Rente für die zyprischen Zeiten. Die Zusammenrechnung überträgt keine Rentengelder nach Zypern und garantiert keinen Anspruch, wenn die übrigen Bedingungen fehlen. Bewahren Sie Ihre Unterlagen auf und lassen Sie Ihren Fall vor dem Ruhestand oder einem Umzug ins Ausland individuell prüfen.
 
-- Reisepass
-- Aufenthaltsgenehmigung
-- Verträge/Rechnungen (Tätigkeitsnachweis)
-- Adressnachweis
+### Britische Renten
 
-### Ablauf
+Eine britische State Pension, die in Zypern gezahlt wird, erhält die **jährliche Erhöhung** nach den britischen Regeln für EWR-Länder. [GOV.UK zur Rentenanpassung](https://www.gov.uk/state-pension-if-you-retire-abroad/rates-of-state-pension).
 
-> „Kommen Sie mit Verträgen/Rechnungen, Zahlungsnachweisen und Adressbestätigung. Sie werden registriert und erhalten ein Registrierungsschreiben."
+Freiwillige britische National-Insurance-Beiträge unterliegen Prüfungen. **Ab 2026–27** können freiwillige Class-2-Beiträge für Zeiten im Ausland nicht mehr gezahlt werden. Class-3-Anträge für Zeiten im Ausland nach dem **5. April 2026** setzen in der Regel **10 aufeinanderfolgende Jahre früheren Wohnsitzes in Großbritannien oder 10 Jahre Pflichtbeiträge** voraus, mit bestimmten Beitragskategorien und Übergangsausnahmen für frühere Antragsteller. National-Insurance-Credits und andere freiwillige Beiträge für Zeiten im Ausland zählen für diesen 10-Jahres-Test nicht. Prüfen Sie vor der Zahlung, ob sie Ihre Rente verbessert. [Aktuelle GOV.UK-Regeln zu freiwilligen Beiträgen](https://www.gov.uk/voluntary-national-insurance-contributions/if-you-live-or-work-abroad).
 
-### Für wen verfügbar
+Für die Zusammenrechnung britischer und zyprischer Zeiten fragen Sie die zuständigen Behörden, welcher Koordinierungsrahmen für Ihre Versicherungsbiografie gilt. Gehen Sie nicht davon aus, dass ein bilaterales Abkommen jeden Fall nach dem Brexit abdeckt.
 
-Selbstständigkeit ist verfügbar für:
-
-- **EU-Bürger**
-- **LTRP**-Inhaber
-- Ukrainer mit **TP** (Temporärer Schutz)
-- Drittstaatsangehörige — benötigen in der Regel eine Sondergenehmigung
-
-## Wie funktioniert die Rente auf Zypern?
-
-### Voraussetzungen
-
-Für den Erhalt einer zyprischen Rente:
-
-- Erreichen des **Rentenalters** (65 Jahre, wird schrittweise angehoben)
-- Mindest-**Beitragszeit**
-
-### Berechnung
-
-Die Rente hängt ab von:
-
-- Anzahl der Beitragsjahre
-- Höhe der Beiträge
-- Durchschnittlichem Gehalt
-
-### Bei Ausreise aus Zypern
-
-Beiträge **gehen nicht verloren**:
-
-- Bei Erreichen des Alters können Sie Rente beziehen
-- Auch wenn Sie in einem anderen Land leben
-
-### Deutsche Rentenversicherung und Zypern
-
-Für deutsche Auswanderer wichtige Punkte zur Rentenkoordination:
-
-- **Beitragszeiten werden angerechnet** — als EU-Mitglied gilt die EU-Verordnung 883/2004 zur Koordinierung der Sozialversicherung
-- **Deutsche Rente ist in Zypern voll zahlbar** und wird jährlich angepasst
-- **Freiwillige Beiträge zur DRV** sind aus dem Ausland weiterhin möglich (§ 7 SGB VI)
-- **Doppelte Rente möglich** — sowohl deutsche als auch zyprische Rente, wenn in beiden Ländern Mindestbeitragszeiten erfüllt sind
-- **Rentenalter**: Deutschland 67 (schrittweise), Zypern 65 (wird angehoben)
-
-> **Vergleich der Gesamtbelastung:** Deutschland: 18,6% Rentenversicherung (Arbeitnehmer + Arbeitgeber). Zypern: 17,6% Social Insurance. Ähnlich hoch, aber Zypern bietet deutlich niedrigere [Einkommensteuersätze](/de/business/taxes-cyprus-gesy-deductions).
-
-> **Achtung — A1-Bescheinigung:** Wer vorübergehend auf Zypern arbeitet (Entsendung), kann mit der A1-Bescheinigung im deutschen System bleiben (max. 24 Monate).
-
-## Wie hoch sind Mutterschafts- und Krankengeld?
+## Wie funktionieren Mutterschaftsgeld, Elternzeit und Krankengeld?
 
 ### Mutterschaftsgeld
 
-Seit März 2024 (Gesetz N.14(I)/2024):
+Das **Mutterschaftsgeld** und der gesetzliche **Urlaub** der Arbeitnehmerin sind zwei verschiedene Dinge. Das reguläre Geburtsgeld wird **22 aufeinanderfolgende Wochen** gezahlt, bei der **dritten und jeder weiteren Geburt vier Wochen zusätzlich**. Die Anfangswoche kann **von der neunten bis zur zweiten Woche vor der erwarteten Entbindungswoche** gewählt werden. Für Sonderfälle wie Mehrlingsgeburten gelten zusätzliche Regeln. [Sozialversicherungsgesetz, Art. 29](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
 
-- **22 Wochen** bezahlter Urlaub für das 1. und 2. Kind
-- **26 Wochen** bezahlter Urlaub ab dem 3. Kind
-- Der Urlaub muss **spätestens 2 Wochen** vor dem errechneten Geburtstermin beginnen
-- Mindestens **8 Wochen nach der Geburt** sind Pflicht
-- Leistung: **72%** des versicherten Einkommens im maßgeblichen Beitragsjahr. Nur der Grundanteil steigt auf **80% / 90% / 100%** bei einem / zwei / drei Unterhaltsberechtigten, wenn die Antragstellerin allein für den Haushalt aufkommt. [Offizielle Bedingungen für Mutterschaftsgeld](https://maternity-benefit.service.gov.cy/en/faq).
-- Zahlung aus der Social Insurance
+Zum Anspruch gehört unter anderem die nötige Versicherungszeit. Das Geld beträgt **72 % des Grund- und des Zusatzanteils des versicherten Einkommens** im maßgeblichen Beitragsjahr. Nur der Grundanteil steigt auf **80 %, 90 % oder 100 % bei einem, zwei oder drei Unterhaltsberechtigten**, wenn die Antragstellerin allein für den Haushalt aufkommt. Bei voller Lohnfortzahlung durch den Arbeitgeber gibt es für denselben Zeitraum kein Geld; bei teilweiser Zahlung ist die Gesamtzahlung auf den vollen Lohn begrenzt. [Offizielle FAQ zum Mutterschaftsgeld](https://maternity-benefit.service.gov.cy/en/faq). Versicherungstests und Antragsbedingungen finden Sie im [Ratgeber zur Geburt](/de/life/birth-registration-cyprus/).
 
-### Elternurlaub (Parental Leave)
+### Elternzeit
 
-Zusätzlicher Urlaub für Eltern:
-
-- Bis zu **18 Wochen** unbezahlter Urlaub
-- Oder teilweise bezahlt (unter bestimmten Bedingungen)
-
-> „Anspruch auf die Leistung haben Personen, die mindestens 12 Monate innerhalb der letzten 24 Monate gearbeitet haben."
+Für Arbeitnehmer beträgt der reguläre Elternzeitanspruch **18 Wochen pro Kind**, nach **sechs ununterbrochenen Monaten beim selben Arbeitgeber**, für ein Kind bis **15 Jahre**. Die Elternzeit wird in Blöcken von mindestens **einem Tag** genommen, höchstens **fünf Wochen pro Kalenderjahr**. Normalerweise kündigen Sie sie **drei Wochen** vorher an; in einem Notfall braucht eine kürzere Frist die Zustimmung des Arbeitgebers. Sonderregeln verlängern die Altersgrenze bei Behinderung und die Dauer bei Verwitwung oder bestimmten Fällen Alleinerziehender. Für die **Elternzeit-Leistung gelten eigene Voraussetzungen**; nicht jede Woche Elternzeit wird automatisch bezahlt. [Department of Labour Relations](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/parentalleave_en/parentalleave_en?Click=&OpenDocument=).
 
 ### Krankengeld
 
-Bei Krankheit:
-
-- Erste 3 Tage — normalerweise **nicht bezahlt**
-- Danach — Leistungen aus der Social Insurance
+Die gesetzliche Wartezeit der Social Insurance beträgt normalerweise die **ersten drei Tage**. Für die Versicherung von Selbstständigen nach Artikel 11 beträgt die normale Wartezeit bei Krankheit **neun Tage**, mit Ausnahmen bei einem Unfall oder mindestens einer Übernachtung im Krankenhaus in diesen ersten neun Tagen. Außerdem sind die jeweilige Versicherung und die Voraussetzungen der Arbeitsunfähigkeit nötig. Diese Wartezeiten bestimmen nicht, ob der Arbeitgeber nach dem Arbeitsvertrag Lohn zahlt. [Sozialversicherungsgesetz, Art. 31](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
 
 ## Was ist der Redundancy Fund?
 
-### Was ist das
+Der **Beitrag zum Redundancy Fund beträgt 1,2 % und wird vollständig vom Arbeitgeber gezahlt**. Er ist vom Sozialversicherungsbeitrag des Arbeitnehmers getrennt. Eine Zahlung aus dem Fonds setzt die Prüfung der Voraussetzungen einer Entlassung aus betrieblichen Gründen voraus; eine Kündigung allein garantiert keine Entschädigung. [Offizielle Hinweise für Arbeitgeber](https://www.mlsi.gov.cy/mlsi/sdg/sdg.nsf/All/EA4F396F80C4BAA8C22586A10042659F).
 
-Ein separater Beitrag (**1,2%**) in den Fonds für den Fall einer Kündigung:
+## Was sollte ich praktisch tun?
 
-- Bei Stellenabbau — Abfindungszahlung
-- Abhängig von der Betriebszugehörigkeit
-
-## Welche praktischen Tipps gibt es?
-
-1. **Bewahren Sie alle Auszüge auf** — sie werden für Dokumente benötigt
-2. **Prüfen Sie die Beiträge** — Arbeitgeber zahlen manchmal nicht
-3. **Registrieren Sie sich sofort** — wenn Sie selbstständig sind
-4. **Zählen Sie die Beitragszeit** — für Rente und Staatsbürgerschaft
-6. **Aktuelle Sätze prüfen** — Steuersätze und Freibeträge werden jährlich aktualisiert. Abgleich mit dem [Tax Department](https://taxportal.mof.gov.cy/) vor jeder Einreichung
-7. **Gesamten Schriftverkehr aufbewahren** — E-Mails und SMS vom Tax Department, Social Insurance und Migration sind Beweismittel bei Streitigkeiten
-8. **Besuch planen** — Behörden arbeiten 07:30–14:30. Terminbuchung über [Ariadne Portal](https://eforms.eservices.cyprus.gov.cy/) oder frühmorgens erscheinen
-9. **Community nutzen** — aktuelle Tipps zu konkreten Situationen in unserem [Telegram-Kanal](https://t.me/expatscy)
-
----
-
-Social Insurance ist ein wichtiger Bestandteil der Arbeit auf Zypern. Beiträge begründen Anspruch auf Rente und Sozialschutz, und Auszüge werden für viele Dokumente benötigt.
-
-Lesen Sie auch: [Selbstständigkeit auf Zypern](/de/business/self-employed-cyprus-guide/) | [Gesundheitswesen auf Zypern — GESY und PKV](/de/life/healthcare-cyprus-gesy/)
-
----
-
-## Quellen
-
-- [Social Insurance Services](https://www.gov.cy/mlsi/en/) — gov.cy
-- [PwC Cyprus Tax Facts](https://taxsummaries.pwc.com/cyprus) — PwC
+1. Bewahren Sie Beitragsauszüge und den Schriftverkehr auf.
+2. Vergleichen Sie den offiziellen Eintrag mit Ihren Gehaltsabrechnungen und fragen Sie bei Abweichungen nach.
+3. Nutzen Sie das richtige Formular für die Anmeldung als Selbstständiger oder den Statuswechsel.
+4. Lassen Sie Ihre Rente anhand der Versicherungseinheiten und ausländischen Zeiten einschätzen.
+5. Prüfen Sie vor einer Zahlung oder einem Amtsbesuch die aktuellen Sätze und Kontaktwege auf den offiziellen Seiten.

@@ -1,6 +1,6 @@
 ---
 slug: "cyprus-villa-buyer-guide-2026"
-title: "Cyprus Villa Guide: Prices & Buying Costs"
+title: "Cyprus Villa Buyer’s Checklist: Taxes, Title & Costs"
 description: "A Cyprus villa buying checklist: compare actual quotations, check title and permits, apply the correct VAT and transfer fees, and budget for upkeep."
 date: 2026-04-12
 updated: 2026-10-03

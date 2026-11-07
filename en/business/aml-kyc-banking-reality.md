@@ -1,9 +1,9 @@
 ---
 slug: "aml-kyc-banking-reality"
 title: "Banking AML/KYC for Russians in Cyprus"
-description: "Bank accounts in Cyprus for Russian citizens: AML/KYC checks, sanctions, documents. How to open an account and get through compliance — 2026 guide."
+description: "Bank account in Cyprus for Russians: what AML/KYC checks involve, which documents you need and how to get through compliance. 2026 guide."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -27,9 +27,9 @@ faqSchema:
     answer: "Provide them as quickly as possible. Delay is read as evasion. Prepare bank statements for 6-12 months, tax returns and a description of the source of funds."
 ---
 
-> **In short:** Since 2022, Cypriot banks have tightened checks for Russians. Bank of Cyprus has closed more than 20,000 accounts. The process involves AML/KYC checks and a document package, and can take several weeks.
+> **In short:** Since 2022, Cypriot banks have tightened checks for Russians. Banks have reviewed and closed accounts of Russian clients. The process involves AML/KYC checks and a document package, and can take several weeks.
 
-Opening a [bank account in Cyprus](/en/business/banks-cyprus-comparison/) as a Russian citizen is doable, but not trivial. Since 2022 Cypriot banks have tightened checks on clients from Russia: Bank of Cyprus has closed more than 20,000 Russian accounts, and other banks have followed. Here is how the AML/KYC system works in practice and what you need to get through it.
+Opening a [bank account in Cyprus](/en/business/banks-cyprus-comparison/) as a Russian citizen is doable, but not trivial. Since 2022 Cypriot banks have tightened checks on clients from Russia: banks have reviewed and closed accounts of Russian clients. Here is how the AML/KYC system works in practice and what you need to get through it.
 
 > **Official sources:**
 > - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — Central Bank of Cyprus AML requirements
@@ -46,7 +46,7 @@ Opening a [bank account in Cyprus](/en/business/banks-cyprus-comparison/) as a R
 In Cyprus these procedures are governed by:
 
 - **6AMLD** (Directive (EU) 2018/1673) — the EU's sixth anti-money-laundering directive, which Cyprus must implement
-- **Cypriot Law N. 188(I)/2007** — the main AML law (Prevention and Suppression of Money Laundering and Terrorist Financing Law), with numerous amendments
+- **[Cypriot Law N. 188(I)/2007](https://www.cylaw.org/nomoi/enop/non-ind/2007_1_188/full.html)** — the main AML law (Prevention and Suppression of Money Laundering and Terrorist Financing Law), with numerous amendments
 - **Central Bank of Cyprus directives** — the regulator issues specific instructions to banks
 
 For a bank, the fine for missing a suspicious transaction runs to millions of euros. For a manager, it means criminal liability. That is why the system is tuned to "better to refuse than to take a risk".
@@ -76,7 +76,7 @@ The following factors raise the likelihood of enhanced checks or a refusal:
 | Factor | Risk level |
 |--------|------------|
 | Russian citizenship (on its own) | Elevated |
-| Large unexplained sums (>€50 000) | High |
+| Large unexplained sums (>€50,000) | High |
 | Transfers from/through several jurisdictions | High |
 | Crypto income without documentation | High |
 | Links to sanctioned banks (Sber, VTB, Alfa) | Critical |
@@ -96,7 +96,7 @@ The following factors raise the likelihood of enhanced checks or a refusal:
 
 > **Important:** If your former employer is a state company (Gazprom, Rostelecom, Russian Railways, etc.), that does NOT automatically make you a PEP. But the bank may ask additional questions about the nature of your work and your links with management.
 
-PEP status means enhanced checks for a long time. Even after leaving office, PEP status lasts at least 12 months (under 6AMLD), and in practice many banks apply it indefinitely.
+PEP status means enhanced checks. After leaving office, the bank must keep treating the person as a risk for at least 12 months ([Directive (EU) 2015/849, Art. 22](https://eur-lex.europa.eu/eli/dir/2015/849/oj/eng), checked 2026-11-07), and in practice many banks apply it for longer.
 
 Banks use specialised databases (World-Check by Refinitiv/LSEG, Dow Jones Risk & Compliance, LexisNexis) for automatic screening. If your name matches someone in the database, a manual review follows.
 
@@ -104,9 +104,9 @@ Banks use specialised databases (World-Check by Refinitiv/LSEG, Dow Jones Risk &
 
 ### What is sanctioned
 
-- **Specific banks** (SDN list): Sberbank, VTB, Alfa-Bank, Promsvyazbank, Otkritie, Sovcombank, Rosselkhozbank and others — transfers from these banks are not possible
-- **Specific individuals** — about 2,200 people (current list at [sanctionsmap.eu](https://www.sanctionsmap.eu/))
-- **The Mir/SBP system** — from 25 January 2026 (EU's 19th sanctions package)
+- **Specific Russian banks** — several were disconnected from SWIFT or placed under transaction bans by the EU; check the current lists on [sanctionsmap.eu](https://www.sanctionsmap.eu/) and ask your bank whether a transfer from a given bank is accepted
+- **Specific individuals** — thousands of people and entities (current list at [sanctionsmap.eu](https://www.sanctionsmap.eu/))
+- **The Mir/SBP system** — from 25 January 2026 ([EU's 19th sanctions package](https://www.consilium.europa.eu/en/press/press-releases/2025/10/23/19th-package-of-sanctions-against-russia-eu-targets-russian-energy-third-country-banks-and-crypto-providers/), checked 2026-11-07)
 - **Sectoral restrictions** — defence, energy, dual-use goods
 
 ### What is NOT sanctioned
@@ -121,7 +121,7 @@ Banks use specialised databases (World-Check by Refinitiv/LSEG, Dow Jones Risk &
 
 **Derisking** is a bank strategy of turning away whole categories of clients instead of assessing risk case by case. The Central Bank of Cyprus and the ECB criticise the practice, but banks keep using it because:
 
-- The fine for an AML breach is up to **€5 million** or **10% of annual turnover** (under 6AMLD)
+- For banks and other financial institutions, EU law requires the maximum administrative fine for a legal person to be at least **€5 million** or **10% of annual turnover** ([Directive (EU) 2015/849, Art. 59](https://eur-lex.europa.eu/eli/dir/2015/849/oj/eng), checked 2026-11-07); the exact amounts are set in Cypriot law
 - Reputational risk
 - Running a compliance check on each client from Russia costs more than the potential income
 
@@ -168,7 +168,7 @@ Banks' specific policies change, but the general picture as of early 2026:
 2. **Links to sanctioned organisations** — even indirect ones (a former employer came under sanctions)
 3. **No Cypriot residence permit** — most banks don't open accounts without an ARC
 4. **Crypto income without documentation** — banks see it as a high AML risk
-5. **Profile and transactions don't match** — you declare a €3 000 salary, and €50 000 arrives in the account
+5. **Profile and transactions don't match** — you declare a €3,000 salary, and €50,000 arrives in the account
 6. **PEP status** without further explanation
 7. **Refusing to provide documents** — any delay or evasion is viewed negatively
 

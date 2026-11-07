@@ -1,9 +1,9 @@
 ---
 slug: "leaving-russia-tax-residency"
 title: "Leaving Russia: Taxes, Registrations and a Checklist"
-description: "What to do when you move from Russia to Cyprus: tax residency, the 30% rate, military registration, powers of attorney, pensions and managing property. Checklist."
+description: "Moving from Russia to Cyprus: tax residency, the 30% rate, military registration, powers of attorney, pension and property. Includes a checklist."
 date: 2026-03-11
-updated: 2026-03-11
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -16,11 +16,11 @@ draft: false
 translationKey: "leaving-russia-tax-residency"
 faqSchema:
   - question: "When do I become a non-resident for Russian tax purposes?"
-    answer: "When you spend fewer than 183 days in Russia in a calendar year. All days are added up (they do not have to be consecutive). The day of arrival and the day of departure both count."
+    answer: "When you spend fewer than 183 days in Russia within 12 consecutive months (Art. 207(2) of the Tax Code). All days are added up (they do not have to be consecutive); the day of arrival and the day of departure both count. The tax authority determines your status for a tax period at the end of the calendar year."
   - question: "What is the personal income tax (NDFL) rate for non-residents?"
-    answer: "30% on most income (salary, rent, interest). Dividends are taxed at 15%. Since 2025 there is an NDFL exemption on the sale of real estate after a minimum ownership period (5 years)."
+    answer: "30% on most income (salary, rent, interest). Dividends are taxed at 15%. Income from selling real estate is exempt from NDFL after the minimum ownership period (Art. 217.1 of the Tax Code; 5 years, in some cases 3); if the period is not met, 30% applies to the full amount, without deductions."
   - question: "Do I have to be removed from military registration?"
-    answer: "By law, yes, if you leave for more than 6 months. The fine for not doing so is up to 30,000 rubles. You can apply through the military enlistment office or Gosuslugi."
+    answer: "Yes, if you leave the country for a long period. The time threshold and the procedure are set out in Art. 10 of the Federal Law “On Military Duty and Military Service”; check the current wording. The size of the fine depends on the part of Art. 21.5 of the Code of Administrative Offences. You can apply through the military enlistment office or Gosuslugi."
   - question: "Can I issue a power of attorney while already abroad?"
     answer: "Yes, through the Russian consulate in Cyprus (Nicosia). A consular power of attorney is equivalent to a notarised one. Cost: 30-80 euros, appointments 2-4 weeks ahead."
   - question: "Do I need to notify the Ministry of Internal Affairs (MVD) about getting a Cyprus residence permit?"
@@ -66,15 +66,15 @@ You left Russia on 1 July 2025 and never came back:
 | Salary from a Russian employer | 13% (up to 5 million ₽/year), 15% (above) | 30% |
 | Dividends from Russian companies | 13% / 15% | 15% |
 | Sale of real estate (owned less than 5 years) | 13% / 15% on the profit | 30% on the full sale amount |
-| Sale of real estate (owned more than 5 years) | Not taxed | 30% on the full sale amount (since 2025 — see below) |
+| Sale of real estate (owned more than 5 years) | Not taxed | Not taxed if the minimum ownership period is met (Art. 217.1 of the Tax Code) |
 | Rental income | 13% / 15% | 30% |
 | Interest on deposits | 13% / 15% (with a tax-free minimum) | 30% |
 
-### Key changes since 2025 (Federal Law No. 389 of 31.07.2023)
+### Sale of real estate: exemption after the ownership period
 
-From 1 January 2025, non-residents selling real estate in Russia gained the right to an **NDFL exemption** if the minimum ownership period is met (5 years, or 3 years in certain cases) — on the same terms as residents. This is a significant benefit that did not exist before.
+Income from selling real estate in Russia is exempt from NDFL after the minimum ownership period (5 years, in some cases 3) — Art. 217.1 of the Tax Code. If the period is not met, a non-resident pays 30% on the full amount of income: property deductions are not available.
 
-> **Important:** The law is already in force, but enforcement practice is only taking shape. Check with a tax adviser.
+> **Important:** How the period and conditions apply to a non-resident in your case — check with a tax adviser.
 
 ### Deductions
 
@@ -104,13 +104,13 @@ Your employer acts as a tax agent and withholds NDFL itself. But the rate depend
 - You must notify your employer about the change in your tax status
 - If the employer keeps withholding 13% for a non-resident, that is its risk, and the additional assessment will come to you
 
-> **Important:** Since 2024, income from remote work for Russian companies from abroad is treated as income from Russian sources (Federal Law No. 389). This means Russia has the right to tax this income even if you are a non-resident. The rate is 13/15% (if the employment contract is with a Russian organisation or its separate division), but with additional conditions. The situation is complicated — be sure to consult a specialist.
+> **Important:** Income from remote work for a Russian company from abroad is a complex question of its own: where the work is actually performed determines whether the income counts as Russian-source income (Art. 208 of the Tax Code). If it is taxed as non-resident income, the rate is 30% (Art. 224). Be sure to consult a specialist.
 
 ## How do you deal with military registration when you move?
 
 ### The obligation when leaving
 
-Under Art. 10 of the Federal Law "On Military Duty and Military Service", citizens leaving Russia **for more than 6 months** must **be removed from military registration** at the military enlistment office.
+Under Art. 10 of the Federal Law "On Military Duty and Military Service", citizens leaving Russia **for a long period** must **be removed from military registration** at the military enlistment office. The time threshold is set in the article itself — check it in the current wording.
 
 ### In practice
 
@@ -120,7 +120,7 @@ Under Art. 10 of the Federal Law "On Military Duty and Military Service", citize
 
 ### Consequences of not deregistering
 
-- Fine under Art. 21.5 of the Code of Administrative Offences: 500–3,000 ₽ (increased since 2023 to 10,000–30,000 ₽ for certain offences)
+- Fine under Art. 21.5 of the Code of Administrative Offences; the amount depends on the part of the article — check the current wording
 - In theory, grounds for being put on a wanted list as part of mobilisation measures
 - In practice, enforcement depends on the situation and your age
 
@@ -179,8 +179,8 @@ If you rent out an apartment in Russia as a non-resident:
 
 If you sell real estate as a non-resident:
 
-- **Owned less than 5 years (or 3 years in certain cases):** NDFL 30% of the full sale amount (not of the profit — deducting the purchase costs formally does not apply to non-residents, although an exemption based on ownership period appeared in 2025)
-- **Owned more than 5 years:** since 2025, an NDFL exemption (on the same terms as residents)
+- **Owned less than the minimum period (5 years, in some cases 3):** NDFL 30% of the full sale amount (not of the profit — deducting the purchase costs is not available to non-residents)
+- **After the minimum ownership period:** the income is exempt from NDFL (Art. 217.1 of the Tax Code)
 - A private buyer is **NOT** a tax agent. You file 3-NDFL yourself and pay the tax
 
 > **Important:** When selling through a trusted person, make sure the power of attorney explicitly states the right to sell the specific property, with the cadastral number and address.
@@ -266,13 +266,13 @@ If you sell real estate as a non-resident:
 ## Frequently asked questions
 
 **When do I become a non-resident for Russian tax purposes?**
-When you spend fewer than 183 days in Russia in a calendar year. All days are added up (they do not have to be consecutive). The day of arrival and the day of departure both count.
+When you spend fewer than 183 days in Russia within 12 consecutive months (Art. 207(2) of the Tax Code). All days are added up (they do not have to be consecutive); the day of arrival and the day of departure both count. The tax authority determines your status for a tax period at the end of the calendar year.
 
 **What is the NDFL rate for non-residents?**
-30% on most income (salary, rent, interest). Dividends are taxed at 15%. Since 2025 there is an NDFL exemption on the sale of real estate after a minimum ownership period (5 years).
+30% on most income (salary, rent, interest). Dividends are taxed at 15%. Income from selling real estate is exempt from NDFL after the minimum ownership period (Art. 217.1 of the Tax Code; 5 years, in some cases 3); if the period is not met, 30% applies to the full amount, without deductions.
 
 **Do I have to be removed from military registration?**
-By law, yes, if you leave for more than 6 months. The fine for not doing so is up to 30,000 rubles. You can apply through the military enlistment office or Gosuslugi.
+Yes, if you leave the country for a long period. The time threshold and the procedure are set out in Art. 10 of the Federal Law “On Military Duty and Military Service”; check the current wording. The size of the fine depends on the part of Art. 21.5 of the Code of Administrative Offences. You can apply through the military enlistment office or Gosuslugi.
 
 **Can I issue a power of attorney while already abroad?**
 Yes, through the Russian consulate in Cyprus (Nicosia). A consular power of attorney is equivalent to a notarised one. Cost: €30–80, appointments 2–4 weeks ahead.
@@ -295,4 +295,4 @@ Moving away from Russia is a project that takes preparation. The more issues you
 
 ## Sources
 
-- [General Healthcare System (GeSY)](https://www.gesy.org.cy/sites/Sites/en-US/default.aspx) — GeSY
+- [Federal Tax Service of Russia: tax status of an individual](https://www.nalog.gov.ru/rn77/fl/interest/dual_nationality/status/) — Art. 207(2) of the Tax Code, checked 2026-11-07

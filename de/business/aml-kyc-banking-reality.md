@@ -1,9 +1,9 @@
 ---
 slug: "aml-kyc-banking-reality"
-title: "Bank-AML/KYC für Russen auf Zypern"
-description: "Bankkonto auf Zypern für russische Staatsbürger: AML/KYC-Prüfungen, Sanktionen, Unterlagen. So eröffnen Sie ein Konto und bestehen die Compliance-Prüfung — Ratgeber 2026."
+title: "Bankkonto auf Zypern für Russen: AML/KYC-Prüfung"
+description: "Bankkonto auf Zypern für Russen: Welche AML/KYC-Prüfungen es gibt, welche Unterlagen Sie brauchen und wie Sie die Compliance bestehen. Ratgeber 2026."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -27,9 +27,9 @@ faqSchema:
     answer: "Reichen Sie sie so schnell wie möglich ein. Verzögerung wird als Ausweichen gewertet. Bereiten Sie Kontoauszüge für 6-12 Monate, Steuererklärungen und eine Beschreibung der Mittelherkunft vor."
 ---
 
-> **Kurz gesagt:** Seit 2022 haben die zyprischen Banken die Prüfungen für Russen verschärft. Die Bank of Cyprus hat mehr als 20 000 Konten geschlossen. Der Prozess umfasst AML/KYC-Prüfungen und Unterlagen und kann mehrere Wochen dauern.
+> **Kurz gesagt:** Seit 2022 haben die zyprischen Banken die Prüfungen für Russen verschärft. Banken haben Konten russischer Kunden überprüft und geschlossen. Der Prozess umfasst AML/KYC-Prüfungen und Unterlagen und kann mehrere Wochen dauern.
 
-Ein [Bankkonto auf Zypern](/de/business/banks-cyprus-comparison/) als russischer Staatsbürger zu eröffnen, ist machbar, aber nicht trivial. Seit 2022 haben zyprische Banken die Prüfungen für Kunden aus Russland verschärft: Die Bank of Cyprus hat mehr als 20 000 Konten von Russen geschlossen, andere Banken sind gefolgt. Wir erklären, wie das AML/KYC-System in der Praxis funktioniert und was Sie brauchen, um die Prüfung zu bestehen.
+Ein [Bankkonto auf Zypern](/de/business/banks-cyprus-comparison/) als russischer Staatsbürger zu eröffnen, ist machbar, aber nicht trivial. Seit 2022 haben zyprische Banken die Prüfungen für Kunden aus Russland verschärft: Banken haben Konten russischer Kunden überprüft und geschlossen. Wir erklären, wie das AML/KYC-System in der Praxis funktioniert und was Sie brauchen, um die Prüfung zu bestehen.
 
 > **Offizielle Quellen:**
 > - [Central Bank of Cyprus — AML/CFT](https://www.centralbank.cy/en/licensing-supervision/anti-money-laundering) — AML-Anforderungen der Zentralbank von Zypern
@@ -46,7 +46,7 @@ Ein [Bankkonto auf Zypern](/de/business/banks-cyprus-comparison/) als russischer
 Auf Zypern sind diese Verfahren geregelt durch:
 
 - **6AMLD** (Directive (EU) 2018/1673) — die sechste EU-Geldwäscherichtlinie, die Zypern umsetzen muss
-- **Zyprisches Gesetz N. 188(I)/2007** — das zentrale AML-Gesetz (Prevention and Suppression of Money Laundering and Terrorist Financing Law), mit zahlreichen Änderungen
+- **[Zyprisches Gesetz N. 188(I)/2007](https://www.cylaw.org/nomoi/enop/non-ind/2007_1_188/full.html)** — das zentrale AML-Gesetz (Prevention and Suppression of Money Laundering and Terrorist Financing Law), mit zahlreichen Änderungen
 - **Richtlinien der Zentralbank von Zypern** — die Aufsichtsbehörde erlässt konkrete Vorgaben für Banken
 
 Für eine Bank geht die Strafe für eine übersehene verdächtige Transaktion in die Millionen Euro. Für einen Manager bedeutet sie strafrechtliche Haftung. Deshalb ist das System auf „lieber ablehnen als riskieren" eingestellt.
@@ -76,7 +76,7 @@ Die folgenden Faktoren erhöhen die Wahrscheinlichkeit einer verschärften Prüf
 | Faktor | Risikostufe |
 |--------|-------------|
 | Russische Staatsbürgerschaft (allein) | Erhöht |
-| Große Summen ohne Erklärung (>€50 000) | Hoch |
+| Große Summen ohne Erklärung (>€50.000) | Hoch |
 | Überweisungen aus/über mehrere Rechtsordnungen | Hoch |
 | Krypto-Einkünfte ohne Dokumentation | Hoch |
 | Verbindung zu sanktionierten Banken (Sber, VTB, Alfa) | Kritisch |
@@ -96,7 +96,7 @@ Die folgenden Faktoren erhöhen die Wahrscheinlichkeit einer verschärften Prüf
 
 > **Wichtig:** Wenn Ihr früherer Arbeitgeber ein Staatsunternehmen ist (Gazprom, Rostelecom, Russische Eisenbahnen usw.), macht Sie das NICHT automatisch zum PEP. Die Bank kann aber zusätzliche Fragen zur Art Ihrer Arbeit und zu Verbindungen zur Führung stellen.
 
-PEP-Status bedeutet eine lange verschärfte Prüfung. Auch nach dem Ausscheiden aus dem Amt bleibt der PEP-Status mindestens 12 Monate bestehen (nach 6AMLD), und in der Praxis wenden ihn viele Banken unbefristet an.
+PEP-Status bedeutet eine verschärfte Prüfung. Nach dem Ausscheiden aus dem Amt muss die Bank die Person mindestens 12 Monate weiter als Risiko behandeln ([Richtlinie (EU) 2015/849, Art. 22](https://eur-lex.europa.eu/eli/dir/2015/849/oj/eng), geprüft am 07.11.2026), und in der Praxis wenden viele Banken das länger an.
 
 Banken nutzen spezialisierte Datenbanken (World-Check von Refinitiv/LSEG, Dow Jones Risk & Compliance, LexisNexis) für das automatische Screening. Stimmt Ihr Name mit jemandem aus der Datenbank überein, folgt eine manuelle Prüfung.
 
@@ -104,9 +104,9 @@ Banken nutzen spezialisierte Datenbanken (World-Check von Refinitiv/LSEG, Dow Jo
 
 ### Was sanktioniert ist
 
-- **Bestimmte Banken** (SDN-Liste): Sberbank, VTB, Alfa-Bank, Promsvyazbank, Otkritie, Sovcombank, Rosselkhozbank und andere — Überweisungen von diesen Banken sind nicht möglich
-- **Bestimmte natürliche Personen** — rund 2 200 Personen (aktuelle Liste auf [sanctionsmap.eu](https://www.sanctionsmap.eu/))
-- **Das System Mir/SBP** — seit dem 25. Januar 2026 (19. EU-Sanktionspaket)
+- **Bestimmte russische Banken** — mehrere wurden von der EU vom SWIFT-System abgekoppelt oder mit Transaktionsverboten belegt; die aktuellen Listen stehen auf [sanctionsmap.eu](https://www.sanctionsmap.eu/), und Ihre Bank sagt Ihnen, ob eine Überweisung von einer bestimmten Bank angenommen wird
+- **Bestimmte Personen** — Tausende Personen und Organisationen (aktuelle Liste auf [sanctionsmap.eu](https://www.sanctionsmap.eu/))
+- **Das System Mir/SBP** — seit dem 25. Januar 2026 ([19. EU-Sanktionspaket](https://www.consilium.europa.eu/en/press/press-releases/2025/10/23/19th-package-of-sanctions-against-russia-eu-targets-russian-energy-third-country-banks-and-crypto-providers/), geprüft am 07.11.2026)
 - **Sektorale Beschränkungen** — Verteidigung, Energie, Güter mit doppeltem Verwendungszweck
 
 ### Was NICHT sanktioniert ist
@@ -121,7 +121,7 @@ Banken nutzen spezialisierte Datenbanken (World-Check von Refinitiv/LSEG, Dow Jo
 
 **Derisking** ist die Strategie von Banken, ganze Kundengruppen abzulehnen, statt Risiken individuell zu bewerten. Die Zentralbank von Zypern und die EZB kritisieren diese Praxis, doch die Banken nutzen sie weiter, weil:
 
-- Die Strafe für einen AML-Verstoß bis zu **€5 Mio.** oder **10 % des Jahresumsatzes** beträgt (nach 6AMLD)
+- Für Banken und andere Finanzinstitute verlangt das EU-Recht, dass die Höchststrafe für juristische Personen mindestens **€5 Mio.** oder **10 % des Jahresumsatzes** beträgt ([Richtlinie (EU) 2015/849, Art. 59](https://eur-lex.europa.eu/eli/dir/2015/849/oj/eng), geprüft am 07.11.2026); die genauen Beträge legt das zyprische Recht fest
 - Reputationsrisiken bestehen
 - Die Compliance-Prüfung jedes Kunden aus Russland mehr kostet als der mögliche Ertrag
 
@@ -155,7 +155,7 @@ Die konkreten Richtlinien der Banken ändern sich, das allgemeine Bild Anfang 20
 
 ### Für ein Geschäftskonto (zusätzlich)
 
-- Handelsregisterauszug / Gründungsurkunde (Certificate of Registration)
+- Registrierungsbescheinigung der Firma (Certificate of Registration)
 - Satzung (Memorandum & Articles of Association)
 - Register der Direktoren und Gesellschafter
 - Businessplan oder Tätigkeitsbeschreibung
@@ -168,7 +168,7 @@ Die konkreten Richtlinien der Banken ändern sich, das allgemeine Bild Anfang 20
 2. **Verbindung zu sanktionierten Organisationen** — auch eine indirekte (der frühere Arbeitgeber geriet unter Sanktionen)
 3. **Kein zyprischer Aufenthaltstitel** — die meisten Banken eröffnen ohne ARC kein Konto
 4. **Krypto-Einkünfte ohne Dokumentation** — Banken sehen darin ein hohes AML-Risiko
-5. **Profil und Transaktionen passen nicht zusammen** — Sie geben ein Gehalt von €3 000 an, und auf das Konto kommen €50 000
+5. **Profil und Transaktionen passen nicht zusammen** — Sie geben ein Gehalt von €3.000 an, und auf das Konto kommen €50.000
 6. **PEP-Status** ohne zusätzliche Erklärungen
 7. **Verweigerung, Unterlagen vorzulegen** — jede Verzögerung oder Ausflucht wird negativ gewertet
 

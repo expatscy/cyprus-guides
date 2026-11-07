@@ -24,7 +24,6 @@ Das amerikanische Visum fur Drittstaatsangehorige auf Zypern wird uber die US-Bo
 > **Offizielle Quellen:**
 > - [U.S. Embassy Cyprus -- Visas](https://cy.usembassy.gov/visas/) -- Visuminformationen
 > - [U.S. Embassy Cyprus -- appointment-system change](https://cy.usembassy.gov/changes-to-our-visa-appointment-scheduling-system/) -- neuer Anbieter seit 30. Mai 2025
-> - [Visa Appointment Service](https://cy.usembassy.gov/visas/) -- Terminbuchung
 > - [Tourism & Business Visas](https://cy.usembassy.gov/tourism-and-business-visas) -- B1/B2-Visa
 > - Support: +357 25 246813
 

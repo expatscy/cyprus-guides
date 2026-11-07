@@ -3,7 +3,7 @@ slug: "mortgage-cyprus-foreigners-guide"
 title: "Cyprus Mortgages: Rates for Foreign Buyers"
 description: "Compare Cyprus mortgage products, dated rate examples, residence requirements, construction finance, documents and registration costs."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Property"
 author: "Expats Cyprus"
 tags:
@@ -110,7 +110,7 @@ The [Finance Ministry interest-subsidy scheme](https://www.gov.cy/mof/en/interes
 
 The announced subsidy is **50% of the average interest-rate increase relative to signing**, for **two years from first disbursement**, capped at **two percentage points**. It is not a blanket promise to pay 2% of every mortgage rate or evidence that new applications are open.
 
-The Ministry's **4 May 2026** young-person/couple housing-scheme announcement described assistance up to **€50,000** for additional qualifying applicants who had **already applied**. Do not assume a new entitlement or mortgage compatibility without the applicable conditions. See our [scheme-specific housing guide](/en/property/housing-subsidies-cyprus-home-program/).
+On **4 May 2026** the [Ministry of the Interior announced](https://www.gov.cy/esoterika-themata/parachorisi-prosthetis-epidotisis-e11-ekat-gia-stirixi-epiprostheton-277-neon-kai-nearon-zevgarion/) about €11 million for another **277** young people and couples (up to age 41) who had **already applied** to its housing scheme, which provides up to **€50,000** depending on income and family composition. Do not assume a new entitlement or mortgage compatibility without the applicable conditions. See our [scheme-specific housing guide](/en/property/housing-subsidies-cyprus-home-program/).
 
 ## Related guides
 

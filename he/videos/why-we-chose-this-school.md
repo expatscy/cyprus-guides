@@ -5,9 +5,8 @@ description: "הורים מספרים כיצד בחרו בית ספר לילדם
 date: 2024-11-25
 updated: 2026-03-14
 youtube_id: "yaLO5mEs3Sg"
-duration: "PT40M00S"
+duration: "PT20M41S"
 upload_date: "2024-11-25"
-view_count: 9800
 tags:
   - חינוך
   - משפחה

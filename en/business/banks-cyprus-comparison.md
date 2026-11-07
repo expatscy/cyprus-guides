@@ -3,7 +3,7 @@ slug: "banks-cyprus-comparison"
 title: "Cyprus Banks Compared: BoC, Eurobank, Alpha"
 description: "Compare Bank of Cyprus, Eurobank and Alpha Bank Cyprus: documented account features, product-specific fees, opening conditions and deposit protection."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -14,7 +14,7 @@ draft: false
 translationKey: "banki-kipr-otkrytie-scheta-boc-hellenic"
 faqSchema:
   - question: "Which Cyprus banks does this guide compare?"
-    answer: "This guide compares published information from Bank of Cyprus, Eurobank Limited and Alpha Bank Cyprus. Eurobank's integration FAQ says the legal merger was completed in September 2025. Alpha's ex-AstroBank page describes its customer systems-and-services transition as in progress. Check the instructions for your actual account."
+    answer: "This guide compares published information from Bank of Cyprus, Eurobank Limited and Alpha Bank Cyprus. Eurobank's integration FAQ says the legal merger was completed in September 2025. Alpha Bank announced on 3 November 2025 that it completed the acquisition of AstroBank's assets and liabilities; Alpha's ex-AstroBank page covers the customer systems-and-services transition. Check the instructions for your actual account."
   - question: "Do Cyprus banks charge monthly fees?"
     answer: "Fees depend on the product. Eurobank's Basic Account lists EUR 2 per month and up to EUR 12 per calendar year for specified additional services, with a pro-rata limit for accounts opened during the year; other services can be charged without that cap. Bank of Cyprus advertises no maintenance fees for its app-opening offer, with exceptions for International Customers. Neither example establishes the fees for every account."
   - question: "Is online banking available in Cyprus?"
@@ -27,7 +27,7 @@ Compare the account you can actually open and use, rather than choosing from a g
 
 Eurobank's [integration FAQ](https://www.eurobank.com.cy/en-us/faq/integration/common-customers) says its **legal merger was completed in September 2025**. Its current account pages use **Eurobank Limited / Eurobank Ltd**. Older references to Hellenic or Eurobank Cyprus should be checked against the instructions for the current institution and account.
 
-Alpha Bank Cyprus's [ex-AstroBank information page](https://www.alphabank.com.cy/en/astrobank) describes the transition of ex-AstroBank customers to Alpha's systems and services as **in progress**, with product-dependent changes and possible customer actions. Consult that page and its linked FAQs for your products.
+Alpha Bank Cyprus's [ex-AstroBank information page](https://www.alphabank.com.cy/en/astrobank) covers the transition of ex-AstroBank customers to Alpha's systems and services, with product-dependent changes and possible customer actions. Alpha Bank [announced on 3 November 2025](https://www.alpha.gr/-/media/AlphaGr/Files/Group/Corporate-Announcements/2025/20251103-etairiki-anakoinosi-en.pdf) that it had completed the acquisition of substantially all of AstroBank's assets and liabilities. Consult the page and its linked FAQs for the current status for your products (checked 2026-11-07).
 
 ## How do the published options compare?
 

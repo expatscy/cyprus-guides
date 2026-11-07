@@ -3,7 +3,7 @@ slug: "exit-planning-leaving-cyprus"
 title: "Leaving Cyprus: Exit Checklist & Plan B"
 description: "How to leave Cyprus properly: tax clearance, bank accounts, selling property, cancelling permits. Exit checklist and Plan B destinations."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -85,7 +85,7 @@ GeSY contributions stop automatically when your employment contract ends or you 
 
 Social Insurance contributions are not refunded, but they are preserved. If you worked in Cyprus and paid contributions, they count towards your pension under EU regulations (EC 883/2004). Request a U1 document (employment history confirmation) from [Social Insurance Services](https://www.gov.cy/mlsi/sid/).
 
-**For UK nationals:** Post-Brexit, the UK-Cyprus bilateral social security agreement still applies. Your Cyprus contributions count towards UK State Pension qualifying years. Request form U1 before leaving.
+**For UK nationals:** UK guidance lists Cyprus among the EU countries and says the UK "agreed to maintain social security co-ordination" after leaving the EU ([gov.uk, Guidance on social security abroad NI38](https://www.gov.uk/government/publications/social-security-abroad-ni38/guidance-on-social-security-abroad-ni38), checked 2026-11-07). It does not list a separate UK-Cyprus bilateral agreement. Before you leave, ask the UK International Pension Centre how your Cyprus contributions count towards your State Pension.
 
 ## How do I close my residence permit properly?
 

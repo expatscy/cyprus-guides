@@ -1,9 +1,9 @@
 ---
 slug: "zypern-staatsbuergerschaft-einbuergerung"
-title: "Zyprische Staatsbürgerschaft: Einbürgerung"
-description: "Zyprischer Pass durch Einbürgerung: 8 Jahre Aufenthalt, B1-Griechischprüfung, EUR 500 Gebühr, doppelte Staatsbürgerschaft. Leitfaden 2026."
+title: "Zyprische Staatsbürgerschaft: Einbürgerung nach 8 Jahren"
+description: "Reguläre Einbürgerung auf Zypern: sieben Jahre aus den letzten zehn plus zwölf Monate, Griechisch B1, Staatsbürgerprüfung, Formular M127, Gebühren."
 date: "2026-04-10"
-updated: "2026-04-10"
+updated: "2026-11-07"
 category: "Immigration"
 author: "Expats Cyprus"
 tags:
@@ -15,241 +15,163 @@ tags:
 draft: false
 translationKey: "grazhdanstvo-kipra-naturalizatsiya"
 faqSchema:
-  - question: "Wie bekomme ich als Deutscher die zyprische Staatsbürgerschaft?"
-    answer: "Durch reguläre Einbürgerung: 8 Jahre legaler Aufenthalt (7 Jahre in den letzten 10 + 1 Jahr ununterbrochen vor Antrag), B1-Griechischprüfung, Kultur- und Politikprüfung mit mindestens 60%, Antragsgebühr EUR 500. Gesamtkosten ca. EUR 1.100."
-  - question: "Ist doppelte Staatsbürgerschaft zwischen Deutschland und Zypern erlaubt?"
-    answer: "Zypern erlaubt die doppelte Staatsbürgerschaft. Seit der Reform des deutschen Staatsangehörigkeitsgesetzes (StAG, Juni 2024) ist auch für Deutsche die Mehrstaatigkeit grundsätzlich erlaubt. Sie müssen weder den deutschen noch den zyprischen Pass abgeben."
-  - question: "Was kostet die zyprische Staatsbürgerschaft?"
-    answer: "Die reguläre Einbürgerung kostet ca. EUR 1.100: EUR 500 Antragsgebühr + EUR 500 Registrierung + EUR 9 Gerichtsmarken + EUR 50-120 Pass + EUR 30 Personalausweis. Der Fast-Track für BCS-Mitarbeiter kostet ca. EUR 5.650."
-  - question: "Kann man durch Investition die zyprische Staatsbürgerschaft erhalten?"
-    answer: "Nein. Das Investitionsprogramm (Golden Passport) wurde im November 2020 eingestellt. Wege zur Staatsbürgerschaft: reguläre Einbürgerung (8 Jahre, EUR 500), Fast-Track für BCS-Angestellte (4-5 Jahre, EUR 5.000), oder durch Heirat mit zyprischem Staatsbürger (2 Jahre Aufenthalt + 3 Jahre Ehe, EUR 300)."
+  - question: "Wie lange muss man für die reguläre Einbürgerung auf Zypern leben?"
+    answer: "Zwölf Monate rechtmäßiger, ununterbrochener Aufenthalt unmittelbar vor dem Antrag, mit Abwesenheiten von insgesamt höchstens 90 Tagen, plus mindestens sieben anrechenbare Jahre in den zehn Jahren vor diesem Zwölfmonatszeitraum. Zeiten mit Studentenerlaubnis und bestimmten Schutzstatus zählen per Gesetz nicht."
+  - question: "Was kostet die reguläre Einbürgerung?"
+    answer: "Das Innenministerium nennt EUR 500 für die Einreichung von M127 und weitere EUR 500 für die Ausstellung der Einbürgerungsurkunde nach der Genehmigung. Übersetzung, Beglaubigung, Prüfungen, Veröffentlichung und Ausweisdokumente können gesondert kosten; das ist kein festes Gesamtbudget. Aktuelle Stempel- oder Beglaubigungsgebühren erfragen Sie bei der Bezirksverwaltung."
+  - question: "Welches Griechisch-Zertifikat ist erforderlich?"
+    answer: "Der reguläre Weg verlangt Griechisch B1. Die offiziellen Hinweise akzeptieren bestimmte Prüfungen des Griechischen Sprachzentrums oder das Zertifikat der School of Modern Greek der Universität Zypern. Wer ein anerkanntes Abitur mit griechischer Unterrichtssprache oder einen akademischen Abschluss eines griechischsprachigen Studiengangs hat, braucht kein Zertifikat."
+  - question: "Garantiert die Erfüllung der Voraussetzungen die Staatsbürgerschaft?"
+    answer: "Nein. Abschnitt 111 gibt dem Minister Ermessen, einen berechtigten, voll geschäftsfähigen erwachsenen Antragsteller einzubürgern. Die Staatsbürgerschaft folgt auf die Einbürgerungsurkunde und die förmliche Treueerklärung nach diesem Abschnitt."
+  - question: "Kann ich meine bisherige Staatsangehörigkeit behalten?"
+    answer: "Das zyprische Recht verlangt nicht generell den Verzicht auf die bisherige Staatsangehörigkeit. Abschnitt 111 erlaubt dem Ministerrat aber, auf Vorschlag des Ministers im Einzelfall oder für eine Kategorie den Verzicht zu verlangen. Prüfen Sie auch die Regeln Ihres Heimatlandes."
 ---
-> **Kurzantwort:** Einbürgerung erfordert 5-7 Jahre legalen Aufenthalt, Griechisch B1 und Bestehen der Pruefung. Fast-Track für BCS-Inhaber (4-5 Jahre).
 
-Die reguläre Einbürgerung ist der Hauptweg zum zyprischen Pass für Auswanderer, die nicht über den [Fast-Track für BCS-Unternehmen](/de/immigration/cyprus-citizenship-naturalization/) in Frage kommen. Das Verfahren dauert länger, kostet aber zehnmal weniger.
+> **Kurzantwort:** Die reguläre Einbürgerung verlangt mindestens sieben anrechenbare Jahre in den zehn Jahren vor einem eigenen letzten Zwölfmonatszeitraum, Griechisch B1 oder die Bildungsausnahme, die Staatsbürgerprüfung, guten Leumund, angemessene Unterkunft und ausreichende stabile Mittel.
 
-> **Rechtsgrundlage:**
-> - [Zivilregistergesetz 141(I)/2002](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html), Abschnitt 111 — Grundvoraussetzungen
-> - Änderungen: [149(I)/2023 (PDF)](https://www.cylaw.org/KDP/data/2023_1_149.pdf) (November 2023), [76(I)/2024 (PDF)](https://www.cylaw.org/KDP/data/2024_1_76.pdf) (Mai 2024)
-> - [Anforderungen des MOI](https://www.gov.cy/moi/en/information-regarding-the-application-for-obtaining-cypriot-citizenship-by-naturalization/)
-> - [Formular M127 und Dokumente](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/)
+Dieser Leitfaden behandelt die reguläre Einbürgerung nach **Abschnitt 111 und 111B des Zivilregistergesetzes 141(I)/2002**. Das Innenministerium gibt an, dass die geänderten Voraussetzungen seit dem **19. Dezember 2023** gelten. Anträge, die bei Inkrafttreten der Änderung anhängig waren, werden nach den Regeln zum Zeitpunkt der Einreichung behandelt. Anträge nach Inkrafttreten werden nach dem Recht beurteilt, das bei ihrer Prüfung gilt.
+
+> **Offizielle Quellen:** [Geltendes Gesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html), [Hinweise zu M127](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/) und [Checkliste der Unterlagen](https://www.gov.cy/media/sites/21/2025/10/List-of-Supporting-Documents-Application-M127-EN.pdf), geprüft am **3. Oktober 2026**.
 
 ## Welche Aufenthaltsanforderungen gelten?
 
-### Dauer des Aufenthalts
+### Zeit auf Zypern
 
-- **7 Jahre** kumulierter legaler Aufenthalt in den letzten **10 Jahren**
-- **Plus 12 Monate** ununterbrochener Aufenthalt unmittelbar vor dem Antrag
-- **Insgesamt mindestens 8 Jahre** legaler Aufenthalt auf Zypern
+- **Zwölf Monate** rechtmäßiger und ununterbrochener Aufenthalt unmittelbar vor dem Antrag.
+- In den **zehn Jahren vor diesen zwölf Monaten** mindestens **sieben Jahre** rechtmäßiger Aufenthalt oder Dienst im öffentlichen Dienst der Republik, oder eine Kombination aus beidem.
+- In den letzten zwölf Monaten unterbrechen Abwesenheiten von insgesamt **höchstens 90 Tagen** den Zeitraum nicht.
 
-Für Deutsche relevant: Das [DBA Deutschland-Zypern](/de/business/dba-deutschland-zypern/) regelt die Steuerpflicht während der Aufenthaltsjahre. Die steuerliche Ansässigkeit in Zypern beginnt in der Regel ab dem Umzugsjahr — planen Sie die Wegzugsbesteuerung rechtzeitig.
+Der Siebenjahreszeitraum und die letzten zwölf Monate sind getrennt. Führen Sie eine genaue Liste der Ein- und Ausreisen; die offizielle Checkliste verlangt sie.
 
-> Für **Kinder und Eltern zyprischer Staatsbürger** können verkürzte Aufenthaltsfristen gelten — erkundigen Sie sich bei Ihrer Bezirksverwaltung.
+### Griechischkenntnisse
 
-### Die 90-Tage-Regel
+Der reguläre Weg verlangt **Griechisch B1**. Die offiziellen Hinweise akzeptieren die Prüfungen des Griechischen Sprachzentrums, die der Prüfungsdienst des Bildungsministeriums abnimmt, oder ein Zertifikat der **School of Modern Greek der Universität Zypern**.
 
-Im **letzten Jahr** (12 Monate vor Antrag) darf die Gesamtabwesenheit **90 Tage** nicht überschreiten. Bei Überschreitung beginnt die Berechnung des letzten Jahres von vorn.
+Kein Zertifikat brauchen Inhaber eines Abschlusszeugnisses einer anerkannten weiterführenden Schule mit Griechisch als Hauptunterrichtssprache oder eines akademischen Abschlusses eines griechischsprachigen Studiengangs. Ein Abschluss in irgendeinem griechischsprachigen Kurs ist nicht automatisch diese Ausnahme.
 
-Die Berechnung erfolgt rückwirkend ab Antragsdatum. Geschäftsreisen und Urlaub zählen zum 90-Tage-Limit.
+Hinweise zur Vorbereitung finden Sie im [Leitfaden zur Griechischprüfung](/de/immigration/greek-language-exam-citizenship/).
 
-### Griechisch-Sprachprüfung
+### Prüfung zu Kultur und Politik
 
-Ein **B1-Zertifikat** (Mittelstufe) in Griechisch ist erforderlich. Details zur Prüfung finden Sie in unserem [Griechisch-Prüfungsleitfaden](/de/immigration/greek-language-exam-citizenship/).
-
-> **Ausnahme (Gesetz 76(I)/2024):** Kein Zertifikat erforderlich, wenn Sie ein Diplom einer Bildungseinrichtung besitzen, an der auf Griechisch unterrichtet wurde.
-
-### Kultur- und Politikprüfung
-
-Eine separate Prüfung zu „Grundelementen der zyprischen politischen und sozialen Realität". Eine dreiköpfige Kommission bewertet Sie, die Bestehensgrenze liegt bei **mindestens 60%**.
+Verlangt wird ein Zertifikat mit **mindestens 60 %** in der Prüfung des Prüfungsdienstes zu den Grundelementen der heutigen zyprischen politischen und gesellschaftlichen Wirklichkeit. Das Gesetz weist einem dreiköpfigen Ausschuss die Festlegung des Bewertungsverfahrens zu; ein persönliches Gespräch mit diesem Gremium beschreibt es nicht.
 
 ### Weitere Voraussetzungen
 
-- **Führungszeugnis** — keine Vorstrafen
-- **Angemessene Unterkunft** — Mietvertrag oder Eigentum
-- **Stabiles Einkommen** — Anstellung, selbständige Tätigkeit oder andere Mittel
-- **Absicht**, auf Zypern zu leben
+- **Guter Leumund.** Das Gesetz nennt relevante Gesichtspunkte, darunter bestimmte schwere Verurteilungen, laufende Strafverfahren, Sanktionen, Verstöße gegen Einwanderungsvorschriften und Risiken für die öffentliche Ordnung oder Sicherheit. Das geht über ein sauberes Führungszeugnis hinaus und bedeutet nicht, dass jede Verurteilung einen Antrag automatisch ausschließt.
+- **Angemessene Unterkunft** und **stabile, regelmäßige Mittel**, die für den Antragsteller und unterhaltsberechtigte Familienmitglieder genügen.
+- Die Absicht, in der Republik zu wohnen oder in den öffentlichen Dienst einzutreten oder dort zu bleiben.
 
-## Warum ist die Wegzugsbesteuerung wichtig?
+Das Gesetz verlangt auch, stabiles rechtmäßiges Einkommen, Langzeitarbeitslosigkeit und wegen Notlage erhaltene finanzielle Hilfe zu berücksichtigen. Erfüllte Voraussetzungen garantieren keine Genehmigung: Nach Abschnitt 111 entscheidet der Minister nach Ermessen.
 
-Bevor Sie den Weg zur zyprischen Staatsbürgerschaft planen, beachten Sie die **Wegzugsbesteuerung** (§ 6 AStG). Beim Wegzug aus Deutschland werden unrealisierte Kursgewinne auf Beteiligungen ab 1% besteuert, als ob Sie verkauft hätten.
+## Welche Aufenthaltszeiten zählen?
 
-- Bei Umzug in einen **EU/EWR-Staat** (Zypern = EU): Stundung möglich, aber **Sicherheitsleistung** kann verlangt werden
-- **GmbH-Anteile**: Besonders relevant — informieren Sie sich in unserem [GmbH-Wegzugsbesteuerungs-Guide](/de/business/gmbh-wegzugsbesteuerung-auswandern/)
-- Frist für Rückkehr ohne Besteuerung: **7 Jahre** (verlängerbar)
+Abschnitt 111B definiert Aufenthalt für die Einbürgerung als **körperliche Anwesenheit in der Republik unter Beachtung der geltenden Einwanderungsformalitäten**. Ein Aufenthaltstitel allein belegt nicht jeden Tag anrechenbarer Anwesenheit.
 
-Planen Sie den Wegzug mit einem **auf Auswanderung spezialisierten Steuerberater** — die Kombination aus Wegzugsbesteuerung und 8-jähriger Einbürgerungsfrist erfordert vorausschauende Planung.
+Das Gesetz schließt ausdrücklich Zeiten aus als:
 
-## Welche Aufenthaltstitel zählen?
+- Antragsteller auf internationalen Schutz.
+- Inhaber subsidiären Schutzes.
+- Inhaber vorübergehenden Schutzes.
+- Inhaber einer Studentenerlaubnis.
 
-Die Zeit mit **jeder legalen Aufenthaltsgenehmigung** zählt:
-
-- Arbeitserlaubnis (Employment Permit)
-- Besuchervisum (Visitor Permit)
-- Familienzusammenführung
-- Studentenvisum
-- EU Blue Card
-- Langfristige Aufenthaltsgenehmigung (LTRP)
-
-### Digital Nomad Visa — Unklar
-
-Das DNV wird als „Visitor"-Kategorie eingestuft. Maximale Dauer: 3 Jahre.
-
-- DNV ist als **temporäres** Visum ohne Weg zu PMR/Staatsbürgerschaft konzipiert
-- 3 Jahre Maximum reicht nicht für die 7-Jahres-Anforderung
-- Anwälte empfehlen, **nicht darauf zu setzen**, dass DNV-Zeiten angerechnet werden
+Lassen Sie Ihre Aufenthaltsgeschichte von der Bezirksverwaltung beurteilen, statt anzunehmen, dass jeder Titel und jede Abwesenheit zählt. Das Gesetz erlaubt, dass anrechenbare Zeiten und andere Voraussetzungen vor oder nach Inkrafttreten der Änderung von 2023 erworben wurden.
 
 ## Welche Dokumente werden benötigt?
 
-Alle ausländischen Dokumente müssen von einem **PIO-akkreditierten Übersetzer** übersetzt werden ([Übersetzerliste](https://www.gov.cy/pio/)). Deutsche Dokumente mit **Apostille** versehen.
+Nutzen Sie die [aktuelle M127-Checkliste](https://www.gov.cy/media/sites/21/2025/10/List-of-Supporting-Documents-Application-M127-EN.pdf). Unterlagen müssen ordnungsgemäß beglaubigt und gegebenenfalls übersetzt sein. Für beglaubigte Übersetzungen auf Zypern verweist der [staatliche Dienst](https://www.gov.cy/en/service/certified-translations-for-official-use/) auf das Register der vereidigten Übersetzer.
 
 ### Antragsformular
 
-- Ausgefülltes Formular **M127** (empfohlen auf Griechisch, englische Version verfügbar)
-- **3 Unterschriften von gebürtigen Zyprioten** auf der letzten Seite
-- Das Formular muss **beim Gericht beglaubigt** werden: Gerichtsmarken kaufen, aufkleben, beglaubigen lassen
+Verwenden Sie **M127** und unterschreiben Sie vor einem Standesbeamten (Registrar), wie das Ministerium es vorgibt. Das verlinkte Formular hat drei Abschnitte für Bürgen. Jeder Bürge erklärt, dass er die zyprische Staatsbürgerschaft anders als durch Einbürgerung oder Registrierung erworben hat, weder Anwalt, Vertreter noch Verwandter des Antragstellers ist und ihn persönlich kennt.
+
+Das verlinkte Formular enthält noch ältere Formulierungen zum Aufenthalt. Maßgeblich sind das geltende Gesetz und die Hinweise des Ministeriums; fragen Sie die Bezirksverwaltung, wie diese Felder auszufüllen sind.
 
 ### Persönliche Dokumente
 
-- Geburtsurkunde (Original) + Übersetzung
-- Kopien **aller Pässe** (falls während der Zeit auf Zypern gewechselt)
-- Kopien der Seiten mit **Ein-/Ausreisestempeln**
-- Kopie der Aufenthaltsgenehmigung (ARC)
-- Heiratsurkunde + Übersetzung (falls zutreffend)
-- Polizeiliches Führungszeugnis
-- **2 Passfotos**, vom Muhtar beglaubigt (Stempel + Unterschrift auf der Rückseite)
+Die Checkliste nennt:
 
-### Prüfungen und Zertifikate
+- Original der Geburtsurkunde.
+- Original eines **zyprischen** Führungszeugnisses, **sechs Monate** gültig.
+- Kopie des gültigen Aufenthaltstitels.
+- Heiratsurkunde oder Vertrag über eine eingetragene Partnerschaft, falls zutreffend.
+- Kopie des gültigen Reisepasses oder eines anderen Reisedokuments.
+- Kopien der Passseiten mit Ein- und Ausreisestempeln.
+- Genaue Aufstellung der Ein- und Ausreisen.
+- Zwei aktuelle Passfotos, vom Gemeindevorsteher (Community Leader) beglaubigt.
+- Kopie des Zahlungsbelegs über die Antragsgebühr von **EUR 500**.
 
-- B1-Griechisch-Zertifikat
-- Kultur- und Politikprüfungszertifikat (≥60%)
-- Hochschuldiplom + Übersetzung (falls vorhanden)
+### Prüfungen und Finanznachweise
 
-### Aufenthalts- und Einkommensnachweise
+- Das jeweilige Sprachzertifikat oder der Bildungsnachweis für die Ausnahme.
+- Das Zertifikat der Staatsbürgerprüfung mit **60 % oder mehr**.
+- Wohnnachweise, zum Beispiel Eigentumsurkunde, Kaufvertrag und Zahlungsbelege, Mietvertrag und Mietquittungen sowie Belege über Nebenkosten.
+- Finanznachweise, zum Beispiel Gehaltsabrechnungen, Arbeitsvertrag, Sozialversicherungsbeiträge, Einkommensteuerunterlagen, Bankkonten oder andere Einkommensnachweise.
 
-- Mietvertrag oder Eigentumsnachweis
-- Nebenkostenabrechnungen
-- Arbeitsvertrag
-- Sozialversicherungsauszüge (empfohlen: 5 Jahre)
-- Gehaltsabrechnungen (empfohlen: 1 Jahr)
-- Steuererklärungen (empfohlen: 5 Jahre)
-- Kontoauszüge (empfohlen: 1 Jahr)
-- **Tabelle** aller Ein- und Ausreisedaten
+Das sind Beispiele für Nachweise; die Checkliste schreibt nicht für alle Finanzunterlagen feste Zeiträume von einem oder fünf Jahren vor.
 
 ### Zeitungsveröffentlichung
 
-Pflichtschritt: Bekanntmachung des Einbürgerungsantrags in **zwei aufeinanderfolgenden Ausgaben** einer Zeitung.
-
-Zur Veröffentlichung: E-Mail an [ads@politis.com.cy](mailto:ads@politis.com.cy) mit Name, Adresse und Zweck. Die Redaktion kennt das Format.
+Legen Sie Kopien von Anzeigen in **zwei aufeinanderfolgenden Ausgaben einer Tageszeitung** bei, die den Einbürgerungsantrag bekannt machen. Verwenden Sie den Anzeigentext aus dem offiziellen Formular und klären Sie die Veröffentlichung mit der gewählten Zeitung.
 
 ## Was kostet die Einbürgerung?
 
-| Schritt | Betrag |
+Das Ministerium nennt:
+
+| Stufe | Gebühr |
 |---|---|
-| Antragstellung | **EUR 500** + 2 Marken à EUR 8,54 |
-| Registrierung (nach Genehmigung) | EUR 500 |
-| Gerichtsmarken für Zertifikat | EUR 9 |
-| Reisepass (Express, gleicher Tag) | EUR 120 |
-| Reisepass (Standard, 2-3 Wochen) | EUR 50 |
-| Personalausweis | EUR 30 |
-| **Gesamt (Minimum)** | **ca. EUR 1.090-1.160** |
+| Einreichung von M127 | **EUR 500** |
+| Einbürgerungsurkunde nach der Genehmigung | **EUR 500** |
 
-## Wie läuft die Antragstellung ab?
+Diese Gebühren sind kein Gesamtbudget. Übersetzung, Beglaubigung, Prüfungen, Veröffentlichung und spätere Pass- oder Ausweisanträge können gesondert kosten. Aktuelle Stempel- und Beglaubigungsgebühren erfragen Sie bei der Bezirksverwaltung: Die Ministeriumsseite nennt noch zwei Stempel zu je EUR 8,54, während die Steuerbehörde mitteilt, dass die Stempelsteuergesetze zum **1. Januar 2026** aufgehoben wurden. Behandeln Sie den alten Stempelbetrag nicht als bestätigte aktuelle Anforderung.
 
-Anträge werden **persönlich** bei der Bezirksverwaltung (Eparchiki Dioikisi) eingereicht:
+## Wo stelle ich den Antrag?
 
-- **Nikosia** — nach Terminvereinbarung
-- **Limassol** — Bezirksverwaltung Limassol (Tel. [25 806445](tel:25806445))
-- **Paphos** — nach Terminvereinbarung
-- **Larnaka** — nach Terminvereinbarung
-
-Die Gebühr wird vor Ort bezahlt (Kartenzahlung empfohlen).
+Reichen Sie **M127 bei der örtlichen Bezirksverwaltung** mit den erforderlichen Unterlagen und Gebühren ein. Fragen Sie dort nach Terminen und Zahlungsmodalitäten.
 
 ## Wie lange dauert die Bearbeitung?
 
-Standardanträge werden **1-2 Jahre** bearbeitet. Es gibt keine gesetzliche Höchstfrist (im Gegensatz zum Fast-Track mit maximal 8 Monaten).
+Die offiziellen M127-Hinweise nennen für den regulären Weg keine Bearbeitungsdauer. Richten Sie sich nach dem Fortgang Ihres eigenen Antrags, nicht nach einem versprochenen Termin.
 
-## Was gilt für Familienmitglieder?
+Für qualifizierte Fachkräfte bestimmter Unternehmen und ihre Familienangehörigen gibt es eine eigene Kategorie. Sie verlangt **vier anrechenbare Jahre mit Griechisch A2 oder drei mit B1** vor den getrennten letzten zwölf Monaten, bei Erfüllung der übrigen Voraussetzungen. Das Ministerium sagt, Antragsteller dieser Kategorie müssen **mindestens zwei Jahre vor dem Antrag** für ein qualifizierendes Unternehmen gearbeitet haben. Eine beschleunigte Prüfung geeigneter Anträge kann für **EUR 5.000** beantragt werden; die gesetzliche Frist beträgt höchstens **acht Monate**. Alle Kriterien stehen im [Leitfaden zur Einbürgerung hochqualifizierter Fachkräfte](/de/immigration/cyprus-citizenship-naturalization/).
 
-### Ehepartner
+## Wie funktionieren Familienanträge?
 
-Stellt **separat** unter denselben Voraussetzungen einen Antrag. Gleichzeitige Antragstellung möglich, jeder zahlt eigene Gebühr.
+Gehen Sie nicht davon aus, dass ein Antrag auf dem regulären Weg automatisch den Ehepartner einschließt oder Eltern eine kürzere Aufenthaltszeit verschafft. Fragen Sie die Bezirksverwaltung, welche Kategorie für jedes Familienmitglied gilt. Staatsbürgerschaft durch Heirat und Registrierung aufgrund zyprischer Abstammung folgen eigenen Kriterien.
 
-### Einbürgerung durch Heirat (Formular M125)
+## Was passiert nach der Genehmigung?
 
-Ein separater Weg:
+Das Ministerium nennt weitere **EUR 500** für die Ausstellung der Einbürgerungsurkunde. Nach Abschnitt 111 folgt die Staatsbürgerschaft auf die Urkunde und die förmliche Treueerklärung. Befolgen Sie für die weiteren Schritte und späteren Anträge auf Ausweisdokumente die Anweisungen der Bezirksverwaltung.
 
-- **3 Jahre** Ehe mit zyprischem Staatsbürger
-- **2 Jahre** Aufenthalt auf Zypern
-- Gebühr: **EUR 300**
-
-### Minderjährige Kinder
-
-Registrierung über Formular **M126**: vereinfachtes Verfahren, Gebühr **EUR 80** + Marken.
-
-## Was passiert beim Interview?
-
-Nach Einreichung: Wartezeit **mehrere Monate**. Ein Beamter ruft Sie zum Interview.
-
-- Interview auf **Griechisch**
-- Mitbringen: Reisepass, Geburtsurkunde, Diplom
-- Fragen zu den 3 zyprischen Bürgen möglich
-
-## Was kommt nach der Genehmigung?
-
-1. **Genehmigungsschreiben** → Bezirksverwaltung → **EUR 500** Registrierungsgebühr zahlen
-2. **Einbürgerungsurkunde** — ca. 2 Wochen, 2 Exemplare (blaues Papier)
-3. **Gerichtliche Beglaubigung** — 1 Exemplar mit EUR 9 Marken beglaubigen, zurückgeben
-4. **Nummer erhalten** — nach 7-10 Tagen E-Mail an [chioannou@papd.mof.gov.cy](mailto:chioannou@papd.mof.gov.cy)
-5. **Reisepass und Personalausweis** — Express EUR 120 (gleicher Tag) oder Standard EUR 50 (2-3 Wochen)
-
-## Gilt eine Wehrdienstpflicht?
-
-**Wichtig für Männer unter 45.** Nach der Einbürgerung besteht Wehrpflicht.
-
-| Alter | Dauer |
-|---|---|
-| 18-26 Jahre | **6 Monate** (8 bei Aufschub) |
-| Über 26 | **3 Monate** (5 bei Aufschub) |
-
-Einberufung meist im **Juli**. Details: [Wehrdienst-Leitfaden](/de/immigration/military-service-cyprus-children/).
+Zur Wehrpflicht lesen Sie den [Leitfaden zum Wehrdienst](/de/immigration/military-service-cyprus-children/) und lassen Sie die zuständige Behörde prüfen, bevor Sie sich auf eine bestimmte Dienstzeit verlassen.
 
 ## Ist doppelte Staatsbürgerschaft möglich?
 
-Zypern **erlaubt die doppelte Staatsbürgerschaft**. Seit der Reform des **Staatsangehörigkeitsgesetzes (StAG)** im Juni 2024 akzeptiert auch Deutschland grundsätzlich die Mehrstaatigkeit. Sie müssen weder den deutschen noch den zyprischen Pass abgeben.
+Das zyprische Recht verlangt keinen generellen Verzicht auf die bisherige Staatsangehörigkeit, aber **Abschnitt 111** erlaubt dem Ministerrat, auf Vorschlag des Ministers den Verzicht im Einzelfall oder für eine Kategorie zur Bedingung zu machen. Prüfen Sie auch die Regeln Ihrer bisherigen Staatsangehörigkeit.
 
-- Auf Zypern gelten Sie als **zyprischer Staatsbürger** (einschließlich Wehrpflicht für Männer)
-- Bei der Einreise nach Zypern/EU: zyprischen Pass nutzen; bei Einreise nach Deutschland: deutschen Pass
+## Gab es einen Weg über Investitionen?
 
-## Welcher Weg zur Staatsbürgerschaft ist der beste?
-
-| Weg | Aufenthaltsdauer | Gebühr | Bearbeitung |
-|---|---|---|---|
-| **Reguläre Einbürgerung** | 8 Jahre (7+1) | EUR 500 | 1-2 Jahre |
-| **Fast-Track (BCS)** | 4-5 Jahre | EUR 5.000 | bis 8 Mon. |
-| **Durch Heirat (M125)** | 2 J. + 3 J. Ehe | EUR 300 | 1-2 Jahre |
-| **Kinder/Eltern von Bürgern** | Verkürzt | EUR 500 | 1-2 Jahre |
+Das geltende Gesetz sieht den früheren Einbürgerungsweg über Investitionen für neue Anträge nicht mehr vor. Abschnitt 111A erhält bestimmte Regelungen für Anträge bis zum **30. Oktober 2020** und eine gesonderte Ausnahmebefugnis zur Ehren-Einbürgerung in Fällen öffentlichen Interesses. Der Kauf einer Immobilie oder ein Investoren-Aufenthaltstitel verleiht auf dem regulären Weg keine Staatsbürgerschaft.
 
 ## Welche praktischen Tipps gibt es?
 
-1. **B1-Prüfung frühzeitig beginnen** — Zertifikatausstellung dauert 6 Monate nach Bestehen
-2. **Ausreisen dokumentieren** — vollständige Tabelle aller Ein-/Ausreisedaten führen
-3. **Dokumente sammeln** — Steuererklärungen, Sozialversicherung, Gehaltsabrechnungen für alle Jahre
-4. **Zeitungsveröffentlichung** — einen Monat vor Antrag, 2 aufeinanderfolgende Ausgaben nötig
-5. **Drei zyprische Bürgen** — persönlich kennen und beim Interview darüber sprechen können
-6. **Budget** — ca. EUR 1.100 für den gesamten Prozess
-7. **Wegzugsbesteuerung** — vor dem Umzug unbedingt steuerlich beraten lassen
+1. Planen Sie die Griechisch- und die Staatsbürgerprüfung ein.
+2. Führen Sie die genaue Ein- und Ausreiseliste, die die Checkliste verlangt.
+3. Bereiten Sie Einkommens- und Wohnnachweise vor, die zu Ihrer Situation passen.
+4. Organisieren Sie die zwei aufeinanderfolgenden Anzeigen in der Tageszeitung im offiziellen Format.
+5. Lesen Sie die Bürgenerklärungen, bevor Sie jemanden um eine Unterschrift bitten.
+6. Klären Sie aktuelle Gebühren, Beglaubigungsregeln und Termine mit Ihrer Bezirksverwaltung.
 
----
-
-*Artikel basiert auf dem Zivilregistergesetz 141(I)/2002, Änderungen 149(I)/2023 und 76(I)/2024. Jeder Fall ist individuell — bei komplexen Situationen wenden Sie sich an einen Einwanderungsanwalt.*
+Wer aus Deutschland wegzieht, sollte vorher steuerlich klären, ob Wegzugsbesteuerung eine Rolle spielt. Hintergrund: [GmbH und Wegzugsbesteuerung](/de/business/gmbh-wegzugsbesteuerung-auswandern/).
 
 ---
 
 ## Quellen
 
-- [Zivilregistergesetz 141(I)/2002](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html) — CyLaw
-- [149(I)/2023 (PDF)](https://www.cylaw.org/KDP/data/2023_1_149.pdf) — CyLaw
-- [76(I)/2024 (PDF)](https://www.cylaw.org/KDP/data/2024_1_76.pdf) — CyLaw
-- [MOI Anforderungen](https://www.gov.cy/moi/en/information-regarding-the-application-for-obtaining-cypriot-citizenship-by-naturalization/) — gov.cy
-- [Formular M127](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/) — gov.cy
-- [PIO Übersetzerliste](https://www.gov.cy/pio/) — gov.cy
+Geprüft am **3. Oktober 2026**:
+
+- [Zivilregistergesetz 141(I)/2002, konsolidierter Text, Abschnitte 111, 111A und 111B](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)
+- [Innenministerium — M127: Voraussetzungen, Einreichung und Gebühren](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/)
+- [M127-Checkliste der Unterlagen](https://www.gov.cy/media/sites/21/2025/10/List-of-Supporting-Documents-Application-M127-EN.pdf)
+- [Offizielles Formular M127](https://www.gov.cy/media/sites/21/2024/07/%CE%88%CE%BD%CF%84%CF%85%CF%80%CE%BF-M127.pdf)
+- [Beglaubigte Übersetzungen für amtliche Zwecke](https://www.gov.cy/en/service/certified-translations-for-official-use/)
+- [Steuerbehörde — Aufhebung der Stempelsteuer und Dokumente vor 2026](https://www.gov.cy/mof-tax/documents/chartosima/)

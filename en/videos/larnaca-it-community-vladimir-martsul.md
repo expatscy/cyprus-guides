@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Expats in Larnaca: Vladimir Martsul and the Larnaca IT community"
+title: "Expats in Larnaca: Vladimir Martsul and the IT community"
 description: "Vladimir Martsul on Larnaca IT: informal meetups, Mackenzie beach, a rooftop bar, smaller communities and the challenges of organising technical talks."
 slug: "larnaca-it-community-vladimir-martsul"
 date: 2024-06-17

@@ -1,9 +1,9 @@
 ---
 slug: "money-transfer-russia-cyprus-2026"
-title: "Geld von Russland nach Zypern: Überweisungswege 2026"
+title: "Geld von Russland nach Zypern überweisen: Wege 2026"
 description: "Wie Sie 2026 nach dem 19. Sanktionspaket Geld von Russland nach Zypern überweisen: SWIFT, Profee, KwikPay, Krypto, Drittländer. Gebühren, Dauer, Risiken."
 date: 2026-03-11
-updated: 2026-04-18
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -19,7 +19,7 @@ faqSchema:
   - question: "Was ist der zuverlässigste Weg, 2026 Geld von Russland nach Zypern zu überweisen?"
     answer: "SWIFT über eine nicht sanktionierte Bank (Raiffeisenbank, UniCredit, OTP). Die Gebühr liegt bei 1,5–5 %, die Dauer bei 3–14 Tagen. Nach Nutzerberichten wird ein erheblicher Teil der Überweisungen über OTP von Korrespondenzbanken abgelehnt (inoffiziell etwa 30–40 %, Quelle: Diskussionen auf Banki.ru und in einschlägigen Telegram-Kanälen, [UNVERIFIED]). Das Geld kommt zurück, aber bewahren Sie Kopien aller Zahlungsaufträge auf: Die Rückerstattung dauert 2–4 Wochen."
   - question: "Funktioniert KoronaPay (Zolotaya Korona) 2026?"
-    answer: "Nein. KoronaPay geriet im August 2024 unter US-Sanktionen. Überweisungen von Zypern nach Russland über diesen Dienst funktionieren nicht."
+    answer: "Nein. KoronaPay Europe, die von der Zentralbank Zyperns lizenzierte Gesellschaft, teilt mit, dass neue Überweisungen nicht möglich sind und sie ihre Lizenz freiwillig zurückgibt (koronapay.com, geprüft am 7. November 2026)."
   - question: "Kann ich Kryptowährung für Überweisungen nutzen?"
     answer: "Technisch ja, über P2P-Plattformen (Bybit, OKX). Die Gebühr beträgt 1–3 %, die Dauer nur Minuten. Das Risiko ist aber hoch: Zypriotische Banken schließen Konten, wenn sie Krypto-Transaktionen ohne Belege entdecken."
   - question: "Welchen Höchstbetrag kann ich ohne Probleme überweisen?"
@@ -47,7 +47,7 @@ Dies ist der aktualisierte Ratgeber für 2026. Am 25. Januar 2026 trat das 19. S
 
 ### Was schon früher nicht mehr funktionierte
 
-- **KoronaPay (Zolotaya Korona)** — geriet unter US-Sanktionen (August 2024). Überweisungen von Zypern nach Russland funktionieren nicht
+- **KoronaPay (Zolotaya Korona)** — KoronaPay Europe nimmt keine neuen Überweisungen mehr an und gibt ihre Lizenz der Zentralbank Zyperns zurück ([koronapay.com](https://koronapay.com/transfers/europe/), geprüft am 7. November 2026)
 - **Paysend** — hat die Strecke Zypern → Russland eingestellt
 - **Gazprombank** — kam auf die US-SDN-Liste (November 2024). Der Status in der EU ist uneindeutig, aber zypriotische Banken nehmen keine Überweisungen der Gazprombank mehr an
 
@@ -72,7 +72,7 @@ SWIFT-Überweisungen sind formal über russische Banken möglich, die weiterhin 
 
 | Parameter | Details |
 |----------|--------|
-| Gebühr | 1,5–5 % (abhängig von Bank und Betrag). Vereinzelt 15–50 % bei kleinen Banken |
+| Gebühr | 1,5–5 % (abhängig von Bank und Betrag). Vereinzelt bis zu 15–50 % bei kleinen Banken |
 | Dauer | 3–14 Werktage |
 | Zuverlässigkeit | Mittel. Eine Überweisung kann von einer Korrespondenzbank blockiert werden |
 | Limits | Abhängig von der Bank. OTP: ab $500, ohne Obergrenze (Compliance prüft aber Beträge über $10.000) |
@@ -90,7 +90,7 @@ SWIFT-Überweisungen sind formal über russische Banken möglich, die weiterhin 
 
 ### So funktioniert es
 
-[Profee](https://www.profee.com/) ist ein Geldtransferdienst (in der EU registriert). Er ermöglicht Überweisungen von Europa nach Russland und zurück über nicht sanktionierte Banken.
+[Profee](https://www.profee.com/) ist ein Geldtransferdienst (in der EU registriert). Er ermöglicht Überweisungen von Europa nach Russland; laut seiner Website sind Überweisungen an einige russische Banken wegen Sanktionen eingeschränkt.
 
 ### Weg
 
@@ -181,13 +181,13 @@ SWIFT-Überweisungen sind formal über russische Banken möglich, die weiterhin 
 ### Kasachstan
 
 - **Kontoeröffnung vor Ort:** Seit Januar 2025 ist die Eröffnung aus der Ferne für Nichtansässige außerhalb des staatlichen Programms geschlossen. Banken: Freedom Finance, Halyk Bank, Kaspi
-- **e-Residency (NEU, 2026):** staatliches Programm [eresidency.gov.kz](https://eresidency.gov.kz/en) — digitale Residenz ab 18 Jahren, unabhängig von der Staatsangehörigkeit (keine Einschränkungen nach Staatsbürgerschaft). $499/Jahr (Aktion) oder $999/Jahr, Zahlung per Karte oder USDT/USDC. Sie erhalten eine IIN, eine digitale ID-Karte und eine eSIM. Kontoeröffnung aus der Ferne bei Partnern: Freedom Bank, RBK Bank; BCC und Bereke Bank waren für Januar 2026 angekündigt — erkundigen Sie sich nach dem aktuellen Status. Die Bank führt ihr eigenes KYC durch — eine Garantie gibt es nicht
+- **e-Residency (NEU, 2026):** staatliches Programm [eresidency.gov.kz](https://eresidency.gov.kz/en) — digitale Residenz ab 18 Jahren, unabhängig von der Staatsangehörigkeit (keine Einschränkungen nach Staatsbürgerschaft). Sie kostet $499/Jahr (Aktion) oder $999/Jahr, Zahlung per Karte oder USDT/USDC. Sie erhalten eine IIN, eine digitale ID-Karte und eine eSIM. Kontoeröffnung aus der Ferne bei Partnern: Freedom Bank, RBK Bank. BCC und Bereke Bank waren für Januar 2026 angekündigt — erkundigen Sie sich nach dem aktuellen Status. Die Bank führt ihr eigenes KYC durch, eine Garantie gibt es nicht
 - Weg: Russland → Kasachstan (Rubelüberweisung) → Umtausch in EUR → SWIFT nach Zypern (funktioniert auch umgekehrt: Zypern → Kasachstan → Russland)
 - Unterstützung für MIR-Karten: Bis vor Kurzem funktionierte sie, nach dem 19. Paket ist der Status uneindeutig
 
 ### Armenien
 
-**Funktioniert in beide Richtungen:** Armenische Banken sind einer der wenigen Kanäle, bei denen der Weg „Russland → Armenien → Zypern" **und** „Zypern → Armenien → Russland" symmetrisch funktioniert. Beides ist möglich — je nachdem, in welche Richtung das Geld heute fließen soll. Die Banken haben Rubelkonten und direkte Korrespondenzbeziehungen mit Russland sowie den üblichen europäischen SWIFT-Korridor.
+**Funktioniert in beide Richtungen:** Armenische Banken sind einer der wenigen Kanäle, bei denen der Weg „Russland → Armenien → Zypern" **und** „Zypern → Armenien → Russland" symmetrisch funktioniert. Beides ist möglich, je nachdem, in welche Richtung das Geld heute fließen soll. Die Banken haben Rubelkonten und direkte Korrespondenzbeziehungen mit Russland sowie den üblichen europäischen SWIFT-Korridor.
 
 - **Banken mit Rubel-SWIFT nach/aus Russland:** Ameriabank, Acba, Ardshinbank, Inecobank
 - **Kontoeröffnung:** meist persönlich in der Filiale (Jerewan, 1–2 Stunden). Evocabank unterstützte früher Sofortüberweisungen von der T-Bank — der Kanal wurde 2025 vorübergehend ausgesetzt, erkundigen Sie sich nach dem aktuellen Status
@@ -207,7 +207,7 @@ SWIFT-Überweisungen sind formal über russische Banken möglich, die weiterhin 
 
 | Dienst/Methode | Status | Grund |
 |-------------|--------|---------|
-| KoronaPay (Zolotaya Korona) | Funktioniert nicht | US-Sanktionen (August 2024) |
+| KoronaPay (Zolotaya Korona) | Funktioniert nicht | KoronaPay Europe nimmt keine neuen Überweisungen an |
 | Paysend | Funktioniert nicht | Strecke eingestellt |
 | Western Union / MoneyGram | Funktioniert nicht | Aus Russland abgezogen |
 | Wise | Funktioniert nicht | Nimmt keine Überweisungen aus/nach Russland an |
@@ -226,10 +226,10 @@ SWIFT-Überweisungen sind formal über russische Banken möglich, die weiterhin 
 ### Zypriotische Seite
 
 - **Eingehende Überweisungen >€15.000**: Die Bank muss die Herkunft prüfen (4AMLD/6AMLD)
-- **Bargeld >€10.000**: Anmeldung beim Zoll bei Ein- und Ausfuhr
+- **Bargeld ab 10.000 €**: Anmeldung beim Zoll bei Ein- und Ausfuhr
 - **Regelmäßige Zahlungseingänge ohne Vertrag**: Wenn Sie jeden Monat Überweisungen erhalten, aber keinen Arbeitsvertrag oder keine Rechnungen haben, wird die Bank nachfragen
 
-> **Praktischer Tipp:** Die optimale Größe einer einzelnen Überweisung liegt bei €3.000–10.000. Groß genug, um nicht für viele Transaktionen draufzuzahlen, aber nicht so groß, dass eine automatische Prüfung ausgelöst wird. Überweisen Sie regelmäßig (ein- bis zweimal im Monat), nicht sprunghaft.
+> **Praktischer Tipp:** Die optimale Größe einer einzelnen Überweisung liegt bei €3.000–10.000. Der Betrag ist groß genug, damit Sie nicht für viele einzelne Transaktionen Gebühren zahlen. Er ist aber nicht so groß, dass er eine automatische Prüfung auslöst. Überweisen Sie regelmäßig (ein- bis zweimal im Monat), nicht sprunghaft.
 
 ## Was sollten Sie auf keinen Fall tun?
 
@@ -267,7 +267,7 @@ SWIFT-Überweisungen sind formal über russische Banken möglich, die weiterhin 
 SWIFT über eine nicht sanktionierte Bank (Raiffeisenbank, UniCredit, OTP). Die Gebühr liegt bei 1,5–5 %, die Dauer bei 3–14 Tagen. Nach Nutzerberichten wird ein erheblicher Teil der Überweisungen über OTP von Korrespondenzbanken abgelehnt (inoffiziell etwa 30–40 %, Quelle: Diskussionen auf Banki.ru und in einschlägigen Telegram-Kanälen, [UNVERIFIED]). Das Geld kommt zurück, aber bewahren Sie Kopien aller Zahlungsaufträge auf: Die Rückerstattung dauert 2–4 Wochen.
 
 **Funktioniert KoronaPay (Zolotaya Korona) 2026?**
-Nein. KoronaPay geriet im August 2024 unter US-Sanktionen. Überweisungen von Zypern nach Russland über diesen Dienst funktionieren nicht.
+Nein. KoronaPay Europe, die von der Zentralbank Zyperns lizenzierte Gesellschaft, teilt mit, dass neue Überweisungen nicht möglich sind und sie ihre Lizenz freiwillig zurückgibt ([koronapay.com](https://koronapay.com/transfers/europe/), geprüft am 7. November 2026).
 
 **Kann ich Kryptowährung für Überweisungen nutzen?**
 Technisch ja, über P2P-Plattformen (Bybit, OKX). Die Gebühr beträgt 1–3 %, die Dauer nur Minuten. Das Risiko ist aber hoch: Zypriotische Banken schließen Konten, wenn sie Krypto-Transaktionen ohne Belege entdecken. Mehr dazu im Abschnitt „Methode 4" oben.
@@ -290,3 +290,4 @@ Optimal sind €3.000–10.000 pro Überweisung, ein- bis zweimal im Monat. In R
 - [Central Bank of Cyprus](https://www.centralbank.cy/) — Zentralbank von Zypern
 - [EU Sanctions Map](https://www.sanctionsmap.eu/) — aktuelle Karte der EU-Sanktionen
 - [eResidency Kasachstan — offizielles Portal](https://eresidency.gov.kz/en) — gov.kz
+- [KoronaPay Europe: Mitteilung an Kunden](https://koronapay.com/transfers/europe/) — koronapay.com

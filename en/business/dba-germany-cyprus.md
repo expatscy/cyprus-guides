@@ -3,7 +3,7 @@ slug: "dba-germany-cyprus"
 title: "Germany-Cyprus Double Tax Treaty: Taxes Explained"
 description: "The 2011 Germany-Cyprus double tax treaty: which income is taxed where. Salary, dividends, interest, pensions, property — explained article by article."
 date: 2026-03-11
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -15,13 +15,13 @@ draft: false
 translationKey: "dba-germany-cyprus"
 faqSchema:
   - question: "Do I need a tax adviser for the double tax treaty?"
-    answer: "Strongly recommended. The treaty has nuances (progression clause, permanent establishment, tie-breaker rules) that lead to mistakes without expert knowledge. Ideally: an adviser who knows both German and Cypriot tax law."
+    answer: "Strongly recommended. The treaty has nuances (progression clause, permanent establishment, tie-breaker rules) that cause mistakes without expert knowledge. Ideally: an adviser who knows both German and Cypriot tax law."
   - question: "Can I work from Cyprus as a remote worker for a German employer without paying tax in Germany?"
-    answer: "In principle yes. Under treaty Art. 14, salary is taxed in the state where the work is performed — if you work in Cyprus, Cyprus taxes it. What matters is your treaty residence, the physical place of work and the relevant exceptions. De-registering your address in Germany does not by itself decide tax liability."
+    answer: "In principle yes. Under treaty Art. 14, salary is taxed in the state where the work is performed — if you work in Cyprus, Cyprus taxes it. What matters is your treaty residence, the physical place of work and the relevant exceptions. De-registering your address in Germany does not by itself decide tax liability. If you have working days in Germany, all conditions of the exception must be checked; the length of stay alone is not enough."
   - question: "How long does the residence certificate from Cyprus take?"
     answer: "A general processing time has not been verified here; ask the competent Tax Department for the current status. Prerequisite: tax residence (183-day rule or 60-day rule) and registration with the Tax Department."
   - question: "Are civil servant pensions also taxed in Cyprus?"
-    answer: "In principle Germany taxes them. Civil servant pensions fall under the paying-state principle (treaty Art. 18) and are in principle taxed in Germany. Exception: residence and citizenship in Cyprus under Art. 18(2)(b). Other income follows the normal treaty rules."
+    answer: "In principle Germany taxes them. Civil servant pensions fall under the paying-state principle (treaty Art. 18) and are in principle taxed in Germany. Exception: residence and citizenship in Cyprus under Art. 18(2)(b). Other income (e.g. a private pension) follows the normal treaty rules."
 ---
 > **In short:** The Germany-Cyprus double tax treaty prevents double taxation. Different types of pension follow different rules; Germany may tax statutory social insurance pensions. Dividends: withholding tax of 15% at most.
 
@@ -75,7 +75,7 @@ The version currently in force is the **agreement of 18 February 2011** with the
 - If your Cyprus Ltd has an office in Germany → the profits attributable to the German office are taxed in Germany
 - Your German GmbH remains subject to tax in Germany, regardless of where you live
 
-> **Important:** "Permanent establishment" is strictly defined (Art. 5 of the treaty): a fixed place of business, office, workshop, construction site (>12 months). Whether a home office or management in Germany creates a permanent establishment or German residence depends on the actual circumstances; the shareholder's place of residence alone does not answer this.
+> **Important:** "Permanent establishment" is strictly defined (Art. 5 of the treaty): a fixed place of business, office, workshop, construction site (>12 months). A home office or management in Germany may or may not create a permanent establishment or German residence. That depends on the actual circumstances. The shareholder's place of residence alone does not decide it.
 
 ### Art. 10 — Dividends
 
@@ -83,7 +83,7 @@ The version currently in force is the **agreement of 18 February 2011** with the
 
 | Situation | Maximum withholding tax |
 |---------------|----------------------|
-| Beneficial-owner company directly holds ≥10% of the capital | **5%** |
+| A company that is the beneficial owner and directly holds ≥10% of the capital | **5%** |
 | All other cases | **15%** |
 
 **Example:** You live in Cyprus and receive dividends from your German GmbH:
@@ -95,15 +95,27 @@ The version currently in force is the **agreement of 18 February 2011** with the
 
 ### Art. 11 — Interest
 
-**Rule:** Interest arising in one contracting state whose beneficial owner is resident in the other contracting state may, under Art. 11(1), be taxed **only in the state of residence**. Exceptions apply in particular where there is a connected permanent establishment and for amounts exceeding arm's length.
+**Rule:** Under Art. 11(1), interest that arises in one state may be taxed **only in the state of residence** if its beneficial owner is resident in the other state. Exceptions apply in particular where a permanent establishment is involved, and for amounts above an arm's-length level.
 
-**In practice:** For German interest falling under Art. 11 and received by a beneficial owner resident in Cyprus, the treaty does not provide for a German withholding tax of 10%. The relief must be proven under the applicable procedure. In Cyprus, SDC can fall away if the non-dom conditions are met; other levies must be checked separately.
+**In practice:** If a beneficial owner resident in Cyprus receives German interest covered by Art. 11, the treaty does not provide for a 10% German withholding tax. You must prove the relief under the applicable procedure. In Cyprus, SDC can fall away if the non-dom conditions are met. Check other levies separately.
 
 ### Art. 12 — Royalties
 
-**Rule:** Where the beneficial owner is resident in the other contracting state, Art. 12 in principle assigns taxation to the state of residence. The link to a permanent establishment and amounts exceeding arm's length are regulated separately.
+**Rule:** If the beneficial owner is resident in the other state, Art. 12 in principle gives the right to tax to the state of residence. Cases linked to a permanent establishment, and amounts above an arm's-length level, are regulated separately.
 
-**Meaning:** If you license rights from Cyprus to German companies (software, patents, trademarks), only Cyprus taxes them. German relief from withholding tax must be checked under the applicable BZSt procedure. For the Cyprus Ltd: 15% corporate tax on profit, for fully qualifying IP profits possibly an **effective 3%** from 2026: 80% deduction on qualifying profits × 15% corporate tax on the remaining share. [Income Tax Law, §9(1)(κ) and Second Schedule](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html>).
+**What it means:** If you license rights from Cyprus to German companies (software, patents, trademarks), only Cyprus taxes them. Check German relief from withholding tax under the applicable BZSt procedure. For the Cyprus Ltd: 15% corporate tax on profit, for fully qualifying IP profits possibly an **effective 3%** from 2026: 80% deduction on qualifying profits × 15% corporate tax on the remaining share. [Income Tax Law, §9(1)(κ) and Second Schedule](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html>).
+
+### Art. 13 — Capital gains
+
+| Asset | Right to tax |
+|-----------|-------------------|
+| Real estate | State where the property is located |
+| Movable property of a permanent establishment | State of the permanent establishment |
+| Ships/aircraft | Place of effective management |
+| Shares that derive their value mainly from real estate | State where the property is located |
+| All other assets | State of residence |
+
+**For GmbH shares:** After you move away, the gain from selling your GmbH shares is in principle taxed in the **state of residence** (Cyprus). Cyprus levies **no capital gains tax** on gains from the disposal of shares in foreign companies. But: the [exit tax](/en/business/gmbh-exit-tax-planning/) (§ 6 AStG) already applies when you leave, before you become resident in Cyprus.
 
 ### Art. 14 — Income from employment (salary)
 
@@ -143,23 +155,11 @@ For foreign pensions that qualify accordingly, the current Cypriot [Income Tax L
 
 > **Note:** German civil servant pensions are in principle taxed in Germany. However, if the recipient is resident in Cyprus and a Cypriot national, Art. 18(2)(b) assigns the right to tax to Cyprus. Other income (e.g. a private pension, rental income in Cyprus) is taxed under the treaty rules.
 
-### Art. 13 — Capital gains
-
-| Asset | Right to tax |
-|-----------|-------------------|
-| Real estate | State where the property is located |
-| Movable property of a permanent establishment | State of the permanent establishment |
-| Ships/aircraft | Place of effective management |
-| Shares that derive their value mainly from real estate | State where the property is located |
-| All other assets | State of residence |
-
-**For GmbH shares:** After you move away, the gain from selling your GmbH shares is in principle taxed in the **state of residence** (Cyprus). Cyprus levies **no capital gains tax** on gains from the disposal of shares in foreign companies. But: the [exit tax](/en/business/gmbh-exit-tax-planning/) (§ 6 AStG) already applies when you leave, before you become resident in Cyprus.
-
 ## What is the progression clause?
 
 Even where the treaty **exempts** income from German taxation, that income is taken into account to calculate the German tax rate (§ 32b EStG).
 
-**Example:** In the year you move, you earn €30,000 in salary in Germany until June and €30,000 in Cyprus from July. The Cypriot €30,000 is not taxed, but the rate on the German €30,000 is calculated as if you had earned €60,000 → higher average tax rate.
+**Example:** In the year you move, you earn €30,000 in salary in Germany until June and €30,000 in Cyprus from July. The Cypriot €30,000 is not taxed. But the rate on the German €30,000 is calculated as if you had earned €60,000 → higher average tax rate.
 
 **When is the progression clause relevant?**
 - In the **year of the move** (partial income in both countries)
@@ -186,7 +186,7 @@ A DRV pension of €18,000 is not tax-free worldwide merely because of the Cypri
 - Withholding tax in Germany: max. 15% (treaty Art. 10) = **€15,000**
 - In Cyprus with non-dom status: 0% SDC on dividends
 - German withholding tax in the example: **15%** if the treaty conditions are met. Other burdens such as GESY and the corporate tax already paid by the GmbH have to be considered separately
-- As an individual shareholder, check the BZSt refund procedure for excess capital gains tax withheld
+- As an individual shareholder, check the BZSt refund procedure for excess withholding tax (Kapitalertragsteuer)
 
 ## How do I claim treaty benefits?
 
@@ -196,7 +196,7 @@ Apply for the **Tax Residency Certificate** from the Cypriot Tax Department. Pre
 
 ### 2. Relief procedure in Germany
 
-For individuals, a refund of excess capital gains tax withheld on German dividends from the BZSt generally comes into consideration. Proof of residence and of the tax withheld is required. An exemption certificate under §50c(2) no. 1 EStG requires a qualifying corporation with at least 10% direct shareholding; under the [BZSt procedure](https://online.portal.bzst.de/SharedDocs/Leistungsbeschreibung/DE/freistellung_abzugsteuer_kapitalertraege.html?nn=23996) its validity is at least one and at most five years.
+For individuals, a refund of excess withholding tax (Kapitalertragsteuer) on German dividends from the BZSt generally comes into consideration. Proof of residence and of the tax withheld is required. An exemption certificate under §50c(2) no. 1 EStG requires a qualifying corporation with at least 10% direct shareholding; under the [BZSt procedure](https://online.portal.bzst.de/SharedDocs/Leistungsbeschreibung/DE/freistellung_abzugsteuer_kapitalertraege.html?nn=23996) its validity is at least one and at most five years.
 
 ### 3. Inform the tax office (Finanzamt)
 
@@ -218,7 +218,7 @@ For individuals, a refund of excess capital gains tax withheld on German dividen
 **See also:**
 - [Exit tax for GmbH owners](/en/business/gmbh-exit-tax-planning/) — § 6 AStG when you move
 - [After the move: tax office, de-registration, checklist](/en/life/finanzamt-after-move/) — paperwork after leaving Germany
-- [Cost of living Cyprus vs Germany](/en/life/cost-of-living-cyprus-vs-uk/) — what you save
+- [Cost of Living: Cyprus vs UK (2026)](/en/life/cost-of-living-cyprus-vs-uk/) — what you save
 - [Non-dom status and the 60-day rule](/en/business/non-dom-status-cyprus-60-day-rule/) — using the tax advantages
 - [Taxes in Cyprus](/en/business/taxes-cyprus-gesy-deductions/) — the Cypriot tax system
 - [Retirement in Cyprus](/en/life/retiring-in-cyprus-guide/) — retiree guide
@@ -230,7 +230,7 @@ The Germany–Cyprus double tax treaty is a powerful tool for tax planning. The 
 ## Frequently asked questions (FAQ)
 
 **Do I need a tax adviser for the double tax treaty?**
-Strongly recommended. The treaty has nuances (progression clause, permanent establishment, tie-breaker rules) that lead to mistakes without expert knowledge. Ideally: an adviser who knows both German and Cypriot tax law.
+Strongly recommended. The treaty has nuances (progression clause, permanent establishment, tie-breaker rules) that cause mistakes without expert knowledge. Ideally: an adviser who knows both German and Cypriot tax law.
 
 **Can I work from Cyprus as a remote worker for a German employer without paying tax in Germany?**
 In principle yes. Under treaty Art. 14, salary is taxed in the state where the work is performed — if you work in Cyprus, Cyprus taxes it. What matters is your treaty residence, the physical place of work and the relevant exceptions. De-registering your address in Germany does not by itself decide tax liability. If you have working days in Germany, all conditions of the exception must be checked; the length of stay alone is not enough.

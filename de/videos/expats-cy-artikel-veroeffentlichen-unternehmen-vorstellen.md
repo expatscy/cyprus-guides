@@ -1,6 +1,6 @@
 ---
 type: videos
-title: "expats.cy: Artikel veröffentlichen und Ihr Unternehmen vorstellen"
+title: "expats.cy: Artikel veröffentlichen, Unternehmen vorstellen"
 description: "Erfahrungen teilen, Fachartikel veröffentlichen und Ihr Unternehmen auf expats.cy vorstellen: eine Plattform für Expats weltweit. Video mit Katerina."
 date: 2026-10-08
 author: "Katerina"
@@ -46,7 +46,7 @@ Nach einem Umzug brauchen Menschen Rechtsberatung, Übersetzungen, Unterricht, I
 
 **Für persönliche Beiträge und kommerzielle Platzierungen gelten unterschiedliche Bedingungen.** Informieren Sie sich über die [Veröffentlichen für Unternehmen](/for-business/) und das [Dienstleistungsverzeichnis](/articles/directory). Für die Wahl eines Formats [kontaktieren Sie mich](/de/contact/) mit Land, Stadt, Leistungen und Website.
 
-Wenn Sie Fachartikel auf vc.ru veröffentlichen, können Sie einen ähnlichen Ansatz nutzen: Beantworten Sie eine konkrete Kundenfrage und erklären Sie Ihren Lösungsweg. Ein Übersetzer kann die Vorbereitung von Dokumenten erläutern; eine Schule kann die Eingewöhnung nach einem Umzug beschreiben. Machen Sie deutlich, wo Sie tätig sind und wie man Sie erreicht.
+Wenn Sie Fachartikel auf vc.ru (einer russischsprachigen Plattform für Fachbeiträge) veröffentlichen, können Sie einen ähnlichen Ansatz nutzen: Beantworten Sie eine konkrete Kundenfrage und erklären Sie Ihren Lösungsweg. Ein Übersetzer kann die Vorbereitung von Dokumenten erläutern; eine Schule kann die Eingewöhnung nach einem Umzug beschreiben. Machen Sie deutlich, wo Sie tätig sind und wie man Sie erreicht.
 
 ## Die Besucherzahlen im Video
 

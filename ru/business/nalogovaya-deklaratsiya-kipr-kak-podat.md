@@ -3,7 +3,7 @@ slug: "nalogovaya-deklaratsiya-kipr-kak-podat"
 title: "Декларация на Кипре: TD1 и сроки"
 description: "Как подать налоговую декларацию на Кипре: форма TD1, TAXISnet (2025) / TFA (2026), сроки, обязанность подачи и распространённые ошибки налогоплательщиков."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Налоги"
 author: "Expats Cyprus"
 tags:
@@ -117,8 +117,6 @@ faqSchema:
 Из чата:
 > «При смене компании утеряна скидка на налог 20%. Бухгалтер говорит, что месяцы с января по май должны быть пересчитаны как бескидочные.»
 
-Смена работодателя сама по себе не прекращает право на 50% освобождение: оно зависит от условий применимой нормы. Передайте новому работодателю документы, подтверждающие право на льготу.
-
 ### Не указали иностранный доход
 
 Кипр облагает **мировой доход** налоговых резидентов. Если есть дивиденды из России, рента, фриланс — указывайте. Подробнее о ставках — в статье [налоги на Кипре: НДФЛ, GESY, вычеты](/ru/business/nalogi-kipr-gesy-vychety-2026/). Проверьте правила декларирования и освобождения для каждого вида дохода.
@@ -156,5 +154,3 @@ TD63 — справка от работодателя о годовом дохо
 
 - [TAXISnet: 2025 / TFA: 2026](https://www.gov.cy/mof-tax/documents/forologiki-dilosi-eisodimatos-atomoy/) — gov.cy
 - [Tax Department — Individuals](https://www.gov.cy/mof-tax/documents/forologiki-dilosi-eisodimatos-atomoy/) — gov.cy
-
-[Migration Department: employment tax exemption](https://www.gov.cy/mip-md/en/documents/eu-blue-card/)

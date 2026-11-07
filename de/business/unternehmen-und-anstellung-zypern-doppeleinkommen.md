@@ -1,9 +1,9 @@
 ---
 slug: "unternehmen-und-anstellung-zypern-doppeleinkommen"
 title: "Firma und Anstellung auf Zypern kombinieren"
-description: "Unternehmensbeteiligung neben einer Anstellung auf Zypern: Arbeitserlaubnis, Gehalt, Dividenden, Einkommensteuer und Social Insurance getrennt prüfen, bevor Sie Einkommen hinzufügen."
+description: "Firma neben einer Anstellung auf Zypern: Arbeitserlaubnis, Gehalt, Dividenden, Einkommensteuer und Social Insurance getrennt prüfen."
 date: 2026-02-22
-updated: 2026-10-21
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -73,7 +73,7 @@ Der angewandte Arbeitnehmersatz beträgt **8,8 % der versicherbaren Einkünfte**
 
 Bei Selbstständigkeit bemisst sich der Beitrag von **16,6 %** in der Regel nach den geltenden **berufsbezogenen versicherbaren Einkünften**, mit einem Antragsverfahren für die Bemessung nach tatsächlichen Einkünften. Es sind nicht automatisch 16,6 % eines beliebigen Nebeneinkommens, das Sie deklarieren. Aktuelle Bedingungen zu Registrierung, Beiträgen und weiteren Fonds finden Sie im [Ratgeber zur Selbstständigkeit](/de/business/self-employed-cyprus-guide/).
 
-Fragen Sie die Social Insurance Services, wie die jeweilige Obergrenze und etwaige Anpassungs- oder Erstattungsverfahren auf Ihre konkrete Kombination und Ihre Beitragszeiträume anzuwenden sind. Dieser Ratgeber verspricht weder eine automatische Erstattung zum Jahresende noch, dass jeder Arbeitgeberanteil nicht erstattungsfähig ist.
+Fragen Sie die Social Insurance Services, wie die jeweilige Obergrenze und etwaige Anpassungs- oder Erstattungsverfahren auf Ihre konkrete Kombination und Ihre Beitragszeiträume anzuwenden sind.
 
 ## Lohnt sich eine Firma für ein kleines Nebenprojekt?
 

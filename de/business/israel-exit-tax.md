@@ -1,9 +1,9 @@
 ---
 slug: "israel-exit-tax"
-title: "Israelische Wegzugsteuer vor dem Umzug nach Zypern"
-description: "Was Israelis vor dem Umzug nach Zypern prüfen sollten: Wegzugsteuer, zehnjährige Meldepflicht, Besteuerung bei fiktiver Veräußerung, Lebensmittelpunkt, Rente und Bituach Leumi."
+title: "Wegzugsteuer Israel vor dem Umzug nach Zypern"
+description: "Umzug von Israel nach Zypern: Wegzugsteuer (fiktive Veräußerung, Abschnitt 100A), Lebensmittelpunkt-Test, Formular 1348, Renten und Bituach Leumi."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -17,30 +17,30 @@ draft: false
 translationKey: "israel-exit-tax"
 faqSchema:
   - question: "Muss ich die Wegzugsteuer vor dem Wegzug bezahlen?"
-    answer: "Nein. Sie können die Zahlung aufschieben und erst zahlen, wenn der Vermögenswert tatsächlich verkauft wird. Der Preis dafür: eine jährliche Meldepflicht gegenüber der israelischen Steuerbehörde über 10 Jahre."
+    answer: "Nein. Wer bei Ende der Ansässigkeit nicht zahlt, gilt als jemand, der den Aufschub bis zum tatsächlichen Verkauf beantragt hat. Dann wird Steuer auf den Teil des realen Gewinns fällig, der auf die Zeit bis zum Wegzug entfällt (Abschnitt 100A(b))."
   - question: "Was passiert mit RSUs, die noch nicht unverfallbar geworden sind?"
-    answer: "Werden RSUs erst nach dem Wegzug aus Israel unverfallbar, wird der Teil, der während Ihrer israelischen Steueransässigkeit unverfallbar wurde, in Israel besteuert (zeitanteilige Aufteilung)."
-  - question: "Schützt das Steuerabkommen zwischen Israel und Zypern vor der Wegzugsteuer?"
-    answer: "Nein. Die Wegzugsteuer entsteht an dem Tag, an dem Sie noch in Israel steueransässig sind. Das Abkommen wird erst relevant, wenn sich Ihre Ansässigkeit geändert hat."
+    answer: "Im Treuhandweg nach Abschnitt 102 ist das Steuerereignis die Übertragung der Aktien vom Treuhänder oder ihr Verkauf, je nachdem, was früher eintritt, nicht das Vesting. Der Wegzugsteuer-Anteil wird zeitanteilig berechnet: Gewinn × Haltedauer bis zum Wegzug ÷ gesamte Haltedauer (Abschnitt 100A(d))."
+  - question: "Gibt es ein Steuerabkommen zwischen Israel und Zypern, das vor der Wegzugsteuer schützt?"
+    answer: "Nein. Die Liste der geltenden Doppelbesteuerungsabkommen des zyprischen Finanzministeriums enthält Israel nicht (geprüft am 2026-11-07). Die Wegzugsteuer wird ohnehin auf den Tag vor dem Ende der israelischen Ansässigkeit berechnet."
   - question: "Wie lange dauert es, die israelische Steueransässigkeit zu beenden?"
-    answer: "Es gibt kein automatisches Datum. Israel wendet den Lebensmittelpunkt-Test an: Sie müssen die Wohnung verkaufen oder vermieten, die Familie umsiedeln und Konten schließen. In der Praxis: 6-12 Monate, bis der Steuerprüfer den Bruch anerkennt."
+    answer: "Es gibt kein automatisches Datum. Israel wendet den Lebensmittelpunkt-Test an: Wohnung verkaufen oder vermieten, Familie umziehen, Konten schließen. 183 oder mehr Tage in Israel in einem Steuerjahr oder 30 oder mehr Tage bei 425 oder mehr Tagen in diesem und den zwei Vorjahren begründen eine widerlegbare Vermutung, dass Sie noch ansässig sind."
   - question: "Lohnt es sich, weiter Beiträge zum Bituach Leumi zu zahlen?"
-    answer: "Wenn Sie 10+ Jahre eingezahlt haben, wahrscheinlich ja. Mindestbeiträge (~198 Schekel pro Monat) erhalten den Anspruch auf die Altersrente (1.738-3.061 Schekel pro Monat). Die Rechnung geht in der Regel auf."
+    answer: "Das hängt von Ihrer Lage ab. Solange Bituach Leumi Sie als in Israel ansässig behandelt, zahlt eine Person im Ausland ohne Einkommen mindestens 266 NIS pro Monat (ab 01.01.2026). Die Grundaltersrente für Alleinstehende beträgt 1.838 NIS pro Monat (ab 01.01.2026), vor Zuschlägen."
 ---
-> **Kurz gesagt:** Die israelische Wegzugsteuer bedeutet beim Umzug nach Zypern eine zehnjährige Meldepflicht, eine fiktive Veräußerung, den Lebensmittelpunkt-Test und Sonderregeln für Rente und Aktienoptionen.
+> **Kurz gesagt:** Die israelische Wegzugsteuer bedeutet beim Umzug nach Zypern eine fiktive Veräußerung Ihres Vermögens am Tag vor dem Ende der Ansässigkeit, den Lebensmittelpunkt-Test und besondere Regeln für Renten und Aktienoptionen.
 
 Die Wegzugsteuer (Exit Tax) ist eines der wichtigsten und zugleich am meisten vernachlässigten Themen, wenn Israelis einen Umzug nach Zypern planen. Viele entdecken sie erst, nachdem sie schon umgezogen sind, und dann ist die Korrektur deutlich teurer. Dieser Ratgeber erklärt, was Sie **vor** dem Wegzug wissen müssen.
 
 > **Offizielle Quellen:**
-> - [Einkommensteuerverordnung — Abschnitt 100A](https://www.nevo.co.il/law_html/law01/999_344.htm) — fiktive Veräußerung beim Wegzug aus Israel
-> - [Israelische Steuerbehörde — Steueransässigkeit](https://www.gov.il/he/departments/guides/tax-residency) — Lebensmittelpunkt-Test
-> - [Steuerabkommen Israel–Zypern](https://www.gov.il/he/departments/general/double-tax-treaties) — zur Vermeidung der Doppelbesteuerung
+> - [Einkommensteuerverordnung — Abschnitte 1 und 100A](https://www.nevo.co.il/law_html/law00/84255.htm) — Ansässigkeitsvermutungen und fiktive Veräußerung beim Wegzug aus Israel (geprüft am 2026-11-07)
+> - [Israelische Steuerbehörde — Formular 1348](https://www.gov.il/BlobFolder/service/annual-tax-report/he/Service_Pages_Income_tax_itc1348_18.pdf) — Ansässigkeitserklärung für Personen, die erklären, nicht in Israel ansässig zu sein (geprüft am 2026-11-07)
+> - [Finanzministerium Zypern — geltende Doppelbesteuerungsabkommen](https://www.gov.cy/mof/en/documents/double-tax-treaties/) — Israel steht nicht auf der Liste (geprüft am 2026-11-07)
 
 ## Was ist die israelische Wegzugsteuer?
 
 ### Das Prinzip
 
-Wenn ein in Israel Ansässiger aufhört, in Israel steueransässig zu sein, behandelt ihn **Abschnitt 100A der Einkommensteuerverordnung** so, als hätte er am Tag des Wegzugs **sein gesamtes Vermögen verkauft** („fiktive Veräußerung"). Dazu gehören:
+Wenn ein in Israel Ansässiger seine steuerliche Ansässigkeit in Israel aufgibt, behandelt ihn **Abschnitt 100A der Einkommensteuerverordnung** so, als hätte er **sein gesamtes Vermögen verkauft**, und zwar am Tag vor dem Ende der Ansässigkeit („fiktive Veräußerung“). Dazu gehören:
 
 - **Aktien** von börsennotierten und privaten Unternehmen
 - **Optionen und RSUs**, die nicht ausgeübt wurden
@@ -50,30 +50,28 @@ Wenn ein in Israel Ansässiger aufhört, in Israel steueransässig zu sein, beha
 
 ### Was das praktisch bedeutet
 
-Wenn Sie Start-up-Anteile besitzen, die Sie für 0,01 $ gekauft haben und die am Tag des Wegzugs 10 $ wert sind, sieht die Steuerbehörde die Differenz (9,99 $ pro Aktie) als **realisierten Kapitalgewinn**. Der Steuersatz beträgt **25-33%** (je nachdem, ob Sie beherrschender Gesellschafter sind).
+Wenn Sie Start-up-Anteile besitzen, die Sie für 0,01 $ gekauft haben und die am Tag des Wegzugs 10 $ wert sind, behandelt die Steuerbehörde die Differenz (9,99 $ pro Anteil) als **Veräußerungsgewinn**. Der Satz für natürliche Personen beträgt in der Regel **25%**, für wesentlich Beteiligte **30%** (Abschnitt 91(b)), zuzüglich 3% Zusatzsteuer auf steuerpflichtiges Einkommen über der jährlichen Schwelle und weiterer 2% auf Kapitaleinkünfte darüber (Abschnitt 121B).
 
 ### Zwei Zahlungsmöglichkeiten
 
 1. **Sofort zahlen** — der Kapitalgewinn wird nach dem Wert Ihres Vermögens am Wegzugstag berechnet. Vorteil: Die Akte ist geschlossen.
-2. **Zahlung aufschieben** — am Wegzugstag wird nichts gezahlt, sondern erst, wenn der Vermögenswert tatsächlich verkauft wird. Vorteil: keine Zahlung auf nicht verkaufte Vermögenswerte. Nachteil: eine **jährliche Meldepflicht gegenüber Israel über 10 Jahre**.
+2. **Zahlung aufschieben** — das ist der Regelfall, wenn Sie beim Wegzug nicht zahlen (Abschnitt 100A(b)). Gezahlt wird beim tatsächlichen Verkauf, und zwar auf den Teil des realen Gewinns, der auf die Zeit bis zum Wegzug entfällt (Gewinn × Haltedauer bis zum Wegzug ÷ gesamte Haltedauer). Indexierung und Zinsen laufen erst ab dem Verkaufstag bis zur Zahlung.
 
-Die meisten Wegziehenden wählen Option 2 (Aufschub), denn Steuer auf einen noch nicht verkauften Vermögenswert ist unnötiger Schmerz.
+Ist der Verkauf zum Zeitpunkt der Realisierung ohnehin in Israel steuerpflichtig, zahlen Sie stattdessen die Steuer auf den tatsächlichen Veräußerungsgewinn (Abschnitt 100A(c)).
 
-## Was ist die 10-jährige Meldepflicht?
+## Was müssen Sie nach dem Wegzug melden?
 
-### Abschnitt 100A(b)
+### Abschnitt 100A(e)
 
-Wenn Sie sich für den Aufschub der Wegzugsteuer entschieden haben, verlangt Israel:
+Die Verordnung ermächtigt den Finanzminister, Regeln zur Anwendung von Abschnitt 100A zu erlassen, auch zur Berichterstattung. Die Verordnung selbst legt keine 10-jährige Meldefrist fest.
 
-- **Einen jährlichen Bericht** an die Steuerbehörde über die Vermögenswerte, die in die fiktive Veräußerung einbezogen wurden
-- **Meldung jeder Realisierung** (Aktienverkauf, RSU-Vesting, Dividendenausschüttung)
-- **Dauer: 10 Jahre** ab dem Wegzugstag
+- **Formular 1348** — die Ansässigkeitserklärung für Personen, die erklären, nicht in Israel ansässig zu sein, als Anlage zur Einkommensteuererklärung für Einzelpersonen (Formular 1301)
+- **Den tatsächlichen Verkauf** jedes Vermögenswerts aus der fiktiven Veräußerung — dann wird die aufgeschobene Steuer fällig
+- Klären Sie mit Ihrem Steuerberater, welche jährlichen Erklärungspflichten für Sie als Nichtansässige noch gelten
 
-### Was passiert bei unterlassener Meldung
+### Indexierung und Zinsen
 
-- **Bußgelder** von bis zu 7.500 ₪ pro nicht eingereichtem Bericht
-- **Zinsen und Indexierung** auf nicht gezahlte Steuer
-- **Straftat** (in extremen Fällen von Hinterziehung)
+- Auf aufgeschobene Wegzugsteuer laufen **Indexierung und Zinsen** erst ab dem Verkaufstag bis zur tatsächlichen Zahlung (Abschnitt 100A(b))
 
 ## Was ist der Lebensmittelpunkt-Test, und wann hört Israel auf, Sie zu besteuern?
 
@@ -104,19 +102,18 @@ Um die israelische Steueransässigkeit sauber zu beenden:
 1. **Verkaufen oder vermieten** Sie die Wohnung in Israel
 2. **Holen Sie die Familie nach** — Ehepartner und Kinder nach Zypern
 3. **Schließen** oder reduzieren Sie Bankkonten, Versicherungen und Abos
-4. **Teilen Sie dem Steuerprüfer** die Beendigung der Ansässigkeit mit (Formular 1348)
-5. **Beantragen Sie eine Bescheinigung der Steueransässigkeit** aus Zypern (TIN + Formular)
+4. **Reichen Sie Formular 1348** (Ansässigkeitserklärung) mit Ihrer israelischen Jahressteuererklärung ein
+5. **Beantragen Sie eine Bescheinigung über die steuerliche Ansässigkeit** bei der zyprischen Steuerabteilung ([Ansässigkeitsbescheinigung](https://www.gov.cy/mof-tax/en/documents/certificate-of-tax-residence/))
 6. **Bewahren Sie Belege auf**: Flugtickets, Mietvertrag in Zypern, Schulanmeldung der Kinder
 
-## Wie teilt man dem Steuerprüfer den Wegzug mit?
+## Wie teilt man dem Steuerbeamten den Wegzug mit?
 
 ### Wann
 
-Sie müssen Ihrem Steuerprüfer eine **Mitteilung über die Beendigung der Ansässigkeit** einreichen. Eine klare gesetzliche Frist gibt es nicht, aber:
+Das Ende der Ansässigkeit erklären Sie auf **Formular 1348**, der Ansässigkeitserklärung, die als Anlage zur Einkommensteuererklärung für Einzelpersonen (Formular 1301) eingereicht wird. Außerdem:
 
-- **Reichen Sie sie vor Ende des Steuerjahres ein**, in dem Sie weggezogen sind
 - Fügen Sie die **zyprische Bescheinigung der Steueransässigkeit** bei, sobald Sie sie erhalten
-- Rechnen Sie mit **Nachforderungen von Unterlagen** — der Steuerprüfer kann Nachweise für den Bruch verlangen
+- Rechnen Sie mit **Nachforderungen von Unterlagen** — der Steuerbeamte kann Nachweise für den Bruch verlangen
 
 ### Unterlagen, die Sie vorbereiten sollten
 
@@ -125,7 +122,7 @@ Sie müssen Ihrem Steuerprüfer eine **Mitteilung über die Beendigung der Ansä
 - Arbeitsvertrag / Bestätigung einer Firma in Zypern
 - Kontoauszüge eines zyprischen Bankkontos
 - Zyprische Krankenversicherung (GeSY oder privat)
-- Formular 1348 (Mitteilung über die Änderung der Ansässigkeit)
+- Formular 1348 (Ansässigkeitserklärung)
 
 ## Was besteuert Israel nach dem Wegzug weiterhin?
 
@@ -134,10 +131,10 @@ Auch wenn Sie **nicht mehr in Israel steueransässig** sind, besteuert Israel:
 | Einkommen | In Israel besteuert? | Hinweis |
 |-------|--------------|------|
 | Arbeitslohn **in Israel** | Ja | Körperliche Arbeit in Israel |
-| Mieteinnahmen **aus Immobilien in Israel** | Ja | 15% des Umsatzes oder Grenzsteuersatz |
-| Kapitalgewinn **aus Anteilen einer israelischen Gesellschaft** | Ja | 25-33% |
+| Mieteinnahmen **aus einer Wohnung in Israel** | Ja | 10% der Bruttomiete (Weg nach Abschnitt 122) oder Grenzsteuersatz |
+| Veräußerungsgewinn **aus Anteilen an einer israelischen Gesellschaft** | Ja | 25% (30% für wesentlich Beteiligte) |
 | Dividenden **einer israelischen Gesellschaft** | Ja | 25-30% (Quellensteuer) |
-| **Israelische** Rente | Kommt darauf an | Nach dem Steuerabkommen |
+| **Israelische** Rente | Kommt darauf an | Kein Abkommen Israel–Zypern — mit einem Berater klären |
 | Arbeitseinkommen aus **Remote-Arbeit von Zypern aus** | Nein | Wenn es keine Betriebsstätte in Israel gibt |
 | Einkünfte **aus nichtisraelischen Quellen** | Nein | — |
 
@@ -153,12 +150,12 @@ Auch wenn Sie **nicht mehr in Israel steueransässig** sind, besteuert Israel:
 
 | Frage | Antwort |
 |------|-------|
-| Muss ich weiter zahlen? | Nein, wenn Sie länger als zwei Jahre nichtansässig sind |
+| Muss ich weiter zahlen? | Ja, solange Bituach Leumi Sie als in Israel ansässig behandelt; nein, sobald das Ende der Ansässigkeit anerkannt ist |
 | Lohnt es sich, weiter zu zahlen? | Kommt darauf an — es erhält den Anspruch auf die Altersrente |
-| Mindestbeiträge | ~₪198/Monat (Nichtansässige) |
-| Altersrente | ₪1.738-3.061/Monat (je nach Versicherungsjahren) |
+| Mindestbeiträge | 266 ₪/Monat ab 01.01.2026 (in Israel Ansässige im Ausland ohne Einkommen) |
+| Altersrente | 1.838 ₪/Monat Grundrente für Alleinstehende ab 01.01.2026, vor Zuschlägen |
 
-> **Die Abwägung:** Wenn Sie 10+ Jahre in den Bituach Leumi eingezahlt haben, kann es sich lohnen, weiter den Mindestbeitrag zu zahlen, um den Anspruch auf die Altersrente nicht zu verlieren. Der Betrag ist niedrig (~₪198/Monat) im Verhältnis zur künftigen Rente. Lassen Sie sich von einem Bituach-Leumi-Berater beraten.
+> **Die Abwägung:** Wenn Sie 10+ Jahre in die Nationalversicherung eingezahlt haben, kann es sich lohnen, den Mindestbeitrag weiterzuzahlen, solange Sie als ansässig gelten, um den Anspruch auf Altersrente nicht zu verlieren. Der Mindestbeitrag beträgt 266 ₪/Monat (ab 01.01.2026). Lassen Sie sich von einem Bituach-Leumi-Berater beraten.
 
 ## Wie werden Optionen, RSUs und Equity in Start-ups behandelt?
 
@@ -166,38 +163,30 @@ Auch wenn Sie **nicht mehr in Israel steueransässig** sind, besteuert Israel:
 
 Für Tech-Angestellte und Gründer sind Optionen und RSUs der bedeutendste Vermögenswert — und damit das komplizierteste Thema beim Wegzug.
 
-### ISO (Incentive Stock Options) — Abschnitt 102
+### Mitarbeiteroptionen und -aktien — Abschnitt 102
 
-- **Vesting vor dem Wegzug** → der Kapitalgewinn wird in die fiktive Veräußerung einbezogen
-- **Vesting nach dem Wegzug** → zeitanteilige Aufteilung: Der Teil, der in der Zeit Ihrer israelischen Ansässigkeit unverfallbar wurde, wird in Israel besteuert
+- **Von der Wegzugsteuer erfasst** — Abschnitt 100A(d) zählt Aktien und Rechte nach Abschnitt 102 zu den „Vermögenswerten“
+- **Zeitanteilige Aufteilung** — der steuerpflichtige Anteil ist der Gewinn × Haltedauer bis zum Wegzug ÷ gesamte Haltedauer bis zum Verkauf (Abschnitt 100A(d))
 
 ### RSUs (Restricted Stock Units)
 
 - Ähnliche Behandlung wie Optionen
-- **Vesting-Tag = Realisierungstag** für steuerliche Zwecke
+- Im Treuhandweg nach Abschnitt 102 ist der **Realisierungszeitpunkt** die Übertragung der Aktien vom Treuhänder oder ihr Verkauf, je nachdem, was früher eintritt — nicht der Vesting-Tag
 - Der Quellensteuerabzug erfolgt meist automatisch (der Arbeitgeber behält ein)
 
 ### Gründer mit Anteilen
 
 - Gründeranteile werden am Wegzugstag in die **fiktive Veräußerung** einbezogen
-- Ist das Unternehmen in einer frühen Phase — niedrige Bewertung = niedrige Steuer = guter Zeitpunkt für den Wegzug
-- Ist das Unternehmen nach einer großen Runde — hohe Bewertung = erhebliche Steuerlast
+- Wenn Sie beim Wegzug zahlen und das Unternehmen in einer frühen Phase ist — niedrige Bewertung = niedrige Steuer
+- Wenn Sie beim Wegzug nach einer großen Finanzierungsrunde zahlen — hohe Bewertung = erhebliche Steuerlast
 
-> **Praktischer Tipp:** Wenn Sie bedeutendes Equity haben, ist **das Timing entscheidend**. Wegzug vor einer Finanzierungsrunde = niedrige Steuer auf die fiktive Veräußerung. Danach = hohe Steuer. Ein guter Steuerberater spart Ihnen weit mehr, als er kostet.
+> **Praxistipp:** Wenn Sie beim Wegzug zahlen, richtet sich die Steuer nach dem Wert am Tag vor dem Wegzug — ein Wegzug vor einer Finanzierungsrunde bedeutet also eine niedrigere Rechnung. Wenn Sie aufschieben, ist die Steuer ein zeitanteiliger Teil des Gewinns beim Verkauf (Abschnitt 100A(d)). Ein guter Steuerberater spart Ihnen weit mehr, als er kostet.
 
-## Was ist das Steuerabkommen zwischen Israel und Zypern?
+## Gibt es ein Steuerabkommen zwischen Israel und Zypern?
 
-Zwischen Israel und Zypern besteht ein **Abkommen zur Vermeidung der Doppelbesteuerung** (Convention for the Avoidance of Double Taxation). Das Abkommen stammt aus der Zeit des britischen Mandats (1946/1949) und wurde seither aktualisiert.
+Die Liste der geltenden Doppelbesteuerungsabkommen des zyprischen Finanzministeriums enthält Israel **nicht** ([Liste](https://www.gov.cy/mof/en/documents/double-tax-treaties/), geprüft am 2026-11-07). Planen Sie nicht mit Abkommensvorteilen für Gehälter, Dividenden, Renten, Veräußerungsgewinne oder Lizenzgebühren zwischen beiden Ländern.
 
-### Was das Abkommen regelt
-
-- **Gehälter** — werden in dem Land besteuert, in dem die Arbeit ausgeübt wird
-- **Dividenden** — die israelische Quellensteuer ist begrenzt (bis zu 15%); in Zypern 0% mit Non-Dom
-- **Renten** — nach den Bestimmungen des Abkommens ist möglicherweise nur der Wohnsitzstaat besteuerungsberechtigt
-- **Kapitalgewinne** — aus Anteilen einer israelischen Gesellschaft werden in Israel besteuert; Zypern besteuert keine Kapitalgewinne aus börsengehandelten Aktien
-- **Lizenzgebühren** — 0-10% Quellensteuer (je nach Art)
-
-> **Wichtig:** Das Abkommen ist ungewöhnlich und stammt aus der Mandatszeit. Es wird dringend empfohlen, einen Steuerberater zu konsultieren, der dieses spezielle Abkommen und seine Auslegung kennt. Siehe auch [Steuern in Zypern](/de/business/taxes-cyprus-gesy-deductions/).
+> **Wichtig:** Ohne Abkommen hängt die Entlastung von der Doppelbesteuerung vom innerstaatlichen Recht jedes Landes ab. Lassen Sie jede Einkommensquelle von einem Steuerberater prüfen, der beide Systeme kennt. Siehe auch [Steuern in Zypern](/de/business/taxes-cyprus-gesy-deductions/).
 
 ## Kann man Non-Dom mit der Wegzugsteuer kombinieren?
 
@@ -205,11 +194,11 @@ Ja, und zwar sehr gut. Das Idealszenario:
 
 1. **Israel verlassen** → Wegzugsteuer aufschieben
 2. **Steueransässig in Zypern werden** → 183-Tage-Regel oder 60-Tage-Regel
-3. **Non-Dom erhalten** → automatisch für Einwanderer, 17 Jahre SDC-Befreiung
-4. **Dividenden** = 0% SDC (Non-Dom) statt der regulären 5% SDC und statt 25-30% in Israel
-5. **IP Box** = etwa 3% effektiv auf Einkünfte aus geistigem Eigentum
+3. **Non-Dom-Status** → gilt, wenn Ihr Ursprungsdomizil außerhalb Zyperns liegt, bis Sie 17 der letzten 20 Jahre in Zypern steuerlich ansässig waren; ab 2026 ist eine Verlängerung um zwei 5-Jahres-Zeiträume gegen eine pauschale SDC von 50.000 € pro Jahr möglich
+4. **Dividenden** = 0% SDC (Non-Dom) statt 5% SDC für Personen mit Domizil (ab 2026) und statt 25–30% in Israel
+5. **IP-Box** = effektiv etwa 3%: 80% des begünstigten IP-Gewinns sind abzugsfähig, und die Körperschaftsteuer beträgt ab 2026 15%
 
-> **Der Haken:** Die 10 Jahre Meldepflicht gegenüber Israel **laufen parallel** zur Non-Dom-Zeit in Zypern. Das ist kein Widerspruch — Sie melden Israel die Vermögenswerte, die in der fiktiven Veräußerung enthalten sind, und genießen gleichzeitig 0% Steuer auf neue Dividenden in Zypern.
+> **Der Haken:** Die aufgeschobene israelische Wegzugsteuer wird beim Verkauf der Vermögenswerte fällig — auch Jahre später, während Sie in Zypern Non-Dom sind. Das ist kein Widerspruch: Israel besteuert den Gewinnanteil aus Ihrer israelischen Zeit, und neue Dividenden in Zypern können weiterhin 0% SDC tragen.
 
 ## Checkliste — vor dem Umzug
 
@@ -229,9 +218,8 @@ Ja, und zwar sehr gut. Das Idealszenario:
 
 ### Nach dem Wegzug
 
-- [ ] **Mitteilung an den Steuerprüfer** (Formular 1348)
+- [ ] **Formular 1348** (Ansässigkeitserklärung) mit der israelischen Jahressteuererklärung
 - [ ] **Bescheinigung der Steueransässigkeit** aus Zypern (TIN)
-- [ ] **Jahresberichte** — 10 Jahre, wenn Sie aufgeschoben haben
 - [ ] **Realisierungen verfolgen** — jeder Verkauf von Aktien/RSUs → Meldung an Israel
 
 ---
@@ -241,22 +229,22 @@ Die Wegzugsteuer ist kein Grund, nicht umzuziehen — aber ein guter Grund, **de
 ## Häufige Fragen (FAQ)
 
 **Muss ich die Wegzugsteuer vor dem Wegzug bezahlen?**
-Nein. Sie können die Zahlung aufschieben und erst zahlen, wenn der Vermögenswert tatsächlich verkauft wird. Der Preis dafür: eine jährliche Meldepflicht gegenüber der israelischen Steuerbehörde über 10 Jahre.
+Nein. Wer bei Ende der Ansässigkeit nicht zahlt, gilt als jemand, der den Aufschub bis zum tatsächlichen Verkauf beantragt hat. Dann wird Steuer auf den Teil des realen Gewinns fällig, der auf die Zeit bis zum Wegzug entfällt (Abschnitt 100A(b)).
 
 **Was passiert mit RSUs, die noch nicht unverfallbar geworden sind?**
-Werden RSUs erst nach dem Wegzug aus Israel unverfallbar, wird der Teil, der während Ihrer israelischen Steueransässigkeit unverfallbar wurde, in Israel besteuert (zeitanteilige Aufteilung).
+Im Treuhandweg nach Abschnitt 102 ist das Steuerereignis die Übertragung der Aktien vom Treuhänder oder ihr Verkauf, je nachdem, was früher eintritt, nicht das Vesting. Der Wegzugsteuer-Anteil wird zeitanteilig berechnet: Gewinn × Haltedauer bis zum Wegzug ÷ gesamte Haltedauer (Abschnitt 100A(d)).
 
-**Schützt das Steuerabkommen zwischen Israel und Zypern vor der Wegzugsteuer?**
-Nein. Die Wegzugsteuer entsteht an dem Tag, an dem Sie noch in Israel steueransässig sind. Das Abkommen wird erst relevant, wenn sich Ihre Ansässigkeit geändert hat.
+**Gibt es ein Steuerabkommen zwischen Israel und Zypern, das vor der Wegzugsteuer schützt?**
+Nein. Die Liste der geltenden Doppelbesteuerungsabkommen des zyprischen Finanzministeriums enthält Israel nicht (geprüft am 2026-11-07). Die Wegzugsteuer wird ohnehin auf den Tag vor dem Ende der israelischen Ansässigkeit berechnet.
 
 **Wie lange dauert es, die israelische Steueransässigkeit zu beenden?**
-Es gibt kein automatisches Datum. Israel wendet den Lebensmittelpunkt-Test an: Sie müssen die Wohnung verkaufen oder vermieten, die Familie umsiedeln und Konten schließen. In der Praxis: 6–12 Monate, bis der Steuerprüfer den Bruch anerkennt.
+Es gibt kein automatisches Datum. Israel wendet den Lebensmittelpunkt-Test an: Wohnung verkaufen oder vermieten, Familie umziehen, Konten schließen. 183 oder mehr Tage in Israel in einem Steuerjahr oder 30 oder mehr Tage bei 425 oder mehr Tagen in diesem und den zwei Vorjahren begründen eine widerlegbare Vermutung, dass Sie noch ansässig sind.
 
 **Lohnt es sich, weiter Beiträge zum Bituach Leumi zu zahlen?**
-Wenn Sie 10+ Jahre eingezahlt haben, wahrscheinlich ja. Mindestbeiträge (~198 ₪/Monat) erhalten den Anspruch auf die Altersrente (1.738–3.061 ₪/Monat). Die Rechnung geht in der Regel auf.
+Das hängt von Ihrer Lage ab. Solange Bituach Leumi Sie als in Israel ansässig behandelt, zahlt eine Person im Ausland ohne Einkommen mindestens 266 ₪ pro Monat (ab 01.01.2026). Die Grundaltersrente für Alleinstehende beträgt 1.838 ₪ pro Monat (ab 01.01.2026), vor Zuschlägen.
 
 **Weiterlesen:**
-- [Lebenshaltungskosten: Zypern gegen Israel](/de/life/lebenshaltungskosten-zypern-vs-deutschland/) — wie viel Sie wirklich sparen
+- [Lebenshaltungskosten: Zypern vs Deutschland](/de/life/lebenshaltungskosten-zypern-vs-deutschland/) — wie viel Sie wirklich sparen
 - [Die ersten 90 Tage auf Zypern](/de/life/erste-90-tage-zypern/) — was Sie erwartet
 - [Non-Dom-Status und die 60-Tage-Regel](/de/business/non-dom-status-cyprus-60-day-rule/) — die große Befreiung
 - [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/) — Sätze, GeSY, Abzüge
@@ -272,4 +260,12 @@ Haben Sie eine Frage? Fragen Sie in unserer Community: [Telegram](https://t.me/e
 
 ## Quellen
 
-- [Steuerabteilung — Finanzministerium](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Steuerabteilung — Finanzministerium](https://www.gov.cy/mof-tax/en/) — gov.cy
+- [Einkommensteuerverordnung — Abschnitte 1, 91, 100A, 102, 121B, 122, 125B](https://www.nevo.co.il/law_html/law00/84255.htm) — geprüft am 2026-11-07
+- [Formular 1348 — Ansässigkeitserklärung](https://www.gov.il/BlobFolder/service/annual-tax-report/he/Service_Pages_Income_tax_itc1348_18.pdf) — Israelische Steuerbehörde, geprüft am 2026-11-07
+- [Bituach Leumi — Beiträge während des Auslandsaufenthalts](https://www.btl.gov.il/Insurance/Living_abroad/Pages/tashlumdmeibituah.aspx) — btl.gov.il, geprüft am 2026-11-07
+- [Bituach Leumi — Höhe der Altersrente](https://www.btl.gov.il/benefits/old_age/Shum/Pages/Shum.aspx) — btl.gov.il, geprüft am 2026-11-07
+- [Geltende Doppelbesteuerungsabkommen](https://www.gov.cy/mof/en/documents/double-tax-treaties/) — Finanzministerium Zypern, geprüft am 2026-11-07
+- [Steuerreform 2026: SDC und Non-Dom](https://www.gov.cy/media/sites/167/2026/03/EEA-%CE%A6%CE%9A%CE%9A-%CE%9C%CE%95%CE%A4%CE%91%CE%A1%CE%A1%CE%A5%CE%98%CE%9C%CE%99%CE%A3%CE%97-06032026.pdf) — Steuerabteilung Zypern, geprüft am 2026-11-07
+- [Steuerreform 2026: Einkommensteuer, 15% Körperschaftsteuer](https://www.gov.cy/media/sites/167/2026/03/2026-%CE%A6%CE%BF%CF%81%CE%9C%CE%B5%CF%84%CE%B1%CF%81%CF%81%CF%8D%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-%CE%A6%CF%8C%CF%81%CE%BF%CF%82-%CE%95%CE%B9%CF%83%CE%BF%CE%B4%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82.pdf) — Steuerabteilung Zypern, geprüft am 2026-11-07
+- [Einkommensteuergesetz 118(I)/2002, Artikel 9(1)(κ) IP-Box](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — cylaw.org, geprüft am 2026-11-07

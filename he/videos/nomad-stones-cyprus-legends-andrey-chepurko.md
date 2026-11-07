@@ -1,7 +1,7 @@
 ---
 type: "videos"
-title: "Nomad Stones: אגדות קפריסין, צמידים ורעיון מוצר של אנדריי צ׳פורקו"
-description: "אנדריי צ׳פורקו על Nomad Stones: צמידי אבנים טבעיות, אגדות קפריסין וסיפורים דרך QR, לתיירים ולאנשים שחיים באי."
+title: "Nomad Stones: אגדות קפריסין, צמידים ורעיון מוצר"
+description: "אנדריי צ׳פורקו על Nomad Stones: צמידי אבנים טבעיות, אגדות קפריסין וסיפורים דרך QR, לתיירים ולאנשים שחיים באי, וגם הרעיון העסקי שמאחורי המותג."
 slug: "nomad-stones-cyprus-legends-andrey-chepurko"
 date: 2024-10-02
 author: "Katerina Bletsch"

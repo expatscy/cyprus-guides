@@ -3,7 +3,7 @@ slug: "money-transfer-cyprus-swift-crypto"
 title: "Geld nach Zypern überweisen: alle Wege"
 description: "Geld nach Zypern senden 2026: SWIFT, SEPA, Wise, Revolut, Krypto. Gebühren, Dauer und Compliance-Anforderungen pro Methode."
 date: 2026-01-24
-updated: 2026-03-12
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -15,9 +15,9 @@ draft: false
 translationKey: "perevod-deneg-kipr-kripta-swift"
 faqSchema:
   - question: "Wie überweise ich Geld von Deutschland nach Zypern?"
-    answer: "SEPA-Überweisung: kostenlos oder €0,20 (innerhalb EU, 1–2 Tage). Revolut/Wise: sofort, geringe Gebühren. SWIFT: für Nicht-EU-Überweisungen, €15–30 Gebühren, 2–5 Tage. Krypto: möglich, aber zyprische Banken fragen nach der Herkunft der Mittel. Für regelmäßige Transfers (Gehalt, Miete): SEPA oder Revolut am günstigsten."
+    answer: "Euro-Überweisungen innerhalb der EU laufen normalerweise per SEPA. Bei Überweisungen aus Nicht-EU-Ländern per SWIFT hängen die Gebühren von der sendenden Bank ab; Wise zeigt in seinem Rechner die feste und variable Gebühr je Route (Preisseite wise.com, geprüft 2026-11-07). Krypto: möglich, aber zyprische Banken fragen nach der Herkunft der Mittel."
 ---
-> **Kurzantwort:** SWIFT-Ueberweisungen nach Zypern: 2-5 Werktage, 15-50 EUR Gebühren. Wise/Revolut sind guenstiger (0,5-1%). Krypto als Alternative.
+> **Kurzantwort:** Wer Geld nach Zypern erhält, muss mit der Frage der Bank nach der Herkunft der Mittel rechnen; größere Zahlungen sollten Sie vorab mit Ihrem Bankberater abstimmen. Euro-Zahlungen aus der EU kommen normalerweise per SEPA an, Zahlungen aus Nicht-EU-Ländern per SWIFT. Die Gebühren hängen von der sendenden Bank oder dem Dienst ab; Wise zeigt die Gebühr je Route vor der Zahlung.
 
 Der Geldtransfer nach Zypern ist eine der größten Sorgen für Expats. Hier betrachten wir funktionierende Methoden und Stolperfallen.
 
@@ -54,17 +54,18 @@ Für den Empfang von SWIFT verlangt die [zyprische Bank](/de/business/bank-accou
 
 - **Mittelherkunft** (woher kommt das Geld)
 - **Dokumente** (Einkommensnachweise, Vermögensverkauf etc.)
-- **Vorabgenehmigung** — insbesondere bei Beträgen ab €10.000
+- **Vorabgenehmigung** — insbesondere bei größeren Beträgen
 
 ### Wichtige Besonderheit
 
 > „Normalerweise hält Bank of Cyprus eingehende Gelder, die nicht erwartet wurden, ohne Gutschrift zurück, bis der Kontoinhaber Compliance-Dokumente vorlegt. Dieses Geld ist weder als ausstehend sichtbar — nur der Berater kann es sehen."
 
-### Beträge über €24.000
+### Große Beträge
 
-- Fallen automatisch unter **Compliance-Prüfung**
-- Ohne Dokumente — **Rücksendung an den Absender**
+- Können einer **Compliance-Prüfung** unterliegen
+- Ohne Dokumente — möglicherweise **Rücksendung an den Absender**
 - Mögliche **Kontosperrung**
+- Die Schwellen legt jede Bank selbst fest; die in diesem Artikel genannten Beträge sind Beispiele aus der Community, keine Regeln
 
 ## Wie funktioniert der Transfer per Krypto?
 
@@ -195,7 +196,7 @@ Funktioniert nicht bei Banken unter Sanktionen.
 
 ## Was wird empfohlen?
 
-1. **Stimmen Sie mit der Bank im Voraus ab** — insbesondere bei Beträgen ab €5.000
+1. **Stimmen Sie mit der Bank im Voraus ab** — insbesondere bei größeren Beträgen
 2. **Bewahren Sie alle Dokumente auf** — Mittelherkunft, Verträge, Bescheinigungen
 3. **Vermischen Sie nicht Krypto und Bank** — das sind auf Zypern getrennte Welten
 4. **Haben Sie einen Ausweichkanal** — Revolut/Wise für den Fall von Sperrungen

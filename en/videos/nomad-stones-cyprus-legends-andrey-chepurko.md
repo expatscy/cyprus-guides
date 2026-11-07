@@ -1,7 +1,7 @@
 ---
 type: "videos"
-title: "Nomad Stones: Cyprus legends, handmade bracelets and a product idea"
-description: "Andrey Chepurko explains how Nomad Stones combines natural-stone bracelets with Cyprus legends and QR-linked stories, for visitors and people who live on the island."
+title: "Nomad Stones: Cyprus legends and handmade bracelets"
+description: "Andrey Chepurko explains how Nomad Stones pairs natural-stone bracelets with Cyprus legends and QR-linked stories, for visitors and islanders."
 slug: "nomad-stones-cyprus-legends-andrey-chepurko"
 date: 2024-10-02
 author: "Katerina Bletsch"

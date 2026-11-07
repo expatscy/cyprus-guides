@@ -3,7 +3,7 @@ slug: "marriage-divorce-cyprus"
 title: "Marriage and Divorce in Cyprus: Documents"
 description: "How to register marriage in Cyprus, required documents, validating foreign marriages, divorce and immigration documents."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 translationKey: "brak-razvod-kipr-dokumenty"
@@ -16,8 +16,8 @@ draft: false
 howtoSchema:
   name: "How to register a civil marriage in Cyprus"
   description: "Step-by-step guide to getting married in Cyprus as a foreigner including documents and registration"
-  totalTime: "P2W"
-  estimatedCost: "200"
+  totalTime: "P20D"
+  estimatedCost: "128"
   steps:
     - name: "Gather required documents"
       text: "Collect passports of both parties, birth certificates with apostille, single status certificates (proof you are not currently married), and divorce certificates if previously married."
@@ -31,13 +31,13 @@ howtoSchema:
       text: "If you need the marriage certificate for immigration purposes (spouse residence permit, Schengen visa), get it apostilled and translated."
 faqSchema:
   - question: "How do I register a marriage in Cyprus?"
-    answer: "Civil marriage at the Town Hall. Documents: passports, apostilled birth certificates, certificate of no impediment. Processing: 15 days notice required."
+    answer: "Civil marriage at the Town Hall. Documents: passports, apostilled birth certificates, certificate of no impediment. The ceremony can take place no earlier than 15 days after the notice."
   - question: "How much does a wedding cost in Cyprus?"
-    answer: "Town Hall registration: EUR 300-500. Church ceremony: EUR 500-1,000. Full wedding with reception: from EUR 5,000."
+    answer: "The municipality charges EUR 128 for a Notice of Marriage (ceremony no earlier than 15 days later) and EUR 282 for a Notice of Special Procedure (Limassol Municipality, checked 2026-11-07). Ceremonies at other venues cost extra; ask your municipality."
   - question: "How do I get divorced in Cyprus?"
-    answer: "Only through Family Court. By mutual consent: 2-4 months. Contested divorce: 6-24 months. Lawyer is mandatory, from EUR 2,000."
+    answer: "Only through the Family Court. Conditions, duration and legal costs depend on the case; ask a Cyprus family lawyer or the court."
 ---
-> **Short answer:** Getting married in Cyprus requires a 15-day notice period and costs EUR 200-500 for a civil ceremony. Bring birth certificates, passport, and proof of marital status. Church weddings require additional Orthodox documentation.
+> **Short answer:** Getting married in Cyprus requires a Notice of Marriage, with the ceremony no earlier than 15 days later; the Limassol Municipality charges EUR 128 for the notice (checked 2026-11-07). Bring birth certificates, passport, and proof of marital status. Church weddings require additional Orthodox documentation.
 
 
 Marriage and family documents are important for many immigration procedures in Cyprus. Whether you are planning to get married on the island or need to validate an existing marriage for residence purposes, this guide covers documents, costs, timelines, and legal processes.
@@ -46,6 +46,7 @@ Marriage and family documents are important for many immigration procedures in C
 > - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Marriage registration
 > - [Family Courts (CyLaw)](https://www.cylaw.org/) — Family law
 > - [MFA Consular Forms](https://mfa.gov.cy/consular-forms.html) — Document forms
+> - [Limassol Municipality: Civil Weddings](https://www.limassol.org.cy/en/civil-weddings) — notice procedure and fees (checked 2026-11-07)
 
 ## How do I get married in Cyprus?
 
@@ -79,13 +80,14 @@ Most municipalities conduct ceremonies in English. The marriage certificate is i
 
 | Item | Approximate Cost |
 |------|------|
-| Municipality registration fee | EUR 300-500 |
-| Special venue ceremony (beach, hotel) | EUR 500-800 |
-| Document translations | EUR 20-50 per document |
-| Full wedding with reception | From EUR 5,000 |
-| Church ceremony | EUR 500-1,000 |
+| Notice of Marriage (ceremony no earlier than 15 days later) | EUR 128 |
+| Notice of Special Procedure (earlier date, urgent cases) | EUR 282 |
+| Certified copy of the marriage certificate | EUR 14 |
+| Extra charge for a Saturday or out-of-hours ceremony | EUR 130 |
 
-**Timeline:** Application, then 15-day waiting period (legal requirement), then ceremony. Total: 2-3 weeks from application to receiving the certificate.
+Fees above are from the Limassol Municipality ([official page](https://www.limassol.org.cy/en/civil-weddings), checked 2026-11-07); other municipalities may differ. Ceremonies at other venues cost extra, and church or reception costs are not set by the municipality.
+
+**Timeline:** Both parties submit the Notice of Marriage in person, then the ceremony takes place no earlier than 15 days later. The Limassol Municipality advises planning to stay in Cyprus for about 20 days.
 
 ## Is a Cyprus marriage recognised in my home country?
 
@@ -124,14 +126,12 @@ In Cyprus, divorce is possible **only through the Family Court**. There is no ad
 
 **By mutual consent:**
 - Both parties file a joint petition
-- Must prove **separation of at least 2 years**, or mutual agreement
-- Duration: **2-4 months**
+- Conditions and timing depend on the case; confirm them with the Family Court or a lawyer
 
 **Contested divorce:**
 - One party files a petition
 - Grounds: adultery, domestic violence, abandonment, prolonged separation
-- Duration: **6-24 months**
-- **Lawyer mandatory** — from EUR 2,000 and up
+- Duration and legal costs depend on the case; ask a lawyer
 
 **Important:** Cyprus family law applies regardless of the nationalities of the spouses if the divorce takes place in Cyprus.
 
@@ -183,7 +183,7 @@ When applying for citizenship, **parents' surnames at birth** are indicated:
 2. **Get certified translations** — only from qualified translators (in Cyprus or your home country)
 3. **Keep originals** — copies for submission, originals in a safe place
 4. **Prepare affidavits** — if documents are missing, an affidavit is an accepted solution
-5. **Plan 3 weeks** — from arrival in Cyprus to receiving the marriage certificate
+5. **Plan about 20 days** — the Limassol Municipality advises this for a marriage by notice
 6. **Check with the municipality** — each municipality may have slightly different requirements
 
 ---
@@ -197,5 +197,4 @@ More guides: [Residence permits](/en/immigration/residence-permit-cyprus-guide/)
 ## Sources
 
 - [Migration Department](https://www.gov.cy/mip-md/en/) — gov.cy
-- [Tax Department](https://www.mof.gov.cy/tax/) — gov.cy
-- [General Healthcare System (GeSY)](https://www.gesy.org.cy/) — gesy.org.cy
+- [Limassol Municipality: Civil Weddings](https://www.limassol.org.cy/en/civil-weddings) — limassol.org.cy

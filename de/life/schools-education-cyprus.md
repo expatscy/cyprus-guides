@@ -1,9 +1,9 @@
 ---
 slug: "schools-education-cyprus"
 title: "Bildung auf Zypern: Schulen & Anmeldung"
-description: "Bildungssystem auf Zypern für Expat-Familien: staatliche vs. Privatschulen, Schulbescheinigungen für Aufenthaltsgenehmigung, Griechisch, Universitäten."
+description: "Bildungssystem auf Zypern für Expat-Familien: staatliche und private Schulen, Schulbescheinigungen für die Aufenthaltsgenehmigung, Griechisch, Universitäten."
 date: 2026-01-24
-updated: 2026-04-09
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -15,197 +15,98 @@ tags:
 draft: false
 translationKey: "shkoly-obrazovanie-kipr"
 faqSchema:
-  - question: "Können deutsche Kinder auf Zypern in die Schule gehen?"
-    answer: "Ja. Kinder mit legalem Aufenthalt haben Anspruch auf kostenlose staatliche Schulbildung (Unterrichtssprache: Griechisch). Alternativ: internationale Privatschulen mit englischem Lehrplan (IB, A-Levels) — Kosten €4.000–12.000/Jahr. Deutsche Schulen gibt es auf Zypern nicht, aber die Heritage International School in Limassol bietet den Cambridge-Lehrplan."
-  - question: "Welche Privatschulen auf Zypern sind für Expat-Kinder empfehlenswert?"
-    answer: "Limassol: Heritage International School, Grammar School, Foley's School. Paphos: International School of Paphos, ISOP. Larnaka: American Academy. Die meisten bieten englischsprachigen Unterricht (Cambridge/IB). Wartelisten sind üblich — frühzeitig anmelden (6–12 Monate vorher)."
+  - question: "Brauche ich eine Schulbescheinigung für die Aufenthaltserlaubnis meines Kindes?"
+    answer: "Prüfen Sie die aktuelle Checkliste für die Genehmigungskategorie Ihres Kindes. Zum Beispiel verlangt die Checkliste für das Kind eines Digital Nomads eine Kopie der Anmeldung oder Besuchsbescheinigung einer Bildungseinrichtung auf Zypern oder im Ausland nur für Schüler oder Studenten, sowohl beim Erstantrag als auch bei der Verlängerung."
+  - question: "Können Expat-Kinder auf Zypern staatliche Schulen besuchen?"
+    answer: "Der Besuch der staatlichen Grundschule ist kostenlos und für Kinder aller Nationalitäten, die auf Zypern leben, verpflichtend, unabhängig vom Einwanderungsstatus. Die Anmeldung für die staatliche Vorschule steht Kindern offen, die dauerhaft oder vorübergehend auf Zypern leben, unabhängig von der Nationalität; Plätze für jüngere Kinder hängen von freien Plätzen und Auswahlkriterien ab."
+  - question: "Ab welchem Alter besteht auf Zypern Schulpflicht?"
+    answer: "Für 2026–2027 beginnt die verpflichtende Vorschule mit 4 Jahren und 4 Monaten, erreicht vor dem 1. September. Die 1. Klasse beginnt mit 6 Jahren, erreicht vor dem 1. September. Das Ministerium beschreibt den Besuch der Sekundarstufe als verpflichtend bis zum Alter von 15 Jahren oder bis zum Abschluss des ersten Zyklus, je nachdem, was zuerst eintritt."
 ---
-> **Kurzantwort:** Zypern hat oeffentliche (griechischsprachig, kostenlos), private und internationale Schulen. Internationale Schulen kosten 5.000-15.000 EUR/Jahr.
+> **Kurzantwort:** Für **2026–2027** beginnt die verpflichtende Vorschule mit **4 Jahren und 4 Monaten**, erreicht vor dem 1. September. Die staatliche Grundschule dauert sechs Jahre; die allgemeine Sekundarstufe hat zwei dreijährige Zyklen, Gymnasium und Lyzeum. Wählen Sie eine Schule und prüfen Sie die Einwanderungsunterlagen getrennt.
 
-Bildung ist ein zentrales Thema für Familien mit Kindern. Auf Zypern gibt es staatliche und private Schulen, und die Wahl beeinflusst nicht nur die Ausbildung, sondern auch die Einwanderungsdokumente.
+## Wer kann staatliche Schulen besuchen?
 
-> **Offizielle Quellen:**
-> - [Ministry of Education](https://www.moec.gov.cy/en/schools_info.html) — Schulinformationen
-> - [Education Guide (PDF)](https://www.moec.gov.cy/odigos-ekpaidefsis/documents/english.pdf) — Bildungsleitfaden
-> - [Primary Education](https://www.moec.gov.cy/dde/en/index.html) — Grundschulbildung
-> - [Secondary Education](https://www.moec.gov.cy/dme/en/index.html) — Sekundarschulbildung
+Die [Informationen des Ministeriums zur Grundschule](https://www.moec.gov.cy/dde/en/infoserv_primary_general_information.html) besagen, dass der Besuch für Kinder aller Nationalitäten, die auf Zypern leben, verpflichtend ist, unabhängig davon, ob ihr Aufenthalt legal oder illegal ist. Der Besuch staatlicher Grundschulen ist kostenlos.
 
-## Welche Schultypen gibt es?
+Die [Informationen zur Vorschule](https://www.moec.gov.cy/dde/en/infoserv_preprimary_general_information.html) erlauben die Anmeldung von Kindern, die dauerhaft oder vorübergehend auf Zypern leben, unabhängig von Herkunft oder Nationalität. Für 2026–2027 können Kinder unter dem Pflichtalter, die vor dem 1. September mindestens drei Jahre alt sind, sich bewerben; Plätze hängen von freien Plätzen nach den Anmeldungen und Versetzungen im Pflichtalter ab, nach vorher festgelegten Auswahlkriterien. Das ist kein garantierter Platz für jeden jüngeren Bewerber.
 
-### Staatliche Schulen (griechisch)
+Das Ministerium sagt, dass die [staatliche Vorschule kostenlos ist](https://www.moec.gov.cy/dde/en/preprimary_fees.html). Vorschulen der Gemeinden legen ihre Gebühren selbst fest. Fragen Sie jede Schule nach Material, Mahlzeiten, Transport und weiteren Regelungen, bevor Sie Ihr Gesamtbudget vergleichen.
 
-**Vorteile:**
-- **Kostenlos**
-- Unterricht auf **Griechisch**
-- Integration in die lokale Kultur
-- Wird für die Einbürgerung angerechnet
+## Welche Stufen und Einschulungsalter gibt es?
 
-**Nachteile:**
-- Grundkenntnisse in **Griechisch** erforderlich
-- Anderer pädagogischer Ansatz
-- Weniger Flexibilität
+| Stufe | Veröffentlichte Regelung des Ministeriums |
+|---|---|
+| Verpflichtende Vorschule, 2026–2027 | 4 Jahre und 4 Monate, erreicht vor dem 1. September |
+| Erste Grundschulklasse | 6 Jahre, erreicht vor dem 1. September |
+| Grundschule | Klassen 1–6: sechs Jahre |
+| Allgemeine Sekundarstufe | Gymnasium: drei Jahre; Lyzeum: drei Jahre |
 
-### Privatschulen
+Quellen: [Anmeldung zur Vorschule](https://www.moec.gov.cy/dde/en/infoserv_preprimary_general_information.html), [Anmeldung zur Grundschule](https://www.moec.gov.cy/dde/en/infoserv_primary_general_information.html) und [Sekundarbildung](https://www.moec.gov.cy/dme/en/index.html).
 
-**Typen:**
-- **Britisch** — A-Levels-Programm
-- **Amerikanisch** — AP-Programm
-- **International** — IB-Programm
-- **Verschiedene andere** Programme
+Die Vorschulklasse beginnt mit fünf Jahren; das ist etwas anderes als das frühere Einstiegsalter der verpflichtenden Vorschule. Das veröffentlichte Pflichteintrittsalter bleibt auch für 2027–2028 bei 4 Jahren und 4 Monaten und sinkt dann in späteren Schuljahren. Prüfen Sie das Jahr, in dem Ihr Kind tatsächlich die Schule besucht.
 
-**Kosten:** €5.000 bis €15.000+ pro Jahr
+Das Ministerium beschreibt die allgemeine Sekundarbildung für das Alter von 12–18 Jahren, mit kostenlosem staatlichem Besuch in allen Klassen und Pflicht bis zum Alter von 15 Jahren oder bis zum Abschluss des ersten Zyklus, je nachdem, was zuerst eintritt. Fragen Sie die Schule, welche Klasse für das Kind nach seiner bisherigen Schulbildung passt.
 
-**Vorteile:**
-- Unterricht auf **Englisch**
-- Vertraute Programme
-- Leichtere Anpassung
+## Wie funktionieren Anmeldung und Versetzung an staatlichen Grundschulen?
 
-**Nachteile:**
-- Hohe Kosten
-- Weniger Integration
+Die [Seite des Ministeriums zur Grundschulanmeldung](https://www.moec.gov.cy/dde/en/infoserv_primary_general_information.html) sagt, dass die Anmeldungen im Januar stattfinden, online und/oder persönlich an jährlich bekannt gegebenen Terminen. Jeder Schüler meldet sich in der Schule seines Schulbezirks an. Einen nachgewiesenen Grund für das Versäumen der Anmeldefrist kann der Chief Education Officer berücksichtigen.
 
-## Welche Schulbescheinigung brauche ich?
+Für ein in Zypern geborenes Kind, das zum ersten Mal eingeschult wird, verlangt die Seite eine amtliche Geburtsurkunde. Für ein im Ausland geborenes Kind verlangt sie eine Alien Registration Certificate (ARC) oder ein anderes amtliches Dokument des Geburtslandes. Klären Sie die vollständigen Anmeldehinweise des Jahres und die anerkannten Nachweise mit der Schule oder dem District Education Office.
 
-### Warum sie notwendig ist
+Für einen Umzug beschreibt die Seite die Anmeldung oder Versetzung durch den Schulleiter der aufnehmenden Schule nach Nachweis des Umzugs der Eltern. Versetzungen, die Probleme mit der Klassengröße oder andere Schulprobleme verursachen, brauchen die Genehmigung des örtlichen District Education Office. Versetzungen aus anderen Gründen folgen ebenfalls dem Genehmigungsverfahren des Bezirks. Gehen Sie nicht davon aus, dass Sie jede staatliche Schule wählen können, ohne Bezirk und Versetzungsregeln zu prüfen.
 
-Bei der Beantragung der [Aufenthaltsgenehmigung](/de/immigration/residence-permit-cyprus-guide/) für Kinder wird eine **Einschulungsbestätigung** benötigt.
+## Wie vergleiche ich staatliche und private Schulen?
 
-### Wann ausstellen lassen
+Fragen Sie nach der Unterrichtssprache je Fach, dem Lehrplan, dem verliehenen Abschluss, der Unterstützung für das Sprachniveau Ihres Kindes, der Einstufung in die Klasse und den Gesamtgebühren. Gehen Sie nicht davon aus, dass jede Privatschule Englisch nutzt oder dass eine Bezeichnung wie „international“ einen bestimmten Abschluss garantiert.
 
-Schulen arbeiten bis **Juni**, dann sind Ferien:
+Die [Informationen des Ministeriums zur Privatbildung](https://www.moec.gov.cy/idiotiki_ekpaidefsi/en/infoserv_priv_ed_general_information.html) erklären, dass private Grund- und weiterführende Schulen die Genehmigung des Ministeriums und die Zustimmung des Private Education Advisory Committee brauchen. Sie unterscheiden Schulen mit demselben staatlichen Lehrplan, einem ähnlichen Lehrplan, der mindestens zwei Drittel der Hauptfächer abdeckt, und einem anderen Typ, der das Bildungssystem eines anderen Landes anwendet.
 
-- Wenn das Kind ab September eingeschrieben ist — die Bescheinigung wird vorab ausgestellt
-- Der Antrag auf Aufenthaltsgenehmigung kann **nach Juni** mit einer Einschulungsbestätigung für das nächste Jahr gestellt werden
+Das [Department of Secondary Education](https://www.moec.gov.cy/dme/en/index.html) beschreibt private Schulen als Schulen mit eigenen Lehrplänen, Stoffplänen und Gebühren je nach Typ. Fordern Sie ein datiertes Angebot an, das Anmeldung, Unterricht, Bücher, Prüfungen, Transport und optionale Leistungen enthält. Prüfen Sie vor der Zahlung die Bedingungen für Rückerstattung und Abmeldung.
 
-### Wie Sie die Bescheinigung vorab erhalten
+Für Sprachförderung nennt das Department of Secondary Education ein Programm „Greek for children with immigrant biography“ (Griechisch für Kinder mit Migrationsgeschichte). Fragen Sie die jeweilige Schule, welche Unterstützung Ihr Kind nutzen kann; das belegt keine feste Eingewöhnungszeit und garantiert nicht überall dasselbe Angebot.
 
-Erfahrungsberichte:
+Vergleichen Sie die Möglichkeiten im [Schulvergleich](/de/life/schools-cyprus-comparison/) und im [Städteverzeichnis](/de/life/internationale-schulen-zypern-ueberblick/) und klären Sie dann direkt mit den Schulen.
 
-> „Man kann sich mit der Schule einigen. Die Anmeldegebühr bezahlen und um eine Bescheinigung bitten. Erklärt, dass sie für die Migrationsbehörde benötigt wird. Ein Schuljahr im Voraus können wir nicht bezahlen, weil wir nicht wissen, ob die Genehmigung erteilt wird. Sie stellten eine Bescheinigung aus, dass das Kind eingeschrieben ist."
+## Welche Schulbescheinigung braucht man für die Aufenthaltsgenehmigung?
 
-### Inhalt der Bescheinigung
+Schulzulassung und Einwanderungserlaubnis werden getrennt geprüft. Stellen Sie die tatsächliche Genehmigungskategorie Ihres Kindes fest und lesen Sie die aktuelle Checkliste der Nachweise, bevor Sie eine Schule um eine Bescheinigung bitten.
 
-Die Bescheinigung muss bestätigen, dass das Kind:
+Zum Beispiel verlangt die [Checkliste für das Kind eines Digital Nomads](https://www.gov.cy/app/uploads/sites/174/2025/12/Acc-Docs-children_19032025.pdf) eine Kopie der Anmeldung oder Besuchsbescheinigung einer Bildungseinrichtung auf Zypern oder im Ausland **nur für Schüler oder Studenten**. Das steht sowohl in der Liste für den Erstantrag als auch in der für die Verlängerung. Daraus folgt keine allgemeine Pflicht zu einer Bescheinigung, keine kostenlose Bescheinigung und keine Erlaubnis, nach dem 18. Geburtstag weiter abhängig zu bleiben.
 
-- **Aktuell die Schule besucht** (wenn im laufenden Schuljahr)
-- Oder **für das nächste Jahr eingeschrieben** ist (wenn vor Schulbeginn)
+Fragen Sie die zuständige Einwanderungsbehörde, ob eine geplante Bescheinigung Ihre Umstände abdeckt, einschließlich eines künftigen Schuljahres, eines Internats oder des Antrags eines volljährigen Studenten. Fragen Sie die Schule, wann sie das Dokument ausstellen kann und welche Verpflichtungen zu Anmeldung und Zahlung damit verbunden sind. Prüfen Sie den Unterkunftsnachweis getrennt; gehen Sie nicht davon aus, dass der Name des Kindes in jedem einschlägigen Dokument immer unnötig ist.
 
-### Internatsschulen
+Siehe den [Leitfaden zur Aufenthaltsgenehmigung](/de/immigration/residence-permit-cyprus-guide/) und den Leitfaden für Ihre konkrete Aufenthaltsart.
 
-Wenn das Kind eine **Internatsschule** besucht, wird die Aufenthaltsgenehmigung anders bearbeitet — nicht als Angehöriger der Eltern.
+## Begründet der Schulbesuch einen Anspruch auf die Staatsbürgerschaft?
 
-## Was brauche ich für die Verlängerung?
+Betrachten Sie den Schulbesuch nicht als Versprechen auf die Staatsbürgerschaft. Prüfen Sie den geltenden [Einbürgerungsweg](/de/immigration/zypern-staatsbuergerschaft-einbuergerung/) und seine Bedingungen für den Sprachnachweis getrennt. Zum Sprachenlernen von Erwachsenen siehe den [Leitfaden zum Griechischlernen](/de/life/learning-greek-language-cyprus/); zu den aktuellen Zertifizierungsregeln siehe den [Leitfaden zur Griechischprüfung](/de/immigration/greek-language-exam-citizenship/).
 
-Bei der Verlängerung:
+## Was sollte ich beim Hochschulstudium prüfen?
 
-- Eine aktuelle Schulbescheinigung wird benötigt
-- Bestätigt, dass das Kind **weiterhin die Schule besucht**
+Das [Department of Higher Education](https://highereducation.ac.cy/en/dae/ekpaideftiko-systima) nennt die Universität Zypern, die Technische Universität Zypern und die Open University of Cyprus als öffentliche Universitäten. Seine Liste privater Universitäten enthält Frederick, European University Cyprus und Neapolis University Pafos.
 
-## Müssen Kinder in den Mietvertrag eingetragen werden?
+Prüfen Sie Zulassungsvoraussetzungen, Sprache, Gebühren und Akkreditierung des konkreten Studiengangs und dann den Einwanderungsweg des Bewerbers. Gehen Sie nicht davon aus, dass eine Aufenthaltserlaubnis bevorzugte Zulassungs- oder Gebührenbedingungen schafft.
 
-**Nein.** Auf Zypern werden Kinder nicht in den Mietvertrag eingetragen:
+## Werden Abschlüsse automatisch in der ganzen EU anerkannt?
 
-> „Auf Zypern müssen Kinder nicht in Mietverträge eingetragen werden."
+Nein. [Your Europe, geprüft am 2. Juni 2026](https://europa.eu/youreurope/citizens/education/university/recognition/index_en.htm), erklärt, dass akademische Abschlüsse keine automatische EU-weite Anerkennung haben. Für ein weiteres Studium kann das nationale Verfahren eines anderen Landes nötig sein. Wenden Sie sich an das ENIC/NARIC-Zentrum des Ziellandes oder die aufnehmende Hochschule, bevor Sie sich für einen Studiengang entscheiden.
 
-Für die Aufenthaltsgenehmigung der Kinder ist das **nicht erforderlich**.
+Die berufliche Anerkennung unterliegt anderen Regeln. Fragen Sie die zuständige Berufsaufsicht, welche Qualifikationen und Nachweise sie verlangt; eine Apostille allein beantwortet keine Anerkennungsfrage.
 
-## Welche Griechischkurse gibt es?
+## Wie plane ich eine Klassenfahrt ins Ausland?
 
-### Für Erwachsene (Einbürgerung)
+Prüfen Sie Staatsangehörigkeit, Reisepass, Aufenthaltsstatus und die gesamte Reiseroute jedes Kindes bei den Behörden des Ziel- und Transitlandes. Fragen Sie den Veranstalter, welche konkrete Regel für Gruppenreisen er nutzen will, ob sie für dieses Kind gilt und welche Unterlagen nötig sind. Verlassen Sie sich nicht auf einen anonymen Bericht über die Botschaftsentscheidung zu einem anderen Kind und gehen Sie nicht davon aus, dass alle Transitfälle mit russischem Pass gleich ausgehen.
 
-Für die Einbürgerung ist ein Zertifikat **A2** oder **B1** erforderlich:
+## Häufig gestellte Fragen
 
-- **Einheitliche Griechisch-Prüfung** — im Mai
-- **Prüfung der Universität Zypern** — im Winter
+### Brauche ich eine Schulbescheinigung für die Aufenthaltserlaubnis meines Kindes?
 
-Kurse:
-- **LEEKE** — Griechisch-Schulen
-- **Private Lehrkräfte**
-- **Online-Kurse**
+Prüfen Sie die aktuelle Checkliste für die Genehmigungskategorie Ihres Kindes. Zum Beispiel verlangt die Checkliste für das Kind eines Digital Nomads eine Kopie der Anmeldung oder Besuchsbescheinigung einer Bildungseinrichtung auf Zypern oder im Ausland nur für Schüler oder Studenten, sowohl beim Erstantrag als auch bei der Verlängerung.
 
-### Für Kinder
+### Können Expat-Kinder auf Zypern staatliche Schulen besuchen?
 
-Wenn das Kind eine griechische Schule besucht:
+Der Besuch der staatlichen Grundschule ist kostenlos und für Kinder aller Nationalitäten, die auf Zypern leben, verpflichtend, unabhängig vom Einwanderungsstatus. Die Anmeldung für die staatliche Vorschule steht Kindern offen, die dauerhaft oder vorübergehend auf Zypern leben, unabhängig von der Nationalität; Plätze für jüngere Kinder hängen von freien Plätzen und Auswahlkriterien ab.
 
-- Üblicherweise werden **Einführungskurse** angeboten
-- Kinder passen sich **schneller als Erwachsene** an
+### Ab welchem Alter besteht auf Zypern Schulpflicht?
 
-## Welche Universitäten gibt es?
-
-### Anerkannte Universitäten
-
-- **University of Cyprus** — staatlich, in Nikosia
-- **Cyprus University of Technology** — staatlich, in Limassol
-- **Private Universitäten** — Frederick, European, Neapolis u.a.
-
-### Für Kinder von Residenten
-
-- Mit Aufenthaltsgenehmigung — vergünstigte Bedingungen
-- Unterricht auf **Griechisch** oder **Englisch**
-
-### Volljährige Kinder
-
-Wenn das Kind **18** wird und studiert:
-
-- Kann eine **eigene Aufenthaltsgenehmigung** beantragen (als Student)
-- Oder als **Angehöriger** bleiben (wenn weiterhin in Ausbildung)
-
-## Wie funktionieren Schulreisen ins Ausland?
-
-### Schengen-Visum für Kinder
-
-Bei Schulausflügen nach Europa:
-
-- Theoretisch gibt es eine EU-Regelung für **Schulausflüge ohne Visum**
-- In der Praxis — **riskant**
-
-Aus der Community:
-
-> „Die Deutsche Botschaft schrieb ausdrücklich: ‚This rule does not apply here. Sofia needs a visa.'"
-
-**Empfehlung:** Visum beantragen, sich nicht auf die Schulregelung verlassen.
-
-### Umsteigen in Warschau
-
-Bei Umsteigeflügen über Warschau können Kinder mit bestimmten Pässen **nicht einreisen** — selbst mit einer Schulgruppe.
-
-## Wie werden Abschlüsse anerkannt?
-
-### Zypriotische Abschlüsse
-
-Abschlüsse zypriotischer Universitäten werden in der **EU** anerkannt.
-
-### Ausländische Abschlüsse
-
-Für die Berufsausübung auf Zypern kann erforderlich sein:
-
-- **Apostille** im Ausstellungsland
-- **Übersetzung**
-- **Nostrifikation** (für bestimmte Berufe)
-
-## Welche praktischen Tipps gibt es?
-
-1. **Wählen Sie die Schule rechtzeitig** — Plätze an guten Schulen sind begrenzt
-2. **Lassen Sie sich eine Bescheinigung bei der Einschreibung ausstellen** — nützlich für die Migration
-3. **Erwägen Sie eine griechische Schule** — kostenlos und gut für die Integration
-4. **Bereiten Sie das Kind sprachlich vor** — zumindest Grundkenntnisse in Englisch/Griechisch
-5. **Beantragen Sie Visa für Kinder** — verlassen Sie sich nicht auf Schulausnahmen
-6. **Auf gov.cy verifizieren** — Regeln und Öffnungszeiten ändern sich. Die offizielle Website ([gov.cy](https://www.gov.cy/)) ist die verlässlichste Quelle
-7. **Saisonalität beachten** — im Sommer haben viele Einrichtungen verkürzte Öffnungszeiten. Winterfahrplan: 07:30–14:30
-8. **Telegram-Kanäle nutzen** — Fragen stellen und Antworten von erfahrenen Expats in unserem [Kanal](https://t.me/expatscy) erhalten
-9. **Aktenzeichen anfordern** — bei jedem Behördenbesuch eine Fallnummer (case number) zur Nachverfolgung verlangen
-
----
-
-Die Schulwahl ist eine wichtige Entscheidung, die die Anpassung der gesamten Familie beeinflusst. Wir empfehlen, mehrere Schulen persönlich zu besuchen, bevor Sie sich entscheiden.
-
-Weiterführende Informationen: [Privatschulen](/de/life/schools-cyprus-comparison/) · [internationale Schulen](/de/life/internationale-schulen-zypern-ueberblick/) · [Griechisch lernen](/de/life/learning-greek-language-cyprus/).
-
----
-
-## Quellen
-
-- [Ministry of Education](https://www.moec.gov.cy/en/schools_info.html) — gov.cy
-- [Education Guide (PDF)](https://www.moec.gov.cy/odigos-ekpaidefsis/documents/english.pdf) — gov.cy
-- [Primary Education](https://www.moec.gov.cy/dde/en/index.html) — gov.cy
-- [Secondary Education](https://www.moec.gov.cy/dme/en/index.html) — gov.cy
+Für 2026–2027 beginnt die verpflichtende Vorschule mit 4 Jahren und 4 Monaten, erreicht vor dem 1. September. Die 1. Klasse beginnt mit 6 Jahren, erreicht vor dem 1. September. Das Ministerium beschreibt den Besuch der Sekundarstufe als verpflichtend bis zum Alter von 15 Jahren oder bis zum Abschluss des ersten Zyklus, je nachdem, was zuerst eintritt.

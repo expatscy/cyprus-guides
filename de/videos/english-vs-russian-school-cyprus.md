@@ -1,96 +1,84 @@
 ---
 type: videos
-title: "Englische vs russische Schule auf Zypern"
-description: "Vergleich englischer und russischer Schulen auf Zypern. Echte Erfahrungen von Eltern, Preise, Programme, Vor- und Nachteile jeder Option."
+title: "Englische oder russische Schule auf Zypern: Wer gewann?"
+description: "Lilias Bericht über englische und russische Schulen auf Zypern: Schulwechsel, Freundschaften, Kosten, Aktivitäten. Eine Familienerfahrung, keine Bewertung."
 date: 2025-04-25
-updated: 2026-03-14
+updated: 2026-11-07
 youtube_id: "99ME_EBruJU"
-duration: "PT38M00S"
+duration: "PT27M02S"
 upload_date: "2025-04-25"
-view_count: 12500
 tags:
   - Bildung
   - Familie
   - Leben auf Zypern
 categories:
   - Videos
+author: "Expats Cyprus"
 topics:
   - zhizn
 draft: false
-author: "Expats Cyprus"
 translationKey: "angliyskaya-vs-russkaya-shkola-kipr"
 
 topics_mentioned:
-  - "Schulen auf Zypern"
-  - "Englische Schulen"
-  - "Russische Schulen"
-  - "Bildung für Expat-Kinder"
-  - "Schulkosten"
-  - "Vergleich der Bildungsprogramme"
-
+  - "Ein Elternvergleich von englischer und russischer Schule"
+  - "Schulwechsel"
+  - "Kommunikation mit den Eltern"
+  - "Freundschaften und Schulatmosphäre"
+  - "Kosten und enthaltene Aktivitäten"
+  - "Schulwahl für ein Kind"
 faqs:
-  - question: "Welche Schulen gibt es auf Zypern für russischsprachige Kinder?"
-    answer: "Auf Zypern gibt es russische Schulen mit russischem Lehrplan, englische internationale Schulen und griechische oeffentliche Schulen. Jede Option hat ihre Vor- und Nachteile."
-  - question: "Wie viel kostet der Unterricht an einer Privatschule auf Zypern?"
-    answer: "Die Kosten haengen von der Schule ab: russische Schulen -- 3.000-6.000 Euro pro Jahr, englische Schulen -- 6.000-15.000 Euro pro Jahr. Hinzu kommen zusaetzliche Kosten für Uniform, Lehrbuecher und Veranstaltungen."
-  - question: "Welche Schule soll man waehlen -- die englische oder die russische?"
-    answer: "Das haengt von Ihren Plaenen ab. Wenn Sie vorhaben, dauerhaft auf Zypern oder in Europa zu bleiben, bietet die englische Schule mehr Möglichkeiten. Wenn eine Rueckkehr nach Russland möglich ist, bewahrt die russische Schule die Kompatibilitaet mit dem russischen System."
+  - question: "Wessen Schulerfahrung wird im Video besprochen?"
+    answer: "Der Herausgeber stellt Lilias Bericht über englische und russische Schulen vor: Schulwechsel, Freundschaften, Kommunikation mit den Eltern und Aktivitäten. Es ist keine Bewertung aller Schulen auf Zypern."
+  - question: "Sind die Preise im Interview aktuelle Angaben?"
+    answer: "In der Beschreibung des Herausgebers werden monatlich 400 EUR für eine russische Schule und 650–900 EUR in der Kostendiskussion genannt. Das Video wurde am 25. April 2025 hochgeladen. Verstehen Sie die Zahlen als historische Beispiele aus dem Gespräch und fragen Sie die Schule nach den aktuellen Gesamtkosten und Bedingungen."
+  - question: "Was sollte ich vor der Schulwahl prüfen?"
+    answer: "Besuchen Sie die Schule und besprechen Sie die Bedürfnisse Ihres Kindes. Fragen Sie nach Lehrplan, Unterrichtssprache, Sprachförderung, Kommunikation, Kinderschutz, Aktivitäten und der vollständigen Gebührenübersicht."
 faqSchema:
-  - question: "Welche Schule ist für deutschsprachige Kinder auf Zypern am besten geeignet?"
-    answer: "Englische Privatschulen (GCSE, A-Level, IB) sind die starkste Option für Kinder deutschsprachiger Auswanderer: Abschluesse werden in Deutschland, Oesterreich und der Schweiz anerkannt, Englisch als Bildungssprache oeffnet europaeische und weltweite Universitäten. Kosten: 6.000–15.000 €/Jahr. Die griechische Staatsschule ist kostenlos, aber auf Griechisch — gut für Langzeit-Expats, die Integration priorisieren."
-  - question: "Werden zyprische Schulabschluesse in Deutschland anerkannt?"
-    answer: "Britische Abschluesse (GCSE, A-Level) und das IB-Diplom werden in Deutschland vollstaendig anerkannt und berechtigen zur Universitätszulassung. Der zyprische Staatsabschluss (Apolytirion) ist bedingt anerkannt — KMK-Beratung empfehlenswert. Russische Schulabschluesse aus Zypern werden nicht direkt anerkannt."
-  - question: "Gibt es deutschsprachige Schulen oder DaF-Programme auf Zypern?"
-    answer: "Es gibt keine vollstaendig deutschsprachige Schule auf Zypern. Einige Schulen bieten Deutsch als Fremdsprache an. Deutsche Eltern waehlen meist englische Privatschulen und ergaenzen mit deutschem Online-Unterricht (z. B. Deutsche Schulen digital) oder Privatnachhilfe, um das Sprachniveau zu erhalten."
-  - question: "Wie laeuft die Schulanmeldung für Expat-Kinder auf Zypern ab?"
-    answer: "Fuer private Schulen: Bewerbung direkt bei der Schule, oft mit Einstufungstest. Dokumente: Schulzeugnisse (apostilliert und übersetzt), Impfnachweis, Reisepass. Fuer staatliche Schulen: Anmeldung beim lokalen Bildungsbuero (District Education Office). Empfehlung: Fruehzeitig bewerben — beliebte Schulen sind oft über ein Jahr im Voraus ausgebucht."
+  - question: "Wessen Schulerfahrung wird im Video besprochen?"
+    answer: "Der Herausgeber stellt Lilias Bericht über englische und russische Schulen vor: Schulwechsel, Freundschaften, Kommunikation mit den Eltern und Aktivitäten. Es ist keine Bewertung aller Schulen auf Zypern."
+  - question: "Sind die Preise im Interview aktuelle Angaben?"
+    answer: "In der Beschreibung des Herausgebers werden monatlich 400 EUR für eine russische Schule und 650–900 EUR in der Kostendiskussion genannt. Das Video wurde am 25. April 2025 hochgeladen. Verstehen Sie die Zahlen als historische Beispiele aus dem Gespräch und fragen Sie die Schule nach den aktuellen Gesamtkosten und Bedingungen."
+  - question: "Was sollte ich vor der Schulwahl prüfen?"
+    answer: "Besuchen Sie die Schule und besprechen Sie die Bedürfnisse Ihres Kindes. Fragen Sie nach Lehrplan, Unterrichtssprache, Sprachförderung, Kommunikation, Kinderschutz, Aktivitäten und der vollständigen Gebührenübersicht."
 ---
 
-> **Haftungsausschluss:** Die Meinungen und Erfahrungen in diesem Video stammen von den Podcast-Gaesten und spiegeln nicht unbedingt die Position des Kanalautors wider.
+> **Persönlicher Bericht:** Dieses Interview zeigt die Erfahrung eines Elternteils. Aktuelle Aufnahmebedingungen, Gebühren und Schulregeln klären Sie bitte direkt mit jeder Schule, die Sie in Betracht ziehen.
 
-## Schulvergleich auf Zypern: Englisch vs. Russisch
+## Der Vergleich im Interview
 
-Eine der wichtigsten Fragen für Expat-Eltern -- in welche Schule das Kind gehen soll. Wir vergleichen zwei beliebte Optionen.
+Der Herausgeber stellt den Bericht von **Lilia** über englische und russische Schulen auf Zypern vor. Die Beschreibung nennt einen Schulwechsel, Fragen zum Unterricht und zur Kommunikation mit den Eltern, Freundschaften, Aktivitäten und die erlebte Atmosphäre. Das sind Ansichten und Erfahrungen einer Person, keine Aussagen über alle englischen oder russischen Schulen.
 
-### Russische Schulen auf Zypern
+Das Video wurde am **25. April 2025** hochgeladen und dauert **27 Minuten 2 Sekunden**.
 
-**Vorteile:**
-- Vertrauter Lehrplan
-- Unterricht in der Muttersprache
-- Kompatibilitaet mit dem russischen Bildungssystem
-- Guenstigere Kosten
+## Im Video besprochene Kosten
 
-**Nachteile:**
-- Eingeschraenkte Möglichkeiten für die Fortsetzung der Ausbildung in Europa
-- Weniger internationale Verbindungen
+Die Beschreibung des Herausgebers nennt **400 EUR im Monat** für eine russische Schule und **650–900 EUR im Monat** in der Kostendiskussion; danach geht es darum, was im Preis enthalten ist: Sprachen, Clubs, Sport und Mittagessen. Das sind historische Beispiele aus dem Interview von 2025, keine aktuellen Gebühren einer bestimmten Schule und keine jährlichen Preisspannen für den ganzen Markt.
 
-### Englische internationale Schulen
+Holen Sie bei der Schule ein schriftliches Angebot ein. Prüfen Sie Schulgeld, Anmeldegebühr, Mahlzeiten, Transport, Uniform, Material, Aktivitäten sowie Zahlungs- und Kündigungsbedingungen.
 
-**Vorteile:**
-- Internationale Programme (GCSE, A-Level, IB)
-- Weltweit anerkannte Abschluesse
-- Hohes Englischniveau
-- Vielfaeltige Möglichkeiten für die Universitätszulassung
+## Vom Herausgeber hervorgehobene Momente
 
-**Nachteile:**
-- Hohe Kosten
-- Anpassungsphase für das Kind
+- **01:53** — Bedenken gegenüber einer englischen Schule
+- **03:10** — Vergleich der Schulen
+- **07:28** — Kommunikation nach einer Verletzung des Kindes
+- **08:49** — Freundschaften und Schulatmosphäre
+- **15:18** — Kosten
+- **16:05** — Was im Preis enthalten ist
+- **16:45** — Unterstützung für Neuankömmlinge
+- **18:30** — Ein Bericht über Kunst und eine Lehrerin
+- **23:38** — Schulwahl
+- **25:10** — Persönlicher Besuch der Schule
 
-### Schulkosten
+Diese Bezeichnungen fassen die Beschreibung des Herausgebers zusammen. Die besprochenen Erfahrungen begründen keine allgemeine Regel über Lehrplanqualität, Eingewöhnungszeit oder Sicherheit.
 
-| Schultyp | Kosten pro Jahr |
-|----------|-----------------|
-| Russische Schule | 3.000-6.000 EUR |
-| Englische Schule | 6.000-15.000 EUR |
-| Griechische staatliche Schule | Kostenlos |
+## Fragen für Ihre eigene Entscheidung
 
-### Unsere Erfahrung
+Besuchen Sie die Schulen Ihrer engeren Wahl und besprechen Sie die Bedürfnisse des Kindes. Fragen Sie nach Unterrichtssprache, Lehrplan, Abschlüssen, Sprachförderung, Kinderschutz, Kommunikation mit den Eltern, Aktivitäten und den Gesamtkosten.
 
-Sehen Sie sich das Video an für eine ausfuehrliche Analyse unserer persoenlichen Erfahrung und der endgueltigen Entscheidung!
+Vergleichen Sie, was die Schule Ihrem Kind tatsächlich anbietet, statt nur nach der Sprache im Schulnamen zu entscheiden. Weiterführend: [Internationale Schulen nach Städten](/de/life/internationale-schulen-zypern-ueberblick/), [Schulvergleich](/de/life/schools-cyprus-comparison/) und [Umzugsleitfaden](/de/immigration/auswandern-nach-zypern-leitfaden/).
 
----
-slug: "english-vs-russian-school-cyprus"
+**Sehen Sie sich das Interview an**, um den Bericht des Elternteils zu hören.
 
-**Abonnieren Sie**, um mehr über Bildung und das Leben mit Kindern auf Zypern zu erfahren!
+## Quelle
 
-Weiterführende Informationen: [Privatschulen](/de/life/schools-cyprus-comparison/) · [Schulen auf Zypern](/de/life/schools-education-cyprus/) · [internationale Schulen](/de/life/internationale-schulen-zypern-ueberblick/).
+- [Originalvideo und Beschreibung des Herausgebers](https://www.youtube.com/watch?v=99ME_EBruJU) — persönliche Erfahrung, historische Beispiele für Monatskosten, hervorgehobene Momente, Upload-Datum und Dauer

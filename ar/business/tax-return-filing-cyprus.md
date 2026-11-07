@@ -3,7 +3,7 @@ slug: "tax-return-filing-cyprus"
 title: "الإقرار الضريبي في قبرص: TD1 والمواعيد"
 description: "كيفية تقديم الإقرار الضريبي في قبرص: نموذج TD1، بوابة الضرائب، مواعيد التقديم، من يجب عليه التقديم، الأخطاء الشائعة. للمقيمين والوافدين في قبرص."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "الأعمال"
 author: "Expats Cyprus"
 tags:
@@ -115,8 +115,6 @@ translationKey: "nalogovaya-deklaratsiya-kipr-kak-podat"
 من النقاشات المجتمعية:
 > «عند تغيير الشركة فُقد خصم الـ 20%. المحاسب يقول أن الأشهر من يناير إلى مايو يجب إعادة حسابها بدون الخصم.»
 
-تغيير صاحب العمل لا يلغي إعفاء 50% تلقائياً؛ الأهلية تعتمد على شروط القانون. قدم لصاحب العمل الجديد مستندات تثبت أهليتك.
-
 ### عدم ذكر الدخل الأجنبي
 
 قبرص تفرض ضريبة على **الدخل العالمي** للمقيمين الضريبيين. إذا كانت لديك أرباح أسهم من الخارج، إيجار، عمل حر — أعلن عنها. تحقق من واجب التصريح والإعفاءات لكل نوع دخل.
@@ -162,5 +160,3 @@ TD63 — شهادة من صاحب العمل عن الدخل السنوي وال
 
 - [TAXISnet: 2025 / TFA: 2026](https://www.gov.cy/mof-tax/documents/forologiki-dilosi-eisodimatos-atomoy/) — gov.cy
 - [Tax Department — Individuals](https://www.gov.cy/mof-tax/documents/forologiki-dilosi-eisodimatos-atomoy/) — gov.cy
-
-[Migration Department: employment tax exemption](https://www.gov.cy/mip-md/en/documents/eu-blue-card/)

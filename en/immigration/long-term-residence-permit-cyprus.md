@@ -3,7 +3,7 @@ slug: "long-term-residence-permit-cyprus"
 title: "Cyprus LTRP: Requirements, Documents and EU Mobility"
 description: "Cyprus long-term resident status: qualifying residence, Greek A2, documents, €30 application fee, card renewal and conditional EU mobility."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Immigration"
 author: "Expats Cyprus"
 tags:
@@ -154,5 +154,5 @@ The Migration Department publishes an examination time of 6–12 months. Section
 ## Sources
 
 - [Migration Department: acquisition procedure](https://www.gov.cy/mip-md/en/documents/acquisition-of-the-status-of-long-term-resident-in-the-republic-2/), [forms and checklists](https://www.gov.cy/mip-md/en/documents/long-term-residents-lt/), [renewal](https://www.gov.cy/mip-md/en/documents/acquisition-of-the-status-of-long-term-resident-in-the-republic/).
-- [Aliens and Immigration Law, Cap. 105](https://www.cylaw.org/nomoi/enop/non-ind/0_105/full.html), especially sections 18Z–18IZ and 18TZ.
+- [Aliens and Immigration Law, Cap. 105](https://www.cylaw.org/nomoi/enop/non-ind/0_105/full.html), especially sections 18Z–18KH and 18TZ.
 - [EU Long-Term Residents Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0109-20110520).

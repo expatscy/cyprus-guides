@@ -3,7 +3,7 @@ slug: "marriage-divorce-cyprus"
 title: "Ehe und Scheidung auf Zypern: Dokumente"
 description: "Wie Sie auf Zypern heiraten, welche Dokumente benoetigt werden, wie eine auslaendische Ehe anerkannt wird, Scheidung und Dokumente für die Migration."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -15,11 +15,11 @@ draft: false
 translationKey: "brak-razvod-kipr-dokumenty"
 faqSchema:
   - question: "Kann ich als Deutscher auf Zypern heiraten?"
-    answer: "Ja. Zypern ist wegen der unkomplizierten Eheschliessung beliebt (aehnlich Daenemark). Benoetigt: Reisepass, Geburtsurkunde mit Apostille, Ledigkeitsbescheinigung (vom Standesamt in Deutschland, max. 6 Monate alt), ggf. Scheidungsurteil. Standesamtliche Trauung beim Municipal Marriage Officer — oft innerhalb weniger Tage möglich."
+    answer: "Ja. Zypern ist wegen der unkomplizierten Eheschliessung beliebt (aehnlich Daenemark). Benoetigt: Reisepass, Geburtsurkunde mit Apostille, Ledigkeitsbescheinigung (vom Standesamt in Deutschland), ggf. Scheidungsurteil. Standesamtliche Trauung beim Municipal Marriage Officer — im Regelfall frühestens 15 Tage nach der Anmeldung (Notice of Marriage), schneller nur im Sonderverfahren."
   - question: "Wird eine auf Zypern geschlossene Ehe in Deutschland anerkannt?"
     answer: "Ja — eine standesamtliche Ehe auf Zypern wird in Deutschland automatisch anerkannt (Haager Uebereinkommen). Sie benoetigen die zyprische Heiratsurkunde mit Apostille und ggf. beglaubigte Uebersetzung. Beim Standesamt in Deutschland als Nachtrag eintragen lassen."
 ---
-> **Kurzantwort:** Zypern ist beliebt für Hochzeiten (einfaches Verfahren, 3 Tage Vorlauf). Scheidung erfordert 3 Jahre Trennung oder Verschuldensgruende.
+> **Kurzantwort:** Zypern ist beliebt für Hochzeiten (einfaches Verfahren). Die Trauung findet frühestens 15 Tage nach der Anmeldung statt; die Gemeinde Limassol erhebt dafür €128 (geprüft 2026-11-07). Die Scheidung läuft nur über das Familiengericht; Voraussetzungen und Dauer hängen vom Fall ab.
 
 Ehe- und Familiendokumente sind für viele Einwanderungsverfahren auf Zypern von grosser Bedeutung. Zypern ist ein beliebtes Ziel für standesamtliche Eheschliessungen — aehnlich wie Daenemark, aber mit Mittelmeerklima. Besonders für Deutsche, die eine unkomplizierte Eheschliessung ohne deutsche Buerokratie suchen, ist Zypern eine attraktive Option.
 
@@ -27,12 +27,13 @@ Ehe- und Familiendokumente sind für viele Einwanderungsverfahren auf Zypern von
 > - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Eheschliessungen
 > - [Family Courts (CyLaw)](https://www.cylaw.org/) — Familienrecht
 > - [MFA Consular Forms](https://mfa.gov.cy/consular-forms.html) — Formulare für Dokumente
+> - [Gemeinde Limassol: Standesamtliche Trauungen](https://www.limassol.org.cy/en/civil-weddings) — Verfahren und Gebühren (geprüft 2026-11-07)
 
 ## Wie heiratet man auf Zypern?
 
 ### Standesamtliche Ehe
 
-Zypern ist eines der beliebtesten Ziele für standesamtliche Eheschliessungen in Europa. Das Verfahren ist unkompliziert, steht allen Staatsangehoerigkeiten und Religionen offen und erfordert keinen Wohnsitz. Man muss lediglich 3 Tage vor der Antragstellung auf Zypern sein.
+Zypern ist eines der beliebtesten Ziele für standesamtliche Eheschliessungen in Europa. Das Verfahren ist unkompliziert, steht allen Staatsangehoerigkeiten und Religionen offen und erfordert keinen Wohnsitz. Beide Partner geben die Anmeldung persönlich bei der Gemeinde ab; für eine Heirat mit Anmeldefrist empfiehlt die Gemeinde Limassol, etwa 20 Tage auf Zypern einzuplanen.
 
 ### Wo wird geheiratet?
 
@@ -44,7 +45,7 @@ Zypern ist eines der beliebtesten Ziele für standesamtliche Eheschliessungen in
 
 - **Reisepaesse** beider Ehepartner (gueltig)
 - **Geburtsurkunden** mit [Apostille](/de/documents/apostille-documents-cyprus/) (in Deutschland: Landgericht oder Amtsgericht)
-- **Ledigkeitsbescheinigung** — vom deutschen Standesamt (max. 6 Monate alt), mit Apostille
+- **Ledigkeitsbescheinigung** — vom deutschen Standesamt, mit Apostille
 - **Scheidungsurkunde** — bei frueherer Ehe (mit Apostille)
 - **Zwei Zeugen** — über 18 Jahre (manche Gemeinden stellen Zeugen)
 
@@ -60,13 +61,14 @@ Die meisten Gemeinden fuehren die Zeremonie auf Englisch durch. Die Heiratsurkun
 
 | Posten | Ungefaehre Kosten |
 |--------|------|
-| Standesamtliche Registrierung | €300-500 |
-| Zeremonie an besonderem Ort (Strand, Hotel) | €500-800 |
-| Dokumentenuebersetzungen | €20-50 pro Dokument |
-| Kirchliche Zeremonie | €500-1.000 |
-| Komplette Hochzeit mit Empfang | ab €5.000 |
+| Anmeldung der Eheschliessung (Trauung frühestens 15 Tage später) | €128 |
+| Anmeldung im Sonderverfahren (dringende Fälle) | €282 |
+| Beglaubigte Kopie der Heiratsurkunde | €14 |
+| Zuschlag für Trauung am Samstag oder ausserhalb der Dienstzeiten | €130 |
 
-**Ablauf:** Antragstellung, dann 15 Tage Wartezeit (gesetzliche Anforderung), dann Zeremonie. Insgesamt 2-3 Wochen von der Antragstellung bis zum Erhalt der Urkunde.
+Die Beträge stammen von der Gemeinde Limassol ([offizielle Seite](https://www.limassol.org.cy/en/civil-weddings), geprüft 2026-11-07); andere Gemeinden können abweichen. Trauungen an anderen Orten kosten extra; Kirche und Feier legt die Gemeinde nicht fest.
+
+**Ablauf:** Beide Partner geben die Anmeldung persönlich ab, die Trauung findet frühestens 15 Tage später statt. Die Gemeinde Limassol empfiehlt, etwa 20 Tage Aufenthalt auf Zypern einzuplanen.
 
 ## Wird eine zyprische Ehe in Deutschland anerkannt?
 
@@ -103,14 +105,12 @@ Auf Zypern ist eine Scheidung **nur über das Familiengericht** (Family Court) m
 
 **Einvernehmliche Scheidung:**
 - Beide Parteien reichen einen gemeinsamen Antrag ein
-- Nachweis einer **mindestens 2-jaehrigen Trennung** oder beiderseitiges Einverstaendnis erforderlich
-- Dauer: **3-6 Monate**
+- Voraussetzungen und Dauer hängen vom Fall ab; beim Familiengericht oder einem Anwalt klären
 
 **Streitige Scheidung:**
 - Eine Partei reicht Klage ein
 - Gruende: Ehebruch, haeusliche Gewalt, Verlassen, laengere Trennung
-- Dauer: **1-3 Jahre**
-- **Anwalt Pflicht** — ab €2.000
+- Dauer und Anwaltskosten hängen vom Fall ab; Anwalt fragen
 
 **Wichtig für Deutsche:** Das zyprische Familienrecht gilt unabhaengig von der Staatsangehoerigkeit der Ehepartner, wenn die Scheidung auf Zypern stattfindet. Alternativ kann eine Scheidung in Deutschland eingereicht werden, wenn ein Ehepartner dort noch gemeldet ist.
 
@@ -156,11 +156,11 @@ Bei der Beantragung der Staatsbürgerschaft werden die **Geburtsnamen der Eltern
 
 ## Welche praktischen Tipps gibt es?
 
-1. **Apostille rechtzeitig besorgen** — noch in Deutschland. Beim Landgericht oder Amtsgericht, Bearbeitungszeit ca. 1-2 Wochen.
+1. **Apostille rechtzeitig besorgen** — noch in Deutschland. Bei der zuständigen deutschen Behörde.
 2. **Beglaubigte Uebersetzungen** — nur durch vereidigte Uebersetzer (in Deutschland oder auf Zypern)
 3. **Originale aufbewahren** — Kopien für die Einreichung, Originale sicher verwahren
 4. **Affidavits vorbereiten** — wenn Dokumente fehlen, ist ein Affidavit eine akzeptierte Loesung
-5. **3 Wochen einplanen** — von der Ankunft auf Zypern bis zum Erhalt der Heiratsurkunde
+5. **Etwa 20 Tage einplanen** — so viel empfiehlt die Gemeinde Limassol für eine Heirat mit Anmeldefrist
 6. **Bei der Gemeinde nachfragen** — jede Gemeinde kann leicht unterschiedliche Anforderungen haben
 
 ---
@@ -174,5 +174,4 @@ Weiterfuehrende Informationen: [Apostille](/de/documents/apostille-documents-cyp
 ## Quellen
 
 - [Abteilung für Zivilregistrierung und Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [Steuerabteilung](https://www.mof.gov.cy/tax/) — gov.cy
-- [General Healthcare System (GeSY)](https://www.gesy.org.cy/) — gesy.org.cy
+- [Gemeinde Limassol: Standesamtliche Trauungen](https://www.limassol.org.cy/en/civil-weddings) — limassol.org.cy

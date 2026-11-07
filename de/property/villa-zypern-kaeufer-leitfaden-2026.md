@@ -1,9 +1,9 @@
 ---
 slug: "villa-zypern-kaeufer-leitfaden-2026"
-title: "Villa auf Zypern: Käufer-Leitfaden 2026"
-description: "Villenpreise nach Region (Paphos, Limassol, Larnaca), Mehrwertsteuer, Transfer Fees, Aufenthalt ab €300K, Rendite, Bauträger — geprüfter Leitfaden 2026."
+title: "Villa auf Zypern kaufen: Checkliste, Steuern, Kosten"
+description: "Villa auf Zypern kaufen: echte Angebote vergleichen, Eigentumstitel und Genehmigungen prüfen, MwSt. und Übertragungsgebühren richtig ansetzen, Unterhalt planen."
 date: 2026-04-12
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Immobilien"
 author: "Expats Cyprus"
 tags:
@@ -18,329 +18,127 @@ draft: false
 translationKey: "villa-na-kipre-gid-pokupatelya-2026"
 faqSchema:
   - question: "Was kostet eine Villa auf Zypern?"
-    answer: "Median einer Villa auf Zypern: €849.000 bei €3.768/m² Durchschnitt (Nov 2025, Investropa). Paphos Median: €930.000 (€4.135/m²). Limassol Prime: €5.000–6.000/m². Larnaca Durchschnitt: €2.100–2.400/m², Oroklini Luxus ab €3.200/m²."
-  - question: "Welche Steuern fallen beim Villenkauf an?"
-    answer: "Neubau vom Bauträger: 19% MwSt (Villen überschreiten meist 190m², kein 5%-Ermäßigungssatz). Transfer Fees: 100% befreit bei MwSt-Geschäft; auf Resale 3-5-8% mit 50% Rabatt. Jährliche Gemeindesteuer: €200–500. Keine Immobiliensteuer — seit 01.01.2017 abgeschafft."
-  - question: "Bekomme ich durch einen Villenkauf eine Aufenthaltsgenehmigung?"
-    answer: "Ja, Regulation 6(2): ab €300.000 + MwSt in NEUBAU-Immobilien (Resale zählt nicht). Jahreseinkommen €50K Hauptantragsteller + €15K Ehepartner + €10K pro Kind. Bearbeitung realistisch ~9 Monate. Mindestens alle 2 Jahre Zypern besuchen."
-  - question: "Was ist mit der Wegzugsbesteuerung beim Umzug nach Zypern?"
-    answer: "Bei Wegzug aus Deutschland mit wesentlichen Kapitalgesellschaftsanteilen (≥1%) greift §6 AStG — fiktiver Veräußerungsgewinn besteuerbar. Cyprus-Deutschland-DBA (2011) regelt Doppelbesteuerung bei Mieten/Kapitalerträgen. Rentner profitieren vom 5%-Pauschalsatz auf ausländische Renten über Freibetrag (oder reguläre Einkommenssteuer — jährlich wählbar)."
-  - question: "Paphos, Limassol oder Larnaca — wo Villa kaufen?"
-    answer: "Paphos — klassisches deutsch-britisches Rentnermarkt, ~20.000–25.000 Deutsche leben hier, warmes Klima, GESY-Krankenversicherung. €2.800–4.500/m², +12,9% Jahreswachstum. Limassol — Business/Tech, €5.000–6.000/m² Prime. Larnaca — günstigster Einstieg, €2.100–3.200/m²."
+    answer: "Vergleichen Sie datierte Angebote für das konkrete Haus, Grundstück, den Zustand und den Standort. Der Immobilienpreisindex der Zentralbank ist kein Durchschnitt der Villen-Angebotspreise: Der nationale Jahresanstieg lag im 4. Quartal 2025 bei 3,4 %. Klären Sie vor dem Preisvergleich die angegebene Wohnfläche, den Titelstatus, die MwSt. und die enthaltene Ausstattung."
+  - question: "Welche Steuern fallen beim Kauf einer Villa auf Zypern an?"
+    answer: "Der Normalsatz der MwSt. beträgt 19 %. Die übliche 5-%-Regelung für den Hauptwohnsitz hat Bedingungen zu Fläche, Wert und Berechtigung; das Wort Villa entscheidet nicht über die Berechtigung. Die Übertragungsgebühren gelten in den Stufen 3 %, 5 % und 8 % mit dem üblichen Nachlass von 50 % und gesetzlichen Ausnahmen, oder entfallen, wenn für dasselbe Grundstücksgeschäft MwSt. anfällt. Die nationale Grundsteuer (Immovable Property Tax) wurde ab 2017 abgeschafft; kommunale Abgaben bleiben getrennt."
+  - question: "Bekomme ich durch den Kauf einer Villa eine Aufenthaltserlaubnis auf Zypern?"
+    answer: "Eine qualifizierende Investition kann einen Antrag nach Regulation 6(2) stützen, getrennt von der gewöhnlichen Kategorie F. Der Wohnimmobilien-Weg verlangt in der Regel einen Erstverkauf durch einen Bauträger von mindestens 300.000 € ohne MwSt., bezahlt mit nachgewiesenen Mitteln aus dem Ausland, ein gesichertes jährliches Auslandseinkommen von 50.000 € plus 15.000 € für den Ehepartner und 10.000 € je minderjähriges Kind sowie weitere Voraussetzungen. Die Genehmigung ist nicht automatisch und es gibt kein allgemeines Recht auf Beschäftigung."
+  - question: "Welche Mietrendite kann ich bei einer Villa auf Zypern erwarten?"
+    answer: "Rechnen Sie mit einem objektbezogenen Szenario. Bei einem angenommenen Kauf für 400.000 € mit 20.000 € Jahresmiete beträgt die Bruttorendite 5 % vor Kosten. Das belegt weder die Marktmiete noch die Auslastung. Für touristische Selbstversorger-Unterkünfte ist vor Werbung und Vermietung die Registrierung beim Tourismus-Vizeministerium nötig."
+  - question: "Wie wähle ich eine Region für eine Villa?"
+    answer: "Vergleichen Sie konkrete Häuser mit Ihrem Budget, Ihren Reisebedürfnissen, dem Nutzungszweck und dem Wartungsaufwand. Besuchen Sie die engere Auswahl und prüfen Sie die Infrastruktur selbst. Frühere Preisänderungen in den Bezirken belegen nicht die künftige Wertentwicklung, die Wiederverkaufsgeschwindigkeit oder die Mietrendite einer bestimmten Villa."
 ---
 
-> **Kurz:** Median einer Zypern-Villa: €849.000 (€3.768/m², Nov 2025). Paphos ist das klassische deutsche Rentnergebiet (~20–25K Deutsche, +12,9% Wachstum/Jahr). Limassol im Prime-Segment €5–6K/m². Larnaca als günstiger Einstieg €2,1–2,4K/m². Die meisten Villen überschreiten 190m² und unterliegen **19% MwSt, nicht 5%**. Aufenthalt ab €300K nur im Neubau.
+> **Kurzantwort:** Prüfen Sie das konkrete Haus, die Rechte am Grundstück, den Titel, die Genehmigungen, Steuern und laufenden Kosten. Eine Marketingbeschreibung, ein Bezirksdurchschnitt oder ein Preis für den Aufenthaltsweg ersetzt keine objektbezogene Prüfung.
 
-Für einen deutschen Käufer — ob Rentner aus München mit Sehnsucht nach warmer Luft, Unternehmer vor der Wegzugsbesteuerung oder Remote-Worker aus Berlin — bedeutet eine Villa auf Zypern etwas Spezifisches. Ein freistehendes Haus auf eigenem registriertem Grundstück, üblicherweise mit Pool und Garten. Kein Reihenhaus, keine Wohnung mit Balkon. 2026 liegt der Villen-Median auf Zypern bei **€849.000** (**€3.768/m²**, Investropa, Nov 2025). Die Preise stiegen **+7,1% YoY** in Q4 2025 (Central Bank of Cyprus RPPI), mit **Paphos als Spitzenreiter bei ~12,9% Jahreswachstum**.
+## Was prüfe ich, wenn das Inserat „Villa“ sagt?
 
-> **Offizielle Quellen:**
-> - [Central Bank of Cyprus — RPPI](https://www.centralbank.cy/en/publications/residential-property-price-indices) — Wohnimmobilien-Preisindex
-> - [DLS — Verkaufsstatistik](https://portal.dls.moi.gov.cy/en/statistics/) — offizielle Grundbuchdaten
-> - [gov.cy — Transfer Fees Rechner](https://www.gov.cy/en/service/calculation-of-real-estates-transfer-fees/) — offizieller Rechner
-> - [gov.cy Tourism — Kurzzeitvermietung Registrierung](https://www.gov.cy/tourism/en/mi-katigoriopoiimeno/registration-of-self-service-accommodations-in-the-registry-of-the-deputy-ministry-of-tourism/)
-> - [Bundesfinanzministerium — DBA Zypern](https://www.bundesfinanzministerium.de/) — deutsch-zypriotisches Doppelbesteuerungsabkommen 2011
+Fragen Sie, was genau verkauft wird: das eingetragene Grundstück, das Haus, gemeinsame Rechte und die Titelsituation. Gehen Sie nicht davon aus, dass das Wort **Villa** einen eigenen Grundstückstitel, bestimmte Grenzabstände oder die Erlaubnis für einen Pool garantiert.
 
-## Was gilt als Villa auf Zypern?
+Die [Käuferbroschüre des DLS](https://portal.dls.moi.gov.cy/wp-content/uploads/2022/08/Basic-Information-before-the-Purchase-of-Immovable-Property.pdf) (Katasteramt) empfiehlt, Eigentum, Belastungen, Planungs- und Baugenehmigungen sowie die Eintragungsvoraussetzungen zu prüfen. Bei einer unfertigen oder ungeteilten Einheit müssen vor der getrennten Eintragung die erforderlichen Fertigstellungs- und Bauamtsbescheinigungen vorliegen.
 
-Nach zypriotischem Planungsrecht (Town and Country Planning Law 90/1972, griechisch: *Ο περί Πολεοδομίας και Χωροταξίας Νόμος*) ist eine Villa eine **μονοκατοικία** (Monokatikía) — Einzelwohnhaus auf eigenem eingetragenem Grundstück. Merkmale:
+Lassen Sie einen unabhängigen Anwalt und einen qualifizierten Ingenieur prüfen:
 
-- **Eigener Grundbucheintrag** für das Land, keine Anteilsgemeinschaft.
-- **Mindestabstand 10 Meter** zu den Grundstücksgrenzen (seltene Ausnahmen für sehr kleine Plots).
-- **Swimmingpool** typisch, aber benötigt separaten Town Planning Permit + Building Permit.
-- **Umschlossenes Gelände** mit Garten, Zufahrt, Parkplatz.
+- das eingetragene Objekt und die Grundstücksrechte, Grenzen, Zufahrt und gemeinsames Eigentum;
+- die geltende Zone, Dichte, Bebauung, Grenzabstände und die tatsächlich genehmigten Pläne;
+- ob Haus, Pool, Anbauten und Nebengebäude zu den Genehmigungen passen;
+- den Status des getrennten Titels, Hypotheken, Verbote und andere Belastungen;
+- die Pflichten des Verkäufers zu Fertigstellung, Bescheinigungen und Übertragung.
 
-### Begriffe nicht verwechseln
+Unterschiede zwischen Dichte, Bebauung und den für das Objekt geltenden Regeln erklärt unser [Leitfaden zu Baugenehmigungen](/de/property/baugenehmigung-zypern-koeffizienten/).
 
-| Typ | Beschreibung | Grundeigentum |
-|---|---|---|
-| **Villa (μονοκατοικία)** | Freistehendes Haus, meist mit Pool/Garten/eigenem Plot | Volleigentum (Grund + Gebäude) |
-| **Individual House (Μεμονωμένη Κατοικία)** | Einzelhaus AUSSERHALB Entwicklungszonen — ländlich/landwirtschaftlich. **Kein Pool erlaubt**, max. 20% Bebauungsgrad | Volleigentum mit Restriktionen |
-| **Reihenhaus / Doppelhaus** | Aneinandergebaute Einheiten, kleiner Garten | Anteil am Gemeinschaftseigentum ODER Einzeltitel für Fußabdruck |
-| **Wohnung** | Einheit in Mehrfamilienhaus | Einheitstitel + Anteil an Gemeinschaftseigentum |
+## Wie vergleiche ich Villenpreise nach Region?
 
-**Falle:** Ein Bauträger-Inserat bezeichnet Objekte in ländlichen Zonen gerne als "Villa" — dort darf jedoch rechtlich **kein Pool** gebaut werden. Zonierung vor dem Angebot über den [interaktiven Kartendienst gov.cy](https://www.gov.cy/en/service/interactive-maps/) prüfen.
+Fordern Sie datierte Angebote an und vergleichen Sie denselben Objekttyp, dieselbe Flächendefinition, den Zustand, die Grundstücksrechte, den genauen Standort und die steuerliche Behandlung. Klären Sie, ob Stellplatz, Geräte, Poolausrüstung und Ausstattung enthalten sind.
 
-## Villenpreise nach Region
+Der [Bericht der Zentralbank zum Immobilienpreisindex (RPPI) für das 4. Quartal 2025](https://www.centralbank.cy/images/media/pdf/RPPI_2025Q4_ENG.pdf) nennt gegenüber dem 4. Quartal 2024 ein nationales Jahreswachstum von **3,4 % für Häuser**, **9,6 % für Wohnungen** und **7,1 % für den kombinierten Wohnimmobilienindex**. Die Hausreihe ist keine eigene Villenpreisreihe. Das sind historische Veränderungen, keine aktuellen Preise in €/m² und keine Renditeversprechen.
 
-Preise unten sind Median-Angebotspreise speziell für Villen (nicht Wohnungen), Q1 2026.
+Einen datierten Vergleich des kombinierten Index in den fünf Bezirken finden Sie in unserem [Bezirksleitfaden](/de/property/immobilienpreise-zypern-nach-bezirk-2026/). Sie können [Immobilienangebote](https://research.cy/search/) durchsehen und jedes Angebot beim Verkäufer bestätigen lassen.
 
-### Paphos — deutsch-britischer Rentnermarkt
+## Wie plane ich die laufenden Kosten?
 
-| Gegend | €/m² | Kontext |
-|---|---|---|
-| **Paphos Median (Villa)** | **€4.135** | Median-Preis Villa €930.000 |
-| **Peyia** | €2.800 | Mittelklasse, etablierte britische Community |
-| **Coral Bay** | €4.000+ | Prime-Küste, Leptos-Projekte |
-| **Tala** | €3.270–4.250 | Villen 200–260m² ab €850.000 |
-| **Chloraka** | €3.000–3.500 | Reihenhäuser 120–140m² ≈ €425K, Aristo-Gebiet |
+Fordern Sie Rechnungen und schriftliche Kostenvoranschläge für das konkrete Objekt an. Rechnen Sie Strom, Wasser, Poolpflege, Gartenpflege, Versicherung, kommunale Abgaben und alle Verwaltungs- und Gemeinschaftspflichten ein. Klären Sie vor der Unterschrift, wer Privatstraßen und gemeinsame Anlagen bezahlt.
 
-**Preiswachstum:** ~12,9% jährlich (Investropa, 2026) — der schnellstwachsende Bezirk Zyperns. **EU-Käufer im Januar 2026: +55% YoY** (Cyprus Property Buyers).
+**Eine datierte Schätzung eines Anbieters:** In seinem Paphos-Leitfaden vom **6. April 2026** nennt die FAQ von [The Pool People](https://www.thepoolpeople.eu/uncategorized/paphos-pool-maintenance-cost-2026-pricing-guide-for-property-owners/) **90–150 € pro Monat** für einen üblichen **Wohnpool von 8×4 m** und gesondert **25–40 € pro Monat** für Chemikalien. Das ergibt **1.380–2.280 € für zwölf Monate**, wenn beides das ganze Jahr gilt. Das ist die veröffentlichte Schätzung dieses Anbieters, kein Tarif für die ganze Insel und kein Angebot für Ihren Pool. Auf der Seite wird unterschiedlich beschrieben, ob Chemikalien enthalten sind; lassen Sie Leistungsumfang, Besuchsplan, MwSt. und Chemikalien schriftlich bestätigen. Strom, Wasser und Reparaturen kommen zusätzlich.
 
-Paphos ist das Herz der deutschen Rentner-Community auf Zypern. Schätzungsweise **20.000–25.000 Deutsche** leben auf der Insel, die Mehrheit in der Region Paphos. Dazu ca. 25.000 Briten in Paphos. Man hört Deutsch in vielen Cafés, findet deutsche Ärzte, deutsche Stammtische und eine evangelische Gemeinde in Paphos. **GESY** (staatliches Gesundheitssystem seit 2019) ist für deutsche Rentner mit A1-Bescheinigung aus Deutschland zugänglich — in vielen Bereichen besser als die deutsche GKV in der Wartezeit. Winter mild genug, dass Heizung optional ist.
+Setzen Sie keine allgemeine Villengröße anstelle des tatsächlichen Verbrauchs und keine pauschale jährliche Wartungsrechnung an.
 
-### Limassol — Business-Metropole, Premium-Preise
+## Welche Steuern und Gebühren fallen beim Kauf an?
 
-| Gegend | €/m² | Kontext |
-|---|---|---|
-| **Agios Tychonas** | €5.000–6.000 | 5-Sterne-Hotels, Meerblickhügel |
-| **Germasogeia (Touristenzone)** | €5.000–6.000 | Strandnähe, Expat-beliebt |
-| **Limassol Marina Distrikt** | €5.000–8.000+ | Premium-Neubauten (ONE Tower, Trilogy) |
-| **Palodeia / Parekklisia / Pyrgos** | *Villendaten 2026 nicht verifiziert* | Vororte mit größeren Parzellen |
+### MwSt.
 
-**Limassol Wohnungs-Preisindex (Central Bank): 150,1 Punkte (Q4 2025)** — landesweit höchster, +102,7% in einem Jahrzehnt. Villenpreise folgen dem Trend, Transaktionsdaten sind dünner.
+Der Normalsatz der MwSt. beträgt **19 %**. Eine steuerpflichtige neue Wohnung unterscheidet sich vom üblicherweise MwSt.-freien Weiterverkauf einer bewohnten Wohnimmobilie; prüfen Sie das Geschäft selbst, statt sich auf die Wörter Neubau oder Wiederverkauf zu verlassen.
 
-Limassol ist wo die Post-2022-Tech-Welle landete. Weniger deutsch-britisch geprägt, mehr international und russischsprachig. Passt, wenn Sie Stadtleben wollen und das Preisniveau akzeptieren — nicht ideal, wenn Sie Ruhe oder deutschsprachige Nachbarschaft suchen.
+Für die **übliche Regelung mit ermäßigtem Satz** ist der Käufer eine **natürliche Person ab 18 Jahren**, die die Wohnung als ihren **Haupt- und Dauerwohnsitz auf Zypern** nutzt, und erfüllt die übrigen gesetzlichen Voraussetzungen:
 
-### Larnaca — der günstigere Einstieg
+- **5 %** auf die ersten **130 m²**, mit einer **Wertgrenze von 350.000 € für den ermäßigten Satz**;
+- Gesamtfläche höchstens **190 m²** und Gesamtwert höchstens **475.000 €**;
+- Die Verteilung nach Fläche und Wert bestimmt den Betrag zu 5 %; das ist nicht zwingend der volle Preis. Für Behinderung und kinderreiche Familien gelten andere Bedingungen.
 
-| Gegend | €/m² | Kontext |
-|---|---|---|
-| **Bezirksdurchschnitt (alle Typen)** | €2.100–2.400 | The Luxury Playbook, 2026 |
-| **Oroklini (Küstenluxus)** | €3.200+ | Neue Villen, Buchtblick |
-| **Pervolia** | €3.000–12.000 | Große Spanne: Listings €330K–€3,9M. Trophy 5-Schlafzimmer 320m² Meerfront = €3,9M |
+Ändert sich die qualifizierende Nutzung innerhalb von **zehn Jahren**, kann die tatsächliche ursprüngliche MwSt.-Ersparnis anteilig für die Restzeit zurückzuzahlen sein. Melden und zahlen müssen Sie innerhalb von **30 Tagen**, vorbehaltlich gesetzlicher Ausnahmen bei Tod und Übertragung auf ein berechtigtes Kind.
 
-Larnaca ist **der budget-freundliche Weg** für deutsche Käufer. Der Flughafen liegt 5 Autominuten von den meisten Villenzonen — Direktflüge nach Düsseldorf, Frankfurt, München im Sommer, sonst via Wien/Zürich. Weniger entwickelte deutschsprachige Infrastruktur als Paphos, aber wachsend.
+Die Übergangsregelung betrifft eine Planungsgenehmigung oder einen Antrag, eingereicht **bis 31. Oktober 2023**, nach den gesetzlichen Bedingungen der alten Regelung. Die Erklärungsfrist **15. Juni 2026** galt für Baugenehmigungen, die **bis 31. Dezember 2024** erteilt wurden. Der Kommissar kann qualifizierende verspätete Fälle bis **31. Dezember 2026** prüfen, wenn Verzögerungen der Planungsbehörde die rechtzeitige Fertigstellung verhinderten; das ist ein bedingtes Ermessen, keine allgemeine Verlängerung für jede spätere Genehmigung. Lesen Sie den [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/), bevor Sie sich auf eine Übergangsregelung verlassen.
 
-### Famagusta (Protaras, Ayia Napa, Paralimni)
+### Übertragungsgebühren und Stempelsteuer
 
-*Spezifische €/m²-Daten für 2026-Villen nicht in verifizierten Quellen gefunden.* Schätzung: €2.500–4.000/m² je nach Meerabstand und Zustand (allgemeiner Regionaltrend, nicht villenspezifisch verifiziert).
+Die üblichen Stufen der Übertragungsgebühren laut DLS:
 
-### Nicosia
+| Wertstufe | Satz |
+|------------|------|
+| Erste 85.000 € | 3 % |
+| Nächste 85.000 €, bis 170.000 € | 5 % |
+| Über 170.000 € | 8 % |
 
-Villenbestand in Aglantzia, Strovolos, Engomi-Vororten ist dünn — Nicosia ist wohnungsdominiert. Für Villenkäufer selten erste Wahl. Details via [RICS Zypern Index](https://www.rics.org/eu/upholding-professional-standards/sector-standards/valuation/cyprus-property-index/).
+Der übliche **Nachlass von 50 %** hat Ausnahmen, darunter die bezeichneten Fälle des Erwerbs bei Zwangsvollstreckung. Übertragungsgebühren entfallen, wenn für **dasselbe Grundstücksgeschäft** MwSt. anfällt; nicht jedes als neu beschriebene Objekt qualifiziert sich allein wegen der Bezeichnung. Für einen angenommenen Kauf durch einen Alleinkäufer für **300.000 €** mit dem üblichen Nachlass beträgt die Gebühr **8.600 €**.
 
-## Laufende Kosten — was eine 200m²-Villa jährlich kostet
+Die Stempelsteuer wurde zum **1. Januar 2026** aufgehoben. Für Dokumente, die **von einer Partei vor diesem Datum** unterschrieben wurden, gelten weiter die früheren Regeln.
 
-Typische Villa mit Pool und Garten, Jahreskosten (2026):
+### Jährliche Abgaben und ein späterer Verkauf
 
-| Kategorie | €/Jahr | Quelle |
-|---|---|---|
-| Strom (EAC) | €2.400–3.600 | [Fix.cy EAC Rates 2026](https://www.fix.cy/electricity-cost-calculator-cyprus-eac-rates-2026/) |
-| Wasser (WDD) | €480–540 | Cyprus Realty, 2025 |
-| Poolpflege (8×4m, 1–2 Besuche/Woche) | €1.380–2.280 | [The Pool People Paphos, 2026](https://www.thepoolpeople.eu/uncategorized/paphos-pool-maintenance-cost-2026-pricing-guide-for-property-owners/) |
-| Garten/Landschaftspflege | ~€1.200 | DOM Cyprus, 2025 |
-| Gemeindegebühren (Straße, Müll, Beleuchtung) | €155–485 | Wise/imin-cyprus, 2026 |
-| Gebäudeversicherung | €200+ | Branchendurchschnitt |
-| **Gesamt** | **€6.000–8.500+** | — |
+Die nationale **Grundsteuer (Immovable Property Tax) wurde ab 2017 abgeschafft**. Holen Sie die aktuellen kommunalen Abgaben, Abwassergebühren und Gemeinschaftskosten für das konkrete Objekt ein; die Abschaffung beseitigt diese nicht.
 
-Für Villen in Paphos-Gated-Communities zusätzlich **€50–150/Monat** Verwaltungsgesellschaft und **€200–600/Jahr** private Straßenpauschale (indikativ — je nach Komplex prüfen).
+Die zypriotische Kapitalertragsteuer beträgt grundsätzlich **20 %** auf steuerpflichtige Gewinne aus zypriotischen Immobilien, mit gesetzlichen Abzügen und Befreiungen. Ab dem **1. Januar 2026** beträgt der Lebenszeit-Freibetrag für die qualifizierende Hauptwohnung **150.000 €**, vorbehaltlich Bedingungen wie Selbstnutzung, in der Regel **fünf Jahre** (oder **zehn Jahre** für eine spätere qualifizierende Befreiung) und der Grundstücksgrenze von **1.500 m²**. Er ist kein automatischer Abzug bei jedem Villenverkauf. Der allgemeine Freibetrag von **30.000 €** und der Freibetrag für qualifizierende Landwirtschaft von **50.000 €** werden nicht zusätzlich zur Obergrenze für die Wohnung angerechnet. Die vollständigen Bedingungen stehen im [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/).
 
-**Im Vergleich zu Deutschland:** Grundsteuer B auf freistehendes Haus ist regional stark unterschiedlich (~€400–1.500/Jahr), Müllgebühren €200–400, Straßenreinigung €100–200. Zypern Gemeindegebühren €200–500/Jahr liegen im günstigen Bereich. Strom ähnlich teuer, aber keine Heizperiode → Gesamt-Nebenkosten oft tiefer als Deutschland.
+## Welche Vertrags- und Titelsicherungen sollte ich vereinbaren?
 
-## Villensteuern
+Lassen Sie einen Anwalt den Titel des Verkäufers und ein aktuelles Search Certificate (Grundbuchauszug) prüfen. Bei Verträgen, auf die die Änderung von 2023 anwendbar ist, muss der Verkäufer ein Search Certificate, das **höchstens fünf Werktage vor der Unterzeichnung** datiert ist, als festen Vertragsbestandteil beifügen.
 
-### Beim Kauf — Mehrwertsteuer (nur Neubau)
+Die übliche Frist für die Hinterlegung des Kaufvertrags beträgt **sechs Monate ab Unterzeichnung**, vorbehaltlich gesetzlicher Bedingungen und Ausnahmen. Ein angenommener Vertrag erzeugt eine Belastung mit Rang ab der Hinterlegung; er löscht frühere Hypotheken nicht automatisch und garantiert keinen Abschluss. Das DLS nennt eine **Gebühr von 50 € für die Hinterlegung des Vertrags**. Besondere Schutzregeln zur Hypothekenlöschung erfordern das jeweils gesetzliche Verfahren.
 
-**Aktuelle Regelung (Gesetz 42(I)/2023, gültig ab 16. Juni 2023):**
-- **5% MwSt** auf erste **130m²** Hauptwohnsitz, wenn ALLE Bedingungen erfüllt:
-  - Gesamtinnenfläche ≤ **190m²**
-  - Immobilienwert ≤ **€350.000**
-  - Gesamttransaktion ≤ **€475.000**
-- Von 130m² bis 190m² (übrige Bedingungen erfüllt) → 19% auf den Überschuss
-- Über 190m² ODER €475K → **19% MwSt auf die gesamte Summe**
+Das DLS rät davon ab, den vollen Preis vor der Titelübertragung zu zahlen. Vereinbaren Sie Abschluss, zulässige Arbeiten, Zahlungen und Übertragungspflichten mit fachlicher Beratung; gehen Sie nicht davon aus, dass ein Standard-Treuhandkonto jedes Titelproblem löst.
 
-**Warum wichtig für Villen:** Die meisten Villen sind **≥ 190m²** (typisch 200–350m²) → sie unterliegen **19% MwSt, nicht 5%**. Das verändert die Rechnung erheblich.
+## Was, wenn ich die Villa an Gäste vermieten will?
 
-**Übergangsregelung:** Für Projekte mit städtebaulichem Genehmigungsantrag bis **31. Oktober 2023** können die alten Regeln gelten (5% auf erste 200m², kein Wert-Cap). Die **15. Juni 2026**-Frist gilt für Baugenehmigungen bis **31. Dezember 2024**; für qualifizierende Genehmigungen ab **1. Januar 2025** oder noch nicht erteilte Genehmigungen gilt **31. Dezember 2026**.
+Rechnen Sie mit objektbezogenen Annahmen zu Miete und Kosten. **Bruttorendite = Jahresmiete ÷ Kaufpreis × 100**: Eine angenommene Jahresmiete von **20.000 €** bei einem Kaufpreis von **400.000 €** ergibt **5 %**, vor Kosten und zusätzlichen Erwerbskosten. Das belegt weder erzielbare Miete noch belegte Wochen noch die Nettorendite.
 
-Quellen: [GK Law — 5% MwSt-Regeln 2026](https://gk-lawfirm.com/publications/new-reduced-scheme-5-vat-on-property-cyprus/), [Kyprianou — MwSt 2025 Käufer](https://www.kyprianou.com/understanding-the-5-vat-on-property-in-cyprus-what-buyers-need-to-know-in-2025/), [KPMG — Fristverlängerung](https://kpmg.com/us/en/taxnewsflash/news/2026/05/tnf-cyprus-reduced-vat-rate-on-supply-or-construction-of-new-dwelling.html).
+Für touristische Selbstversorger-Unterkünfte verlangt die [Orientierungshilfe des Vizeministeriums](https://www.gov.cy/media/sites/26/2024/05/SELF_SERVICE_ESTABLISHMENTS_2024_en.pdf) vor Werbung und Vermietung die Registrierung und ein besonderes Betriebszeichen bzw. eine Nummer. Die Nummer muss in Werbematerial und in den betreffenden Geschäften erscheinen. Die Registrierung umfasst Bedingungen zu Steuerregistrierung, Versicherung und Nachweisen; prüfen Sie vor Betriebsbeginn die aktuelle Antragscheckliste.
 
-### Transfer Fees (Grundbuchamt)
+Die erste Genehmigung gilt **drei Jahre**. Verlängerungsanträge sind in den **drei Monaten vor Ablauf** zu stellen; eine Verlängerung gilt **fünf Jahre**. Die [Mitteilung des Ministeriums zur Verlängerung](https://www.gov.cy/en/tourism/renewing-the-registration-license-for-self-service-establishments/) nennt in allen Fällen eine **Gebühr von 222 €**; bei verspäteter Verlängerung ist ein neuer Erstregistrierungsantrag mit den Unterlagen nötig, mit einer Genehmigung für drei Jahre.
 
-Vom **Käufer** bei Titelumschreibung zu zahlen:
+## Kann der Kauf einer Villa einen Daueraufenthalt stützen?
 
-| Transaktionswert | Satz |
-|---|---|
-| Bis €85.000 | 3% |
-| €85.001–170.000 | 5% |
-| Über €170.000 | 8% |
+Eine qualifizierende Wohninvestition kann einen Antrag nach **Regulation 6(2)** stützen, getrennt von der gewöhnlichen **Kategorie F**. Die aktuelle Politik verlangt in der Regel einen Erstverkauf eines Hauses oder einer Wohnung durch einen Bauträger, mindestens **300.000 € ohne gezahlte MwSt.** und nachgewiesene Mittel aus dem Ausland. Historische Ausnahmen für den Weiterverkauf von Wohnimmobilien vor dem **7. Mai 2013** und für Zahlungskonten haben besondere Bedingungen.
 
-**Wichtige Ausnahmen:**
-- **100% Befreiung**, wenn Transaktion MwSt-pflichtig (Neubau vom Bauträger)
-- **50% Rabatt** auf Resale (Sekundärmarkt, keine MwSt)
+Das gesicherte jährliche **Auslandseinkommen** muss mindestens **50.000 €** betragen, plus **15.000 € für den Ehepartner** und **10.000 € je minderjähriges Kind**. Eine Steuererklärung oder die amtliche Bescheinigung eines unabhängigen zertifizierten Buchhalters kann es belegen. Daneben gelten Kriterien zu Strafregister, öffentlicher Ordnung, Unterkunft, Versicherung und weitere.
 
-Offizieller Rechner: [gov.cy transfer fees](https://www.gov.cy/en/service/calculation-of-real-estates-transfer-fees/).
+Ehepartner und Kinder unter **18** können einbezogen werden; für erwachsene unterhaltsberechtigte Kinder gelten gesonderte bedingte Regeln. Es gibt **kein allgemeines Recht auf Beschäftigung**, mit besonderen Ausnahmen für Direktoren. Die **Bearbeitungsschätzung von zwei Monaten** in der Politik betrifft einen vollständigen, qualifizierenden Antrag; sie ist keine Genehmigungsgarantie.
 
-### Jährliche Steuern
+Halten Sie die Investition aufrecht und erfüllen Sie die fortlaufenden Bedingungen. Die **Klarstellung vom 17. Mai 2023** hat den jährlichen Einkommensnachweis abgeschafft, verlangt alle **drei Jahre** Strafregisterauszüge und behält den jährlichen Investitionsnachweis und den Versicherungsnachweis bei, wenn Sie nicht GESY-berechtigt sind. Prüfen Sie die aktuelle Checkliste der Unterlagen für den Investorenweg und gehen Sie nicht davon aus, dass die gesonderte Mitteilung zu medizinischen Anforderungen für die Kategorien A–F diesen Weg bestimmt.
 
-- **Immobiliensteuer (IPT)** — **abgeschafft am 1. Januar 2017**, weiterhin 0 in 2026 ([PwC Cyprus Tax Summaries](https://taxsummaries.pwc.com/cyprus/individual/other-taxes)).
-- **Gemeindesteuer** — typisch **0,24 ‰ vom Immobilienwert** (€55–185 Basis, plus €100–300 für Müll/Beleuchtung). Gesamt Villa: **€200–500/Jahr**.
-
-### Kapitalgewinnsteuer beim Verkauf (CGT)
-
-20% auf den Gewinn. Hauptwohnsitz-Freibetrag bis €85.430 lebenslang.
-
-**Für deutsche Eigentümer:** Cyprus-Deutschland-**Doppelbesteuerungsabkommen 2011** regelt, wo besteuert wird. Mieteinnahmen: Belegenheitsstaat (Zypern). Kapitalgewinne Immobilien: Belegenheitsstaat. Deutsche Anrechnung ggf. via Progressionsvorbehalt. **Wichtig bei Wegzugsbesteuerung (§6 AStG)** für GmbH-Anteilsinhaber: vor dem Wegzug steuerlich beraten lassen — die Stundungsregelungen für EU-Wegzug sind seit 2022 verschärft.
-
-### Zypriotische Steuerresidenz
-
-Zypern bietet zwei Residenz-Modelle:
-- **183-Tage-Regel** — klassisch
-- **60-Tage-Regel** — für Personen, die nirgendwo sonst mehr als 183 Tage verbringen + zypriotisches Einkommen + Wohnsitz + Direktor/Unternehmer
-
-**Non-Dom-Status (17 Jahre):** Befreiung von Defence Tax (SDC) auf Dividenden und Zinsen — attraktiv für Unternehmer. Details: [Non-Dom Status Guide](/de/business/non-dom-status-cyprus-60-day-rule/).
-
-## Rechtliche Stolpersteine
-
-### Title Deed — das bekannte Zypern-Problem
-
-Zypern ist berüchtigt für **verzögerte Einzeltitel-Ausstellung** bei Neubauten. Ursachen:
-- Bauträger-Hypothek auf dem Grundstück noch offen
-- Baugenehmigung noch nicht final
-- Steuerschulden des Bauträgers
-
-Stand 2024 werden ca. **80% der Verkäufe mit gesichertem Titel oder starken Rechtsgarantien** durchgeführt (Cyprus Land Registry Report, via Sekundärquellen). Die restlichen 20% sind, wo Probleme sitzen.
-
-**Was tun:**
-1. Immer einen **unabhängigen Anwalt** — nie den Anwalt des Bauträgers.
-2. Bei Neubauten ohne fertigen Titel — Kaufvertrag muss Escrow und Specific Performance Lodging enthalten.
-3. Hypotheken auf dem Grundstück via [DLS Lookup](https://portal.dls.moi.gov.cy/) prüfen.
-
-Details: [Polycarpos Philippou — Title Deeds Guide](https://philippoulaw.com/articles/should-you-buy-a-cyprus-property-without-title-deeds/).
-
-### Planungsverstöße bei Resale
-
-Häufiges Problem: Ein Vorbesitzer hat Veranda, Poolhaus oder Wintergarten ohne Genehmigung angebaut. **Der neue Käufer erbt die Haftung.** Pflicht: **Planungs-/Baugenehmigungs-Audit** vor Vertragsunterschrift.
-
-### "Villa" in ländlicher Zone — Falle
-
-Wenn ein Inserat ein ländliches Grundstück als Villa bezeichnet (Μεμονωμένη Κατοικία), sind **Pools nicht erlaubt** und Bebauungsgrad max. 20%. Zonierung verifizieren.
-
-### Gated Communities — Gemeinschaftsstreitigkeiten
-
-In abgeschlossenen Villenkomplexen häufig:
-- Kostenaufteilung Pool-/Gartenpflege
-- Verwaltungsgesellschafts-Gebühren
-- Gemeinschaftliche Versorgungszähler
-
-Gemeindesatzung vor Vertragsabschluss lesen.
-
-## Wer kauft Zypern-Villen
-
-Grundbuchdaten (DLS), 12 Monate bis September 2025 — 1.669 ausländische Transaktionen:
-
-| Bezirk | #1 Nationalität | Anzahl | #2 | Anzahl |
-|---|---|---|---|---|
-| **Paphos** | **Briten** | **890** | Israelis | 683 |
-| **Limassol** | Russen | 846 | Israelis | 571 |
-| **Larnaca** | Israelis | 850 | Libanesen | 723 |
-| **Nicosia** | Griechen (ausl.) | 403 | Rumänen | 112 |
-| **Famagusta** | Briten | 220 | — | — |
-
-**Deutsche** erscheinen nicht in Top-2 einzelner Bezirke, aber die Community ist substanziell — geschätzt **20.000–25.000 Personen**, konzentriert in Paphos und Umgebung. Hauptgründe:
-- Warmes Klima 9+ Monate/Jahr
-- Englisch als Arbeitssprache, Deutsch in vielen Dienstleistungen
-- **GESY** Gesundheitssystem (breiter als deutsche GKV in mehreren Bereichen)
-- Direktflüge nach Deutschland
-- Etablierte deutsche Community (Stammtische, Vereine, evangelische Gemeinde)
-- Starke rechtlich-bankentechnische Infrastruktur auf Englisch/Griechisch
-
-Ausländeranteil landesweit: **fast 2 von 5 Verkäufen** (Q3 2025). +9,3% YoY.
-
-## Mieteinnahmen
-
-### Langzeitmiete (brutto)
-
-| Standort | Bruttorendite |
-|---|---|
-| Limassol (Prime-Villa) | 3–4% |
-| Limassol Stadtdurchschnitt (alle Typen) | 5,5–6% |
-| Paphos langzeitig | 4,25% |
-| Nicosia | 4,78% |
-| Larnaca | ~4% |
-| **Zypern-Durchschnitt** | **5,09%** (Q3 2025) |
-| **Nur Häuser/Villen** | **2,96%** |
-| **Nur Wohnungen** | **5,45%** |
-
-**Schlüsselerkenntnis:** Villen bringen nur die Hälfte der Mietrendite von Wohnungen. Villen sind **Kapitalerhalt und Lifestyle** — kein Ertragsmodell. Wenn das Ziel passives Einkommen ist, bringen zwei 2-Zimmer-Wohnungen mehr als eine Villa.
-
-### Kurzzeitmiete (Airbnb)
-
-Paphos Prime-Touristenzone: **6–7,5%**, Spitze **8,5% brutto** (Investropa 2026).
-
-**Aber:** Seit 6. Februar 2023 Pflicht zur Registrierung beim Deputy Ministry of Tourism (Gesetz 34(I)/2019):
-- **Gebühr:** €222 für 3 Jahre
-- **Registrierungsnummer** muss in allen Inseraten sichtbar sein (Airbnb, Booking stimmen sich mit dem Ministerium ab)
-- **Compliance-Lücke:** 12–13K aktive Listings vs. 8.375 registriert (Mai 2025) — ~35% nicht registriert
-- **Gemeinde-Caps:** Derzeit keine — AG hat Cap-Vorschläge abgelehnt (März 2025). Aber Entwicklung ähnlich wie Griechenland/Portugal möglich.
-
-Registrierung über [gov.cy Tourism Portal](https://www.gov.cy/tourism/en/mi-katigoriopoiimeno/registration-of-self-service-accommodations-in-the-registry-of-the-deputy-ministry-of-tourism/).
-
-## Aufenthaltsgenehmigung durch Villenkauf (PR)
-
-Regulation 6(2) Category F, aktuelles Regime 2026:
-
-- **Mindestinvestition:** **€300.000 + MwSt** in Wohnimmobilien
-- **Nur Neubau** (Resale zählt nicht)
-- 1 oder 2 neue Objekte zusammen ≥€300K
-- **Jahreseinkommen (gesichert):** **€50.000** Hauptantragsteller + **€15.000** Ehepartner + **€10.000** pro Kind *(erhöht 2023 von €30K/€5K/€5K)*
-- **Bearbeitung:** 2 Monate offiziell / **~9 Monate realistisch**
-- Behörde: **Migration Department (MIP)** — gov.cy/mip-md
-- Saubere Polizeiliche Führungszeugnisse aus Heimat- und Wohnland
-- **Für Statuserhalt:** Zypern mindestens alle 2 Jahre besuchen
-
-**Für deutsche Rentner:** €300K-Investment + Rentennachweis (€50K+ Brutto-Jahresrente oder Kombination aus Rente + Vermögenserträgen) = PR innerhalb ~9 Monaten. Familien inkludiert (Kinder bis 25, Ehepartner).
-
-PR ≠ Staatsbürgerschaft. Weg zur zypriotischen Staatsbürgerschaft: 7 Jahre legaler Aufenthalt + Griechisch-B1-Prüfung + Geschichts-/Staatsbürgerkunde-Test.
-
-## Top-Bauträger nach Region
-
-### Paphos (dominanter Villenmarkt)
-
-| Bauträger | Webseite | Bekannt für |
-|---|---|---|
-| **Aristo Developers** | [aristodevelopers.com](https://www.aristodevelopers.com/) | 40+ Jahre, Venus Rock Golf Resort, Chloraka |
-| **Leptos Estates** | [leptosestates.com](https://www.leptosestates.com/) | Master-geplante Communities, Coral Bay Villas |
-| **Pafilia** | pafilia.com | ONE Limassol, Minthis Golf Resort |
-| **Domenica Group** | [domenicagroup.com](https://www.domenicagroup.com/) | Gegr. 1961, Lofos Heights, Sea View Villas |
-| **Korantina Homes** | [korantinahomes.com](https://korantinahomes.com/) | Gegr. 1990, Cap St Georges, Soho Resort |
-
-### Limassol
-
-| Bauträger | Webseite | Bekannt für |
-|---|---|---|
-| **Cybarco** | [cybarco.com](https://www.cybarco.com/) | Lanitis-Gruppe, Limassol Marina, Akamas Bay Villas |
-| **Pafilia** | pafilia.com | ONE Limassol, Hochhausprojekte |
-| **Aristo Developers** | [aristodevelopers.com](https://www.aristodevelopers.com/) | 6 neue Limassol-Residenzprojekte in 2026 |
-
-### Larnaca
-
-Konkrete Top-3 Larnaca-Villen-Bauträger in offenen 2026-Quellen nicht verifiziert. Live-Listings über [research.cy](https://research.cy) oder [RICS Zypern](https://www.rics.org/eu/upholding-professional-standards/sector-standards/valuation/cyprus-property-index/).
-
-## 2026-Marktausblick
-
-**Central Bank RPPI (Q4 2025):**
-- Gesamtquartal: **+2,3%** (beschleunigend von +1,2% in Q3)
-- Häuser: **+1,2% Quartal / +7,1% YoY** (vorher +5,0%)
-- Wohnungen: **+3,0% Quartal / +10,32% YoY**
-- Limassol (Wohnungsindex): **150,1** — landesweit Spitze, +102,7% in 10 Jahren
-- Paphos: ~12,9% jährlich — schnellstwachsender Bezirk
-
-**DLS Transaktionsvolumen:**
-- **Januar 2026:** 435 Nicht-EU-Auslandstransaktionen (+25% YoY)
-- **Jan-Feb 2026:** 2.938 Transaktionen (+11% YoY)
-- **Paphos EU-Käufer:** +55% im Januar 2026
-
-**Fazit:** Der Markt beschleunigt. 2026 einsteigen ist noch realistisch, aber jedes Quartal teurer. Besonders Paphos.
+Lesen Sie die [offizielle Politik und die Klarstellungen](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) und holen Sie Beratung ein, bevor Sie ein Objekt wegen des Aufenthalts wählen. Ein Kauf gewährt nicht automatisch Aufenthalt oder Staatsbürgerschaft.
 
 ## Nächste Schritte
 
-1. **Region nach Lebensstil wählen, nicht nur nach Preis** — Paphos für Deutsch-Britisch-Rentner-Umfeld; Limassol für Stadt/Business; Larnaca für günstigen Einstieg + Nahost-Nähe.
-2. **Neubau vs. Resale entscheiden** — Neubau: 100% Transfer Fee-Befreiung, aber 19% MwSt. Resale: 50% Transfer Fee-Rabatt, keine MwSt. Beide Rechnungen für Ihren Preispunkt durchrechnen.
-3. **Unabhängigen Anwalt engagieren** — nicht den Bauträger-Anwalt. Title-Deed-Prüfung nicht verhandelbar.
-4. **Zonierung prüfen** — moi.gov.cy Planungskarten. Sicherstellen, dass die "Villa" kein Individual House ist, das keinen Pool haben darf.
-5. **Für PR** — Jahreseinkommen €50K+ dokumentieren (Bankauszüge, Rentenbescheide, Steuerbescheide).
-6. **Vor dem Wegzug steuerlich beraten** — §6 AStG, DBA, Non-Dom-Status. Erspart sechsstellige Beträge.
-7. **Laufende Kosten einplanen** — mindestens €6.000–8.500/Jahr.
-8. **Wenn Mieteinkommen das Ziel ist** — zwei Wohnungen schlagen eine Villa deutlich.
+1. Vergleichen Sie konkrete Häuser mit Ihrem Budget, Ihren Reisebedürfnissen und Ihrem Lebensstil.
+2. Lassen Sie unabhängige juristische und technische Berater Titel, Grundstücksrechte, Genehmigungen und Vertrag prüfen.
+3. Holen Sie die steuerliche Behandlung, die Berechnung der Transaktionskosten und Kostenvoranschläge für den Unterhalt schriftlich ein.
+4. Prüfen Sie bei Vermietung die Betriebsvoraussetzungen und testen Sie Szenarien mit niedrigerer Miete und Leerstand.
+5. Prüfen Sie bei einem Aufenthaltsantrag alle Kriterien dieses Weges, bevor Sie Geld binden.
 
-Verwandte Artikel:
-- [Immobilienkauf auf Zypern — Komplett-Leitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026) — Prozess Schritt für Schritt
-- [Hypothek auf Zypern für Ausländer](/de/property/hypothek-zypern-fuer-auslaender) — Zinsen, Anforderungen, Banken
-- [Immobiliensteuern Zypern: MwSt, CGT](/de/property/immobiliensteuern-zypern-mwst-cgt) — detaillierter Überblick
-- [Versteckte Kosten beim Immobilienkauf](/de/property/versteckte-kosten-immobilienkauf-zypern)
-- [Paphos-Immobilien — Käufer-Leitfaden](/de/property/immobilien-paphos-kaeufer-leitfaden)
-- [Limassol-Immobilien — Stadtteile und Preise](/de/property/immobilien-limassol-stadtteile-preise)
-- [Larnaca-Immobilien — erschwingliches Zypern](/de/property/immobilien-larnaca-erschwingliches-zypern)
+## Quellen und weiterführende Leitfäden
 
-Aktuelle Villenlistings: [research.cy](https://research.cy).
+- [MwSt.-Gesetz](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html) und [Mitteilung der Steuerbehörde zur Übergangsregelung](https://www.gov.cy/oikonomia/exetasi-ypefthynon-diloseon-gia-tin-epivoli-meiomenou-syntelesti-fpa-5-gia-tin-agora-i-anegersi-katoikias-apo-ton-eforo-forologias-mechri-31-dekemvriou-2026/).
+- [DLS-Gebühren für Verkauf und Übertragung](https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/) und [Hinterlegung des Vertrags](https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/).
+- [Kapitalertragsteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/1980_1_52/full.html) und [Änderung 2025, wirksam ab 2026](https://www.cylaw.org/nomoi/arith/2025_1_242.pdf).
+- [Steuerbehörde: Grundsteuer](https://www.gov.cy/mof-tax/documents/foros-akinitis-idioktisias/).
+- [Kompletter Kaufleitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026/), [versteckte Kosten](/de/property/versteckte-kosten-immobilienkauf-zypern/) und [für Käufer aus Nicht-EU-Staaten](/de/property/buying-property-cyprus/).

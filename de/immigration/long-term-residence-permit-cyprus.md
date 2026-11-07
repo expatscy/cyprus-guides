@@ -1,9 +1,9 @@
 ---
 slug: "long-term-residence-permit-cyprus"
-title: "LTRP: EU-Daueraufenthalt nach 5 Jahren"
-description: "Long Term Residence Permit Zypern: Anforderungen, Dokumente, Unterschiede zum Immobilien-PR und Vorteile des EU-Dauerresidentenstatus."
+title: "LTRP Zypern: Voraussetzungen, Unterlagen, EU-Mobilität"
+description: "Daueraufenthalt (LTRP) in Zypern: 5 Jahre Aufenthalt, Griechisch A2, Unterlagen, Antragsgebühr 30 €, Kartenverlängerung und bedingte EU-Mobilität."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -14,159 +14,145 @@ tags:
 draft: false
 translationKey: "ltrp-postoyannoe-rezidentstvo-es"
 faqSchema:
-  - question: "Was ist der Unterschied zwischen LTRP und dem Immobilien-Daueraufenthalt?"
-    answer: "LTRP (Long Term Residence Permit): nach 5 Jahren legalem Aufenthalt, EU-weit anerkannt, ermöglicht Umzug in andere EU-Staaten. Immobilien-Daueraufenthalt (Fast-Track): ab €300.000 Immobilienkauf, nur für Zypern gültig, nicht EU-weit übertragbar. LTRP ist der stärkere Status, erfordert aber 5 Jahre Wartezeit."
+  - question: "Wie lange muss man in Zypern leben, um den LTRP zu bekommen?"
+    answer: "Die Regel: fünf Jahre rechtmäßiger, ununterbrochener Aufenthalt unmittelbar vor dem Antrag. Jede Abwesenheit muss kürzer als sechs aufeinanderfolgende Monate sein, insgesamt höchstens zehn Monate. Gesetzliche Ausnahmen und die gesonderten Regeln zur EU Blue Card können die Berechnung ändern."
+  - question: "Was ist der Unterschied zwischen LTRP und dem Daueraufenthalt über Immobilien?"
+    answer: "Der LTRP setzt anrechenbaren Aufenthalt und weitere Bedingungen voraus, gibt das Recht auf Arbeit und Selbstständigkeit in Zypern (außer in vorbehaltenen Tätigkeiten) und ermöglicht einen bedingten Aufenthalt in teilnehmenden EU-Staaten. Der Investoren-Aufenthalt nach Regulation 6(2) setzt eine Investition und weitere Bedingungen voraus; er gibt kein Mobilitätsrecht nach der Daueraufenthaltsrichtlinie und beschränkt die Erwerbstätigkeit, mit festgelegten Ausnahmen für Direktoren."
+  - question: "Wie lange dauert die Bearbeitung des LTRP-Antrags in Zypern?"
+    answer: "Die Migrationsbehörde nennt eine Bearbeitungszeit von 6–12 Monaten. Nach Abschnitt 18I des Ausländer- und Einwanderungsgesetzes muss die schriftliche Entscheidung binnen sechs Monaten nach Antragstellung ergehen; in außergewöhnlichen, komplexen Fällen kann die Frist um weitere sechs Monate verlängert werden, mit Mitteilung an den Antragsteller."
+howtoSchema:
+  name: "So beantragen Sie den Daueraufenthalt in Zypern"
+  description: "Aufenthaltszeiten und Voraussetzungen prüfen, die offiziellen MLT3-Unterlagen zusammenstellen und bei der Migrationsbehörde in Nikosia einreichen."
+  estimatedCost: "30"
+  steps:
+    - name: "Aufenthalt und Voraussetzungen prüfen"
+      text: "Prüfen Sie die Berechnung der fünf Jahre anrechenbaren Aufenthalts oder eine gesetzliche Ausnahme, ausreichende stabile Mittel, Krankenversicherung, Griechisch A2 und Grundkenntnisse über das politische und gesellschaftliche Leben Zyperns."
+    - name: "Unterlagen zusammenstellen"
+      text: "Nutzen Sie das Formular MLT3 und die offizielle Checkliste, einschließlich der Nachweise zu Aufenthalt, Einkommen, Versicherung, Sprache und Wohnung."
+    - name: "Termin in Nikosia vereinbaren"
+      text: "Fragen Sie den Termin für den Daueraufenthaltsstatus unter mageorgiou@md.mip.gov.cy an. Erstanträge werden nur bei der Migrationsbehörde in Nikosia angenommen."
+    - name: "Antrag einreichen und Biometrie abgeben"
+      text: "Reichen Sie den vollständigen Antrag mit den Originalunterlagen und der Gebühr von 30 € ein. Fingerabdrücke, Foto und Unterschrift werden nach Anweisung abgegeben; die Biometrie kann auch später bei der Migrationsbehörde oder der Ausländer- und Einwanderungsabteilung der Bezirkspolizei erfasst werden."
+    - name: "Schriftliche Entscheidung abwarten"
+      text: "Die veröffentlichte Bearbeitungszeit beträgt 6–12 Monate; die gesetzliche Entscheidungsfrist von sechs Monaten kann in außergewöhnlichen, komplexen Fällen um weitere sechs Monate verlängert werden, mit Mitteilung. Die erste Aufenthaltskarte gilt fünf Jahre."
 ---
-> **Kurzantwort:** Der Daueraufenthalt (Long-Term Residence) steht nach 5 Jahren legalem Aufenthalt offen. Alternative: Fast-Track über Immobilienkauf ab 300.000 EUR.
+> **Kurzantwort:** Der Daueraufenthalt (LTRP) in Zypern setzt in der Regel fünf Jahre rechtmäßigen, anrechenbaren Aufenthalt, stabile Mittel, Krankenversicherung, Griechisch A2 und Grundkenntnisse über das politische und gesellschaftliche Leben Zyperns voraus. Der Status ist unbefristet, kann aber nach den gesetzlichen Regeln verloren gehen oder entzogen werden; die Karte gilt fünf Jahre. Er erlaubt Arbeit und Selbstständigkeit in Zypern (außer in vorbehaltenen Tätigkeiten) und bietet bedingte Mobilität in teilnehmende EU-Staaten.
 
-LTRP (Long Term Residence Permit) — der Status eines EU-Dauerresidenten, der nach 5 Jahren legalem Aufenthalt in Zypern beantragt werden kann. Einer der wichtigsten Meilensteine für Auswanderer aus Nicht-EU-Staaten.
+Der Weg steht Drittstaatsangehörigen offen, die sich rechtmäßig in den von der Regierung kontrollierten Gebieten Zyperns aufhalten. Beim Antrag brauchen Sie eine gültige Aufenthaltserlaubnis. Andere Kategorien finden Sie im [Aufenthaltserlaubnis-Leitfaden](/de/immigration/residence-permit-cyprus-guide/); prüfen Sie aber, ob Ihr tatsächlicher Aufenthalt unter die Regeln für Daueraufenthaltsberechtigte fällt.
 
-> **Offizielle Quellen:**
-> - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — Zyprische Migrationsbehörde
-> - [EU-Richtlinie 2003/109/EG](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32003L0109) — EU-Rechtsgrundlage
-> - Terminvereinbarung: über das [Portal der Migrationsbehörde](https://www.gov.cy/mip-md/en/)
+## Was ist der LTRP?
 
-## Was ist der Daueraufenthalt (LTRP)?
+Zypern setzt die [EU-Daueraufenthaltsrichtlinie 2003/109/EG](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0109-20110520) mit den [Abschnitten 18Z–18KH des Ausländer- und Einwanderungsgesetzes](https://www.cylaw.org/nomoi/enop/non-ind/0_105/full.html) um. Die Regeln der Richtlinie gelten in den teilnehmenden EU-Staaten; **Dänemark und Irland sind ausgenommen**, wie die [Europäische Kommission](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/already-eu_en) erklärt.
 
-### Definition
+### LTRP und Investoren-Daueraufenthalt
 
-**LTRP** — ein einheitlicher europäischer Langzeitresidentenstatus:
+| Aspekt | Zypern-LTRP | Investoren-Aufenthalt nach Regulation 6(2) |
+|--------|-------------|--------------------------------------------|
+| Grundlage | Anrechenbarer Aufenthalt und die gesetzlichen Voraussetzungen | Eine qualifizierende Investition und weitere Bedingungen des Programms |
+| Immobilie | Ein Immobilienkauf ist keine Voraussetzung | Haus oder Wohnung aus Erstverkauf ab 300.000 € zuzüglich MwSt.; es gibt auch andere Investitionsarten |
+| Arbeitsrechte in Zypern | Arbeit und Selbstständigkeit, mit Einschränkungen für hoheitliche und vorbehaltene Tätigkeiten | Erwerbstätigkeit beschränkt, mit festgelegten Ausnahmen für Direktoren |
+| EU-Mobilität | Antrag auf Aufenthalt in einem anderen teilnehmenden Staat, nach dessen Bedingungen | Kein Aufenthaltsrecht nach der Daueraufenthaltsrichtlinie |
 
-- Anerkannt in **allen EU-Ländern**
-- Bietet **dauerhaftes** Aufenthaltsrecht in Zypern
-- Vereinfacht den Umzug in andere EU-Mitgliedstaaten
-- Basiert auf [EU-Richtlinie 2003/109/EG](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32003L0109)
+Nach der [Investorenregelung](https://www.gov.cy/mip-md/documents/etaireies-ependytes-monimi-diamoni/adeies-metanasteysis-ependyton/) muss das gesicherte Jahreseinkommen mindestens 50.000 € betragen, zuzüglich 15.000 € für den Ehepartner und 10.000 € für jedes minderjährige Kind. Antragsteller und Ehepartner erklären, in Zypern nicht arbeiten zu wollen, außer als Direktoren der Gesellschaft, in die sie nach dem Programm investieren; bei einer Investition, die kein Gesellschaftskapital ist, sind Beteiligungen und unbezahlte Direktorenposten in zyprischen Gesellschaften erlaubt. Das sind Bedingungen des Investorenprogramms, getrennt vom LTRP.
 
-### LTRP vs. Daueraufenthalt durch Immobilien
+## Welche Voraussetzungen gelten?
 
-| Aspekt | LTRP | Immobilien-PR (F 6.2) |
-|--------|------|----------------------|
-| Voraussetzung | 5 Jahre Aufenthalt | Immobilienkauf ab 300.000 € |
-| EU-weite Anerkennung | Ja | Nur Zypern |
-| Arbeitsrecht | Ja — unbeschränkt | Nein |
-| Zugangsweg | Über Zeit und Arbeit | Über Kapitalanlage |
-| EU-Mobilität | Kann in anderen EU-Staaten Aufenthalt beantragen | Keine EU-Mobilität |
+### Aufenthaltsdauer und Abwesenheiten
 
-Für Details zum Immobilien-PR siehe unseren [Aufenthaltserlaubnis-Leitfaden](/de/immigration/residence-permit-cyprus-guide/).
+Die Regel lautet: **fünf Jahre rechtmäßiger, ununterbrochener, anrechenbarer Aufenthalt unmittelbar vor der Antragstellung**, in den von der Regierung kontrollierten Gebieten. Nach Abschnitt 18H gilt:
 
-> **Für Deutsche wichtig:** Der LTRP ist besonders attraktiv für Auswanderer (Auswandern nach Zypern), da er EU-weite Mobilität bietet. Falls Sie wegen der Wegzugsbesteuerung (§ 6 AStG) nach Zypern umgezogen sind, stabilisiert LTRP Ihren Status nach 5 Jahren erheblich — unabhängig vom DBA Deutschland-Zypern.
+- Jede Abwesenheit muss **kürzer als sechs aufeinanderfolgende Monate** sein, und die Abwesenheiten dürfen in diesen fünf Jahren zusammen **zehn Monate** nicht überschreiten.
+- Der Ausschuss für Einwanderungskontrolle kann Abwesenheiten von insgesamt mehr als zehn Monaten ausnahmsweise als nicht unterbrechend behandeln, wenn sie auf schwerwiegende gesundheitliche Gründe oder Pflichten im Ausland für einen Arbeitgeber mit Sitz in Zypern zurückgehen, sofern die Abwesenheiten zusammen 24 Monate nicht überschreiten.
 
-## Welche Anforderungen gelten?
+### Welcher Aufenthalt zählt?
 
-### Aufenthaltsdauer
+Die Bezeichnung des Aufenthaltstitels allein belegt nicht, dass jede Zeit zählt. Abschnitt 18Z schließt aus: Studierende und Berufsauszubildende; Personen mit anderem Schutz als internationalem Schutz, einschließlich vorübergehendem Schutz, und Personen, die auf eine solche Erlaubnis warten; Asylbewerber bis zur endgültigen Entscheidung; Aufenthalt nur aus vorübergehenden Gründen, für grenzüberschreitende Dienstleistungen oder mit förmlich beschränkten Titeln; und bestimmte diplomatische Status nach dem Wiener Übereinkommen. Zeiten in den ausgeschlossenen Kategorien nach Abschnitt 18H(2)(a) zählen nicht.
 
-- **5 Jahre** ununterbrochener legaler Aufenthalt in Zypern
-- Abwesenheiten insgesamt nicht mehr als **10 Monate** in 5 Jahren
-- Keine einzelne Abwesenheit länger als **6 aufeinanderfolgende Monate**
+Bei Inhabern internationalen Schutzes rechnet Abschnitt 18H die Hälfte der Zeit zwischen dem erfolgreichen Schutzantrag und der betreffenden Aufenthaltserlaubnis an, bei mehr als 18 Monaten die gesamte Zeit. Das unterscheidet sich vom vorübergehenden Schutz.
 
-### Anrechenbare Aufenthaltstypen
+**Ausnahme für die EU Blue Card:** Nach Abschnitt 18TZ kann ein Inhaber, der die gesetzliche Mobilitätsregelung genutzt hat, fünf Jahre anrechenbaren Aufenthalts in verschiedenen EU-Staaten als Inhaber der Blue Card, hochqualifizierter Arbeitnehmer, Forscher oder international Schutzberechtigter zusammenrechnen, wobei **die zwei unmittelbar vorangehenden Jahre in Zypern als Blue-Card-Inhaber** verbracht sein müssen. Abwesenheiten aus der EU müssen jeweils kürzer als 12 aufeinanderfolgende Monate sein und im Berechnungszeitraum zusammen höchstens 18 Monate betragen. Die übrigen Voraussetzungen gelten weiter.
 
-Folgende Aufenthaltstitel werden angerechnet:
+### Mittel, Versicherung und Integration
 
-- Arbeitsgenehmigungen (reguläre Beschäftigung, BCS)
-- [EU Blue Card](/de/immigration/eu-blue-card-cyprus/)
-- [Spouse Employment](/de/immigration/spouse-employment-permit-cyprus/)
-- [Besuchererlaubnis](/de/immigration/visitor-permit-cyprus/) (mit Einschränkungen — bei der Migrationsbehörde nachfragen)
+Abschnitt 18Th verlangt alles Folgende:
 
-Die Zeit unter [Vorübergehendem Schutz (TP)](/de/immigration/temporary-protection-ukrainians/) wird möglicherweise **nicht** angerechnet — klären Sie das mit der Migrationsbehörde.
-
-### Finanzielle Anforderungen
-
-- Stabiles und regelmäßiges **Einkommen** (Beschäftigung oder Selbstständigkeit)
-- Fähigkeit, **sich selbst und die Familie zu versorgen** ohne Sozialhilfe
-- Gültige **Krankenversicherung** (GESY-Registrierung genügt)
+- Stabile, regelmäßige Mittel, die für den Antragsteller und die unterhaltsberechtigte Familie ausreichen, ohne Sozialhilfe in Zypern in Anspruch zu nehmen. Geprüft werden Erwerbseinkommen oder anderes stabiles rechtmäßiges Einkommen, Lebenshaltungskosten, angemessene Unterkunft und, wo einschlägig, ein unbefristeter oder mindestens 18 Monate laufender Arbeitsvertrag oder die Tragfähigkeit der geplanten Selbstständigkeit.
+- Krankenversicherung, die die Risiken abdeckt, die für zyprische Staatsangehörige üblicherweise versichert sind. Die Checkliste verlangt eine stationäre und ambulante Krankenversicherung; die GESY-Anmeldung allein nennt sie nicht als Alternative.
+- **Griechisch A2** und Grundkenntnisse über das heutige politische und gesellschaftliche Leben Zyperns. Der Ausschuss kann in außergewöhnlichen Fällen befreien. Die Checkliste verlangt die entsprechenden Sprach- und Landeskunde-Nachweise; das ist getrennt von den [Sprachanforderungen für die Einbürgerung](/de/immigration/greek-language-exam-citizenship/).
+- Keine Gefahr für öffentliche Ordnung oder Sicherheit und kein durch Betrug oder falsche Angaben erlangter Aufenthalt.
 
 ## Wie läuft die Beantragung ab?
 
-### Erforderliche Dokumente
+### Erforderliche Unterlagen
 
-- Ausgefülltes Antragsformular
-- Gültiger Reisepass und aktuelle Aufenthaltserlaubnis
-- Einkommensnachweis (Arbeitsvertrag, Gehaltsabrechnungen)
-- **Sozialversicherungsbeiträge** (vollständige 5-Jahres-Historie)
-- Steuererklärungen (TD1-Formulare für die relevanten Jahre)
-- Krankenversicherungsnachweis oder GESY-Registrierung
-- Aufenthaltsnachweis (Nebenkostenabrechnungen, Mietvertrag)
-- Polizeiliches Führungszeugnis
+Verwenden Sie das Formular **MLT3** und die [offizielle Checkliste vom 6. März 2025](https://www.gov.cy/media/sites/174/2025/12/New-long-term-eng_06032025.docx), erreichbar über die [aktuelle Formularseite](https://www.gov.cy/mip-md/en/documents/long-term-residents-lt/). Die Checkliste nennt:
 
-### Wo einreichen
+- Reisepass oder anderes Reisedokument, gültig für **mindestens zwei Jahre**, mit beglaubigten Kopien aller relevanten Ein- und Ausreiseseiten, und eine gültige zyprische Aufenthaltserlaubnis.
+- Unbefristeter oder mindestens **18 Monate** laufender Arbeitsvertrag oder eine Erklärung zur Selbstständigkeit mit Beschreibung der geplanten Tätigkeit und des erwarteten Einkommens.
+- Original des **in Zypern ausgestellten** Führungszeugnisses und eine stationäre und ambulante Krankenversicherung mit Geltung in Zypern.
+- Kurzer Lebenslauf mit E-Mail und Telefonnummer; übersetzte beglaubigte Kopien von akademischen und beruflichen Abschlüssen, Berufserfahrung und gegebenenfalls Berufszulassungen.
+- Zertifikate zu Griechisch A2 und zu den Grundkenntnissen über das politische und gesellschaftliche Leben.
+- **Kontoauszüge für zwölf Monate**, Bescheinigungen über Einkünfte aus anderen Quellen und Erklärungen, falls nötig mit eidesstattlicher Versicherung.
+- Eigentumsnachweis oder, falls noch nicht ausgestellt, der hinterlegte Kaufvertrag und Zahlungsnachweis; alternativ ein gültiger Mietvertrag mit Beschreibung der Unterkunft und **Mietquittungen für 12 Monate**, dazu Telefon-, Strom- und Wasserrechnungen.
+- **Steuererklärungen und Steuerunbedenklichkeitsbescheinigung für fünf Jahre**; MwSt.-Erklärungen und Bescheinigung, wenn Sie mehrwertsteuerpflichtig sind; Sozialversicherungsauszüge für fünf Jahre. Abschnitt 18I macht Sozialversicherungsnachweise dort verbindlich, wo Beiträge gesetzlich Pflicht sind.
+- Ordnungsgemäß beglaubigte und übersetzte Heirats- oder Scheidungsurkunde, falls einschlägig. Die MLT3-Hinweise verlangen außerdem **zwei aktuelle Passfotos**.
 
-Beim **Deputy Ministry of Migration** (frühere Migrationsabteilung) im Bezirksbüro am Wohnort. Termin buchen über das [offizielle Portal](https://www.gov.cy/mip-md/en/).
+Für Inhaber einer zyprischen Blue Card, die sie über die Mobilitätsregelung erhalten haben, nennt die Checkliste stattdessen die einschlägigen EU-Aufenthaltsunterlagen und EU-Ein- und Ausreiseseiten sowie Steuer-, gegebenenfalls MwSt.- und Sozialversicherungsnachweise für **zwei Jahre**. Lesen Sie den für Sie geltenden Zweig der Checkliste, nicht die gewöhnliche Fünf-Jahres-Liste.
 
-### Bearbeitungszeit
+Den älteren Wortlaut der Checkliste zur Stempelsteuer lesen Sie zusammen mit der [Mitteilung der Steuerbehörde](https://www.gov.cy/mof-tax/documents/chartosima/): Die Stempelsteuer wurde zum 1. Januar 2026 abgeschafft, aber Dokumente, die bis zum 31. Dezember 2025 von mindestens einer Vertragspartei unterzeichnet wurden, unterliegen ihr weiterhin.
 
-Aus der Praxis: **3-6 Monate** im Durchschnitt, wobei in Stoßzeiten Verzögerungen bis zu 12 Monaten berichtet wurden.
+### Wo einreichen und Biometrie
 
-## Welche Vorteile bietet der LTRP?
+Nach dem [offiziellen Verfahren](https://www.gov.cy/mip-md/en/documents/acquisition-of-the-status-of-long-term-resident-in-the-republic-2/) werden Erstanträge mit den erforderlichen Originalen, amtlichen Übersetzungen und beglaubigten Unterlagen **nur bei der Migrationsbehörde in Nikosia** angenommen. Unvollständige Anträge werden nicht angenommen. Teilen Sie Änderungen Ihrer Angaben während der Prüfung der Behörde sofort mit.
 
-### Dauerhafter Status
+In den [Terminhinweisen](https://www.gov.cy/mip-md/en/documents/appointments/) steht für Termine zum Daueraufenthaltsstatus die Adresse **mageorgiou@md.mip.gov.cy**. Diese Kategorie wird zentral bearbeitet, auch wenn Sie in einem anderen Bezirk wohnen.
 
-- Keine jährliche Verlängerung erforderlich
-- Deutlich stabiler als befristete Aufenthaltstitel
-- Nicht an einen bestimmten Arbeitgeber gebunden
+Für die Karte werden Fingerabdrücke, Foto und Unterschrift benötigt. Mit gültigem Reisedokument und Antragsbestätigung kann die Biometrie bei der Antragstellung oder später bei der Behörde in Nikosia oder der Ausländer- und Einwanderungsabteilung der Bezirkspolizei erfasst werden. Bei Genehmigung erhalten Sie eine Abholmitteilung, bei Ablehnung ein Schreiben mit den Gründen.
 
-### EU-weite Anerkennung
+### Gebühr und Bearbeitung
 
-- Möglichkeit, in **jedem EU-Mitgliedstaat** einen Aufenthalt nach vereinfachtem Verfahren zu beantragen
-- Besonders nützlich für diejenigen, die später innerhalb Europas umziehen möchten
+Die veröffentlichte **Antragsgebühr beträgt 30 €**. Das ist die Gebühr für die Antragstellung, keine Schätzung der Kosten für Übersetzungen, Versicherung oder andere Vorbereitung.
 
-### Volles Arbeitsrecht
+Die Behörde nennt eine **Bearbeitungszeit von 6–12 Monaten**. Abschnitt 18I verlangt die schriftliche Mitteilung der Entscheidung **binnen sechs Monaten nach Antragstellung**, verlängerbar um **weitere sechs Monate in außergewöhnlichen Fällen mit komplexer Prüfung**, mit Mitteilung an den Antragsteller. Die 6–12 Monate sind die veröffentlichte Schätzung, die sechs Monate die gesetzliche Entscheidungsfrist.
 
-- Unbeschränkte Beschäftigung in Zypern — jeder Arbeitgeber, jede Branche
-- [Selbstständigkeit](/de/immigration/switching-visa-types-cyprus/) möglich
-- Im Gegensatz zum Immobilien-PR, der **kein Arbeitsrecht** gewährt
+## Welche Rechte und Erneuerungspflichten folgen der Genehmigung?
 
-### Weg zur Staatsbürgerschaft
+### Dauerstatus und Kartenverlängerung
 
-- Die Aufenthaltszeit mit LTRP wird weiterhin für die 7-jährige [Einbürgerungsanforderung](/de/immigration/cyprus-citizenship-naturalization/) angerechnet
-- LTRP-Inhaber sind gut positioniert für Einbürgerungsanträge
+Der Status ist unbefristet, aber die **Karte gilt fünf Jahre** und muss erneuert werden. Die [Verlängerungsseite](https://www.gov.cy/mip-md/en/documents/acquisition-of-the-status-of-long-term-resident-in-the-republic/) nennt den Antrag drei Monate vor Ablauf; der Online-Dienst nimmt Anträge **90–30 Tage vor Ablauf** mit einem verifizierten Cy-Login-Konto an. Abschnitt 18IB sagt, der Verlängerungsantrag sei spätestens drei Monate vor Ablauf zu stellen. Stellen Sie ihn zum früheren gesetzlichen Zeitpunkt und folgen Sie den aktuellen Hinweisen des Dienstes.
 
-> **Hinweis zur Doppelstaatsbürgerschaft:** Deutschland erlaubt grundsätzlich keine Doppelstaatsbürgerschaft mit Nicht-EU-Staaten. Da Zypern EU-Mitglied ist, können Deutsche die zyprische Staatsbürgerschaft erwerben, ohne die deutsche aufzugeben. LTRP ist der logische Zwischenschritt.
+Nach den Abschnitten 18IG–18ID kann der Status verloren gehen oder entzogen werden: bei einschlägigem Betrug, Ausweisung oder Gefahr für die öffentliche Ordnung, bei **12 aufeinanderfolgenden Monaten außerhalb der EU**, **sechs aufeinanderfolgenden Jahren außerhalb Zyperns** oder dem Erwerb des Daueraufenthaltsstatus in einem anderen Mitgliedstaat. Der bloße Ablauf der Karte hebt den Status nicht auf. Eine gesonderte Regel von **24 Monaten Abwesenheit außerhalb der EU** gilt nach Abschnitt 18TZ(4) für Inhaber der besonders gekennzeichneten früheren Blue-Card-Daueraufenthaltserlaubnis und ihre Familienangehörigen, denen der EU-Daueraufenthaltsstatus gewährt wurde.
 
-## Wie wechselt man vom BCS zum LTRP?
+### Arbeitsrechte in Zypern
 
-### Wann wechseln
+Abschnitt 18IZ sieht Gleichbehandlung mit zyprischen Staatsangehörigen bei Arbeit und Selbstständigkeit vor. Ausgenommen sind Tätigkeiten mit Ausübung öffentlicher Gewalt und Tätigkeiten, die zyprisches oder EU-Recht zyprischen oder EU-Bürgern vorbehält. Ein uneingeschränkter Zugang zu jeder Branche darf daher nicht versprochen werden.
 
-Viele BCS-Beschäftigte (Business Company Scheme) beantragen LTRP nach 5 Jahren. Der Wechsel umfasst:
+### Aufenthalt in einem anderen EU-Staat
 
-- Einen neuen Antrag bei der Migrationsbehörde
-- Möglicherweise eine Aus- und Wiedereinreise (der Prozess ist nicht immer eindeutig — konsultieren Sie die Behörde oder einen Anwalt)
+Die Artikel 14–15 der Richtlinie erlauben einen Aufenthalt von mehr als drei Monaten in einem **zweiten teilnehmenden Mitgliedstaat**, vorbehaltlich der dortigen Antrags- und Anspruchsvoraussetzungen. Der aufnehmende Staat darf Mittel, Versicherung, Unterkunft und Anforderungen an Arbeit oder Selbstständigkeit prüfen, einschließlich der Lage auf dem Arbeitsmarkt. Stellen Sie den Antrag so früh wie möglich und spätestens drei Monate nach der Einreise; der Staat kann einen Antrag schon vor der Ausreise aus Zypern annehmen. Der LTRP erlaubt nicht automatisch Aufenthalt oder Arbeit in der gesamten EU.
 
-### Erhalt der Aufenthaltsdauer
+## Wie hängt der LTRP mit der Staatsbürgerschaft zusammen?
 
-Beim Wechsel zum LTRP:
+LTRP und Staatsbürgerschaft haben getrennte Voraussetzungen. Die ordentliche Einbürgerung verlangt **sieben anrechenbare Jahre innerhalb der vorangegangenen zehn vor einer gesonderten letzten Frist von 12 Monaten**, dazu Griechisch B1 (oder eine Befreiung wegen Ausbildung), Kenntnisse über Zypern, Leumund, Mittel und weitere Voraussetzungen. Für hochqualifizierte Beschäftigte gibt es einen gesonderten Weg mit kürzerem Aufenthalt. Siehe den [Leitfaden zur Einbürgerung](/de/immigration/cyprus-citizenship-naturalization/).
 
-- **BCS-Zeit wird nicht zurückgesetzt** für die Staatsbürgerschaft — Ihre gesamte Aufenthaltsdauer in Zypern zählt weiterhin
-- Klären Sie dies jedoch bei der Migrationsbehörde, da sich Regeln ändern können
+Ein Wechsel der Aufenthaltserlaubnis löscht für sich genommen keinen sonst anrechenbaren Aufenthalt. Ob frühere Zeiten als Arbeitnehmer oder mit LTRP für die Staatsbürgerschaft zählen, hängt von den Regeln des Staatsangehörigkeitsrechts zu rechtmäßigem Aufenthalt, körperlicher Anwesenheit und Ausschlüssen ab; die LTRP-Genehmigung allein begründet keinen Anspruch auf die Staatsbürgerschaft.
 
-## LTRP oder Staatsbürgerschaft — was ist besser?
+## Häufige Fragen
 
-### Warum LTRP, wenn Staatsbürgerschaft möglich ist
+### Wie lange muss man in Zypern leben, um den LTRP zu bekommen?
 
-- LTRP ist nach **5 Jahren** verfügbar (vs. 7+ für Staatsbürgerschaft)
-- Erfordert **keine** [Griechisch-Prüfung](/de/immigration/greek-language-exam-citizenship/)
-- Bietet EU-weite Mobilität, ohne die Originalstaatsbürgerschaft aufzugeben
-- Guter Zwischenschritt während der Vorbereitung auf die Einbürgerung
+Die Regel: fünf Jahre rechtmäßiger, ununterbrochener Aufenthalt unmittelbar vor dem Antrag. Jede Abwesenheit muss kürzer als sechs aufeinanderfolgende Monate sein, insgesamt höchstens zehn Monate. Gesetzliche Ausnahmen und die gesonderten Regeln zur EU Blue Card können die Berechnung ändern.
 
-### Nach dem LTRP
+### Was ist der Unterschied zwischen LTRP und dem Daueraufenthalt über Immobilien?
 
-Sie können mit dem LTRP auf unbestimmte Zeit in Zypern leben oder die [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/) beantragen, wenn die Voraussetzungen erfüllt sind (7 Jahre Aufenthalt + Griechisch-Prüfung).
+Der LTRP setzt anrechenbaren Aufenthalt und weitere Bedingungen voraus, gibt das Recht auf Arbeit und Selbstständigkeit in Zypern (außer in vorbehaltenen Tätigkeiten) und ermöglicht einen bedingten Aufenthalt in teilnehmenden EU-Staaten. Der Investoren-Aufenthalt nach Regulation 6(2) setzt eine Investition und weitere Bedingungen voraus; er gibt kein Mobilitätsrecht nach der Daueraufenthaltsrichtlinie und beschränkt die Erwerbstätigkeit, mit festgelegten Ausnahmen für Direktoren.
 
-## Welche praktischen Tipps gibt es?
+### Wie lange dauert die Bearbeitung des LTRP-Antrags in Zypern?
 
-1. **Abwesenheiten akribisch erfassen** — nicht mehr als 10 Monate in 5 Jahren, keine einzelne Reise über 6 Monate. Führen Sie Reiseaufzeichnungen.
-2. **Alle Dokumente von Tag eins aufbewahren** — Sozialversicherungsauszüge, Steuererklärungen, Nebenkostenabrechnungen, Gehaltsabrechnungen. Sie benötigen eine lückenlose 5-Jahres-Dokumentation.
-3. **Versicherung durchgängig aufrechterhalten** — jede Lücke in der GESY- oder privaten Versicherung kann Probleme beim Antrag verursachen.
-4. **Frühzeitig beginnen** — Dokumente zusammenstellen und bei der Migrationsbehörde nachfragen, bevor die 5-Jahres-Marke erreicht ist.
-5. **Ehepartner berücksichtigen** — falls mit einem EU-Bürger verheiratet, kann der [Yellow Slip](/de/immigration/eu-citizen-spouse-cyprus-yellow-slip/) schneller sein und sofort mehr Rechte gewähren.
-
----
-
-LTRP ist der stärkste Zwischenstatus zwischen einer befristeten Aufenthaltserlaubnis und der [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/). Er bietet EU-weite Anerkennung, volles Arbeitsrecht und langfristige Stabilität. Für die meisten Auswanderer mit Arbeitserlaubnis sollte er der erste große Meilenstein an der 5-Jahres-Marke sein.
-
----
+Die Migrationsbehörde nennt eine Bearbeitungszeit von 6–12 Monaten. Nach Abschnitt 18I des Ausländer- und Einwanderungsgesetzes muss die schriftliche Entscheidung binnen sechs Monaten nach Antragstellung ergehen; in außergewöhnlichen, komplexen Fällen kann die Frist um weitere sechs Monate verlängert werden, mit Mitteilung an den Antragsteller.
 
 ## Quellen
 
-- [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
-- [EU Long-Term Residents Directive 2003/109/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32003L0109) — European Union
+- [Migrationsbehörde: Verfahren zum Erwerb](https://www.gov.cy/mip-md/en/documents/acquisition-of-the-status-of-long-term-resident-in-the-republic-2/), [Formulare und Checklisten](https://www.gov.cy/mip-md/en/documents/long-term-residents-lt/), [Verlängerung](https://www.gov.cy/mip-md/en/documents/acquisition-of-the-status-of-long-term-resident-in-the-republic/).
+- [Ausländer- und Einwanderungsgesetz, Cap. 105](https://www.cylaw.org/nomoi/enop/non-ind/0_105/full.html), besonders die Abschnitte 18Z–18KH und 18TZ.
+- [EU-Daueraufenthaltsrichtlinie](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0109-20110520).

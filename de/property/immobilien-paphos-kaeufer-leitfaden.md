@@ -1,9 +1,9 @@
 ---
 slug: "immobilien-paphos-kaeufer-leitfaden"
-title: "Immobilien in Paphos: Käufer-Leitfaden"
-description: "Paphos Immobilienführer: Stadtteile von Coral Bay bis Yeroskipou, Wohnungs- und Villenpreise, Mieten, Infrastruktur für Expats."
+title: "Immobilien in Paphos: Lagen und Kaufprüfung"
+description: "Immobilien in Paphos: Lagen mit datierten Marktdaten vergleichen, Strand- und Kulturerbe-Beschreibungen aus Primärquellen, Prüfungen vor Kauf oder Miete."
 date: 2026-02-22
-updated: 2026-03-21
+updated: 2026-11-07
 category: "Immobilien"
 author: "Expats Cyprus"
 tags:
@@ -15,168 +15,69 @@ tags:
 draft: false
 translationKey: "nedvizhimost-pafos-gid-pokupatelya"
 faqSchema:
-  - question: "Warum ist Paphos bei deutschen Auswanderern so beliebt?"
-    answer: "Paphos hat die größte Expat-Gemeinschaft Zyperns (Briten, Deutsche, Skandinavier), eigenen internationalen Flughafen, UNESCO-Welterbe, deutsche Bäckereien und Metzgereien, aktive Stammtische. Preise 30–40% unter Limassol. Ruhigeres Lebenstempo — ideal für Rentner und Familien. Direktflüge nach Deutschland."
-  - question: "Was kostet eine Wohnung in Paphos?"
-    answer: "2-Zimmer-Wohnung: €120.000–200.000 (Kauf), €500–900/Monat (Miete). 3-Zimmer-Wohnung: €180.000–300.000. Villa: ab €300.000. Strandnah (Kato Paphos): +20–30% Aufschlag. Coral Bay: beliebtes Resort-Gebiet, ab €250.000 für Apartments. Preiswachstum: +11,8% im Jahr 2024 — schnellstes Wachstum auf der Insel."
----
-> **Kurzantwort:** Paphos ist bei Rentnern und Briten beliebt. Kaufpreise: 1.500-3.000 EUR/m2. Viele Neubauprojekte mit 5% MwSt.-Satz.
-
-Paphos ist die zweitbeliebteste Stadt bei ausländischen Käufern (68–83 % der Transaktionen). UNESCO-Welterbestätte, eigener internationaler Flughafen und die größte britische Gemeinde auf Zypern (~25.000 Personen). Die Preise liegen 30–40 % unter Limassol, dabei verzeichnet Paphos das schnellste Wachstum der Insel: +11,8 % im Jahr 2024.
-
-> **Offizielle Quellen:**
-> - [DLS — Verkaufsstatistiken](https://portal.dls.moi.gov.cy/en/statistics/) — Daten des Grundbuchamtes
-> - [Central Bank of Cyprus — RPPI](https://www.centralbank.cy/en/publications/financial-stability-report) — Immobilienpreisindex
-> - [UNESCO — Paphos](https://whc.unesco.org/en/list/79/) — Welterbestätten
-
-## Welche Stadtteile hat Paphos?
-
-### Premiumlagen an der Küste (€3.200–6.500/m²)
-
-**Coral Bay / Peyia (Küste)** — der beste Familienstrand von Paphos, feiner weißer Sand. Überwiegend Villen. Starker Kurzzeitvermietungsmarkt: durchschnittlich $240/Nacht, Auslastung 61 %. Preise: €4.500–6.500/m². STR-Rendite: 7–9 %.
-
-**Kato Paphos** — das touristische Herz: Hafen, Archäologischer Park (römische Mosaike 3.–5. Jh.), Restaurants, Nachtleben. Wohnungen und Apartments. Preise: €3.200–5.500/m². Wachstum: +8–12 % pro Jahr.
-
-**Königsgräber (Tombs of the Kings)** — touristische Strandzone mit Hotels. In der Nähe: Nekropole aus dem 4. Jh. v. Chr. (UNESCO-Welterbe). Preise: €3.200–5.500/m².
-
-**Zukünftige Marina-Zone (Kissonerga / Potima)** — der Bau einer Marina für 1.000 Yachten soll 2027 beginnen. Erwarteter Preisanstieg: +5–8 % jährlich nach Baubeginn. Aktuell noch günstig: €1.800–2.500/m².
-
-### Mittlere Lage (€1.450–4.400/m²)
-
-**Universal** — das Haupt-Expat-Viertel. Dichte Bebauung, Wohnungen, digitale Nomaden. Beste Rendite in Paphos: 5,5–7 %. Preise: €1.450–2.300/m² (Neubauten bis €4.000).
-
-**Chloraka** — Küste zu Binnenlandpreisen. Zentrum britischer Rentner. Preise: €1.450–2.300/m² (Küstenlage bis €3.900).
-
-**Emba** — ruhiger Familienstadtteil. Preise: €1.450–2.300/m².
-
-**Konia** — hügeliges Viertel nahe internationaler Schulen. Familienfreundlich. Preise: €1.450–2.300/m² (Neubauten bis €4.400).
-
-**Tala / Kamares** — Panoramablick aufs Meer, Villen, Expat-Gemeinschaft. Preise: €2.500–4.400/m².
-
-**Pano Paphos (Altstadt)** — historisches Zentrum, Fußgängerzone, Gentrifizierung. Mittlere, steigende Preise.
-
-### Günstige / aufstrebende Lage (€1.450–2.500/m²)
-
-**Yeroskipou** — am nächsten zum Flughafen, rege Bautätigkeit, Gentrifizierung. Wachstum: +4–6 % pro Jahr. Preise: €1.450–2.300/m².
-
-**Peyia (Binnenland)** — günstige Villen abseits der Küste. Preise: €2.200–3.200/m².
-
-**Mesogi / Anavargos / Tremithousa** — die günstigsten Stadtteile. Preise: ab €1.800/m². Ideal für alle, die maximale Fläche zum minimalen Preis suchen.
-
-**Mandria** — neue Wohnanlagen auf großzügigen Grundstücken. Preise: ab €1.800/m².
-
-## Wie hoch sind die Kaufpreise 2026?
-
-| Typ | Kato Paphos | Universal | Yeroskipou | Coral Bay |
-|-----|-------------|-----------|------------|-----------|
-| 1 Zimmer | €180–280K | €130–200K | €120–180K | — |
-| 2 Zimmer | €250–400K | €180–280K | €170–260K | €300–450K |
-| 3 Zimmer | €350–600K | €250–400K | €250–400K | €450–700K |
-| Villa / Haus | €500K–1,5M | — | €350–600K | €600K–2,5M |
-
-**Durchschnittspreise im Bezirk:**
-- Wohnungen (Neubau): €287.000
-- Häuser (Neubau): €693.000 (+16,9 % im Jahresvergleich)
-- Villen: ab €1.250.000
-
-**Anteil ausländischer Käufer:** 68–83 % — der höchste auf Zypern.
-
-## Wie hoch sind die Mietpreise?
-
-| Stadtteil | 1 Zimmer | 2 Zimmer | 3 Zimmer |
-|-----------|----------|----------|----------|
-| Kato Paphos | €800–1.000 | €1.100–1.350 | €1.500+ |
-| Coral Bay | — | €1.200–1.600 | €2.000–4.000 (Villen) |
-| Universal | €750–950 | €950–1.150 | €1.600–2.400 |
-| Yeroskipou | €700–900 | €900–1.100 | €1.100–1.600 |
-| Chloraka | €750–950 | €950–1.200 | — |
-| Tala / Konia | €750–950 | €1.100–1.600 | — |
-| Anavargos / Mesogi | €600–800 | €800–1.050 | — |
-
-**Durchschnittliche Stadtmiete:** €1.234/Monat (Anstieg +4,8 % im Herbst 2025). Das Angebot schrumpft: von 335 auf 298 Objekte.
-
-## Welche Mietrendite ist zu erwarten?
-
-| Stadtteil | Rendite |
-|-----------|---------|
-| Universal | 5,5–7,0 % |
-| Coral Bay (STR) | 7–9 % |
-| Kato Paphos | 5,0–6,5 % |
-| Yeroskipou | 4,5–6,0 % |
-| Tala / Konia | 4,0–5,5 % |
-
-## Wie ist die Infrastruktur?
-
-### Schulen
-
-| Schule | Programm | Alter | Kosten/Jahr |
-|--------|----------|-------|-------------|
-| International School of Paphos (ISOP) | Britisch (CAIE, Edexcel) | 2,5–18 | €9.000–15.000 |
-| Lumio Private School | IB (im Aufbau) | 6–15 | neu (seit Sept. 2024) |
-| TLC Private School | Engl. Nationaler Lehrplan | 3–18 | kleine Klassen (max. 16) |
-| PASCAL English School | Britisch + Griechisch | 6–18 | — |
-
-### Gesundheitsversorgung
-
-- **Paphos General Hospital** (öffentl.) — Erweiterung um €8M+: Notaufnahme, Tageschirurgie, Pädiatrie, Pneumologie
-- **IASIS Private Hospital** (privat) — Vollversorgung, moderne Ausstattung
-- **Blue Cross, Evangelismos, St. George** (Privatkliniken)
-
-### Einkaufszentren
-
-- **Kings Avenue Mall** — das Haupteinkaufszentrum (Zara, H&M, M&S, Kino)
-- Supermärkte: Sklavenitis, AlphaMega, Lidl, Carrefour
-- Wöchentliche Bauernmärkte
-
-### Strände (18 Blue Flag im Bezirk)
-
-- **Coral Bay** — bester Familienstrand, weicher Sand, Wassersport
-- **Alykes** — nahe dem Hafen, goldener Sand, Blue Flag
-- **Lara Beach** — wilder Strand, Nistplatz der Meeresschildkröten
-- **Yeroskipou (SODAP)** — Familienstrand, Blue Flag
-- **Pachyammos** — langer Sandstrand bei Chloraka
-
-## Was sind die wichtigsten Eckdaten?
-
-| Parameter | Wert |
-|-----------|------|
-| Einwohner (Stadt) | ~36.000 |
-| Einwohner (Bezirk) | ~109.000 |
-| Bis Flughafen Paphos | 15 km, ~20 Min. |
-| Internationale Schulen | 4+ |
-| Britische Gemeinde | ~25.000 (50 % aller Briten auf Zypern) |
-| UNESCO | Archäologischer Park (seit 1980), Königsgräber |
-| Kulturhauptstadt Europas | 2017 |
-
-## Welche Vorteile bietet Paphos?
-
-1. **30–40 % günstiger als Limassol**, dabei das schnellste Preiswachstum auf Zypern (+11,8 %)
-2. **Eigener Flughafen** — Direktflüge in 100+ Richtungen (Ryanair, Wizz Air, easyJet)
-3. **Lebendige Expat-Gemeinschaft** — die größte auf Zypern, Englisch überall
-4. **UNESCO + Natur** — Archäologie von Weltrang, Halbinsel Akamas, Avakas-Schlucht, Schildkröten
-5. **18 Blue-Flag-Strände** im Bezirk
-6. **Sicherheit** — eine der sichersten Städte der EU
-7. **Infrastrukturinvestitionen** — €230M+ in 75+ Projekte (Marina, Umgehungsstraßen, Krankenhaus)
-
-## Welche Nachteile hat Paphos?
-
-1. **Hitze im Sommer** — 38–42 °C im Juli/August, hohe Klimaanlagenkosten
-2. **Kleine Stadt** — begrenztes Nachtleben und Restaurantangebot im Vergleich zu Limassol
-3. **Auto ist Pflicht** — es gibt Busse, aber sie fahren selten
-4. **Begrenzter Arbeitsmarkt** — geeignet für Remote-Arbeiter, Rentner, Selbstständige
-5. **Saisonalität** — im Winter leeren sich die Touristenviertel, im Sommer sind sie überfüllt
-6. **Weit von Nikosia entfernt** — 150 km bis zur Hauptstadt (Botschaften, Behörden), 1,5–2 Stunden Fahrt
-
+  - question: "Was zeigt der datierte Preisindex für Paphos?"
+    answer: "Der Bericht der Zentralbank von Zypern für das 4. Quartal 2025 verzeichnete ein Jahreswachstum von 7,6 % beim kombinierten Preisindex für Häuser und Wohnungen in Paphos, im Vergleich des 4. Quartals 2025 mit dem 4. Quartal 2024. Dieser historische Bezirkswert belegt weder den heutigen Preis noch die Miete oder die künftige Rendite einer bestimmten Immobilie."
+  - question: "Was belegt die offizielle Ankündigung zur Marina?"
+    answer: "Die Ankündigung des Tourismus-Vizeministeriums vom 17. September 2025 startete ein Ausschreibungsverfahren für ein geplantes Vorhaben in Potima, Kissonerga, einschließlich Liegeplätzen für 1.000 Sportboote im Hafen und Landeinrichtungen. Sie bestätigt weder einen Baubeginn 2027 noch eine Fertigstellung oder einen jährlichen Anstieg der Immobilienpreise."
+  - question: "Was sollte ich zu Eigentum und Titel prüfen?"
+    answer: "Prüfen Sie mit unabhängigen Beratern den tatsächlichen Titel, den eingetragenen Eigentümer, Belastungen, Genehmigungen und den Vertrag. Das Grundbuchamt (DLS) unterscheidet die sofortige Titelübertragung, den Kaufvertrag und die Abtretung von einem bestehenden Käufer. Die Hinterlegung eines Vertrags bietet bedingten Rechtsschutz und überträgt den Titel nicht selbst."
 ---
 
-Mehr zu Steuern beim Kauf finden Sie in unserem [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt). Zum Kaufprozess — im Artikel [Immobilienkauf auf Zypern](/de/property/buying-property-cyprus). Für einen Renditevergleich zwischen den Städten lesen Sie unseren [Leitfaden zur Immobilieninvestition auf Zypern](/de/property/immobilieninvestition-zypern-leitfaden/). Fragen? Schreiben Sie uns im [Telegram-Kanal](https://t.me/expatscy).
+Vergleichen Sie die genaue Immobilie, ihre Unterlagen und die Wege, die Ihr Haushalt braucht. Dieser Leitfaden stützt sich auf datierte Primärquellen, die am **3. Oktober 2026** geprüft wurden.
 
+## Was zeigen die Marktdaten?
 
-> **Immobilie auf Zypern gesucht?** [Vergleichen Sie 1.000+ Objekte direkt vom Bauträger auf research.cy](https://research.cy/search/) — ohne Makler, mit Preishistorie und Bezirksanalyse.
+Der [Bericht der Zentralbank von Zypern für das 4. Quartal 2025](https://www.centralbank.cy/images/media/pdf/RPPI_2025Q4_ENG.pdf) verzeichnete ein **Jahreswachstum von 7,6 % beim kombinierten Wohnimmobilien-Preisindex für Paphos**, im Vergleich des **4. Quartals 2025 mit dem 4. Quartal 2024**. Der kombinierte Index umfasst Häuser und Wohnungen und nutzt Bewertungsdaten. Er ist ein historischer Bezirkswert, kein aktueller Preis pro Quadratmeter, keine inserierte Miete und keine Prognose.
 
----
+Um Objekte zu vergleichen, notieren Sie Inseratsdatum, genaue Adresse, Zahl der Schlafzimmer, Definition der überdachten Fläche, Zustand, Parkplatz und Abstellraum, Stand von Titel und Genehmigungen, Mehrwertsteuerbehandlung und enthaltene Ausstattung. Trennen Sie Angebotspreise, vereinbarte Mieten, Gutachten und abgeschlossene Verkäufe. Holen Sie Vergleichsdaten ein, bevor Sie einem ganzen Viertel einen Preis oder eine Miete zuordnen.
 
-## Quellen
+Der [Leitfaden zu Immobilieninvestitionen](/de/property/immobilieninvestition-zypern-leitfaden/) enthält datierte Renditewerte nach Segmenten und hypothetische Cashflow-Rechnungen. Schätzen Sie Leerstand, Instandhaltung, Verwaltung, Versicherung, Steuern und Finanzierung für die konkrete Immobilie und Nutzung. Die Bezeichnung eines Viertels belegt weder eine erzielbare Rendite noch eine Auslastung.
 
-- [DLS — Sales Statistics](https://portal.dls.moi.gov.cy/en/statistics/) — gov.cy
-- [Central Bank of Cyprus — RPPI](https://www.centralbank.cy/en/publications/financial-stability-report) — Central Bank of Cyprus
+## Wie vergleiche ich Lagen?
+
+Wenn Sie Inserate mit den Bezeichnungen Coral Bay, Peyia/Pegeia, Kato Paphos, Tombs of the Kings, Universal, Chloraka, Emba, Konia, Tala, Kamares, Pano Paphos, Yeroskipou/Geroskipou, Mesogi, Anavargos, Tremithousa oder Mandria prüfen, klären Sie die genaue Adresse und die kommunale oder administrative Zuordnung. Schauen Sie auf Gebäude und Zugang, statt sich auf pauschale Einstufungen wie „Premium“, „günstig“ oder „am besten für Expats“ zu verlassen.
+
+Besuchen Sie das Objekt zu verschiedenen Tageszeiten, testen Sie Schul- und Arbeitswege und prüfen Sie Parkplatz, Lärm, Ausrichtung und Gemeinschaftsflächen. Fragen Sie die zuständige Stelle oder den Anbieter nach Kanalanschluss und Versorgung an der konkreten Adresse.
+
+### Coral Bay
+
+[Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sun-sea/beaches/coral-bay-beach-blue-flag/) verortet den **Strand Coral Bay in Pegeia** in der Region Paphos und beschreibt einen **500 Meter langen Strand** mit **goldenem Sand** und ruhigem, flachem Wasser. Zu den genannten Einrichtungen zählen Toiletten, Duschen, Umkleiden, Liegen, Sonnenschirme und Wassersport.
+
+Prüfen Sie den Weg von der konkreten Immobilie, den aktuellen Zugang und die Einrichtungen. Die touristische Beschreibung belegt nicht, dass jedes Haus vor Ort Meerblick hat, dass dies überall der „beste Familienstrand“ ist oder dass ein Inserat einen bestimmten Nachtpreis oder eine bestimmte Auslastung erreicht.
+
+### Kulturerbe-Stätten
+
+Der [UNESCO-Eintrag zu Paphos](https://whc.unesco.org/en/list/79/) verzeichnet die **Aufnahme in das Welterbe im Jahr 1980**. Er beschreibt eine serielle archäologische Stätte mit Teilen in **Kato Paphos** und **Kouklia**: Zu Kato Paphos gehören das antike Nea Paphos und die **Königsgräber**, zu Kouklia **Palaepaphos und das Heiligtum der Aphrodite**. Der Eintrag beschreibt Überreste, darunter Villen, Paläste, Theater, Festungen, Gräber und Mosaike.
+
+Diese Auszeichnung betrifft die aufgeführte archäologische Stätte. Sie bescheinigt weder den Titel einer nahegelegenen Wohnung noch die Baugenehmigung, die Mieteinnahmen oder den Anlagewert. Prüfen Sie beim Vergleich von Objekten den aktuellen Besucherzugang und die genaue Lage.
+
+## Was sagt die Ankündigung zur Marina?
+
+Die [Ankündigung des Tourismus-Vizeministeriums vom 17. September 2025](https://www.gov.cy/tourismos/prokiryxi-prosklisis-ekdilosis-endiaferontos-gia-to-ergo-tis-marinas-pafou-pafos-marine-development-project/) startete ein Ausschreibungsverfahren für das **Pafos Marine Development Project**. Sie beschrieb ein geplantes Vorhaben auf etwa **165.000 m² Land der Republik in Potima, Kissonerga**, mit Liegeplätzen für **1.000 Sportboote im Hafen und Landeinrichtungen**.
+
+Das Vorhaben umfasste Wohn- und Gewerbebauung, mit optionaler Hotel- und Kreuzfahrt-Infrastruktur. Die Ankündigung beschrieb zwei aufeinanderfolgende Stufen: Interessenbekundungen, dann Einladungen an ausgewählte Bewerber zur Abgabe von Angeboten für eine **Design, Build, Finance, Operate, Transfer**-Konzession (Planung, Bau, Finanzierung, Betrieb, Übertragung).
+
+Das ist eine datierte Vergabeankündigung, kein Beweis für Baubeginn oder Fertigstellung. Fordern Sie die aktuellen offiziellen Projekt- und Planungsunterlagen an, bevor Sie einen Aufschlag für eine Neuentwicklung zahlen. Die Ankündigung belegt keinen garantierten Start 2027 und keinen jährlichen Preisanstieg bei Immobilien.
+
+## Was prüfe ich zu Titel und Kauf?
+
+Die [Käuferinformation des DLS](https://portal.dls.moi.gov.cy/wp-content/uploads/2022/08/Basic-Information-before-the-Purchase-of-Immovable-Property.pdf) unterscheidet die **sofortige Titelübertragung**, den **Kaufvertrag** und die **Abtretung von einem bestehenden Käufer**. Prüfen Sie, welches Geschäft vorgeschlagen wird, wem die Immobilie gehört und was dagegen eingetragen ist. Das DLS rät Käufern, den vollen Kaufpreis nicht vor der Titelübertragung zu zahlen.
+
+Nach dem [Gesetz über den Verkauf von Immobilien (Specific Performance)](https://www.cylaw.org/nomoi/enop/non-ind/2011_1_81/full.html) schafft ein akzeptierter, hinterlegter Vertrag eine Belastung der Immobilie mit Rang ab der Hinterlegung, vorbehaltlich der Bedingungen des Gesetzes. Er **überträgt das Eigentum nicht selbst** und beseitigt nicht automatisch alle früheren Hypotheken. Lassen Sie das Geschäft und die Regelungen zur Löschung von Hypotheken unabhängig prüfen.
+
+Für Vertrags-, Zahlungs-, Genehmigungs- und Steuerprüfungen nutzen Sie den [vollständigen Kaufleitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026/). Klären Sie die Eignung für die geplante Nutzung und holen Sie datierte Angebote für Fachleistungen und Arbeiten ein.
+
+## Wie prüfe ich die Infrastruktur im Alltag?
+
+Klären Sie Schulaufnahme, Lehrplan, Jahrgangsstufe, Schulweg und aktuelle Gebühren für das vorgesehene Schuljahr direkt mit der Schule. Fragen Sie Gesundheitsanbieter nach Anspruch, Leistungen, Terminen und Kosten und holen Sie echte Versicherungsangebote ein.
+
+Aktuelle Informationen zu Einkaufsmöglichkeiten, Buslinien und Fahrpreisen holen Sie beim Anbieter ein. Testen Sie Wege zur relevanten Tageszeit, einschließlich Flughafenanbindung, Verkehr und Parkplatzsuche, statt eine feste Fahrzeit für die ganze Stadt anzusetzen oder anzunehmen, dass jeder Haushalt dieselbe Mobilität braucht.
+
+Prüfen Sie Kühlung, Dämmung, Energieausweis und aktuelle Rechnungen. Fragen Sie nach Instandhaltung, Gemeinschaftskosten und geplanten Arbeiten. Planen Sie das Budget nach dem konkreten Haus und Ihrem Verbrauch, nicht nach einer allgemeinen Klima- oder Betriebskostenschätzung.
+
+- [Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/)
+- [Hypothekenleitfaden](/de/property/hypothek-zypern-fuer-auslaender/)
+- [Title Deed und Eigentum](/de/property/title-deed-zypern-eigentumsrecht/)
+- [Immobiliensuche auf research.cy](https://research.cy/search/)
+
+Fragen zu einer Immobilie stellen Sie in unserem [Telegram-Kanal](https://t.me/expatscy).

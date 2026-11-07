@@ -1,9 +1,9 @@
 ---
 slug: "immobilieninvestition-zypern-leitfaden"
-title: "Immobilieninvestition Zypern: Rendite 2026"
-description: "Leitfaden für Immobilieninvestitionen auf Zypern: Mietrendite, Wohn- vs. Gewerbeimmobilien, Suchplattformen, realistische Preise 2026."
+title: "Immobilieninvestition Zypern: Rendite"
+description: "Datierte Renditewerte für Zypern, Mietcashflow selbst rechnen, MwSt, Ferienvermietung und Bedingungen für ausländische Käufer prüfen."
 date: 2026-02-22
-updated: 2026-03-12
+updated: 2026-11-07
 category: "Immobilien"
 author: "Expats Cyprus"
 tags:
@@ -15,150 +15,77 @@ tags:
 draft: false
 translationKey: "investitsii-nedvizhimost-kipr-gde-iskat"
 faqSchema:
-  - question: "Wie hoch ist die Mietrendite auf Zypern?"
-    answer: "Bruttomietrendite: 4–7% je nach Stadt und Objekt. Limassol: 4–5% (hohe Kaufpreise). Paphos: 5–6%. Larnaca: 5–7% (niedrige Kaufpreise, steigende Mieten). Kurzzeitvermietung (Airbnb): 6–10% brutto, aber höherer Aufwand. Netto nach Steuern und Verwaltung: typisch 3–5%."
-  - question: "Wo finde ich Immobilien auf Zypern?"
-    answer: "Hauptplattformen: Bazaraki.com (größtes Kleinanzeigenportal), DOM.com.cy (Maklerportal), BuySellCyprus.com. Für Neubauten: direkt bei Entwicklern (Imperio, Pafilia, Aristo). research.cy aggregiert Angebote mehrerer Entwickler. Tipp: Bazaraki für Marktüberblick, aber bei Neubauten direkt zum Entwickler — spart die Maklerprovision (3–5%)."
----
-> **Kurzantwort:** Immobilieninvestition auf Zypern: Mietrenditen 4-7%, keine jaehrliche Grundsteuer, Kapitalertragssteuer 20% (viele Freibetraege).
-
-Wohin investieren auf Zypern, welche Rendite erwarten und wo Objekte finden -- basierend auf echten Fragen aus deutschsprachigen und internationalen Foren.
-
-> **Offizielle Quellen:**
-> - [DLS -- Verkaufsstatistiken](https://portal.dls.moi.gov.cy/en/statistics/) -- Daten des Grundbuchamts
-> - [Central Bank of Cyprus](https://www.centralbank.cy/en/publications/financial-stability-report) -- Marktberichte
-> - [Eurostat -- House Price Index](https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_q/default/table?lang=en) -- Immobilienpreisindex
-
-## Was ist besser: Wohn- oder Gewerbeimmobilien?
-
-| Parameter | Wohnimmobilien | Gewerbeimmobilien |
-|-----------|---------------|-------------------|
-| Mietrendite | 3-5% jaehrlich | **5-8%** jaehrlich |
-| Verwaltungskosten | Hoeher (Fluktuation, Reparaturen) | Niedriger (Mieter wartet) |
-| Mietdauer | 1 Jahr (typisch) | 3-10 Jahre |
-| Einstieg | Ab 100 000 EUR | Ab 200 000-300 000 EUR |
-| Liquiditaet | Hoeher | Niedriger |
-| Steuerermaessigungen | MwSt 5% (bei Eigennutzung) | Keine Ermaessigungen |
-| Leerstand | Niedrig (Wohnungsmangel) | Standortabhaengig |
-
-**Fazit:** Gewerbeimmobilien in Paphos und Limassol bieten stabilere Einnahmen bei weniger Aufwand. Aber die Einstiegskosten sind hoeher.
-
-## Wie hoch sind die Preise 2026?
-
-### Miete
-
-| Stadt | Studio | 1 Schlafzimmer | 2 Schlafzimmer | 3 Schlafzimmer |
-|-------|--------|----------------|----------------|----------------|
-| Limassol | 600-800 EUR | 800-1 200 EUR | 1 200-1 800 EUR | 1 800-2 500 EUR |
-| Nikosia | 400-600 EUR | 550-800 EUR | 800-1 200 EUR | 1 200-1 800 EUR |
-| Larnaka | 450-650 EUR | 600-900 EUR | 900-1 300 EUR | 1 300-1 800 EUR |
-| Paphos | 400-600 EUR | 550-850 EUR | 800-1 200 EUR | 1 200-1 700 EUR |
-
-### Kauf
-
-| Stadt | Studio | 1 Schlafzimmer | 2 Schlafzimmer | 3 Schlafzimmer (Haus) |
-|-------|--------|----------------|----------------|----------------------|
-| Limassol | 120-180K EUR | 150-250K EUR | 200-400K EUR | 350-700K EUR |
-| Nikosia | 80-120K EUR | 100-180K EUR | 150-280K EUR | 250-450K EUR |
-| Larnaka | 90-140K EUR | 120-200K EUR | 170-300K EUR | 280-500K EUR |
-| Paphos | 80-130K EUR | 110-190K EUR | 160-280K EUR | 250-450K EUR |
-
-**Aus Foren:** «Kann man für 200 000 EUR kaufen und vermieten?» -- Ja, in Larnaka oder Paphos. In Limassol für 200K nur ein Studio oder 1 Schlafzimmer.
-
-## Wo findet man Investmentobjekte?
-
-### Wichtigste Plattformen
-
-| Plattform | Typ | Kommentar |
-|-----------|-----|-----------|
-| [Bazaraki.com](https://www.bazaraki.com) | Kleinanzeigen | Groesstes Portal, von Eigentuemern und Maklern |
-| [DOM.com.cy](https://dom.com.cy) | Aggregator | Fuehrend im russischsprachigen Segment |
-| [Cyprus Property Gallery](https://cypruspropertygallery.com) | Aggregator | Englischsprachiges Portal |
-| [Rightmove](https://www.rightmove.co.uk/overseas-property.html) | International | Britisches Portal, beliebt für Zypern |
-| Facebook-Gruppen | Communities | «Miete Zypern», «Cyprus Property» u.a. |
-| Telegram | Kanaele/Chats | [CypRus Property](https://t.me/), lokale Chats |
-
-### Fuer Kurzzeitvermietung
-
-| Plattform | Besonderheiten |
-|-----------|---------------|
-| [Airbnb](https://www.airbnb.com) | Am beliebtesten, Registrierung erforderlich |
-| [Booking.com](https://www.booking.com) | Grosse Touristenbasis |
-| Facebook Marketplace | Direkt von Eigentuemern |
-
-### Fuer Auktionen (Pfandimmobilien)
-
-| Plattform | Besonderheiten |
-|-----------|---------------|
-| [eauction-cy.com](https://www.eauction-cy.com/en/) | Hauptplattform für elektronische Auktionen |
-| [KEDIPES](https://kedipes.com.cy/en/auctions/) | Portfolio der Genossenschaftsbank |
-| [Gordian Holdings](https://gogordian.com/properties-for-auction/cyprus/all/) | Aggregator |
-
-### Direkt von Bautraegern
-
-Kleinere Bautraeger **schalten keine Werbung**. Ihre Objekte findet man:
-- Über lokale Makler
-- Auf Baustellen (Schilder mit Kontaktdaten)
-- Durch Empfehlungen in Foren
-
-## Welche Investitionsstrategien gibt es?
-
-### 1. Buy-to-Let (Langzeitvermietung)
-
-**Vorteile:** Stabiles Einkommen, minimaler Aufwand
-**Nachteile:** Rendite 3-5%, Preiswachstum verlangsamt sich
-**Beste Standorte:** Nikosia (Studenten + Bueros), Limassol (IT + Expats)
-
-### 2. Short-term Rental (Airbnb)
-
-**Vorteile:** Rendite 6-10%, Flexibilitaet
-**Nachteile:** Saisonalitaet, Verwaltung, Lizenzierung (222 EUR + Versicherung 500K EUR)
-**Beste Standorte:** Protaras, Ayia Napa, Paphos (Touristen), Limassol (Business)
-
-**Wichtig:** Nicht-EU-Bürger -- [rechtliche Grauzone](/de/property/kurzzeitvermietung-zypern-airbnb).
-
-### 3. Buy-Renovate-Sell (Flip)
-
-**Vorteile:** Schneller Gewinn (bei steigendem Markt)
-**Nachteile:** CGT 20%, Risiko der Renovierungskosten, Kontakte zu Handwerkern noetig
-**Beste Optionen:** Gebrauchtimmobilien in Stadtzentren, Auktionsimmobilien
-
-### 4. Grundstück + Bau
-
-**Vorteile:** Maximale Marge
-**Nachteile:** Komplexer Prozess, 1-2 Jahre, Genehmigungen erforderlich
-**Fuer Nicht-EU-Bürger:** Grundstückskauf ohne Bebauung ist praktisch unmoeglich
-
-## Was sind die häufigsten Fragen?
-
-**«Kann man für 200K EUR kaufen, 6 Jahre vermieten und dann selbst wohnen?»**
-Ja, aber: (1) bei MwSt 5% -- 10 Jahre lang keine Vermietung erlaubt, (2) bei 19% -- sofort möglich, aber Lizenz erforderlich, (3) Nicht-EU-Bürger -- pruefen Sie die Bedingungen Ihrer Kaufgenehmigung.
-
-**«Wie viel kann man für eine 3-Zimmer-Wohnung (120 m²) in Paphos (Universal) verlangen?»**
-Langzeitmiete: 1 100-1 500 EUR/Monat. Kurzzeitvermietung in der Saison (Juni-September): 80-120 EUR/Nacht.
-
-**«Jahresmiete im Voraus zahlen -- lohnt sich das?»**
-Normalerweise gewaehren Vermieter 5-10% Rabatt bei Jahreszahlung. Bei 1 200 EUR/Monat spart man 700-1 400 EUR.
-
-**«Sind Wasser und Strom in der Miete enthalten?»**
-Langzeitmiete -- normalerweise nein (Mieter zahlt selbst). Kurzzeitmiete -- meistens ja.
-
-**«Ist es realistisch, für 500 EUR/Monat zu wohnen?»**
-In Nikosia -- Studio oder kleine 1-Zimmer-Wohnung ausserhalb des Zentrums. In Limassol -- extrem schwierig. In Paphos oder Larnaka -- möglich, aber die Auswahl ist begrenzt.
-
-**«Was kostet ein Studio am Meer?»**
-Kauf: ab 80 000-100 000 EUR (Larnaka, Paphos). Miete: ab 450-600 EUR/Monat. Pro Nacht in der Saison: 40-70 EUR.
-
+  - question: "Welche Renditen nennt der datierte Immobilienindex?"
+    answer: "Der Bericht von RICS/KPMG für das 2. Quartal 2026 nennt Renditen von 5,51 % für Wohnungen, 3,01 % für Häuser, 5,78 % für Einzelhandel, 4,15 % für Lager, 5,63 % für Büros, 5,82 % für Ferienwohnungen und 2,85 % für Ferienhäuser. Das sind Richtwerte für fiktive Objekte, keine garantierte Rendite und kein Netto-Cashflow einer einzelnen Immobilie."
+  - question: "Kann eine Anlageimmobilie zur Vermietung die 5 % MwSt bekommen?"
+    answer: "Der ermäßigte Satz gilt nur bei Hauptwohnsitz und dauerhafter Wohnnutzung und weiteren gesetzlichen Bedingungen. Ein Kauf zur Vermietung qualifiziert sich nicht automatisch. Ändert sich die Nutzung innerhalb von zehn Jahren, kann eine Meldung und die Rückzahlung eines Teils der ursprünglichen MwSt-Ersparnis nötig sein, mit gesetzlichen Ausnahmen."
+  - question: "Kann ein Ausländer mit einer zyprischen Firma die Erwerbsgenehmigung umgehen?"
+    answer: "Nein, die Gründung einer Firma befreit nicht automatisch. Cap. 109 nimmt EU- und EWR-Bürger aus der Definition des Ausländers aus, kann aber zyprische Firmen unter ausländischer Kontrolle erfassen. Lassen Sie von einem Anwalt Erwerbsgenehmigung, geplante Nutzung und gesonderte Miet- oder Aufenthaltsbedingungen prüfen."
 ---
 
-Lesen Sie auch: [Immobilien in Limassol — Stadtteile und Preise](/de/property/immobilien-limassol-stadtteile-preise/) | [Hypothek auf Zypern für Ausländer](/de/property/hypothek-zypern-fuer-auslaender/)
+Prüfen Sie Einnahmen, Kosten und rechtliche Bedingungen einer konkreten Immobilie, bevor Sie sie als Investition behandeln. Die Zahlen unten sind datierte Forschungswerte oder ausdrücklich hypothetische Rechnungen, keine Garantie für aktuelle Angebotspreise.
 
-Mehr Fragen und Antworten -- in unserem [Telegram-Kanal](https://t.me/expatscy).
+## Was zeigt der datierte Renditewert?
 
----
+Der [RICS Cyprus Property Index mit KPMG, Q2 2026](https://www.rics.org/content/dam/ricsglobal/documents/reports/rics-kpmg-index-2026q2.pdf) erschien laut [Indexseite von RICS](https://www.rics.org/news-insights/market-surveys/cyprus-property-price-index) am **25. August 2026**. Er nennt diese **Renditen**:
 
-## Quellen
+| Objektart | Gemeldete Rendite Q2 2026 |
+|---|---|
+| Wohnungen | 5,51 % |
+| Häuser | 3,01 % |
+| Einzelhandel | 5,78 % |
+| Lager | 4,15 % |
+| Büros | 5,63 % |
+| Ferienwohnungen | 5,82 % |
+| Ferienhäuser | 2,85 % |
 
-- [DLS — Sales Statistics](https://portal.dls.moi.gov.cy/en/statistics/) — gov.cy
-- [Central Bank of Cyprus](https://www.centralbank.cy/en/publications/financial-stability-report) — Central Bank of Cyprus
-- [Eurostat — House Price Index](https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_q/default/table?lang=en) — European Commission
+Der Bericht beobachtet **fiktive Objekte mit festgelegten Merkmalen** und stützt sich auf Schätzungen akkreditierter RICS-Fachleute. Er deckt die Stadtzentren von **Nikosia, Limassol, Larnaka, Paphos und Paralimni–Famagusta in den von der Regierung kontrollierten Gebieten** ab. Das sind Branchenrichtwerte, kein Versprechen für Miete, Auslastung, Wiederverkaufbarkeit oder Gewinn eines bestimmten Angebots. Die Rendite von Ferienobjekten ist keine Schätzung der Netto-Rendite bei Airbnb.
+
+Nutzen Sie einen Indexwert nicht als Preis eines Studios in der ganzen Stadt oder als Mietangebot. Holen Sie datierte Vergleichsobjekte ein und klären Sie, ob es sich um einen Angebotspreis, eine vereinbarte Miete, eine Bewertung oder einen abgeschlossenen Verkauf handelt.
+
+## Wie berechne ich die Mietrendite?
+
+Hypothetisches Beispiel: Kauf für **200.000 €**, Vermietung für **1.000 € im Monat, zwölf Monate bezahlt**. Die Jahresmiete beträgt **12.000 €**, die Bruttorendite (Miete geteilt durch Kaufpreis) **6 %**. Das ist Arithmetik und kein Beleg, dass eine bestimmte Immobilie diese Miete erzielt.
+
+Ein zweites, hypothetisches Cashflow-Beispiel zieht von diesen 12.000 € mögliche Miete **2.000 € Betriebskosten** und **1.000 € Mietausfall** ab. Es bleiben **9.000 €**, also **4,5 % des Kaufpreises von 200.000 €**, vor Finanzierung und Steuern. Rechnet man die Kaufnebenkosten in die Investition ein, steigt der Nenner. Passen Sie die Annahmen an Ihre dokumentierten Angebote und den Mietvertrag an.
+
+Fragen Sie nach Mietannahmen, erwartetem Leerstand, Verwaltung, Reparaturen, Versicherung, Gemeinschaftskosten, Finanzierung und Besteuerung. Prüfen Sie bei Gewerbeimmobilien, wer vertraglich für Reparaturen und Leistungen zuständig ist, und nehmen Sie nicht an, dass der Mieter alles zahlt. Vergleichen Sie Szenarien, statt Wohn-, Gewerbe- und Ferienimmobilien nach einer unbelegten Einheitsrendite zu ordnen.
+
+## Was ist bei MwSt und Verkaufssteuer zu prüfen?
+
+Nach dem [Mehrwertsteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html) gilt der ermäßigte **5-%-Satz** für Wohnraum nur bei **Hauptwohnsitz und dauerhafter Wohnnutzung** und weiteren gesetzlichen Bedingungen. Ein Kauf zum Vermieten ist nicht schon deshalb begünstigt, weil das Gebäude ein Wohnhaus ist.
+
+Ändert sich die qualifizierende Nutzung innerhalb von **zehn Jahren**, verlangt das Gesetz Meldung und Zahlung innerhalb von **30 Tagen**. Die Rückzahlung richtet sich nach der **ursprünglichen MwSt-Ersparnis, anteilig für die Restzeit**, mit Ausnahmen, etwa bestimmten Todesfällen und der Übertragung an ein erwachsenes Kind. Es ist kein allgemeines Vermietungsverbot für zehn Jahre. Lassen Sie sich vor einer Nutzungsänderung beraten. Grenzen für Fläche und Wert und Übergangsregeln stehen im [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/).
+
+Das [Kapitalertragsteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/1980_1_52/full.html) wendet einen **Satz von 20 % auf steuerpflichtige Gewinne** aus zyprischen Immobilien und bestimmten immobilienbezogenen Anteilen an. Das sind nicht 20 % des Verkaufspreises und keine vollständige Steuerrechnung für einen Immobilienhandel. Klären Sie Steuerbehandlung, Abzüge und Befreiungen, bevor Sie eine Renovierungs- und Verkaufsstrategie budgetieren.
+
+## Welche Regeln gelten für Ferienvermietung?
+
+Der [Leitfaden des Vize-Tourismusministeriums zu Selbstversorger-Unterkünften](https://www.gov.cy/media/sites/26/2024/05/SELF_SERVICE_ESTABLISHMENTS_2024_en.pdf) verlangt, dass geeignete Ferienunterkünfte **vor Werbung oder Vermietung** registriert sind und ein Betriebsschild haben. Die Registrierungsnummer muss in der Werbung und in den entsprechenden Geschäften stehen. Zu den weiteren Anforderungen gehören Objekt- und Genehmigungsunterlagen, Steuerregistrierung und eine Versicherung für Brand und Haftpflicht, wie sie das Programm festlegt.
+
+Die [Mitteilung des Ministeriums zur Verlängerung](https://www.gov.cy/en/tourism/renewing-the-registration-license-for-self-service-establishments/) unterscheidet zwischen einer **ersten Registrierung für drei Jahre** und einer **Verlängerung für fünf Jahre** und nennt eine **Gebühr von 222 €**. Ein rechtzeitiger Verlängerungsantrag wird in den **drei Monaten vor Ablauf** gestellt. Ein verspäteter Antrag gilt als Neuantrag mit einer Genehmigung für drei Jahre und den erforderlichen Unterlagen. Bestätigen Sie die aktuelle Checkliste und den nötigen Versicherungsschutz beim Ministerium.
+
+Dieses System für Ferienunterkünfte belegt nicht, dass jede gewöhnliche langfristige Wohnungsmiete dieselbe Tourismuslizenz braucht. Prüfen Sie als ausländischer Eigentümer gegebenenfalls auch Erwerbsgenehmigung, Nutzung, Firma sowie Aufenthalts- und Arbeitsbedingungen. Eine Tourismusregistrierung beantwortet nicht alle diese Fragen.
+
+## Was sollte ein ausländischer Käufer prüfen?
+
+[Cap. 109](https://www.cylaw.org/nomoi/enop/non-ind/0_109/full.html) nimmt **EU- und EWR-Bürger** aus der gesetzlichen Definition des Ausländers aus, während zyprische Firmen unter ausländischer Kontrolle darunter fallen können. Eine Firmengründung allein umgeht die Genehmigung nicht.
+
+Das [Innenministerium](https://www.gov.cy/moi/en/purchasing-property/) beschreibt bestimmte Erwerbsmöglichkeiten, darunter ein Grundstück oder ungeteiltes Land bis **4.000 m² für ein selbst genutztes Wohnhaus** oder bis zu **zwei Einheiten** in den genannten Kombinationen (Haus, Haus mit Laden, Haus mit Büro). Diese Genehmigungskategorien sind weder ein allgemeines Verbot jedes Landkaufs noch eine automatische Erlaubnis für ein Vermietungsgeschäft.
+
+Für einen Kauf aus einer Zwangsversteigerung nutzen Sie den [Leitfaden zu Auktionen](/de/property/immobilienauktionen-zypern-zwangsversteigerung/). Teil VIA des [Gesetzes 9/1965](https://www.cylaw.org/nomoi/enop/non-ind/1965_1_9/full.html) enthält Beschränkungen für verbundene Käufer und bedingte Verkaufsverfahren. Die Staatsangehörigkeit allein genügt nicht, um die Berechtigung zur Teilnahme an einer Auktion zu beurteilen.
+
+## Wie vergleiche ich echte Objekte?
+
+Sammeln Sie datierte Angebote und fachliche Bewertungen und prüfen Sie dann Eigentumsurkunde, Belastungen, Genehmigungsstatus, Zustand und Vertrag. Halten Sie Kaufpreis, Steuern, Finanzierung, Renovierungsbudget und Mietannahmen in einer schriftlichen Rechnung fest. Vergleichen Sie ein Szenario mit niedrigerer Miete oder höheren Kosten, bevor Sie sich festlegen.
+
+Mit [research.cy](https://research.cy/search/) starten Sie eine Immobiliensuche, auf [ACB E-Auctions](https://www.eauction-cy.com/en/) finden Sie elektronische Auktionen. Prüfen Sie Verkäufer und Bedingungen im Einzelfall: Ein Portalangebot belegt weder rechtliche Berechtigung noch den Wert eines abgeschlossenen Verkaufs noch eine erreichbare Rendite.
+
+## Verwandte Leitfäden
+
+- [Kompletter Kaufleitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026/)
+- [Hypothek für Ausländer](/de/property/hypothek-zypern-fuer-auslaender/)
+- [Ferienvermietung](/de/property/kurzzeitvermietung-zypern-airbnb/)
+- [Eigentumsurkunde und Eigentumsrecht](/de/property/title-deed-zypern-eigentumsrecht/)
+
+Mehr Fragen und Antworten — in unserem [Telegram-Kanal](https://t.me/expatscy).

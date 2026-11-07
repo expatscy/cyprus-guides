@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Moving to Cyprus: Artem Zakharov on expectations and life abroad"
+title: "Moving to Cyprus: Artem Zakharov on expectations and life"
 description: "Artem Zakharov compares Moscow, Tel Aviv and Cyprus, explains why the island exceeded his expectations and reflects on another move for his family’s work."
 slug: "moving-to-cyprus-artem-zakharov-expectations"
 date: 2024-09-28

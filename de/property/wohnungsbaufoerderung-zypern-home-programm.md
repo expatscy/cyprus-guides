@@ -1,163 +1,112 @@
 ---
 slug: "wohnungsbaufoerderung-zypern-home-programm"
-title: "Wohnbaufoerderung auf Zypern: HOME-Programm"
-description: "Staatliche Wohnbaufoerderung auf Zypern: HOME-Programm, Zuschüsse bis 50 000 EUR für junge Familien, Förderung für ländliche Gebiete."
+title: "Wohnbauförderung Zypern: Programme und Anträge"
+description: "Wohnbauförderung auf Zypern: Junge Käufer, Zinszuschuss, Renovate-Rent, ländliche Zuschüsse und Staatsgrundstücke. Regeln und Antragsfristen vorab prüfen."
 date: 2026-02-22
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Immobilien"
 author: "Expats Cyprus"
 tags:
   - Immobilien
   - Förderung
-  - HOME-Programm
   - Staatliche-Hilfe
   - Leitfaden
 draft: false
 translationKey: "subsidii-zhilye-kipr-programma-home"
 faqSchema:
-  - question: "Gibt es staatliche Zuschüsse für den Hausbau auf Zypern?"
-    answer: "Ja — das HOME-Programm bietet Zuschüsse bis €50.000 für junge Familien (Ehepartner unter 41 Jahre) beim Bau oder Kauf der ersten Wohnung. Zusätzlich: vergünstigte Grundstücke (25% des Marktwerts) in ländlichen Gebieten. Voraussetzung: zyprische Staatsbürgerschaft oder EU-Bürger mit dauerhaftem Aufenthalt."
----
-> **Kurzantwort:** Das HOME-Programm fördert Erstkaeufern mit Zuschuss bis 10.000 EUR und reduzierter MwSt. (5%). Voraussetzung: Erstwohnsitz und Einkommensgrenze.
-
-Zypern bietet mehrere staatliche Wohnbaufoerderprogramme -- von Zuschüssen bis zu 50 000 EUR bis hin zu Grundstücken für 25% des Marktwerts. Wir erklaeren, wer förderberechtigt ist und wie man sich bewirbt.
-
-> **Offizielle Quellen:**
-> - [Housing Subsidy Scheme (MOI)](https://www.gov.cy/moi/en/documents/housing-subsidy-scheme-for-young-couples-and-or-individuals-up-to-41-years-old/) -- Wohnungsbaufoerderprogramm
-> - [Interest Rate Subsidy](https://www.gov.cy/mof/en/interest-rate-subsidy-scheme-for-income-qualified-home-loans/) -- Zinssubvention
-> - [Renovate-Rent Scheme](https://www.gov.cy/moi/en/documents/housing-scheme-renovate-rent/) -- Programm «Renovieren und Vermieten»
-> - [Rural Revitalization](https://www.gov.cy/moi/en/documents/housing-scheme-for-the-revitalization-of-specific-rural-areas/) -- Förderung für ländliche Gebiete
-> - [Funding Programmes Portal](https://www.fundingprogrammesportal.gov.cy/en/programs/programmes-of-the-ministry-of-interior/) -- Alle MOI-Programme
-
-## Was bietet Programm A für junge Familien?
-
-Das wichtigste und beliebteste Programm. Zuschüsse für den Kauf oder Bau der ersten eigenen Wohnung.
-
-### Zuschusshoehen
-
-| Kategorie | Maximaler Zuschuss |
-|-----------|-------------------|
-| Alleinstehende | **20 000 EUR** |
-| Paare / Alleinerziehende | **45 000 EUR** |
-| Familien mit Kindern | **50 000 EUR** |
-
-### Teilnahmebedingungen
-
-| Anforderung | Wert |
-|-------------|------|
-| Alter | Bis **41 Jahre** (bei Paaren -- mindestens einer) |
-| Staatsangehoerigkeit | Bürger Zyperns oder der EU, seit **5+ Jahren** auf Zypern wohnhaft |
-| Maximales Einkommen | **50 000 EUR** (Paare), **55 000 EUR** (Familien mit Kindern) |
-| Wohnflaeche | Maximal **150 m²** |
-| Eigenanteil | Mindestens **50%** der Kosten |
-| Gebiet | Bestimmte Gebiete (im Programmaufruf angegeben) |
-
-### Bewerbungsfristen
-
-Letzte Runde: **15. Januar 2025 -- 30. November 2025**. Bearbeitung nach dem Prinzip first-come-first-served. Zielanzahl: 400+ Beguenstigte.
-
-### Bewerbungsverfahren
-
-1. Pruefen Sie, ob Ihr Gebiet im Programm enthalten ist
-2. Sammeln Sie die Dokumente (Personalausweis, Einkommensnachweis, Wertnachweis der Immobilie)
-3. Stellen Sie den Antrag über das [Funding Programmes Portal](https://www.fundingprogrammesportal.gov.cy/en/programs/programmes-of-the-ministry-of-interior/)
-4. Warten Sie auf die Bearbeitung
-
-## Wie funktioniert die Zinssubvention?
-
-Fuer diejenigen, die bereits eine Hypothek aufgenommen haben und unter steigenden Zinsen leiden.
-
-- Kompensiert einen Teil der Zinskosten
-- Entlastet das Familienbudget
-- Antragszeitraum: **2. Januar -- 31. Maerz 2025**
-
-## Was ist das Renovate-Rent-Programm?
-
-Zuschuss für die Renovierung leerstehender Wohnungen zur anschliessenden Vermietung zu guenstigen Preisen.
-
-- Bewerbungen von potenziellen Mietern: **15. Januar -- 31. Dezember 2025**
-- Ziel: Erhoehung des Mietwohnungsangebots
-
-## Welche Förderung gibt es für ländliche Gebiete?
-
-Spezialprogramm zur Förderung des Wohnungsbaus in Berg- und abgelegenen Doerfern.
-
-- Zuschüsse für Bau oder Kauf von Wohnraum in bestimmten ländlichen Zonen
-- Bis zu **20 000 EUR** (laut Erfahrungsberichten; der genaue Betrag haengt von der jeweiligen Runde ab)
-- Ziel: Abwanderung aus Doerfern stoppen
-
-## Was bietet das CLDC-Programm?
-
-Über die **Cyprus Land Development Corporation** (CLDC) werden angeboten:
-
-- Fertige Wohnungen zu reduzierten Preisen
-- Grundstücke für den Bau
-
-## Wie bekommt man Grundstücke zu 25% des Marktwerts?
-
-Im Rahmen des neuen Budgets (75 Mio. EUR):
-
-- Der Staat stellt **Grundstücke** in Siedlungsgebieten bereit
-- Preis für Beguenstigte -- **25% des Marktwerts**
-- Zielgruppe: junge Familien, Bürger mit niedrigem Einkommen
-
-## Wer kann nicht teilnehmen?
-
-- Personen über 41 Jahre (in Programm A)
-- Nicht-EU-Bürger (ausser Eingebuergerte)
-- Eigentuemer anderer Immobilien auf Zypern
-- Familien mit Einkommen über dem Schwellenwert
-- Personen, die nicht seit 5+ Jahren staendig auf Zypern leben
-
-## Haeufig gestellte Fragen
-
-**Koennen Auslaender (Nicht-EU-Bürger) einen Zuschuss erhalten?**
-Nein. Die Programme stehen nur Buergern Zyperns und der EU mit staendigem Wohnsitz seit 5+ Jahren zur Verfuegung.
-
-**Wie lange dauert die Bearbeitung?**
-Normalerweise 2-4 Monate. Die Programme sind beliebt -- Antraege werden bis zur Erschoepfung des Budgets angenommen.
-
-**Kann man den Zuschuss mit der ermaessigten MwSt von 5% kombinieren?**
-Ja. Zuschuss und ermäßigte MwSt sind verschiedene Programme und miteinander kompatibel.
-
-**Was ist mit dem Wohnungsbaufoerderprogramm für ländliche Gebiete bis 20 000 EUR ab 1. Maerz?**
-Das ist Programm D (Rural Revitalization). Die Bedingungen jeder Runde werden auf der MOI-Website veroeffentlicht. Verfolgen Sie Aktualisierungen über das [Funding Programmes Portal](https://www.fundingprogrammesportal.gov.cy/en/programs/programmes-of-the-ministry-of-interior/).
-
-
-> **Immobilie auf Zypern gesucht?** [Vergleichen Sie 1.000+ Objekte direkt vom Bauträger auf research.cy](https://research.cy/search/) — ohne Makler, mit Preishistorie und Bezirksanalyse.
-
+  - question: "Wie viel Wohnbauförderung kann ich auf Zypern bekommen?"
+    answer: "Die Höhe hängt vom jeweiligen Programm und Ihrer Berechtigung ab. In der Mitteilung des Ministeriums vom Mai 2026 wird das frühere Programm für junge Käufer mit einer Hilfe von bis zu 50.000 EUR beschrieben. Die Überarbeitung für ländliche Gebiete vom März 2026 nennt Höchstbeträge von 20.000 EUR für eine Einzelperson oder einen Haushalt bis zu drei Personen und 25.000 EUR für vier oder mehr Personen, mit zusätzlichen Regeln. Keines davon ist ein automatischer Zuschuss für jeden Wohnungskäufer."
+  - question: "Können Nicht-EU-Ausländer auf Zypern Wohnbauförderung bekommen?"
+    answer: "Prüfen Sie das einzelne Programm und den Haushalt, statt eine einzige Regel zu Staatsbürgerschaft oder Aufenthalt auf alle Programme anzuwenden. Das Programm für Staatsgrundstücke vom September 2026 verlangt die zyprische Staatsbürgerschaft, bei Paaren mindestens für einen Partner, und schließt Einzelpersonen aus. Andere Programme haben eigene Bedingungen, die im jeweiligen Antragsleitfaden stehen."
+  - question: "Kann ich einen Wohnzuschuss mit der ermäßigten Mehrwertsteuer von 5 % kombinieren?"
+    answer: "Prüfen Sie beide Bedingungen und lassen Sie sich die Kombination für den konkreten Zuschuss und Kauf schriftlich bestätigen. Ein Wohnzuschuss begründet für sich allein keinen Anspruch auf die ermäßigte Mehrwertsteuer. Die normale Mehrwertsteuerregelung hat eigene Anforderungen an Hauptwohnsitz, Alter, Fläche und Wert."
 ---
 
-Fragen zu Förderprogrammen -- in unserem [Telegram-Kanal](https://t.me/expatscy).
+> **Kurzantwort:** Zypern hat mehrere getrennte Wohnbauprogramme mit unterschiedlichen Begünstigten, Beträgen, Anforderungen an die Immobilie und Antragsfenstern. Klären Sie das konkrete Programm und den aktuellen Aufruf, bevor Sie einen Zuschuss einplanen. Eine frühere Ankündigung ist kein offenes Antragsfenster.
 
-Weiterführende Informationen: [Immobilienkauf](/de/property/buying-property-cyprus/) · [Hypothek auf Zypern](/de/property/hypothek-zypern-fuer-auslaender/) · [Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/).
+## Was ist aus dem Programm für junge Käufer geworden?
 
+Der [zweite Aufruf des Innenministeriums für 2025](https://www.gov.cy/moi/en/documents/housing-subsidy-scheme-for-young-couples-and-or-individuals-up-to-41-years-old/) heißt „Housing Subsidy Scheme for Young Couples and/or Individuals up to 41 Years Old“. Er betrifft Wohnraum mit höchstens **150 m²** in bestimmten Gebieten. Anträge wurden vom **15. Januar 2025 (12 Uhr) bis 30. November 2025 (12 Uhr)** angenommen. Diese Fristen sind abgelaufen. Prüfen Sie vor einem Antrag, ob es einen neuen Aufruf gibt.
 
-## Welche versteckten Kosten gibt es beim Immobilienkauf?
+Am **4. Mai 2026** [kündigte das Ministerium zusätzliche Mittel an](https://www.gov.cy/esoterika-themata/parachorisi-prosthetis-epidotisis-e11-ekat-gia-stirixi-epiprostheton-277-neon-kai-nearon-zevgarion/): rund **11 Mio. EUR** für weitere **277** Antragsteller, die bereits einen Antrag gestellt hatten und berechtigt waren. Die Hilfe beträgt **bis zu 50.000 EUR**, abhängig von Einkommen und Haushaltszusammensetzung. Die Ankündigung betrifft bestehende Anträge, kein neues Antragsfenster.
 
-Über den Kaufpreis hinaus sollten Sie diese Zusatzkosten einplanen:
+Besorgen Sie sich bei jedem neuen Aufruf die Bekanntmachung und den Durchführungsleitfaden. Verlassen Sie sich erst danach auf Bedingungen zu Alter, Staatsbürgerschaft, Aufenthalt, Einkommen, Immobilienbesitz oder Eigenanteil. Reichen Sie den Antrag auf dem Weg ein, den der Aufruf vorgibt. Das Funding Programmes Portal ist eine Stelle für Programminformationen, kein allgemeines Antragsformular.
 
-| Kostenart | Betrag |
-|-----------|--------|
-| Transfer Fee (Eigentumsübertragung) | 3–8% des Marktwerts (50% Rabatt bei gezahlter MwSt.) |
-| Anwaltskosten | €1.500–3.000 (Standardtransaktion) |
-| Stempelsteuer (Stamp Duty) | Abgeschafft seit 1. Januar 2026 |
-| Immobilienbewertung | €300–600 |
-| Baugutachten | €200–500 |
+## Was war der Zinszuschuss für Hypotheken?
 
-**Praktische Empfehlungen:**
+Der [Aufruf des Finanzministeriums von 2025](https://www.gov.cy/mof/en/interest-rate-subsidy-scheme-for-income-qualified-home-loans/) nahm Anträge vom **2. Januar bis 31. März 2025** an, in Papierform über die **Bürgerservicezentren KEP/KEPO**. Betrachten Sie diese Fristen als historisch und fragen Sie beim Schatzamt nach einem neuen Aufruf.
 
-1. **Title Deed prüfen** — fordern Sie vor Vertragsunterzeichnung einen Auszug vom [Department of Lands and Surveys](https://portal.dls.moi.gov.cy/) an. Stellen Sie sicher, dass keine Belastungen vorliegen
-2. **Unabhängiger Anwalt** — beauftragen Sie Ihren eigenen Anwalt, nicht den vom Bauträger empfohlenen. Lizenz prüfen: [Cyprus Bar Association](https://www.cyprusbarassociation.org/)
-3. **Renovierungsbudget** — planen Sie 10–15% des Kaufpreises für unerwartete Kosten ein, besonders bei Bestandsimmobilien
-4. **Altlasten prüfen** — vor dem Kauf sicherstellen, dass keine ausstehenden Schulden für Strom, Wasser oder Gemeindeabgaben bestehen
+Die genannten Kriterien gelten alle zusammen:
 
----
+- Kreditvertrag unterzeichnet **vom 1. Januar 2022 bis 31. Dezember 2023**, Kreditkonto eröffnet.
+- Laufendes Wohnbaudarlehen mit variablem Zins, nicht zur Rückzahlung oder Umschuldung eines früheren Kredits aufgenommen.
+- Darlehen höchstens **400.000 EUR** und jährliches Familieneinkommen höchstens **50.000 EUR**.
+- Steuerpflichten bis einschließlich **Steuerjahr 2023** erfüllt oder geregelt.
+
+Das Programm bezuschusste **50 % des durchschnittlichen Zinsanstiegs** gegenüber dem Zinssatz bei Vertragsabschluss, für **zwei Jahre ab der ersten Auszahlung**, begrenzt auf **zwei Prozentpunkte**. Es ist kein allgemeiner Zuschuss für jede bestehende Hypothek.
+
+## Was ist der Aufruf Renovate-Rent?
+
+Der [zweite Renovate-Rent-Aufruf des Ministeriums](https://www.gov.cy/moi/en/documents/housing-scheme-renovate-rent/) gibt berechtigten Eigentümern Zuschüsse, um leerstehende, ungenutzte Wohnungen und Häuser zu renovieren. Sie werden danach zu erschwinglichen Preisen an berechtigte Mieter mit mittlerem oder niedrigem Einkommen vermietet.
+
+Das angekündigte **Antragsfenster für Eigentümer läuft vom 16. März 2026 bis 31. Dezember 2027**. Anträge von Mietern werden **ab dem 16. März 2026** angenommen. Anträge laufen über **[prositistegi.cy](https://www.prositistegi.cy/)** mit den vorgeschriebenen Formularen und Anweisungen des Aufrufs. Das Ministerium behält sich vor, den Aufruf zu verlängern oder zurückzuziehen. Prüfen Sie den aktuellen Stand vor dem Antrag.
+
+Beträge, Anforderungen an die Immobilie, Miete und laufende Pflichten stehen in den vollständigen Leitfäden für Eigentümer und Mieter. Übertragen Sie keine Regeln vom Programm für junge Käufer oder von den Staatsgrundstücken.
+
+## Was hat sich bei der Förderung im ländlichen Raum geändert?
+
+Die [Seite des Ministeriums zum ländlichen Programm](https://www.gov.cy/moi/en/documents/housing-scheme-for-the-revitalization-of-specific-rural-areas/) nennt den Starttermin **2. März 2026**.
+
+Die [Zusammenfassung der Überarbeitung durch das Präsidialamt vom 11. März 2026](https://www.diakivernisi.gov.cy/gr/epikairotita/1-enisxyetai-oysiastika-i-stirixi-gia-katoikia-stin-ypaithro) nennt diese Höchstbeträge für das **Programm zur Belebung ländlicher Gebiete**:
+
+| Haushalt | Genannter Höchstbetrag |
+|----------|------------------------|
+| Einzelperson oder Haushalt bis zu drei Personen | 20.000 EUR |
+| Haushalt mit vier oder mehr Personen | 25.000 EUR |
+
+Außerdem wird eine **Erhöhung des Höchstbetrags um 20 % für Vertriebene** mit den jeweiligen Berechtigungsregeln beschrieben. Die gesonderten Regeln für Berg-, abgelegene und benachteiligte Gebiete enthalten weitere Kategorien und Hilfen für Sonderbauten. Es ist also nicht ein einziges Programm über 20.000 EUR.
+
+Prüfen Sie im aktuellen Leitfaden und in der Liste der festgelegten Gebiete die Berechtigung, das Einkommen, die Daten von Erwerb und Ausgaben, anderen Besitz und wie Ihr Haushalt bewertet wird. Ein genannter Höchstbetrag ist kein garantierter Zuschuss.
+
+## Was ist das Programm für Staatsgrundstücke 2026?
+
+Die [Programmseite des Ministeriums vom 18. September 2026](https://www.gov.cy/moi/documents/nea-eniaia-stegastiki-politiki/schedio-diathesis-oikopedon-se-oikogeneies-me-vasi-eisodimatikon-kritirion/) betrifft staatliche Grundstücke für ein selbst genutztes Haus, mit Einkommensgrenzen und weiteren Bedingungen.
+
+- Begünstigt sind **Paare mit oder ohne Kinder und Alleinerziehende**. Einzelpersonen sind ausgeschlossen.
+- Die **zyprische Staatsbürgerschaft** ist erforderlich, bei Paaren für mindestens einen Partner. Bei Paaren muss mindestens ein Partner bei der Antragstellung **unter 45 Jahre** alt sein.
+- Die Bindung an die Gemeinde umfasst die jeweilige Gemeinde oder eine Nachbargemeinde im Umkreis von **15 km**, mit den Herkunfts- und Prioritätsregeln des Programms.
+- Die Prüfung des Besitzes betrifft Antragsteller, Ehe- oder Lebenspartner, Kinder und Eltern. Wohnbar nutzbarer Besitz und Veräußerungen in den festgelegten **drei Jahren** können die Berechtigung beeinflussen.
+
+Die veröffentlichten Grenzen für das jährliche Bruttohaushaltseinkommen:
+
+| Haushalt | Maximales jährliches Bruttoeinkommen |
+|----------|--------------------------------------|
+| Paar oder Alleinerziehende | 45.000 EUR |
+| Drei Personen | 50.000 EUR |
+| Vier Personen | 55.000 EUR |
+| Fünf oder mehr Personen | 65.000 EUR |
+
+Der Preis beträgt **25 % des allgemeinen Schätzwerts des Grundstücks nach der Teilung** und wird **in einer Zahlung bei Vertragsunterzeichnung** fällig. Es ist kein allgemeines Angebot zu 25 % jedes beworbenen Marktpreises. Nach dem Programm trägt der Staat die Kosten für Teilung und Infrastruktur, und die vollständige Zahlung begleitet die Eigentumsübertragung.
+
+Das Haus darf **höchstens 150 m² Gesamtbaufläche** haben. Der Bau muss **innerhalb von drei Jahren nach Vertragsschluss** fertig sein. Die Bezirksverwaltung kann eine begründete **Verlängerung um ein Jahr** genehmigen. Das Grundstück darf vor Fertigstellung des Hauses nicht übertragen werden. Das Haus darf **bis fünf Jahre nach Fertigstellung** nicht verkauft oder veräußert werden. Bei Verstößen sieht das Programm Rückgabe, Übertragung oder Restwertausgleich vor.
+
+Bewerben Sie sich nach der **tatsächlichen Bekanntmachung der Bezirksverwaltung** über verfügbare Grundstücke und deren Frist. Die Vergabe folgt den Prioritäts- und Bewertungsregeln des Programms, mit Losverfahren, wenn mehr genehmigte Begünstigte als Grundstücke da sind. Lesen Sie den vollständigen Leitfaden und die Antragsunterlagen. Die Veröffentlichung allein macht ein Grundstück noch nicht für Sie verfügbar.
+
+## Wie prüfe ich Berechtigung und Kaufkosten?
+
+Prüfen Sie für den konkreten Aufruf die Haushaltsdefinition, Staatsbürgerschaft und Aufenthalt, Alter, Einkommensjahr, anderen Besitz, geeigneten Ort und Ausgaben, Einreichungsweg, Fristen und laufende Pflichten. Lassen Sie sich vom zuständigen Sachbearbeiter des Programms bestätigen, was gilt, bevor Sie einen Kauf auf erwartete Hilfe stützen.
+
+Die ermäßigte Mehrwertsteuer hat eigene gesetzliche Bedingungen. Die normale Regelung für Privatpersonen mit Haupt- und Dauerwohnsitz verlangt ein **Alter von mindestens 18 Jahren**. Die ersten **130 m²** werden mit **5 %** besteuert, mit einer **Wertgrenze von 350.000 EUR** für den ermäßigten Satz und Gesamtgrenzen von **190 m² / 475.000 EUR**. Dazu kommen Regeln zur Zuordnung von Fläche und Wert und weitere Bedingungen. Lesen Sie den [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/), bevor Sie einen Zuschuss als Nachweis für die Mehrwertsteuer-Ermäßigung werten.
+
+Die Übertragungsgebühren des Grundbuchamts (DLS) staffeln sich nach **Wertstufen von 3 %, 5 % und 8 %**, normalerweise mit **50 % Ermäßigung** und gesetzlichen Ausnahmen. Sie entfallen, wenn für **dasselbe Geschäft** Mehrwertsteuer anfällt. Die Stempelsteuer wurde **ab 1. Januar 2026** abgeschafft. Für Dokumente, die **von einer Partei vor diesem Datum** unterzeichnet wurden, gelten die früheren Regeln. Diese Kaufregeln sind von der Genehmigung eines Zuschusses getrennt.
+
+Holen Sie schriftliche Angebote für Anwalt, Bewertung, Gutachten, Renovierung und Versorger für die konkrete Immobilie ein. Nutzen Sie für das Budget den [Kaufleitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026/) und den [Leitfaden zu versteckten Kosten](/de/property/versteckte-kosten-immobilienkauf-zypern/). Rechnen Sie nicht mit einem festen Honorarbereich oder einem Prozentsatz für Renovierung.
+
+[Immobilienangebote auf research.cy ansehen](https://research.cy/search/). Prüfen Sie vor der Unterschrift Eigentumstitel, Genehmigungen, Belastungen und offene Gebühren mit unabhängigen Beratern.
 
 ## Quellen
 
-- [Housing Subsidy Scheme (MOI)](https://www.gov.cy/moi/en/documents/housing-subsidy-scheme-for-young-couples-and-or-individuals-up-to-41-years-old/) — gov.cy
-- [Interest Rate Subsidy](https://www.gov.cy/mof/en/interest-rate-subsidy-scheme-for-income-qualified-home-loans/) — gov.cy
-- [Renovate-Rent Scheme](https://www.gov.cy/moi/en/documents/housing-scheme-renovate-rent/) — gov.cy
-- [Rural Revitalization](https://www.gov.cy/moi/en/documents/housing-scheme-for-the-revitalization-of-specific-rural-areas/) — gov.cy
-- [Funding Programmes Portal](https://www.fundingprogrammesportal.gov.cy/en/programs/programmes-of-the-ministry-of-interior/) — gov.cy
+- [Wohnungspolitik des Innenministeriums und Programmunterlagen](https://www.gov.cy/moi/documents/nea-eniaia-stegastiki-politiki/).
+- [Funding Programmes Portal: Programme des Innenministeriums](https://www.fundingprogrammesportal.gov.cy/en/programs/programmes-of-the-ministry-of-interior/).
+- [Mehrwertsteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html).
+- [DLS-Gebühren für Verkauf/Übertragung](https://portal.dls.moi.gov.cy/en/application_forms/polisi-antallagi/) und [Unterlagen zu Vertragsanzahlung und Stempelsteuer](https://portal.dls.moi.gov.cy/en/application_forms/symvasis-polisis-antiparochis-antallagis/).

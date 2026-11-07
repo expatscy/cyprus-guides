@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Living in Cyprus: heat, housing and other drawbacks in Leonid’s words"
+title: "Living in Cyprus: heat, housing and other drawbacks"
 description: "A candid, humorous conversation about living in Cyprus: Leonid on summer heat, island travel, pavements and housing, with Katerina’s replies and qualifications."
 slug: "living-in-cyprus-drawbacks-leonid-conversation"
 date: 2024-06-14

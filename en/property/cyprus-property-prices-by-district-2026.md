@@ -59,7 +59,7 @@ Build a shortlist in each district you are considering and request a dated writt
 
 For document checks, the [DLS buyer brochure](https://portal.dls.moi.gov.cy/wp-content/uploads/2022/08/Basic-Information-before-the-Purchase-of-Immovable-Property.pdf) recommends checking the seller’s registration and property encumbrances, permits and registration requirements. Read our [buying guide](/en/property/buying-property-cyprus-complete-guide-2026/) and [property-tax guide](/en/property/property-taxes-cyprus-vat-cgt/) before budgeting.
 
-[Browse property listings on research.cy](https://research.cy/search/) and confirm the price and terms with the seller. Treat a listing as a quotation to investigate, rather than proof of a district average.
+Confirm the price and terms of any listing with the seller. Treat a listing as a quotation to investigate, rather than proof of a district average.
 
 ## How should I compare rental returns?
 

@@ -1,9 +1,9 @@
 ---
 slug: "learning-greek-language-cyprus"
-title: "Griechisch auf Zypern: Kurse & Prüfungen"
-description: "Alles über das Erlernen der griechischen Sprache auf Zypern: Kurse, Prüfungen, Materialien, Lehrkräfte, staatliche Programme. Alle Ressourcen an einem Ort."
+title: "Griechisch lernen auf Zypern: Kurse und Prüfungen"
+description: "Griechischkurse auf Zypern, veröffentlichte Gebühren, Sprachanforderungen für die Staatsbürgerschaft und offizielle Lernmaterialien."
 date: 2026-01-26
-updated: 2026-03-11
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -15,391 +15,97 @@ tags:
 draft: false
 translationKey: "izuchenie-grecheskogo-yazyka-kipr"
 faqSchema:
-  - question: "Muss ich Griechisch lernen, um auf Zypern zu leben?"
-    answer: "Nicht zwingend — im Alltag kommt man mit Englisch gut zurecht (besonders in Limassol, Paphos, Larnaka). Aber: für die Einbürgerung ist Griechisch B1 Pflicht (Ελληνομάθεια-Prüfung). Für den Behördengang, Arztbesuche und Integration mit Einheimischen ist Grundwissen sehr hilfreich."
-  - question: "Welche Griechischkurse gibt es auf Zypern?"
-    answer: "Kostenlose staatliche Kurse (KEPE) — Abendkurse für Erwachsene, beantragen beim Bildungsministerium. Private Sprachschulen: €500–1.500/Semester. Online: Apps (Duolingo) + Privatlehrer (€15–25/Stunde). Für die Einbürgerung: gezielt auf Ελληνομάθεια B1 vorbereiten — Prüfung jährlich im Mai."
+  - question: "Wo kann ich auf Zypern Griechisch lernen?"
+    answer: "Die Erwachsenenbildungszentren des Bildungsministeriums führen Griechisch für nicht griechischsprachige Erwachsene auf. Die School of Modern Greek der Universität Zypern veröffentlicht Kurspläne und Gebühren. Caritas Cyprus veröffentlicht außerdem ein Anfängercurriculum zum Selbststudium oder für den Unterricht."
+  - question: "Sind staatliche Griechischkurse kostenlos?"
+    answer: "Die Erwachsenenbildungszentren veröffentlichen eine reguläre Jahresgebühr von 55 EUR pro Fach in Stadt und Land, mit niedrigeren Gebühren und Befreiungen für bestimmte Gruppen. Griechisch für türkische Zyprer ist kostenlos; kostenloser Unterricht gilt nicht für alle Bewerber. Prüfen Sie die aktuelle Seite zu Gebühren und Anmeldung."
+  - question: "Welches Griechischniveau ist für die Staatsbürgerschaft nötig?"
+    answer: "Die reguläre Einbürgerung nach Aufenthaltsdauer verlangt B1; bestimmte Absolventen griechischsprachiger Sekundarschulen oder Studiengänge sind vom Nachweis durch ein Sprachzertifikat befreit. Beim qualifizierenden Weg für hochqualifizierte Beschäftigung werden A2 und B1 mit unterschiedlichen Aufenthaltsanforderungen unterschieden. Weitere Voraussetzungen gelten ebenfalls."
 ---
-> **Kurzantwort:** Griechisch lernen ist nicht Pflicht, erleichtert aber den Alltag erheblich. Kostenlose Kurse beim KEPO, B1-Niveau für die Einbürgerung noetig.
 
-Ein vollständiger Leitfaden zum Erlernen der griechischen Sprache auf Zypern: von kostenlosen staatlichen Kursen bis zur Vorbereitung auf Prüfungen für die Einbürgerung. Alle Materialien, Links und Ressourcen an einem Ort.
-
-> **Telegram-Community:**
-> [@cylang](https://t.me/cylang) — Cyprus Greek Language and Culture (7.500+ Mitglieder)
-> Der zentrale Chat für alle, die auf Zypern Griechisch lernen. Hier finden Sie aktuelle Informationen, Empfehlungen für Lehrkräfte, Prüfungstermine und Antworten auf Ihre Fragen.
-
-## Inhalt
-
-1. [Staatliche Griechischkurse](#staatliche-kurse)
-2. [Private Lehrkräfte und Schulen](#private-lehrkräfte)
-3. [Prüfungen für Staatsbürgerschaft und Aufenthaltsgenehmigung](#prüfungen)
-4. [Prüfung zur Geschichte und Kultur Zyperns](#kulturprüfung)
-5. [Materialien zum Selbststudium](#materialien)
-6. [Grammatik und Nachschlagewerke](#grammatik)
-7. [Einbürgerungsgespräch](#einbürgerungsgespräch)
-8. [Beschleunigtes Einbürgerungsverfahren (BCS)](#beschleunigte-einbürgerung)
-
----
+Wählen Sie den Kurs nach Ihrem Ziel: Alltagskommunikation, eine bestimmte Prüfung oder ein Zertifikat für einen Antrag. Die Links unten führen zu den Kursanbietern und zu den offiziellen Anforderungen; prüfen Sie vor der Zahlung, ob gerade ein Kurs beginnt.
 
 ## Welche staatlichen Griechischkurse gibt es?
 
-### LEEKE (ΛΕΕΚΕ)
+Die [Erwachsenenbildungszentren](https://www.moec.gov.cy/epimorfotika/xenes_glosses.html) des Bildungsministeriums führen **Griechisch für nicht griechischsprachige Erwachsene** auf. Nicht jeder Standort bietet jede Stufe an.
 
-**Griechisch-Schulen bei den Gemeindeverwaltungen** — die günstigste Option für Anfänger.
+Die [veröffentlichte Seite zu Anmeldung und Gebühren](https://www.moec.gov.cy/epimorfotika/engrafes_didaktra.html), geprüft am **3. Oktober 2026**, gibt an:
 
-**Kosten:** von **€10 bis €400** pro Jahr (je nach Gemeinde und Niveau)
+- Die reguläre Jahresgebühr beträgt **55 EUR pro Fach** in Stadt und Land; in Gemeinden mit weniger als 500 Einwohnern beträgt sie **27,50 EUR**.
+- Für bestimmte Gruppen gelten niedrigere Gebühren und Befreiungen. Griechisch für türkische Zyprer ist kostenlos; das macht nicht alle Griechischkurse für alle Bewerber kostenlos.
+- Die Anmeldung erfolgt online im September und Oktober, getrennt für jedes Fach. Die Kurse finden nur statt, wenn die nötige Teilnehmerzahl erreicht wird.
+- Die Gebühren werden nach Kursbeginn online nach den Zahlungshinweisen des Programms bezahlt.
 
-**Vorteile:**
-- Niedrige Kosten oder kostenlos
-- In jeder Stadt verfügbar (Nikosia, Limassol, Paphos, Larnaka)
-- Verschiedene Niveaustufen (von A1 bis B2+)
-- Offizielle Zertifikate
-- Gruppenunterricht
+Nutzen Sie die offizielle Seite für Ihren Kurs, Ihren Ort und die Unterlagen für Ermäßigungen.
 
-**So melden Sie sich an:**
-- Wenden Sie sich an die Gemeindeverwaltung Ihrer Stadt
-- Die Anmeldung öffnet in der Regel im **September** (Beginn des Schuljahres)
-- Zusätzliche Aufnahmen sind im Laufe des Jahres möglich
+## Was bietet die Universität Zypern?
 
-**Informationen:**
-- Aktuelle Anmeldetermine und Kontakte — im Telegram-Chat [@cylang](https://t.me/cylang)
-- Die Niveaustufen entsprechen dem europäischen Referenzrahmen CEFR (A1, A2, B1, B2)
+Die [Kursseite der School of Modern Greek](https://www.ucy.ac.cy/mogr/courses-applications/courses-applications/) führt Stufen von A1 bis C2 auf und veröffentlicht die Unterrichts- und Prüfungsregeln jedes Programms.
 
-### Weitere staatliche Programme
+**Beispiel mit Datum: Intensivprogramm Frühjahr 2027, wie am 3. Oktober 2026 veröffentlicht (die Anmeldefrist ist inzwischen abgelaufen; den nächsten Kurs finden Sie auf der Seite des Anbieters).** Der Unterricht ist vom **11. Januar bis 9. April 2027** geplant, mit **156 Unterrichtsstunden**, montags bis donnerstags **18:00–21:00 Uhr**. Für die aufgeführten Stufen gibt es Präsenz- oder Online-Optionen.
 
-**Caritas Cyprus** — kostenlose Kurse für Neuankömmlinge:
-- 8-wöchiges Programm „Greek for Newcomers"
-- Niveau Pre-A1
-- 16 thematische Lektionen
-- Videos mit Vergleich zwischen Standardgriechisch und zypriotischem Dialekt
+| Punkt | Veröffentlichte Bedingungen dieses Programms |
+| --- | --- |
+| Anmeldung | 25 EUR pro Stufe, nicht erstattbar |
+| Kursgebühr | 500 EUR pro Stufe, nicht erstattbar |
+| Bücher | 27–30 EUR |
+| Anmeldefrist | 7. Oktober 2026, 10:00 Uhr Zypernzeit (abgelaufen) |
+| Abschlussprüfungen | 12.–16. April 2027, in Präsenz, auch für Online-Studierende |
 
-**University of Cyprus** — offizielle Kurse:
-- Anerkannte Zertifikate
-- Verschiedene Niveaustufen
-- Prüfungsvorbereitung
+Für diesen Kurs war die Zahlung der Kursgebühr nach der Einstufungsprüfung für den **19.–23. Oktober 2026** vorgesehen. Anwesenheit ist Pflicht: Mehr als sechs Fehltage nehmen das Recht auf die Abschlussprüfung und das Zertifikat. Für Online-Teilnahme sind ein Computer mit aktiver Kamera und aktivem Mikrofon nötig. Ein Kurs findet nur statt, wenn die erforderlichen **15–22 angemeldeten, zahlenden Studierenden** erreicht sind; der Vorrang richtet sich nach abgeschlossener Anmeldung und Zahlung.
 
----
+Das sind die Bedingungen dieses Programms, kein allgemeiner Preis und kein allgemeiner Zeitplan für alle Universitätskurse. Prüfen Sie die Seite des Anbieters vor der Anmeldung erneut.
 
-## Welche privaten Lehrkräfte und Schulen gibt es?
+## Welches Griechischzertifikat braucht man für die Staatsbürgerschaft?
 
-### Empfohlene Lehrkräfte
+Die [M127-Anleitung zur Einbürgerung](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/) des Innenministeriums unterscheidet die Wege:
 
-Eine Liste geprüfter Lehrkräfte wird regelmäßig im Telegram-Chat [@cylang](https://t.me/cylang) aktualisiert.
+- **Reguläre Einbürgerung nach Aufenthaltsdauer:** Griechisch auf **B1**. Die Anleitung befreit Inhaber eines anerkannten Sekundarschulabschlusses mit überwiegend griechischem Unterricht oder eines Abschlusses aus einem griechischsprachigen Studiengang von der Pflicht, die Sprache durch ein Zertifikat nachzuweisen.
+- **Qualifizierender Weg für hochqualifizierte Beschäftigung:** **A2 oder B1** mit anderen Aufenthaltsanforderungen. Zusätzlich zur gesonderten Anforderung von 12 Monaten ununterbrochenem Aufenthalt müssen die vorangegangenen zehn Jahre mindestens vier Jahre mit A2 oder drei Jahre mit B1 enthalten. Die offiziellen Abwesenheitsregeln und weitere Voraussetzungen gelten; ein Sprachzertifikat allein begründet keinen Anspruch.
 
-**Wo suchen:**
-- Im Chat [@cylang](https://t.me/cylang) — Lehrkräfte bieten ihre Dienste an
-- Empfehlungen von Community-Mitgliedern
-- Bewertungen einzelner Lehrkräfte
+Für die reguläre Einbürgerung nennt die Anleitung Zertifikate des **Zentrums für die griechische Sprache** über den Prüfungsdienst des Bildungsministeriums oder der **School of Modern Greek der Universität Zypern**. Prüfen Sie, welches Zertifikat Ihr eigener Antrag verlangt, und gehen Sie nicht davon aus, dass jede Kursbescheinigung akzeptiert wird.
 
-**Worauf Sie achten sollten:**
-- Erfahrung in der Vorbereitung auf A2/B1-Prüfungen
-- Kenntnisse des zypriotischen Dialekts (nützlich für das Alltagsleben)
-- Flexibler Unterrichtsplan
-- Kosten (in der Regel €20–50 pro Stunde)
+Prüfen Sie bei Aufenthaltsanträgen die Anforderungen Ihrer Genehmigungskategorie, bevor Sie eine Prüfung wählen.
 
-### Private Sprachschulen
+## Wo werden Prüfungstermine und Übungsaufgaben veröffentlicht?
 
-**Vorteile:**
-- Individueller Ansatz
-- Flexibler Zeitplan
-- Intensivkurse
-- Prüfungsvorbereitung
+Die [Ankündigungen des Zentrums für die griechische Sprache](https://www.greek-language.gr/certification/news/index.html) veröffentlichen Prüfungs- und Anmeldetermine. Prüfen Sie Termin und Prüfungszentrum. Zum Beispiel war der angekündigte Termin im Oktober 2026 auf Zentren in Griechenland beschränkt und nannte berufsbezogene A2-Prüfungen und B1-Prüfungen.
 
-**Nachteile:**
-- Höhere Kosten (€500–2.000+ pro Kurs)
-- Reputation muss überprüft werden
+Die [offizielle Sammlung von Übungsaufgaben](https://www.greek-language.gr/certification/node/12.html) des Zentrums enthält A2- und B1-Aufgaben zu Lesen, Schreiben, Hören und Sprechen, mit Audiomaterial und Videos zur mündlichen Prüfung. Nutzen Sie die Beispiele für Ihr Zielniveau.
 
----
+Für Kurse der Universität Zypern und ihre Abschlussprüfungen nutzen Sie den [Programmplan](https://www.ucy.ac.cy/mogr/courses-applications/courses-applications/). Die Pflicht zur Präsenzprüfung spielt auch bei der Wahl eines Onlinekurses eine Rolle.
 
-## Welche Prüfungen brauche ich?
+## Was ist die Prüfung zu politischem und gesellschaftlichem Wissen für die Staatsbürgerschaft?
 
-### A2- und B1-Prüfungen
+Die M127-Anleitung verlangt ausreichende Kenntnisse der **Grundelemente der heutigen politischen und gesellschaftlichen Wirklichkeit Zyperns**. Der veröffentlichte Nachweis ist ein Zertifikat mit **mindestens 60 %** in der Prüfung des Prüfungsdienstes des Bildungsministeriums.
 
-Für die **Staatsbürgerschaft** oder die **langfristige Aufenthaltsgenehmigung (LTRP)** ist ein Griechisch-Zertifikat erforderlich.
-
-**Erforderliche Niveaus:**
-- **A2** — Grundniveau (für die meisten Fälle ausreichend)
-- **B1** — Schwellenniveau (Mittelstufe)
-
-**Wo kann die Prüfung abgelegt werden:**
-
-**1. Einheitliche Griechisch-Prüfung (Ελληνομάθεια)**
-- Findet im **Mai** statt
-- Veranstalter: Zentrum für Griechische Sprache (Griechenland)
-- Wird für Staatsbürgerschaft und LTRP anerkannt
-- Anmeldung öffnet **mehrere Monate** vor der Prüfung
-
-**2. Prüfung der Universität Zypern**
-- Findet im **Dezember–Januar** statt
-- Veranstalter: University of Cyprus
-- Wird ebenfalls für alle Zwecke anerkannt
-
-**Prüfungsaufbau:**
-1. **Reading** (Lesen) — Textverständnis
-2. **Writing** (Schreiben) — Texterstellung
-3. **Listening** (Hörverständnis) — Verständnis gesprochener Sprache
-4. **Speaking** (Sprechen) — mündlicher Teil
-
-**Vorbereitung:**
-- Materialien vergangener Prüfungen (siehe Abschnitt [Materialien](#materialien))
-- Vorbereitungskurse (LEEKE oder private Lehrkräfte)
-- Übung mit Muttersprachlern
-
-**Ergebnisse:**
-- Werden **einige Monate** nach der Prüfung mitgeteilt
-- Das Zertifikat ist gültig für die Dokumenteneinreichung
-
-> Siehe auch den Artikel [Griechisch-Prüfung für die zyprische Staatsbürgerschaft](/de/immigration/greek-language-exam-citizenship/)
-
----
-
-## Was ist die Kultur-Prüfung?
-
-### Für die Staatsbürgerschaft
-
-Neben der Sprachprüfung ist für die Einbürgerung eine **Prüfung zur Geschichte und Kultur Zyperns** erforderlich.
-
-**Wichtig:** Die Anmeldung zur Kulturprüfung öffnet in der Regel am **16. Dezember**.
-
-**Was wird abgefragt:**
-- Geschichte Zyperns
-- Kulturelle Traditionen
-- Aktuelle Staatsordnung
-- Wichtige Daten und Ereignisse
-
-**Vorbereitung:**
-- Materialien sind im Telegram-Chat [@cylang](https://t.me/cylang) verfügbar
-- Es wird empfohlen, 3–6 Monate vor der Prüfung mit der Vorbereitung zu beginnen
-
-**Anmeldung:**
-- Achten Sie auf Ankündigungen in [@cylang](https://t.me/cylang)
-- Anmeldung öffnet in der Regel im Dezember
-- Die Plätze sind begrenzt
-
----
+Nutzen Sie den [Prüfungsdienst](https://www.moec.gov.cy/ypexams/) für die jeweilige Ankündigung und die Anmeldehinweise. Die Anmeldetermine werden für jeden angekündigten Termin festgelegt.
 
 ## Welche Materialien gibt es zum Selbststudium?
 
-### Alle Materialien herunterladen
+- **[Caritas Cyprus: Greek for Newcomers](https://caritascyprus.org/greek-for-newcomers/)** veröffentlicht ein achtwöchiges **Pre-A1-Curriculum** mit **16 Themenlektionen** und Videos, auch in Standardgriechisch und im zyprischen Dialekt. Es ist ein Lehr- und Selbststudienmaterial; die Seite belegt nicht, dass derzeit ein kostenloser Präsenzkurs offen ist.
+- **[Language Transfer: Complete Greek](https://www.languagetransfer.org/greek)** bietet Audiolektionen über Player, App, SoundCloud und YouTube sowie einen Download der Audiodateien.
+- **[Offizielle Prüfungsbeispiele](https://www.greek-language.gr/certification/node/12.html)** lassen Sie das Format der angestrebten Zertifikatsprüfung üben.
 
-**[Lernmaterialien im Telegram-Chat @cylang finden](https://t.me/cylang)**
+Bitten Sie bei einer privaten Lehrkraft oder Schule um ein schriftliches Angebot, die Länge der Stunde, die Gruppengröße, die Stornobedingungen und Erfahrung mit Ihrer Zielprüfung. Fragen Sie vor der Buchung nach einer Probestunde.
 
-Verfügbare Materialien:
-- Materialien vergangener Prüfungen (A2, B1, B2)
-- Grammatische Nachschlagewerke
-- Lehrmaterialien
-- Nützliche Dateien für das Selbststudium
+## Wie plane ich mein Lernen?
 
-### Materialien vergangener Prüfungen
+Das sind Lernvorschläge, keine zugesicherte Dauer bis A2 oder B1:
 
-**Verfügbar für folgende Niveaus:**
-- **A2** — Grundniveau
-- **B1** — Schwellenniveau
-- **B2** — Fortgeschrittenes Niveau
+1. Legen Sie Ihr Ziel fest und klären Sie das genaue Zertifikat, falls eines nötig ist.
+2. Bitten Sie den Anbieter um einen Einstufungstest und einen realistischen Lernplan.
+3. Verbinden Sie Kurse mit Hör-, Lese-, Schreib- und Sprechübungen.
+4. Üben Sie die offiziellen Prüfungsaufgaben und holen Sie Rückmeldung zu Sprechen und Schreiben ein.
+5. Prüfen Sie Anmeldefristen und Prüfungsort, bevor Sie Reisen buchen oder Gebühren zahlen.
 
-**Was enthalten ist:**
-- Beispielaufgaben zum Lesen
-- Muster schriftlicher Arbeiten
-- Audioaufnahmen zur Vorbereitung auf das Hörverständnis
-- Beispiele mündlicher Aufgaben
-- Antworten und Bewertungskriterien
-
-**Wo zu finden:**
-- Im Telegram-Chat [@cylang](https://t.me/cylang) — in den angehefteten Nachrichten
-
-
-### Lehrbücher und Lernmaterialien
-
-**Empfohlene Reihen:**
-- **„Κλικ" (Klik)** — beliebte Reihe zum Griechischlernen
-- **„Ελληνικά Α"** — für Anfänger
-- **„Επικοινωνήστε Ελληνικά"** — kommunikativer Ansatz
-
-**Wo kaufen:**
-- Buchhandlungen auf Zypern
-- Online-Shops (Amazon, griechische Buchhandlungen)
-- Bibliotheken der Gemeindeverwaltungen
-
-### Online-Ressourcen
-
-**Sprachplattformen:**
-- **Language Transfer** — kostenlose Audiokurse
-- **Γεία χαρά** — interaktive Spiele
-- **Μαθαίνω Ελληνικά** — Lernspiele
-- **ilearngreek** — Online-Plattform
-
-**Wörterbücher:**
-- **Wikipriaka** — Online-Wörterbuch des zypriotischen Dialekts
-- **Syntychies** — Lexikondatenbank des zypriotischen Dialekts
-- **Babla** — mehrsprachiges Wörterbuch
-- **Mini Lexicon** — kompaktes Wörterbuch
-
-**Hinweis zu Duolingo:**
-Duolingo für Griechisch wird für eine ernsthafte Vorbereitung **nicht empfohlen**:
-- Der Kurs ist veraltet und wird schlecht gepflegt
-- Viele Fehler in den Übungen
-- Wird nicht an aktuelle Anforderungen angepasst
-
-**Alternative:** [duome.eu/tips/en/el](https://duome.eu/tips/en/el) — Grammatik, Tabellen, Erklärungen (von der Community ehemaliger Duolingo-Nutzer zusammengestellt)
-
-### YouTube-Kanäle
-
-- Kanäle auf Griechisch zur Übung des Hörverständnisses
-- Videos über zyprische Kultur und Dialekt
-- Grammatiklektionen
-
----
-
-## Welche Grammatik-Nachschlagewerke gibt es?
-
-### Kurzreferenz zur griechischen Grammatik
-
-**[Grammatik-Nachschlagewerk im Telegram-Chat @cylang finden](https://t.me/cylang)**
-
-**Was enthalten ist:**
-- Alphabet und Aussprache
-- Artikel (bestimmt und unbestimmt)
-- Deklination der Substantive
-- Konjugation der Verben
-- Zeiten (Präsens, Vergangenheit, Zukunft)
-- Fälle
-- Deklinations- und Konjugationstabellen
-- Ausnahmen und Sonderfälle
-
-**Ebenfalls verfügbar:**
-- Im Telegram-Chat [@cylang](https://t.me/cylang) — in den angehefteten Nachrichten
-
-
-### Zypriotischer Dialekt
-
-**Besonderheiten des zypriotischen Dialekts:**
-- Unterschiede zum Standardgriechischen
-- Lokale Ausdrücke und Idiome
-- Aussprache
-
-**Ressourcen:**
-- **Cylingo** — Wörterbuch des zypriotischen Dialekts ([cylingo.org](https://cylingo.org/))
-- **Wikipriaka** — Online-Wörterbuch
-- Videos und Materialien im Telegram-Chat
-
----
-
-## Was erwartet mich beim Einbürgerungsgespräch?
-
-### Fragen im Gespräch
-
-Für die Einbürgerung ist ein **Gespräch** mit der Migrationsbehörde erforderlich.
-
-**Typische Fragen:**
-- Über Ihr Leben auf Zypern
-- Über Arbeit und Einkommen
-- Über Ihre Griechischkenntnisse
-- Über Ihr Wissen zur Geschichte und Kultur Zyperns
-- Über Ihre Zukunftspläne
-
-**Vorbereitung:**
-- Eine Liste mit Fragen ist im Telegram-Chat [@cylang](https://t.me/cylang) verfügbar
-- Es wird empfohlen, Antworten im Voraus vorzubereiten
-- Üben Sie auf Griechisch
-
-**Wo finden Sie die Fragen:**
-- In den angehefteten Nachrichten von [@cylang](https://t.me/cylang)
-
-
----
-
-## Was gilt beim beschleunigten Verfahren?
-
-### Gesetz für hochqualifizierte Fachkräfte
-
-Es gibt ein **beschleunigtes Verfahren** zur Einbürgerung für hochqualifizierte Fachkräfte (BCS — Business and Career Scheme).
-
-**Voraussetzungen:**
-- Hohe Qualifikation in bestimmten Bereichen
-- Erhebliches Einkommen
-- Investitionen in die zyprische Wirtschaft
-- **Griechisch-Prüfung** (A2 oder B1) — **ebenfalls erforderlich**
-
-**Wichtig:**
-- Auch beim Fast-Track ist die Griechisch-Prüfung notwendig
-- Dieselben Anforderungen an das Sprachniveau (A2 oder B1)
-- Die Kulturprüfung ist ebenfalls obligatorisch
-
-**Mehr dazu:**
-- Siehe Artikel [Zypriotische Staatsbürgerschaft: Einbürgerung und Fast-Track](/de/immigration/cyprus-citizenship-naturalization/)
-- Informationen im Telegram-Chat [@cylang](https://t.me/cylang)
-
----
-
-## Welche Community-Regeln gelten?
-
-### Chat-Regeln
-
-Der Telegram-Chat [@cylang](https://t.me/cylang) ist eine Community zur gegenseitigen Hilfe. Bitte halten Sie sich an die Regeln:
-
-- **Keine Werbung** — Werbung ohne Genehmigung der Administration ist verboten
-- **Respekt** — seien Sie höflich gegenüber anderen Mitgliedern
-- **Nützlichkeit** — teilen Sie nützliche Informationen
-- **Sperrung bei Verstößen** — bei Spam, Beleidigungen, Regelverletzungen
-
-### Hinweis der Administration
-
-> Wenn Sie Ideen für Sprach- oder Bildungsprojekte haben, aber keine Ressourcen für deren Umsetzung, schreiben Sie der Administration eine Privatnachricht. Vielleicht können wir etwas gemeinsam umsetzen.
-
----
-
-## Welche praktischen Tipps gibt es?
-
-1. **Beginnen Sie frühzeitig** — Sprachenlernen braucht Zeit (6–12 Monate für A2 von Null)
-2. **Nutzen Sie alle Ressourcen** — kombinieren Sie Kurse, Selbststudium und Praxis
-3. **Üben Sie das Sprechen** — viele scheitern am Speaking-Teil der Prüfung
-4. **Schauen Sie zypriotisches Fernsehen** — gewöhnen Sie sich an Akzent und Dialekt
-5. **Finden Sie eine Lerngruppe** — gemeinsam lernt es sich leichter und macht mehr Spaß
-6. **Melden Sie sich rechtzeitig zu Prüfungen an** — die Plätze sind schnell vergeben
-7. **Achten Sie auf die Termine** — die Anmeldung zur Kulturprüfung öffnet am 16. Dezember
-8. **Nutzen Sie die Community** — stellen Sie Fragen in [@cylang](https://t.me/cylang)
-
----
-
-## Wo finde ich nützliche Links?
-
-- **Telegram-Community:** [@cylang](https://t.me/cylang) — Cyprus Greek Language and Culture
-- **Wörterbuch des zypriotischen Dialekts:** [Cylingo](https://cylingo.org/)
-- **Grammatik (Alternative zu Duolingo):** [duome.eu/tips/en/el](https://duome.eu/tips/en/el)
-- **Ministry of Education:** [moec.gov.cy](https://www.moec.gov.cy/en/)
-- **University of Cyprus:** [ucy.ac.cy](https://www.ucy.ac.cy/)
-- **Caritas Cyprus:** [caritascyprus.org](https://caritascyprus.org/)
-
----
-
-## Wo finde ich Lernmaterialien?
-
-**[Alle Lernmaterialien im Telegram-Chat @cylang finden](https://t.me/cylang)**
-
-Die verfügbaren Materialien umfassen:
-- Materialien vergangener Prüfungen (A2, B1, B2)
-- Grammatik-Nachschlagewerk
-- Fragen für das Einbürgerungsgespräch
-- Nützliche Dateien für das Selbststudium
-- Zusätzliche Ressourcen
-
----
-
-*Letzte Aktualisierung: 26. Januar 2026*
-
-*Wenn Sie zusätzliche Materialien oder Ressourcen haben, die in diesen Artikel aufgenommen werden sollten, schreiben Sie uns oder teilen Sie diese im Telegram-Chat [@cylang](https://t.me/cylang).*
-
-**Verwandte Artikel:**
-- [Griechisch-Prüfung für die Staatsbürgerschaft](/de/immigration/greek-language-exam-citizenship/) — Prüfungsdetails, Anmeldung, Vorbereitung
-- [Zypriotische Staatsbürgerschaft: Einbürgerung](/de/immigration/cyprus-citizenship-naturalization/) — der vollständige Prozess
-- [Langfristige Aufenthaltsgenehmigung (LTRP)](/de/immigration/long-term-residence-permit-cyprus/) — Anforderungen inkl. Griechisch-Prüfung
-
----
-
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
-
----
+**Verwandte Artikel:** [Griechischprüfung](/de/immigration/greek-language-exam-citizenship/), [Einbürgerung](/de/immigration/cyprus-citizenship-naturalization/) und [langfristiger Aufenthalt](/de/immigration/long-term-residence-permit-cyprus/).
 
 ## Quellen
 
-- [moec.gov.cy](https://www.moec.gov.cy/en/) — gov.cy
+- [Erwachsenenbildungszentren: Sprachen](https://www.moec.gov.cy/epimorfotika/xenes_glosses.html) und [Anmeldung und Gebühren](https://www.moec.gov.cy/epimorfotika/engrafes_didaktra.html)
+- [Universität Zypern: Kurse und Anmeldung](https://www.ucy.ac.cy/mogr/courses-applications/courses-applications/)
+- [Innenministerium: M127-Anleitung zur Einbürgerung](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/)
+- [Zentrum für die griechische Sprache: Ankündigungen](https://www.greek-language.gr/certification/news/index.html) und [Übungsaufgaben](https://www.greek-language.gr/certification/node/12.html)
+- [Caritas Cyprus: Greek for Newcomers](https://caritascyprus.org/greek-for-newcomers/)
+- [Language Transfer: Complete Greek](https://www.languagetransfer.org/greek)

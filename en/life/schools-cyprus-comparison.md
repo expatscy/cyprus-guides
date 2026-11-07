@@ -3,7 +3,7 @@ slug: "schools-cyprus-comparison"
 title: "Private Schools in Cyprus: Curricula & Fees"
 description: "Compare Island, Trinity, PASCAL, Foley’s, Heritage and American Academy Larnaca using provider curricula, IB authorisations and dated fee schedules."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -35,7 +35,7 @@ This guide summarises published programme information, checked on **3 October 20
 | PASCAL secondary schools in Lefkosia, Larnaka and Lemesos | IB DP listed separately for each school | [IB directory](https://ibo.org/en/programmes/find-an-ib-school/?SearchFields.Country=CY) |
 | Foley's School | Broadly follows the UK National Curriculum, adapted for international pupils; IGCSE and A-level examinations | [School's description](https://foleysschool.com/foleys-school/) |
 | Heritage Private School secondary | IGCSE/GCSE in Years 10–11; GCE AS and A Levels in Years 12–13 | [School's curriculum](https://www.heritageschool.ac.cy/secondary-curriculum) |
-| American Academy Larnaca senior | GCSE/IGCSE in Years 4–5; A Levels in Years 6–7 | [School's curriculum](https://www.academy.ac.cy/senior-school/academics/curriculum/) |
+| American Academy Larnaca senior | GCSE/IGCSE in Years 4–5; A Levels in Years 6–7 (the school’s own year numbering: Key Stages 4 and 5) | [School's curriculum](https://www.academy.ac.cy/senior-school/academics/curriculum/) |
 
 Year numbering differs between providers. Ask how your child's age, prior schooling and subjects map to the proposed class. Check which subjects will actually run and which awarding body issues each qualification.
 
@@ -61,7 +61,7 @@ The schedule excludes uniforms, books except those provided free by the Ministry
 
 [Heritage's secondary curriculum](https://www.heritageschool.ac.cy/secondary-curriculum) describes Key Stage 4 in Years 10–11 ending in IGCSE/GCSE examinations and Key Stage 5 in Years 12–13 ending in GCE AS and A Levels. Ask which subjects and combinations are available for the intended intake.
 
-The name “American Academy” does not establish an American curriculum. The [American Academy Larnaca curriculum](https://www.academy.ac.cy/senior-school/academics/curriculum/) describes GCSE/IGCSE study in Years 4–5 and A Levels in Years 6–7; it also describes its School Apolytirion. This is the Larnaca institution's information, not a statement about every similarly named school.
+The name “American Academy” does not establish an American curriculum. The [American Academy Larnaca curriculum](https://www.academy.ac.cy/senior-school/academics/curriculum/) describes GCSE/IGCSE study in Years 4–5 and A Levels in Years 6–7 (the school’s own numbering, which it labels Key Stage 4 and Key Stage 5, so not comparable with the UK Years 10–13 used for other schools above); it also describes its School Apolytirion. This is the Larnaca institution's information, not a statement about every similarly named school.
 
 ## How should I compare the full cost?
 

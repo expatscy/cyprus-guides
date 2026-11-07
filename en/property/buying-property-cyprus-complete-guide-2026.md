@@ -222,7 +222,6 @@ Source: [CBC RPPI 2025 Q4, page 2](https://www.centralbank.cy/images/media/pdf/R
 ## Sources
 
 - [Department of Lands and Surveys, 2025 annual data](https://portal.dls.moi.gov.cy/en/statistics/) — gov.cy
-- [Department of Lands and Surveys, 2025 annual data](https://portal.dls.moi.gov.cy/en/) — gov.cy
 - [Ministry of Interior — Purchasing Property](https://www.gov.cy/moi/en/purchasing-property/) — gov.cy
 - [VAT Act](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html) — primary legislation
 - [Central Bank of Cyprus — RPPI, 2025 Q4](https://www.centralbank.cy/images/media/pdf/RPPI_2025Q4_ENG.pdf) — Central Bank of Cyprus

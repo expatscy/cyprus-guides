@@ -21,7 +21,7 @@ faqSchema:
   - question: "Until when is temporary protection extended?"
     answer: "Cyprus currently publishes an automatic extension for existing beneficiaries to 4 March 2027. EU Decision 2026/1912, as corrected, extends the following period to 4 March 2028, applying from 5 March 2027. Its separate military-obligation condition applies from 5 August 2026, with an exception for people protected in the same Member State by 4 August 2026 who continuously retain that status there. Check Cyprus implementation notices and your individual documents."
 ---
-> **Short answer:** Temporary protection is for qualifying displaced persons and specified family members. Check eligibility, the corrected EU decision and the current Cyprus instructions separately. Employment and assistance rights have conditions; a general claim of automatic GeSY access is insufficient.
+> **Short answer:** Temporary protection is for qualifying displaced persons and specified family members. Check eligibility, the corrected EU decision and the current Cyprus instructions separately. Employment and assistance rights have conditions; do not assume automatic GeSY access.
 
 The sources below were checked on **3 October 2026**. EU extension dates and national document instructions are distinct.
 

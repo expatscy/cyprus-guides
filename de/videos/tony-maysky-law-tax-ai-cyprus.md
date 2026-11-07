@@ -1,7 +1,7 @@
 ---
 type: "videos"
 title: "Tony Maysky: Recht, Steuern und KI auf Zypern"
-description: "Startup-Jurist Tony Maysky (ex-Sumsub, Mitgründer von Point Legal) über Verträge, Legal AI, steuerfreie Anteilsgewinne auf Zypern und Aktienoptionen, mit dem Gesetz 2026 erklärt."
+description: "Startup-Jurist Tony Maysky (ex-Sumsub, Mitgründer Point Legal) über Verträge, Legal AI, steuerfreie Anteilsgewinne auf Zypern und Aktienoptionen, Gesetz 2026."
 slug: "tony-maysky-law-tax-ai-cyprus"
 date: "2026-05-29"
 author: "Katerina Bletsch"
@@ -56,7 +56,7 @@ Für Zypern ist das keine Theorie. Laut Tony gilt hier englisches Recht, und Inv
 
 ## Zypern für Gründer: was Tony sagt und was das Gesetz sagt
 
-Tony hat etwa anderthalb Jahre auf Zypern gelebt. Seinen Worten nach war Zypern früher eine Offshore-Zone und gilt heute nicht mehr als solche, weil die Steuern hier nicht null sind wie auf den Kaimaninseln. Dann nennt er mehrere Sätze. Wir haben sie mit dem Gesetz 2026 abgeglichen:
+Seinen Worten nach war Zypern früher eine Offshore-Zone und gilt heute nicht mehr als solche, weil die Steuern hier nicht null sind wie auf den Kaimaninseln. Dann nennt er mehrere Sätze. Wir haben sie mit dem Gesetz 2026 abgeglichen:
 
 | # | Was Tony sagt | Was heute im Gesetz steht |
 |---|---|---|

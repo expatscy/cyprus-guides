@@ -3,7 +3,7 @@ slug: "cost-of-living-cyprus-vs-uk"
 title: "Cost of Living: Cyprus vs UK (2026)"
 description: "Compare living costs in Cyprus and the UK: rent, council tax, NHS vs GESY, groceries, transport. Monthly budgets for London vs Limassol and Paphos."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -17,7 +17,7 @@ draft: false
 translationKey: "cost-of-living-comparison-home"
 faqSchema:
   - question: "Is Cyprus cheaper than the UK?"
-    answer: "Overall, yes — especially compared to London and the South East (30-50% savings). Compared to UK regional towns, costs are roughly similar. The biggest savings: rent, council tax (virtually nil), and eating out. The biggest extra cost: you need a car."
+    answer: "Overall, yes — especially compared to London and the South East (25-45% savings). Compared to UK regional towns, costs are roughly similar. The biggest savings: rent, council tax (virtually nil), and eating out. The biggest extra cost: you need a car."
   - question: "How much do I need to retire comfortably in Cyprus?"
     answer: "A couple in Paphos can live comfortably on 2,000-2,800 EUR/month. The full UK State Pension (~1,070 EUR/month) covers basic costs. Add private income or savings for a higher standard of living."
   - question: "Is the UK State Pension uprated in Cyprus?"
@@ -25,7 +25,7 @@ faqSchema:
   - question: "What is the biggest hidden cost of moving to Cyprus?"
     answer: "A car. If you currently live in London without one, add 200-350 EUR/month for running a car in Cyprus. Also budget for summer electricity (air conditioning can push bills to 200-250 EUR/month in July-August)."
 ---
-> **Short answer:** Cyprus is 25-40% cheaper than the UK overall. Rent is 30-50% lower outside Limassol, groceries are 10-15% cheaper, and dining out costs roughly half. But cars and petrol cost more than in the UK.
+> **Short answer:** Compared with London and the South East, Cyprus is about 25-45% cheaper overall (about 25% in Limassol, about 45% in Paphos, by the budget tables below); against the UK average, costs are roughly similar. Rent is 40-65% lower than central London, groceries are broadly similar, and dining out is about 15-25% cheaper. You need a car in Cyprus, which adds running costs.
 
 
 Cyprus has long been one of the top destinations for British expats — roughly 60,000 UK nationals live here, concentrated in Paphos and Limassol. But how do the actual costs compare? Here is a side-by-side breakdown of what you will spend in Cyprus versus what you are used to paying in the UK. For standalone Cyprus prices, see our [complete cost of living guide](/en/life/cost-of-living-cyprus-complete-guide/) or the [monthly budget breakdown with April 2026 prices](/en/life/cost-of-living-cyprus-2026/).
@@ -143,14 +143,14 @@ This is where Cyprus is more expensive — and fundamentally different.
 |-----|-----|--------|
 | Income tax (top rate) | 45% (over £125,140) | 35% (over €72,000) |
 | Tax-free allowance | £12,570 | €22,000 (from 2026) |
-| Capital gains tax | 10–20% | 0% on securities; 20% on Cyprus property |
-| Dividend tax | 8.75–39.35% | SDC 5%; non-dom exempt for 17 years |
+| Capital gains tax | 18% or 24% | 0% on securities; 20% on Cyprus property |
+| Dividend tax | 10.75–39.35% | SDC 5%; non-dom exempt for 17 years |
 | VAT | 20% | 19% |
 | Social Insurance (employee) | 8–13.25% (NI) | 8.8% (SI) + 2.65% (GESY) |
 
 *Sources: GOV.UK, Cyprus Tax Department, early 2026.*
 
-**For retirees:** Foreign pension income is taxed at a flat 5% (for amounts above €3,420/year) under Cyprus's special pension regime — significantly lower than UK income tax rates. Combined with no council tax and lower rent, many UK retirees find their purchasing power increases substantially. See [retirement guide](/en/life/retiring-in-cyprus-guide/).
+**For retirees:** Foreign pension income is taxed at a flat 5% (for amounts above €5,000/year) under Cyprus's special pension regime ([Income Tax Law, section 20](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html)) — significantly lower than UK income tax rates. Combined with no council tax and lower rent, many UK retirees find their purchasing power increases substantially. See [retirement guide](/en/life/retiring-in-cyprus-guide/).
 
 ## What do monthly budgets look like side by side?
 
@@ -180,7 +180,7 @@ This is where Cyprus is more expensive — and fundamentally different.
 | Entertainment | €150–250 | €150–300 |
 | **Total** | **€1,950–2,870** | **€1,940–3,185** |
 
-**Bottom line:** A couple living in Paphos will spend roughly the same or less than a UK Midlands town — but with 340 days of sunshine, sea access, and a strong expat community. Compared to London or the South East, savings of 30–50% are realistic.
+**Bottom line:** A couple living in Paphos will spend roughly the same or less than a UK Midlands town — but with long sunny summers, sea access, and a strong expat community. Compared to London or the South East, savings of 25–45% are realistic.
 
 ## What should I factor in before moving?
 
@@ -189,12 +189,12 @@ This is where Cyprus is more expensive — and fundamentally different.
 3. **Car is essential** — Budget for buying or importing a car. No rail network, limited buses.
 4. **Summer electricity** — Air conditioning can push bills to €200–250/month in July–August. An inverter AC unit saves up to 40%.
 5. **Community** — Paphos has the largest British community. English is widely spoken in shops, hospitals, and government offices.
-6. **Quality of life** — 340 days of sunshine, low crime, clean air, slower pace. For retirees especially, the lifestyle improvement is the biggest return on your move.
+6. **Quality of life** — long sunny summers, low crime, clean air, slower pace. For retirees especially, the lifestyle improvement is the biggest return on your move.
 
 ## What are the frequently asked questions?
 
 **Is Cyprus cheaper than the UK?**
-Overall, yes — especially compared to London and the South East (30–50% savings). Compared to UK regional towns, costs are roughly similar. The biggest savings: rent, council tax (virtually nil), and eating out. The biggest extra cost: you need a car.
+Overall, yes — especially compared to London and the South East (25–45% savings). Compared to UK regional towns, costs are roughly similar. The biggest savings: rent, council tax (virtually nil), and eating out. The biggest extra cost: you need a car.
 
 **How much do I need to retire comfortably in Cyprus?**
 A couple in Paphos can live comfortably on €2,000–2,800/month. The full UK State Pension (~€1,070/month) covers basic costs. Add private income or savings for a higher standard of living.
@@ -224,5 +224,6 @@ Have questions? Join our community: [Telegram](https://t.me/expatscy) | [Faceboo
 
 ## Sources
 
+- [Capital Gains Tax rates](https://www.gov.uk/capital-gains-tax/rates) and [tax on dividends](https://www.gov.uk/tax-on-dividends) — GOV.UK, checked 2026-11-07
 - [Eurostat — Comparative Price Levels](https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind/default/table?lang=en) — European Commission
 - [CyStat — CPI](https://www.cystat.gov.cy/en/SubthemeStatistics?id=41) — gov.cy

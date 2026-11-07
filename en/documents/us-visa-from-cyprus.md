@@ -3,7 +3,7 @@ slug: "us-visa-from-cyprus"
 title: "US Visa from Cyprus: Embassy and Interview"
 description: "American B1/B2 visa from Cyprus: US Embassy in Nicosia, DS-160, interview tips, and what to expect as a non-US resident."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Documents"
 author: "Expats Cyprus"
 translationKey: "viza-usa-amerika-s-kipra"
@@ -26,9 +26,7 @@ US visa applications based on Cyprus residence require proof of that residence. 
 > **Official Sources:**
 > - [U.S. Embassy Cyprus — Visas](https://cy.usembassy.gov/visas/) — Visa Information
 > - [U.S. Embassy Cyprus — appointment instructions](https://cy.usembassy.gov/visas/) — check the current booking provider
-> - [Visa Appointment Service](https://cy.usembassy.gov/visas/) — Interview Booking
 > - [Tourism & Business Visas](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) — B1/B2 guidance
-> - Support contacts: use the current Embassy visa page
 
 ## What do I need to know?
 
@@ -94,17 +92,11 @@ Applicants who are not Cypriot citizens may apply on the basis of Cyprus residen
 
 ## What special considerations apply?
 
-### Case-Specific Processing
-
-- Some cases require **additional administrative processing** after the interview
-- Its duration depends on the individual case
-- Do not use an undated nationality-based estimate to plan travel
-
 ### Administrative Processing
 
-Some applications go for **additional review**:
+Some cases require **additional administrative processing** after the interview:
 
-- There is no fixed published duration for an individual case
+- There is no fixed published duration for an individual case, so do not use an undated nationality-based estimate to plan travel
 - Follow the consulate’s instructions about passport retention or return
 
 ## What if my application is rejected?
@@ -183,4 +175,5 @@ Additional documents may be requested to establish your visit purpose, intent to
 - [U.S. Department of State: adjudicating niv applicants in their country of residence](https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html)
 - [U.S. Department of State: global visa wait times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html)
 - [U.S. Department of State: administrative processing information](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/administrative-processing-information.html)
-- [U.S. Embassy Nicosia: official address](https://travel.state.gov/en/international-travel/travel-advisories/cyprus.html)
+- [U.S. Embassy Cyprus: contact us](https://cy.usembassy.gov/contact/) (address checked 2026-11-07)
+- [U.S. Department of State: Cyprus travel advisory](https://travel.state.gov/en/international-travel/travel-advisories/cyprus.html)

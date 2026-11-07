@@ -1,9 +1,9 @@
 ---
 slug: "paphos-stadtteile-guide-2026"
-title: "Paphos 2026: Stadtteile, Preise, für wen"
-description: "Stadtteil-Guide Paphos: Miete, Schulen, deutsche Community. Welcher Stadtteil für Rentner, Familien, Auswanderer. Echte Preise 2026."
+title: "Paphos Stadtteile: Mieten und Preise 2026"
+description: "Stadtteil-Guide Paphos: Miete ab 600 €, Schulen, britische und deutsche Gemeinde. Welcher Stadtteil für Rentner, Familien, Remote-Worker. Preise April 2026."
 date: 2026-04-09
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -11,371 +11,355 @@ tags:
   - Stadtteile
   - Miete
   - Leitfaden
-  - Auswandern
   - Rentner
-  - Deutsche-Community
+  - Familien
+  - Remote-Arbeit
+  - Briten
 draft: false
 translationKey: "paphos-city-guide-2026"
 faqSchema:
   - question: "Was kostet die Miete in Paphos 2026?"
-    answer: "1-Zimmer: ab 600 EUR (Emba) bis 1.200 EUR (Coral Bay). 2-Zimmer: ab 800 EUR (Emba) bis 4.000 EUR (Villa Coral Bay). Paphos ist 40-50% guenstiger als Limassol. Zum Vergleich: 1-Zimmer Limassol Zentrum 1.292 EUR (Numbeo). Quellen: Investropa Jan 2026, Numbeo Maerz 2026."
-  - question: "Gibt es eine deutsche Community in Paphos?"
-    answer: "Ja — Paphos hat die groesste deutsche Community Zyperns (500-1.500 Personen, geschaetzt). Besonders in Peyia und Tala. Deutsche Baeckerei Julias Backstube (Peyia), evangelische Gottesdienste auf Deutsch in Ayia Kyriaki (2. Samstag/Monat, Sept-Juni, 16 Uhr). Stammtische, Wandergruppen, deutsche Vermieter, die deutsche Mietvertragsstandards kennen."
-  - question: "Paphos oder Limassol — was ist besser für deutsche Auswanderer?"
-    answer: "Paphos: 40-50% guenstigere Miete, groesste deutsche Community, ruhiger, Natur (Akamas). Ideal für Rentner, Familien, Remote Worker. Limassol: IT-Hub, Karrierechancen, Nachtleben, kosmopolitischer. Ideal für IT-Fachkraefte und junge Professionals. Viele Deutsche leben in Paphos und pendeln 1-2x pro Woche nach Limassol (65 km, 45-60 Min.)."
-  - question: "Gibt es Direktfluege von Deutschland nach Paphos?"
-    answer: "Ja. Ryanair, Wizz Air und Eurowings fliegen von Berlin, Muenchen, Frankfurt, Duesseldorf, Hamburg, Koeln, Stuttgart und Memmingen nach Paphos (PFO). Flugzeit: 3,5-4 Stunden. Im Winter weniger Verbindungen, aber ganzjaehrig erreichbar. Paphos hat insgesamt 58 Ziele und 17 Airlines."
-  - question: "Welcher Stadtteil in Paphos ist am besten für deutsche Rentner?"
-    answer: "Tala (Huegel, Meerblick, britische/deutsche Community, 900-1.500 EUR) oder Chloraka (ruhig, Kueste, 750-950 EUR). Beide haben etablierte Expat-Infrastruktur. Fuer Familien: Coral Bay/Peyia (TLC-Schule, Julias Backstube, 1.200-1.600 EUR). Budget: Emba (600-800 EUR) oder Geroskipou (750-950 EUR, Krankenhaus nah)."
+    answer: "Ein Schlafzimmer: ab 600 € (≈£515) (Emba) bis 1.600 € (≈£1.375) (Coral Bay). Zwei Schlafzimmer: ab 800 € (≈£690) (Emba) bis 4.000 € (≈£3.440) (Villa, Coral Bay). Paphos ist in der Regel günstiger als Limassol, besonders außerhalb der Premium-Strandlagen. Quellen: Investropa Januar 2026, Numbeo März 2026."
+  - question: "Wer lebt in Paphos?"
+    answer: "Paphos ist die internationalste Stadt Zyperns: 40 % der Bevölkerung sind keine Zyprer (Volkszählung 2021). Hier lebt die größte britische Gemeinde der Insel (rund 25.000), dazu eine bedeutende deutsche Gemeinde und kleinere russischsprachige und israelische Gruppen. Wichtigste Expat-Gegenden: Kato Paphos, Chloraka, Tala, Peyia (Coral Bay)."
+  - question: "Paphos oder Limassol: was soll ich wählen?"
+    answer: "Paphos: meist günstigere Miete, ruhiger, Natur (Akamas-Halbinsel), Direktflüge in viele britische Städte. Am besten für Rentner, Remote-Worker und Familien. Limassol: IT-Zentrum, Karrierechancen, Nachtleben, größere russischsprachige und israelische Gemeinden. Am besten für junge Berufstätige und Tech-Fachleute."
+  - question: "Gibt es internationale Schulen in Paphos?"
+    answer: "Ja: ISOP (5.500–9.000 € pro Jahr, ≈£4.730–7.740, britischer Lehrplan), Aspire (4.500–7.500 €, ≈£3.870–6.450), TLC in Peyia (5.000–8.500 €, ≈£4.300–7.310), Lumio (4.000–6.500 €, ≈£3.440–5.590). Die Gebühren können niedriger sein als bei vergleichbaren Schulen in Limassol, aber vergleichen Sie jede Schule direkt."
+  - question: "Welcher Stadtteil in Paphos ist am besten für britische Rentner?"
+    answer: "Chloraka (750–950 € im Monat, ≈£645–815, ruhig, nah an der Küste) oder Tala (900–1.500 €, ≈£775–1.290, Aussicht von der Anhöhe, anglikanische Kirche, etablierte britische Gemeinde). Beide haben starke britische Infrastruktur: Pubs, Quizabende, Wandergruppen. Die volle britische Staatsrente (etwa £960 im Monat) deckt die Miete in Chloraka mit etwas Rest."
 ---
-> **Kurzantwort:** Paphos ist beliebt bei Rentnern und Briten. Kato Paphos für Strandleben, Tala für Ruhe, Chloraka für guenstigere Mieten.
+> **Kurzantwort:** Die besten Stadtteile in Paphos für Expats sind Kato Paphos (Touristenzone, zu Fuß erreichbar), Chloraka (Zentrum der britischen Expats, günstig) und Tala (am Hang, ruhig). Eine Wohnung mit einem Schlafzimmer kostet in den meisten Vierteln 600–1.200 € im Monat (in Coral Bay bis 1.600 €).
 
-Paphos ist die beliebteste Stadt Zyperns für deutsche Auswanderer und Rentner — und das aus gutem Grund. **40% der Bevoelkerung sind Auslaender** (Volkszaehlung 2021), die Mieten liegen **40-50% unter Limassol**, und die Natur (Akamas-Halbinsel, Avakas-Schlucht, Weinberge) erinnert eher an die Algarve als an eine Mittelmeerinsel. Wer nach Mallorca oder Teneriffa schaut, sollte Paphos mit auf die Liste setzen: kleinere deutsche Community als auf den Kanaren, dafuer EU-Recht, keine Grunderwerbsteuer-Ueberraschungen und 15% Koerperschaftsteuer für Unternehmer.
+Paphos ist die Hauptstadt der britischen Expats auf Zypern. **40 % der Bevölkerung sind keine Zyprer** (Volkszählung 2021), und die größte einzelne Gruppe sind Briten: Rund **25.000 britische Staatsangehörige** leben im Bezirk Paphos. Wer nach Limassol geht, sucht eine Karriere. Wer nach Paphos geht, sucht ein Leben.
 
-**Fuer Deutsche besonders wichtig:** Auf Zypern herrscht **Linksverkehr** (wie in Grossbritannien). Lenkrad rechts, überholt wird rechts, im Kreisverkehr im Uhrzeigersinn. Die Umgewoehnung dauert erfahrungsgemaess 1-2 Wochen. Ihr deutscher EU-Fuehrerschein gilt unbegrenzt — kein Umschreiben noetig. Die meisten Mietwagen haben Automatik.
+Für britische Expats bietet Paphos, was kein anderes Mittelmeerziel bietet: eine etablierte englischsprachige Gemeinde, Direktflüge in **viele britische Städte** vom Flughafen Paphos, Mieten, die außerhalb der Premium-Strandlagen meist unter Limassol liegen, und das Gesundheitssystem GESY, das dem NHS entspricht und über das S1-Formular zugänglich ist. Dazu kommen die Akamas-Halbinsel und die Weindörfer, und es entsteht ein Standort für Ruhestand oder Remote-Arbeit, der die Costa del Sol bei Kosten und Gemeinschaft regelmäßig schlägt.
+
+Weitere Städte: [Limassol](/de/life/limassol-stadtteile-guide-2026/), [Larnaca](/de/life/larnaca-stadtteile-guide-2026/), [Nikosia](/de/life/nikosia-stadtteile-guide-2026/). Mehr zu den Kosten: [Lebenshaltungskosten auf Zypern](/de/life/lebenshaltungskosten-zypern-leitfaden/).
 
 > **Datenquellen:**
-> - [Numbeo Paphos, Maerz 2026](https://www.numbeo.com/cost-of-living/in/Paphos) — Preise
-> - [Investropa, Januar 2026](https://investropa.com/blogs/news/paphos-rental) — Miete nach Stadtteilen
-> - [CYSTAT Volkszaehlung 2021](https://www.gov.cy/en/economy-and-finance/census-of-population-and-housing-2021-final-results/) — Bevoelkerung
-> - [FlightConnections PFO](https://www.flightconnections.com/flights-from-paphos-pfo) — Flughafen
+> - [Numbeo Paphos, März 2026](https://www.numbeo.com/cost-of-living/in/Paphos) — Preise
+> - [Investropa, Januar 2026](https://investropa.com/blogs/news/paphos-rental) — Miete nach Stadtteil
+> - [CYSTAT Volkszählung 2021](https://www.gov.cy/en/economy-and-finance/census-of-population-and-housing-2021-final-results/) — Bevölkerung
+> - [FlightConnections PFO](https://www.flightconnections.com/flights-from-paphos-pfo) — Flugverbindungen
 > - [International Schools Database](https://www.international-schools-database.com/in/paphos) — Schulen
 
-## Wie schneidet Paphos im Vergleich ab?
+> **Hinweis zur Währung:** Zum Vergleich der Preise gilt ungefähr **1 € = 0,86 £** (Anfang 2026). Für wichtige Beträge stehen in diesem Guide Pfund-Entsprechungen.
 
-Bevor wir in die Stadtteile einsteigen — warum überhaupt Paphos statt der klassischen deutschen Auswanderer-Ziele?
+## Welche Stadtteile gibt es?
 
-| Kriterium | Paphos | Mallorca | Teneriffa | Algarve |
-|-----------|--------|----------|-----------|---------|
-| Miete 1-Zimmer | 600-1.000 EUR | 800-1.400 EUR | 650-1.100 EUR | 500-900 EUR |
-| Deutsche Community | 500-1.500 | 30.000+ | 10.000+ | 5.000+ |
-| Koerperschaftsteuer | 15% | 25% (ESP) | 25% (ESP) | 21% (POR) |
-| Non-Dom-Regel | Ja (17 Jahre) | Nein | Nein | NHR auslaufend |
-| Rentenbesteuerung | 5% pauschal | Progressiv (ESP) | Progressiv (ESP) | 10% (NHR) |
-| Flugzeit ab DE | 3,5-4 Std. | 2,5 Std. | 4,5 Std. | 3 Std. |
-| EU-Recht | Ja | Ja | Ja | Ja |
-| Sprache Behoerden | Griechisch/Englisch | Spanisch | Spanisch | Portugiesisch |
-| Linksverkehr | **Ja** | Nein | Nein | Nein |
+Paphos ist kleiner und kompakter als Limassol. Die Stadt gliedert sich in die Unterstadt (Kato Paphos: Hafen und Küste) und die Oberstadt (Ktima: die eigentliche Stadt). Darum liegt ein Ring von Vorortdörfern: Chloraka, Tala, Peyia, Emba, Geroskipou. Die meisten britischen Expats wohnen in den Dörfern, nicht im Zentrum.
 
-Paphos ist kleiner und ruhiger als Mallorca, hat weniger Deutsche (Vorteil oder Nachteil — je nach Perspektive), aber steuerlich deutlich attraktiver. Fuer Rentner mit deutscher Rente: 5% pauschal auf Zypern vs. progressive Besteuerung in Spanien.
+### Miete nach Stadtteil (€ pro Monat, 2026)
 
----
+| Stadtteil | 1 Schlafzimmer | 2 Schlafzimmer | Geeignet für | Entsprechung in £ (1 Schlafzimmer) |
+|-----------|----------------|----------------|--------------|------------------------------------|
+| **Kato Paphos** (Hafen) | 800–1.000 | 1.100–1.350 | Wohnen ohne Auto, digitale Nomaden | 690–860 |
+| **Tombs of the Kings** | — | 1.000–1.400 | Premium am Meer | — |
+| **Coral Bay / Peyia** | 1.200–1.600 | 2.000–4.000 (Villen) | Familien, bester Strand | 1.030–1.375 |
+| **Universal** | 750–950 | 950–1.150 | Praktisch, Wohnungen | 645–815 |
+| **Chloraka** | 750–950 | — | Britische Rentner, ruhig | 645–815 |
+| **Tala** | 900–1.500 | 1.100–1.600 | Hügel, Aussicht, etablierte Gemeinde | 775–1.290 |
+| **Geroskipou** | 750–950 | 950–1.150 | Günstig, Krankenhaus in der Nähe | 645–815 |
+| **Emba** | 600–800 | 800–1.050 | Günstigste Option, Dorfleben | 515–690 |
+| **Ktima** (Oberstadt) | mittleres Niveau | — | Echtes Zypern, im Wandel | — |
+| **Kissonerga** | mittleres Niveau | — | Dorf, Entwicklungspotenzial | — |
 
-## Welche Stadtteile hat Paphos?
+Zum Vergleich: **Ein Schlafzimmer im Zentrum von Limassol kostet 1.292 €** (Numbeo), etwa **£1.111**. In Paphos liegt das Gegenstück bei **800–1.000 €** (£690–860). Das spart etwa **£250–420 im Monat**, genug für den Wocheneinkauf.
 
-Paphos ist kompakter als Limassol. Der Ort teilt sich in die Unterstadt (Kato Paphos / Kueste) und die Oberstadt (Ktima / Stadt). Drumherum liegen Dorf-Vororte: Chloraka, Tala, Peyia, Emba, Geroskipou.
-
-### Miete nach Stadtteilen (EUR/Monat, 2026)
-
-| Stadtteil | 1-Zimmer | 2-Zimmer | Fuer wen |
-|-----------|----------|----------|----------|
-| **Kato Paphos** (Hafen) | 800-1.000 | 1.100-1.350 | Touristen, Fussgaenger, junge Leute |
-| **Tombs of the Kings** | — | 1.000-1.400 | Premium am Meer |
-| **Coral Bay / Peyia** | 1.200-1.600 | 2.000-4.000 (Villen) | Familien, bester Strand, **deutsche Community** |
-| **Universal** | 750-950 | 950-1.150 | Praktisch, Wohnungen |
-| **Chloraka** | 750-950 | — | Britische/deutsche Rentner, ruhig |
-| **Tala** | 900-1.500 | 1.100-1.600 | Huegel, Aussicht, Ruhe, **deutsche Community** |
-| **Geroskipou** | 750-950 | 950-1.150 | Budget, Krankenhaus nah |
-| **Emba** | 600-800 | 800-1.050 | Am guenstigsten, Dorf |
-| **Ktima** (Oberstadt) | mittel | — | Gentrifizierung, authentisch |
-| **Kissonerga** | mittel | — | Dorf, Potenzial (Jachthafen?) |
-
-Zum Vergleich: **1-Zimmer im Zentrum von Limassol — 1.292 EUR** (Numbeo). In Paphos das Aequivalent: **800-1.000 EUR**. Ersparnis ~40%.
-
-**Vergleich mit Deutschland:** In Muenchen zahlen Sie 1.200-1.800 EUR für 1-Zimmer im Zentrum, in Frankfurt 1.000-1.500 EUR. Paphos bewegt sich auf Berliner Vorort-Niveau — allerdings ohne Nebenkosten-Umlage (keine "zweite Miete") und mit 340 Sonnentagen. Wer aus Hamburg oder Duesseldorf kommt, spart erheblich.
+> **Britische Rente:** Die volle britische Staatsrente (2025/26: £221,20 pro Woche ≈ £960 im Monat ≈ 1.115 € im Monat) deckt die Miete in Chloraka, Emba, Geroskipou oder Universal, und es bleibt Geld für Lebensmittel und Nebenkosten. Ein Paar mit zwei vollen Staatsrenten (≈£1.920 im Monat, ≈2.230 €) lebt in jedem Stadtteil von Paphos gut, außer in den Premium-Villen in Coral Bay. Mehr zu Ruhestandsbudgets: [Ruhestand auf Zypern](/de/life/ruhestand-zypern-rentner-leitfaden/).
 
 ---
 
-## Was zeichnet die einzelnen Stadtteile aus?
+## Wie sind die Stadtteile im Einzelnen?
 
 ### Kato Paphos (Unterstadt / Hafen)
 
-**Wer lebt hier:** Touristen, junge Expats, digitale Nomaden.
+**Wer wohnt hier:** Touristen, junge Expats, digitale Nomaden.
 
-Uferpromenade mit Restaurants, mittelalterliche Burg, Archaeologischer Park (UNESCO-Welterbe). Zu Fuss leben ist möglich. Im Sommer laut und voll.
+Die Uferpromenade, die mittelalterliche Burg, der Archäologische Park (UNESCO-Welterbe). Restaurants, Bars und Cafés am Hafen. Hier geht es ohne Auto. Die Kings Avenue Mall liegt in Gehweite. Im Sommer ist es voll und laut, etwa wie ein mediterranes Brighton oder Torquay, aber mit besserem Wetter.
 
-**Vorteile:** Alles fusslaefig, Meer, Restaurants, Nachtleben, Kings Avenue Mall in der Naehe.
-**Nachteile:** Sommerlaerm, Touristenpreise in Restaurants, wenig große Supermaerkte.
+**Vorteile:** zu Fuß erreichbar, Promenade, Restaurants, Nachtleben, Kings Avenue Mall in der Nähe.
+**Nachteile:** laut im Sommer, Touristenpreise in den Hafenrestaurants, wenige große Supermärkte.
+
+> **Für digitale Nomaden:** Kato Paphos ist der einzige Teil von Paphos, in dem ein Leben ohne Auto realistisch ist. Cafés, Coworking-Möglichkeiten und die Promenade sind alle zu Fuß erreichbar. Wer in Brighton, Hove oder am Hafen von Bristol remote gearbeitet hat, kennt den Rhythmus: Morgenkaffee am Wasser, Laptop im Café, abends ein Spaziergang an der Promenade.
 
 ### Coral Bay / Peyia
 
-**Wer lebt hier:** Familien mit Kindern, Briten, **Deutsche**.
+**Wer wohnt hier:** Familien mit Kindern, britische und deutsche Expats.
 
-Bester Sandstrand im Raum Paphos. Viele Villen mit Pool. TLC Private School direkt vor Ort. **Julias Backstube** — deutsche Baeckerei (Bestellungen Di/Do/Sa, Brot, Broetchen, Kuchen wie zu Hause). 15-20 Min. vom Zentrum.
+Der beste Sandstrand im Bezirk Paphos. Viele Villen mit Swimmingpool. Hier liegt die Privatschule TLC. Die deutsche Bäckerei Julias Backstube ist eine lokale Institution. 15–20 Minuten vom Zentrum.
 
-Peyia ist einer der beiden Hauptorte der deutschen Community in Paphos. Hier finden Sie Nachbarn, die Deutsch sprechen, und Vermieter, die deutsche Erwartungen an Mietvertraege verstehen.
+**Vorteile:** bester Strand der Gegend, Familienatmosphäre, Schule vor der Tür, eine Villa mit Pool ist (im Vergleich zu Großbritannien) wirklich erschwinglich.
+**Nachteile:** weit vom Zentrum, Auto unverzichtbar, hohe Villenmieten (2.000–4.000 € im Monat, £1.720–3.440).
 
-**Vorteile:** Bester Strand, Familienaethosphaere, deutsche Baeckerei, Schule, Villa mit Pool realistisch.
-**Nachteile:** Weit vom Zentrum, Auto noetig, Villen teuer (2.000-4.000 EUR/Monat).
+> **Vergleich mit Großbritannien:** Eine Villa mit drei Schlafzimmern und privatem Pool in Peyia kostet 2.500–3.500 € im Monat (£2.150–3.010). In Großbritannien bekäme man dafür ein bescheidenes Reihenhaus in den Home Counties oder eine Zweizimmerwohnung in London Zone 3. Für Familien aus dem Südosten Englands bedeutet Coral Bay ein Upgrade der Lebensqualität, das sich in Europa zu diesem Preis kaum wiederholen lässt.
 
 ### Chloraka
 
-**Wer lebt hier:** Britische und deutsche Rentner, ruhige Expats.
+**Wer wohnt hier:** britische Rentner, Ruhesuchende.
 
-Zwischen Kato Paphos und Coral Bay. Stiller Vorort, 5 Min. vom Zentrum. Beliebt bei britischen Pensionaeren. Erschwingliche Preise an der Kueste.
+Zwischen Kato Paphos und Coral Bay. Ein ruhiger Vorort, 5 Minuten vom Zentrum. Der beliebteste Stadtteil bei britischen Rentnern. Günstig an der Küste wohnen, ohne den Touristenlärm von Kato Paphos.
 
-**Vorteile:** Ruhig, zentrumsnah, erschwinglich, Meer nah.
-**Nachteile:** Keine Restaurants/Bars, langweilig für juengere Leute.
+**Vorteile:** ruhig, nah am Zentrum, günstig, nah an der Küste.
+**Nachteile:** kaum Restaurants oder Bars, abends wenig los.
+
+> **Für britische Rentner:** Chloraka ist die Standardwahl für britische Rentner, die in Meeresnähe wohnen wollen, ohne die Preise von Coral Bay zu zahlen. Die volle Staatsrente (£960 im Monat) deckt hier ein Schlafzimmer (750–950 €, £645–815) gut, und es bleiben £145–315 übrig. Viele Bewohner gehen über die Küstenstraße zu Fuß nach Kato Paphos zum Einkaufen und für soziale Kontakte. Wer vorher in einem ruhigen Küstenort in Devon, Dorset oder Nordwales gelebt hat, findet das Tempo vertraut, aber mit garantierter Sonne.
 
 ### Tala
 
-**Wer lebt hier:** Wohlhabende Expats, Briten, **Deutsche**, Rentner.
+**Wer wohnt hier:** wohlhabende Expats, britische und deutsche Rentner.
 
-Dorf auf dem Huegel mit Blick auf Meer und Paphos. Anglikanische Kirche St Stephen's. Beliebt bei Briten und Deutschen. Kuehler im Sommer (Hoehenlage).
+Ein Dorf auf der Anhöhe mit Blick auf das Meer und das darunterliegende Paphos. Hier steht die **anglikanische Kirche St. Stephen**, das Zentrum der britischen Gemeinde der Gegend. Seit Jahrzehnten bei britischen und deutschen Expats beliebt. Im Sommer kühler (wegen der Höhe) und ruhiger als an der Küste.
 
-**Fuer deutsche Rentner besonders interessant:** Tala bietet die Kombination aus Ruhe, Aussicht und internationaler Nachbarschaft, die viele Auswanderer aus dem DACH-Raum schaetzen. Nahe genug am Zentrum für Erledigungen (10 Min. mit dem Auto), weit genug weg für Stille. Die evangelischen Gottesdienste auf Deutsch finden in Ayia Kyriaki (Kato Paphos, 10 Min.) statt — viele Tala-Bewohner fahren regelmaessig hin.
+**Vorteile:** beeindruckende Aussicht, friedlich, starke Gemeinschaft, im Sommer kühler, hochwertige Villen.
+**Nachteile:** Auto unverzichtbar, 10–15 Minuten bis zum Strand, steile Straßen.
 
-**Vorteile:** Aussicht, Ruhe, Community, kuehler bei Hitze, hochwertige Villen.
-**Nachteile:** Auto noetig, kein Strand zu Fuss (10-15 Min.), steile Strassen.
+> **Zentrum der britischen Gemeinde:** In Tala findet ein Großteil des britischen gesellschaftlichen Lebens statt. Die Kirche St. Stephen veranstaltet Kaffeemorgen und Wohltätigkeitsveranstaltungen und ist ein echtes Gemeindezentrum. Wandergruppen treffen sich regelmäßig. Buchclubs, Bridge-Clubs, Quizabende: Wer das Dorfleben in den Cotswolds oder im Lake District mochte, es aber bei 25 statt 5 Grad erleben möchte, ist in Tala richtig. Der Preis: Man muss überallhin fahren.
 
 ### Geroskipou
 
-**Wer lebt hier:** Budget-Expats, Familien, Einheimische.
+**Wer wohnt hier:** Expats mit kleinem Budget, Familien, Einheimische.
 
-Zwischen Paphos und Flughafen. Paphos General Hospital in der Naehe. Lidl, Papantoniou. Erschwingliche Preise.
+Zwischen Paphos und dem Flughafen. Das Allgemeine Krankenhaus Paphos ist in der Nähe, ein praktischer Punkt für Rentner. Lidl, Papantoniou und andere Supermärkte sind leicht zu erreichen. Der praktischste Vorort für alle, denen Bequemlichkeit wichtiger ist als Optik.
 
-**Vorteile:** Guenstig, Krankenhaus nah, Supermaerkte, Flughafennaehe.
-**Nachteile:** Kein Strand zu Fuss (felsige Kueste), wenig Unterhaltung.
+**Vorteile:** günstig, Krankenhaus in der Nähe, Supermärkte, nah am Flughafen.
+**Nachteile:** kein Strand in Gehweite (felsige Küste), wenig Unterhaltung.
+
+> **Praktische Wahl für gesundheitsbewusste Rentner:** Wenn die Nähe zum Krankenhaus wichtig ist, und für viele Rentner ist sie das, liegt in Geroskipou das Allgemeine Krankenhaus Paphos 5 Autominuten entfernt. Ein Schlafzimmer für 750–950 € (£645–815) ist allein mit der Staatsrente machbar.
 
 ### Emba
 
-**Wer lebt hier:** Budget-Expats, zyprische Familien.
+**Wer wohnt hier:** Expats mit kleinem Budget, zypriotische Familien.
 
-Stilles Dorf noerdlich von Paphos. Die guenstigsten Preise im Bezirk. Traditionelle zyprische Atmosphaere.
+Ein ruhiges Dorf nördlich von Paphos. Die niedrigsten Mieten im Bezirk. Traditionelle zypriotische Atmosphäre. Wer maximalen Gegenwert will und die Küstenferne verschmerzen kann, ist hier richtig.
 
-**Vorteile:** Guenstigster Stadtteil, ruhig, authentisch.
-**Nachteile:** Weit vom Meer, wenig Infrastruktur, Auto noetig, wenig Expats.
+**Vorteile:** günstigster Stadtteil, ruhig, echte Dorfatmosphäre.
+**Nachteile:** weit vom Meer, begrenzte Infrastruktur, Auto unverzichtbar, weniger Expats.
+
+> **Spartipp:** Ein Schlafzimmer in Emba für 600–800 € (£515–690) ist die günstigste Option im Raum Paphos. Für ein Paar mit einer einzigen Staatsrente bleibt so spürbar Luft für Lebensmittel, Nebenkosten und Restaurantbesuche. Wer in einer kleinen Marktstadt in den Midlands oder in East Anglia lebte und die Lebenshaltungskosten zu hoch fand, bekommt in Emba deutlich niedrigere Preise bei mehr Sonne.
 
 ### Universal
 
-**Wer lebt hier:** Junge Berufstaetige, Paare, Mieter.
+**Wer wohnt hier:** junge Berufstätige, Paare, Mieter.
 
-Stadtteil mit neuen Wohnkomplexen zwischen Kato Paphos und Ktima. Praktische Wahl für Wohnung statt Villa.
+Ein Viertel mit neueren Wohnanlagen zwischen Kato Paphos und Ktima. Die praktische Wahl, wenn man eine Wohnung statt einer Villa braucht. Moderne Gebäude, mittlere Preise, auf halbem Weg zwischen Meer und Stadt.
 
-**Vorteile:** Moderne Wohnungen, mittlere Preise, zwischen Meer und Stadt.
-**Nachteile:** Gesichtslos, wenig Charakter, wenig Gruen.
+**Vorteile:** moderner Gebäudebestand, mittlere Preise, zwischen Küste und Oberstadt.
+**Nachteile:** charakterlos, keine eigene Viertelidentität, wenig Grün.
 
 ### Ktima (Oberstadt)
 
-**Wer lebt hier:** Zyprische Familien, kreative Expats.
+**Wer wohnt hier:** zypriotische Familien, kreative Expats.
 
-Die eigentliche Stadt: Markt, Cafes, alte Gassen. Gentrifizierung laeuft. Guenstiger als Kueste. Authentisches Zypern.
+Die eigentliche Stadt: Markt, lokale Cafés, enge Gassen. Die Aufwertung hat begonnen. Günstiger als die Küste. Echtes Zypern statt Expat-Zypern. Wer die Altstadt von Margate lieber mag als Marbella, sollte sich Ktima ansehen.
 
-**Vorteile:** Echtes Leben (nicht touristisch), guenstig, Charakter.
-**Nachteile:** Kein Meer, alte Gebaeude, wenig Englisch-/Deutschsprachige.
+**Vorteile:** echtes lokales Leben (nicht touristisch), günstig, Charakter.
+**Nachteile:** kein Meer, ältere Gebäude, weniger Englisch.
 
 ---
 
-## Was ist besser: Paphos oder Limassol?
+## Wie schneidet Paphos im Vergleich zu Limassol ab?
 
-| Kriterium | Paphos | Limassol |
-|-----------|--------|----------|
-| Miete 1-Zimmer | 600-1.000 EUR | 700-2.200 EUR |
-| IT-Jobs | Minimum | Hub (Exness, FxPro, eToro) |
-| Deutsche Community | **Groesste auf Zypern** (500-1.500) | Klein, wachsend |
-| Britische Community | **Groesste** (~25.000) | Vorhanden, kleiner |
-| Natur | **Akamas, Avakas-Schlucht, Weinberge** | Straende, Troodos 1 Std. |
+Das ist für viele britische Expats die zentrale Frage. So unterscheiden sich die beiden Städte:
+
+| Faktor | Paphos | Limassol |
+|--------|--------|----------|
+| Miete 1 Schlafzimmer | 600–1.000 € (£515–860) | 700–2.200 € (£600–1.890) |
+| Tech-/IT-Jobs | Sehr wenige | Zentrum (Exness, FxPro, eToro) |
+| Britische Gemeinde | **Größte Zyperns** (~25.000) | Vorhanden, aber kleiner |
+| Russischsprachige Gemeinde | Klein (~1.900) | **Größte** (~20.000) |
+| Natur | **Akamas, Avakas-Schlucht, Weindörfer** | Stadtstrände, Troodos eine Stunde entfernt |
 | Nachtleben | Bescheiden | Aktiv |
-| Flughafen | PFO (14 UK-Städte, 8 DE-Städte!) | LCA (65 km) |
-| Verkehr | Moderat | **Problem Nr. 1** |
-| Fuer wen | Rentner, Remote Worker, Familien | IT, Karriere, junge Leute |
+| Flughafen | **PFO (Direktflüge in viele britische Städte!)** | LCA (65 km entfernt) |
+| Verkehr | Mäßig | **Beschwerde Nr. 1** |
+| Am besten für | Rentner, Remote-Worker, Familien | IT-Leute, Karriere, junge Berufstätige |
 
-**Pendeln:** Paphos — Limassol: 65 km, ~45-60 Min. auf der Autobahn. Einige Deutsche leben in Paphos und arbeiten 1-2 Tage pro Woche in Limassol.
+> **Die ehrliche Version:** Wer im Ruhestand ist oder remote arbeitet und Lebensqualität über Karriere stellt, für den gewinnt Paphos. Wer einen Job auf der Insel braucht (besonders in Tech oder Finanzen), braucht Limassol. Wer irgendwo dazwischen steht, besucht beide Städte je eine Woche, bevor er entscheidet. Mehr zu Limassol: [Stadtteile von Limassol](/de/life/limassol-stadtteile-guide-2026/).
 
 ---
 
-## Was bietet der Flughafen Paphos?
+## Was sollte ich über den Flughafen Paphos wissen?
 
-**58 Ziele**, 17 Airlines. Fuer Deutsche besonders relevant — **Direktfluege aus 8 deutschen Staedten**:
+Für britische Expats sind die Direktverbindungen nach Großbritannien wohl der größte praktische Vorteil von Paphos gegenüber jeder anderen Stadt der Insel.
 
-| Stadt | Airlines | Flugzeit |
-|-------|----------|----------|
-| **Berlin (BER)** | Ryanair, Wizz Air | 3,5 Std. |
-| **Muenchen (MUC)** | Eurowings, Wizz Air | 3,5 Std. |
-| **Frankfurt (FRA)** | Ryanair | 4 Std. |
-| **Duesseldorf (DUS)** | Eurowings | 4 Std. |
-| **Hamburg (HAM)** | Eurowings | 4 Std. |
-| **Koeln (CGN)** | Eurowings | 4 Std. |
-| **Stuttgart (STR)** | Eurowings | 3,5 Std. |
-| **Memmingen (FMM)** | Ryanair, Wizz Air | 3,5 Std. |
+### Direktflüge in viele britische Städte
 
-Im Winter weniger Verbindungen, aber Paphos bleibt ganzjaehrig erreichbar. Dazu: 14 britische Städte (Gatwick, Manchester, Stansted, Birmingham, Bristol, Leeds, Edinburgh, Glasgow, Newcastle u.a.) und Tel Aviv (ganzjaehrig).
+Gatwick, Manchester, Stansted, Birmingham, Bristol, Leeds Bradford, Edinburgh, Glasgow, Newcastle, Liverpool, East Midlands, Luton, Belfast und Cardiff (saisonal). Zu den Fluggesellschaften gehören easyJet, Ryanair, Jet2, TUI und Wizz Air.
+
+Man kann also für eine Beerdigung, eine Hochzeit oder Weihnachten nach Hause fliegen, ohne in Athen oder Istanbul umzusteigen. Von Limassol fährt man 65 km zum Flughafen Larnaca, der weniger Verbindungen nach Großbritannien hat.
+
+Außerdem: Berlin, München, Frankfurt, Düsseldorf (saisonal). Tel Aviv (ganzjährig). Keine Flüge nach Beirut oder Moskau.
 
 Quelle: [FlightConnections](https://www.flightconnections.com/flights-from-paphos-pfo)
 
 ---
 
-## Was macht Paphos für Rentner attraktiv?
+## Welche britische Infrastruktur gibt es auf Zypern?
 
-Paphos ist Zyperns beliebteste Stadt für Rentner aus dem DACH-Raum. Warum:
+Diesen Abschnitt gibt es für Limassol und die meisten anderen Mittelmeerziele nicht. Er existiert für Paphos, weil die britische Gemeinde hier groß und alt genug ist, um eine eigene Schicht sozialer Infrastruktur aufzubauen.
 
-### Rentenbesteuerung
+### Kirchen
 
-Auslaendische Renten werden auf Zypern **pauschal mit 5% besteuert** (nach einem Freibetrag von 3.420 EUR/Jahr). Alternativ koennen Sie den regulaeren Einkommensteuertarif waehlen (0% bis 22.000 EUR nach der Reform 2026). Das DBA Deutschland-Zypern verhindert Doppelbesteuerung.
+- **[Ayia Kyriaki Chrysopolitissa](https://www.paphosanglicanchurch.org/)** (Kato Paphos) — anglikanische Gottesdienste jeden Sonntag. Das Hauptzentrum.
+- **St Stephen's** (Tala) — anglikanisch. Kaffeemorgen, Gemeindeveranstaltungen, Spendenaktionen.
+- **St Luke's** (Prodromi) — anglikanisch. Kleinere Gemeinde.
 
-**Rechenbeispiel:** Deutsche Rente 1.800 EUR/Monat = 21.600 EUR/Jahr. Abzueglich 3.420 EUR Freibetrag = 18.180 EUR. Davon 5% = **909 EUR Steuer/Jahr** (75,75 EUR/Monat). In Deutschland: je nach Gesamteinkommen deutlich hoeher.
+### Pubs und gesellschaftliches Leben
 
-### Kaufkraft der deutschen Rente in Paphos
+- **Pubs mit Sky Sports**, Sonntagsbraten und Quizabenden in Kato Paphos und Coral Bay. Das ist keine Übertreibung: Man kann jeden Sonntag die Premier League mit einem Pint und einem Braten sehen, bedient von englischsprachigem Personal.
+- Wandergruppen, Buchclubs, Kaffeemorgen, Bridge-Clubs, Wohltätigkeitsveranstaltungen — alles von britischen Einwohnern für britische Einwohner organisiert.
+- **Moufflon Bookshop** (Kinyras Street, seit 1967) — englischsprachige Buchhandlung. Eine Institution in Paphos.
 
-| Posten | Kosten/Monat | Quelle |
-|--------|-------------|--------|
-| Miete 1-Zimmer (Chloraka) | 750-950 EUR | Investropa |
-| Lebensmittel (1 Person) | 350-450 EUR | Numbeo |
-| GeSY-Beitrag (Rentner) | 2,65% der Rente | gesy.org.cy |
-| Strom + Wasser | 80-120 EUR | EAC |
-| Internet (Cyta/Epic) | 30-40 EUR | cyta.com.cy |
-| **Gesamt** | **~1.300-1.600 EUR** | — |
+### Praktische Dienstleistungen auf Englisch
 
-Mit 1.800 EUR deutscher Rente leben Sie in Paphos komfortabel. In Limassol waere die Miete 300-500 EUR hoeher.
+- Immobilienmakler, Anwälte, Buchhalter, Versicherungsmakler und Finanzberater, die vorwiegend mit britischen Kunden arbeiten und Englisch als Muttersprache sprechen.
+- Hausärzte in Privatkliniken, die es gewohnt sind, auf Englisch zu erklären (wichtig für ältere Patienten).
+- Supermärkte führen britische Produkte: Marmite, PG Tips, Bisto, HP Sauce — alles bei Papantoniou und AlphaMega erhältlich.
 
-### GKV vs. GeSY
-
-| Kriterium | GKV (Deutschland) | GeSY (Zypern) |
-|-----------|-------------------|---------------|
-| Beitrag Rentner | ~7,3% + Zusatzbeitrag | 2,65% |
-| Arztwahl | Frei (Hausarzt → Ueberweisung) | Frei (Hausarzt → Ueberweisung) |
-| Wartezeiten | Wochen bis Monate (Fachaerzte) | Vergleichbar |
-| Zuzahlungen | 10 EUR/Quartal, Medikamente | Gering |
-| Private Zusatz | 60-200 EUR/Monat | 60-100 EUR/Monat |
-
-Alle legalen Einwohner haben Anspruch auf GeSY. Registrierung bei [gesy.org.cy](https://www.gesy.org.cy/). Mehr dazu in unserem [GeSY vs. Private Krankenversicherung](/de/life/gesy-vs-private-krankenversicherung-zypern/).
-
-### Wegzugsbesteuerung — vor dem Umzug klaeren
-
-Wer Unternehmensanteile oder Kapitalvermögen haelt: Die deutsche **Wegzugsbesteuerung** (§ 6 AStG) besteuert unrealisierte Gewinne bei Wegzug. Stundung ist innerhalb der EU möglich. **Unbedingt vor dem Umzug** mit einem Steuerberater klaeren, der das DBA Deutschland-Zypern kennt.
+> **Warum das wichtig ist:** Wer Zeit an der Costa del Sol oder an der Algarve verbracht hat, weiß, dass es englischsprachige Dienstleistungen gibt, die aber oft wie ein Anstrich über einem spanisch- oder portugiesischsprachigen System wirken. In Paphos ist die britische Gemeinde groß genug, dass Englisch in vielen Situationen wirklich die Standardsprache ist. Man kann wochenlang auskommen, ohne Griechisch zu sprechen. Ob das gut ist, ist umstritten, aber für Rentner, die mit 70 keine neue Sprache mehr lernen, ist es ein großer praktischer Vorteil.
 
 ---
 
-## Lohnt sich Immobilieninvestment in Paphos?
+## Welche Schulen gibt es?
 
-Fuer Deutsche, die nicht nur mieten, sondern kaufen moechten: Paphos bietet solide Renditen.
+| Schule | Lehrplan | Gebühr pro Jahr (€) | Gebühr pro Jahr (≈£) | Ort |
+|--------|----------|---------------------|----------------------|-----|
+| [ISOP](https://www.isop.ac.cy/) | Britisch, IGCSE, A-Levels | 5.500–9.000 | 4.730–7.740 | Anavargos |
+| [Aspire](https://www.aspireschool.ac.cy/) | Britisch, Pearson Edexcel | 4.500–7.500 | 3.870–6.450 | Stadt Paphos |
+| [TLC](https://www.tlcschool.com/) | Britisch, IGCSE, A-Levels | 5.000–8.500 | 4.300–7.310 | Peyia |
+| [Lumio](https://www.lumioschool.com/) | Britisch (bis 14 Jahre) | 4.000–6.500 | 3.440–5.590 | Acheleia |
+| Erudite | Russisch + IGCSE | ~250 pro Monat | ~215 pro Monat | Paphos |
+| [Morfosis](https://www.morfosisschool.com/) | Russisch + Englisch/Griechisch | auf Anfrage | — | Tetidos 4 |
 
-- **Preiswachstum**: +12,9% pro Jahr im Bezirk Paphos (Landbank Analytics, 2024-2025)
-- **Kaufpreise**: Wohnung ab ~150.000 EUR, Villa ab ~300.000 EUR (Peyia/Coral Bay)
-- **Mietrendite**: 4-6% brutto (Wohnungen), 3-5% (Villen)
-- **Keine Grundsteuer** auf Zypern (nur Gemeindesteuern, gering)
-- **Grunderwerbsteuer (Transfer Fee)**: 3-8% (reduziert bei Erstimmobilie mit MwSt.)
+Die Schulgebühren in Paphos können niedriger sein als bei vergleichbaren Schulen in Limassol, aber der Unterschied hängt von Jahrgangsstufe und Lehrplan ab. Die Gebühren für höhere Jahrgänge bei ISOP und PASCAL Limassol sollte man zum Beispiel direkt vergleichen, bevor man das Budget plant. Mehr dazu: [Internationale Schulen auf Zypern](/de/life/internationale-schulen-zypern-ueberblick/).
 
-Zum Vergleich: Mallorca Preiswachstum ~8-10%, Algarve ~6-8%. Paphos bietet hoehere Renditen bei niedrigeren Einstiegspreisen und besserer Steuerstruktur.
-
----
-
-## Welche Schulen gibt es in Paphos?
-
-| Schule | Programm | Kosten/Jahr | Standort |
-|--------|----------|-------------|----------|
-| [ISOP](https://www.isop.ac.cy/) | British, IGCSE, A-Levels | 5.500-9.000 EUR | Anavargos |
-| [Aspire](https://www.aspireschool.ac.cy/) | British, Pearson Edexcel | 4.500-7.500 EUR | Paphos Stadt |
-| [TLC](https://www.tlcschool.com/) | British, IGCSE, A-Levels | 5.000-8.500 EUR | Peyia |
-| [Lumio](https://www.lumioschool.com/) | British (bis 14 Jahre) | 4.000-6.500 EUR | Acheleia |
-| Erudite | Russisch + IGCSE | ~250 EUR/Monat | Paphos |
-| [Morphosis](https://www.morfosisschool.com/) | Russisch + Englisch/Griechisch | auf Anfrage | Tetidos 4 |
-
-Schulen sind **20-30% guenstiger** als in Limassol (ISOP 9.000 EUR vs. PASCAL Limassol 14.050 EUR). Verglichen mit Deutschland: Munich International School kostet 15.000-25.000 EUR/Jahr. Paphos-Schulen sind also erheblich guenstiger bei vergleichbarem britischem Curriculum.
-
-**Keine deutsche Schule** in Paphos (naechste: Deutsche Schule Athen). Unterricht auf Englisch — für Kinder eine Chance, bilingual aufzuwachsen.
+> **Für britische Familien:** Alle vier großen Schulen folgen dem englischen National Curriculum. ISOP und TLC bieten IGCSE und A-Levels, mit denselben Prüfungsstellen (Edexcel, CIE), bei denen die Kinder auch in Großbritannien antreten würden. Kommen sie von einer britischen staatlichen Schule, ist der Übergang unkompliziert. Mit £4.300–7.740 pro Jahr zahlt man etwa ein **Drittel** der britischen Privatschulgebühren für Tagesschüler (britischer Durchschnitt: £15.000–18.000 pro Jahr). Manche Familien finden, dass allein die Ersparnis bei den Schulgebühren den Umzug rechtfertigt.
 
 ---
 
-## Wie ist die medizinische Versorgung?
+## Wie funktioniert die Gesundheitsversorgung auf Zypern?
 
-| Einrichtung | Typ | Schwerpunkt | Telefon |
-|-------------|-----|-------------|---------|
-| [Paphos General](https://www.shso.org.cy/en/hospital/geniko-nosokomeio-pafou/) | Staatlich (GeSY) | 127 Betten, 72 Aerzte, Druckkammer | 26-803-100 |
-| [Evangelismos](https://www.evangelismos.com.cy/) | Privat (GeSY) | 79 Betten, Intensiv, IVF, Kardiologie | 26-931-000 |
-| [Iasis](https://iasishospital.com/) | Privat (GeSY) | Leptos Group, 24/7 | 26-848-484 |
-| [St George & Blue Cross](https://www.bluecross.com.cy/) | Privat | 50 Betten, erste ISO 9002 auf Zypern | 26-946-232 |
+| Einrichtung | Art | Wichtigste Angaben | Telefon |
+|-------------|-----|--------------------|---------|
+| [Paphos General Hospital](https://www.shso.org.cy/en/hospital/geniko-nosokomeio-pafou/) | Öffentlich (GESY) | 127 Betten, 72 Ärzte, Überdruckkammer | 26-803-100 |
+| [Evangelismos](https://www.evangelismos.com.cy/) | Privat (GESY) | 79 Betten, Intensivstation, IVF, Kardiologie | 26-931-000 |
+| [Iasis](https://iasishospital.com/) | Privat (GESY) | Leptos Group, rund um die Uhr | 26-848-484 |
+| [St George & Blue Cross](https://www.bluecross.com.cy/) | Privat | 50 Betten, erstes Krankenhaus Zyperns mit ISO 9002 | 26-946-232 |
 
-Die meisten Aerzte in Privatkliniken sprechen Englisch. Deutschsprachige Aerzte gibt es vereinzelt — fragen Sie in der deutschen Community nach aktuellen Empfehlungen.
+Die meisten Ärzte in den Privatkrankenhäusern sprechen Englisch.
+
+### GESY und NHS: was man wissen muss
+
+**GESY (Allgemeines Gesundheitssystem)** ist das zypriotische Gegenstück zum NHS. Es wurde 2019 eingeführt und deckt alle legalen Einwohner ab. Für britische Expats gilt:
+
+- **Inhaber eines S1-Formulars:** Wer ein S1 hat (von HMRC für Rentner mit entsprechenden National-Insurance-Beiträgen ausgestellt), wird auf Zypern bei GESY registriert, und Großbritannien trägt die Kosten. Das ist der NHS-Anspruch im Ausland. Der Antrag läuft vor dem Umzug über HMRC.
+- **Arbeit auf Zypern:** Man zahlt 2,65 % des Gehalts (Angestellte) oder 4 % (Selbstständige). Der Arbeitgeber zahlt 2,9 % ([GESY-Beitragssätze](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing)).
+- **So funktioniert es:** Freie Hausarztwahl, Überweisung an Fachärzte. Dem NHS-Modell insgesamt ähnlich. Kürzere Wartezeiten als beim NHS bei den meisten Eingriffen (es gibt keine 18-Wochen-Ziele, weil die Schlangen schlicht kürzer sind). Kleineres Facharztnetz: Bei komplexen Fällen fahren manche Patienten nach Nikosia oder Limassol oder gehen privat.
+
+Mehr dazu: [GESY und private Krankenversicherung](/de/life/gesy-vs-private-krankenversicherung-zypern/).
+
+> **Der ehrliche Vergleich:** GESY ist nicht der NHS. Es ist jünger, kleiner und weniger umfassend. Für die Routineversorgung (Hausarztbesuche, Rezepte, Blutuntersuchungen, kleine Eingriffe) funktioniert es gut. Für komplexe oder fachärztliche Behandlungen ist das Netz speziell in Paphos begrenzt: Man wird eventuell nach Nikosia überwiesen. Die private Versorgung schließt die Lücke: Evangelismos und Iasis sind beide ausgezeichnet, und eine private Krankenversicherung (1.500–3.000 € pro Jahr für einen Rentner) ist viel günstiger als vergleichbarer britischer Schutz. Viele britische Rentner nutzen GESY für die Routine und gehen für alles andere privat.
 
 ---
 
-## Wie groß ist die deutsche Community?
+## Welche Gemeinschaften gibt es?
 
-Paphos hat die **groesste etablierte deutsche Community auf Zypern** — groesser als Limassol, Larnaka oder Nikosia. Schwerpunkte: Peyia und Tala.
+### Briten (~25.000 im Bezirk Paphos)
 
-### Was es gibt
+Die größte ausländische Gemeinde in Paphos und die größte britische Expat-Gemeinde auf Zypern. Das ist kein kleiner Außenposten: 25.000 Menschen entsprechen der Größe von Whitstable oder Lyme Regis. Die Gemeinde hat eine eigene Infrastruktur:
 
-- **Julias Backstube** (Peyia) — deutsche Baeckerei. Bestellungen Di/Do/Sa. Brot, Broetchen, Kuchen, Stollen zu Weihnachten. Fuer viele Deutsche der wichtigste Grund, in Peyia zu wohnen
-- **Evangelische Gottesdienste auf Deutsch** — [Ayia Kyriaki Chrysopolitissa](https://www.paphosanglicanchurch.org/) (Kato Paphos). 2. Samstag im Monat, September bis Juni, 16:00 Uhr
-- **Stammtische und Wandergruppen** — regelmaessige Treffen, oft über lokale WhatsApp-Gruppen organisiert
-- **Deutsche Vermieter** — in Peyia und Tala gibt es Vermieter, die deutsche Standards bei Mietvertraegen kennen (Uebergabeprotokoll, Kautionsregelung, Kuendigungsfristen)
+- **Anglikanische Kirchen:** [Ayia Kyriaki](https://www.paphosanglicanchurch.org/) (Kato Paphos), St Stephen's (Tala), St Luke's (Prodromi)
+- **Pubs mit Sky Sports**, Sonntagsbraten, Quizabende — in Kato Paphos und Coral Bay
+- **[Moufflon Bookshop](https://moufflon.com.cy/)** (Kinyras Street, seit 1967)
+- Wandergruppen, Buchclubs, Kaffeemorgen, Bridge-Clubs
+- Britische Wohltätigkeitsorganisationen: Paphos Kidney Association, Friends Hospice, Tierschutzorganisationen
+- Mehrere aktive Facebook-Gruppen
 
-### Vergleich mit anderen deutschen Communities
+### Deutsche (500–1.500 in Paphos)
 
-| Ort | Deutsche (geschaetzt) | Infrastruktur |
-|-----|----------------------|---------------|
-| **Mallorca** | 30.000+ | Deutsche Schulen, Aerzte, Supermaerkte, Zeitungen |
-| **Teneriffa** | 10.000+ | Deutsche Schule, Aerzte, Vereine |
-| **Paphos** | 500-1.500 | Baeckerei, Gottesdienste, Stammtische |
-| **Limassol** | 200-500 | Wenig organisiert |
-
-Paphos ist kein "Klein-Deutschland" wie Mallorca. Wer eine vollstaendige deutsche Parallelwelt sucht, ist auf Mallorca besser aufgehoben. Wer sich integrieren moechte, aber trotzdem ab und zu deutsches Brot und deutsche Gespraeche braucht — für den ist Paphos genau richtig.
-
-### Britische Community (~25.000)
-
-Groesste auslaendische Gemeinschaft in Paphos. Infrastruktur:
-- **Anglikanische Kirchen**: [Ayia Kyriaki](https://www.paphosanglicanchurch.org/) (Kato Paphos), St Stephen's (Tala), St Luke's (Prodromi)
-- **Pubs mit Sky Sports**, Sunday Roasts, Quiz Nights — in Kato Paphos und Coral Bay
-- **Buchhandlung**: Moufflon Bookshop (Kinyras St, seit 1967)
-- Walking Groups, Book Clubs, Coffee Mornings
-
-**Vorteil für Deutsche:** Die britische Infrastruktur (englischsprachige Aerzte, Behördengaenge auf Englisch, internationale Schulen) kommt auch Deutschen zugute. In Paphos kommen Sie mit Englisch überall zurecht — Griechisch ist hilfreich, aber nicht zwingend.
+Eine wachsende Gemeinde, besonders in Peyia und Tala.
+- **Julias Backstube** — deutsche Bäckerei in Peyia (Bestellungen Di/Do/Sa)
+- Deutschsprachige evangelische Gottesdienste in Ayia Kyriaki (jeden 2. Samstag im Monat, September bis Juni, 16:00 Uhr)
 
 ### Russischsprachige (~1.900 registriert)
 
-Kleine Gemeinde verglichen mit Limassol. Russische Schule Erudite + Morphosis (Filiale). Telegram-Gruppen.
+Eine kleine Gemeinde im Vergleich zu Limassol. Russische Schule Erudite und Morfosis (Zweigstelle). Es gibt Telegram-Gruppen, aber das gesellschaftliche Leben ist dünn.
 
 ---
 
-## Welche Natur und Aktivitäten gibt es?
+## Wie viel kann ich im Vergleich zu Großbritannien sparen?
 
-Der groesste Vorteil von Paphos gegenueber Limassol, Mallorca und den Kanaren — **unberuehrte Natur direkt vor der Tuer**:
+Einer der Hauptgründe, warum britische Rentner Paphos wählen, sind die Kosten. So setzt sich die Ersparnis für ein Rentnerpaar zusammen:
 
-- **[Avakas-Schlucht](https://www.visitcyprus.com/discover-cyprus/nature/nature-trails-2/avakas-gorge-linear-pafos-paphos-district-akamas-forest-nature-trail/)**: 7 km, ~3 Stunden, 30 m hohe Felswsende. 30 Min. von Paphos. Erinnert an Samaria-Schlucht (Kreta), aber ohne Menschenmassen
-- **Akamas-Halbinsel**: Meereshoehlen, Blue Lagoon, Schildkroetenstrand Lara. Naturschutzgebiet — kein Beton, keine Hotels
-- **Tauchen**: 50+ Spots. Wrack EDRO III, Amphorae Caves. Tauchzentren: [Cydive](https://www.cydive.com/) (seit 1978, PADI 5*)
-- **Radfahren**: Kueste (Hafen → Coral Bay), Akamas-Loops, Diarizos-Tal
-- **Weindoerfer**: Vouni Panayia, Chrysorrogiatissa-Kloster (12. Jh.), Tsangarides. 10+ Weingueter auf der Route, 20+ Traubensorten
+| Kategorie | Großbritannien (Durchschnitt) | Paphos | Ersparnis pro Jahr |
+|-----------|-------------------------------|--------|--------------------|
+| Council Tax (Band D, Durchschnitt) | £2.171 pro Jahr | 0 € (kein Gegenstück) | **£2.171** |
+| TV-Lizenz | £169,50 pro Jahr | 0 € (nicht zutreffend) | **£170** |
+| Miete (2 Schlafzimmer) | £1.000–1.500 pro Monat | £690–1.160 pro Monat | **£3.720–4.080** |
+| Heizung | £100–150 pro Monat (Gas und Strom) | £50–80 pro Monat (nur Strom, kein Gas) | **£600–840** |
+| Wasser | £33 pro Monat | ~£15 pro Monat | **£216** |
+| Kfz-Versicherung | £600–900 pro Jahr | £250–430 pro Jahr | **£350–470** |
+| Lebensmittel | £500–600 pro Monat | £400–500 pro Monat | **£1.200** |
 
-Fuer Wanderer und Naturliebhaber ist Paphos auf Zypern konkurrenzlos.
+**Mögliche Gesamtersparnis pro Jahr: £8.400–9.150** — noch bevor der pauschale Rentensteuersatz von 5 % berücksichtigt wird (gegenüber britischen progressiven Sätzen bis 45 %).
 
----
-
-## Welche Supermärkte gibt es?
-
-| Geschaeft | Segment | Stadtteile |
-|-----------|---------|------------|
-| **Papantoniou** | Mittel-Premium | 3 Hypermaerkte: Ellados Ave, Chloraka, Geroskipou |
-| **AlphaMega** | Premium | Einfahrt von der Autobahn A6 |
-| **Lidl** | Budget | Tombs of the Kings Rd, Mesogi |
-| **Metro (M&S Food)** | Mittel | Kings Avenue Mall |
-
-**Fuer Deutsche:** Lidl gibt es auch auf Zypern — kleineres Sortiment als in Deutschland, aber vertraute Marke. Deutsche Produkte (Haribo, Ritter Sport, Dr. Oetker) bei AlphaMega und gelegentlich bei Lidl. Schwarzbrot und Vollkornbrot bei AlphaMega und in Julias Backstube (Peyia) — aber nicht an jeder Ecke wie daheim.
+> **Steuerhinweis:** Ausländische Renten können auf Zypern pauschal mit 5 % auf Einkommen über 5.000 € pro Jahr oder mit den normalen progressiven Sätzen (0–35 %) besteuert werden. Man wählt jährlich ([Einkommensteuergesetz, Abschnitt 20](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html)). Für die meisten britischen Rentner ist der Pauschalsatz von 5 % deutlich günstiger als die britische Besteuerung. Das Doppelbesteuerungsabkommen zwischen Großbritannien und Zypern stellt sicher, dass nicht doppelt besteuert wird. Vor dem Umzug sollte man einen grenzüberschreitenden Finanzberater konsultieren: SIPPs, Drawdown und Einmalzahlungen müssen eventuell umstrukturiert werden. Mehr dazu: [Ruhestand auf Zypern](/de/life/ruhestand-zypern-rentner-leitfaden/).
 
 ---
 
-## Zusammenfassung: Welcher Stadtteil passt zu Ihnen?
+## Welche Natur und Outdoor-Aktivitäten gibt es?
 
-| Profil | Stadtteil | Budget (1-Zimmer) |
-|--------|-----------|-------------------|
-| Rentner (DE/AT/CH) | Chloraka / Tala | 750-1.500 EUR |
-| Familie mit Kindern | Coral Bay / Geroskipou | 750-1.600 EUR |
-| Digital Nomad | Kato Paphos | 800-1.000 EUR |
-| Budget-Variante | Emba / Geroskipou | 600-950 EUR |
-| Premium am Meer | Tombs of Kings / Coral Bay | 1.000-4.000 EUR |
-| Authentisches Zypern | Ktima / Emba | 600-800 EUR |
+Paphos hat die beste Naturumgebung aller Städte Zyperns. Das ist der wichtigste Lebensstilvorteil gegenüber Limassol:
 
-**Fuer Unentschlossene:** Wenn Sie zwischen Paphos und Limassol schwanken — mieten Sie zuerst. Ein Monat Probe-Wohnen in Paphos (Kato Paphos oder Chloraka, ab 800 EUR) gibt Ihnen ein realistisches Bild. Viele Deutsche landen nach dem Probemonat in Paphos und bleiben.
+- **[Avakas-Schlucht](https://www.visitcyprus.com/discover-cyprus/nature/nature-trails-2/avakas-gorge-linear-pafos-paphos-district-akamas-forest-nature-trail/):** 7 km, etwa 3 Stunden, 30 Meter hohe Felswände. 30 Minuten von Paphos. Eine der besten Wanderungen der Insel
+- **Akamas-Halbinsel:** Meereshöhlen, die Blaue Lagune, der Schildkrötenstrand Lara. Geschützte Wildnis
+- **Tauchen:** mehr als 50 Tauchplätze. Das Wrack EDRO III, die Amphorae-Höhlen. Zentren: [Cydive](https://www.cydive.com/) (seit 1978, PADI 5-Star)
+- **Radfahren:** Küstenstraße (vom Hafen bis Coral Bay), Akamas-Runden, Diarizos-Tal
+- **Weindörfer:** Vouni Panayia, Kloster Chrysorrogiatissa (12. Jahrhundert), Weingut Tsangarides. Mehr als 10 Weingüter an einer Route, mehr als 20 Rebsorten
+
+> **Für begeisterte Wanderer:** Im Raum Paphos gibt es mehr gut zugängliche Wanderrouten als irgendwo sonst auf Zypern. Avakas-Schlucht, die Akamas-Wege, der Adonis-Naturpfad und der Aphrodite-Rundweg liegen alle 30–45 Minuten von der Stadt entfernt. Wandergruppen gehören zu den wichtigsten gesellschaftlichen Aktivitäten der britischen Gemeinde: ein praktischer Weg, fit zu bleiben, Leute kennenzulernen und die Gegend zu erkunden.
 
 ---
 
-Lesen Sie auch: [Lebenshaltungskosten auf Zypern nach Stadt](/de/life/lebenshaltungskosten-zypern-leitfaden/) | [Internationale Schulen auf Zypern](/de/life/internationale-schulen-zypern-ueberblick/)
+## Welche Supermärkte gibt es auf Zypern?
 
-*Daten Stand April 2026. Schreiben Sie uns auf [Telegram](https://t.me/expatscy), wenn Sie einen Fehler bemerken.*
+| Geschäft | Segment | Standorte |
+|----------|---------|-----------|
+| **Papantoniou** | Mittelklasse bis Premium | 3 Hypermärkte: Ellados Ave, Chloraka, Geroskipou |
+| **AlphaMega** | Premium | Nahe der Autobahnauffahrt A6 |
+| **Lidl** | Günstig | Tombs of the Kings Road, Mesogi |
+| **Metro (M&S Food)** | Mittelklasse | Kings Avenue Mall |
+
+> **Vergleich mit Großbritannien:** Lidl ist dieselbe Kette wie in Großbritannien, mit ähnlichen Preisen. AlphaMega ist die lokale Premiumkette, ähnlich wie Waitrose. Papantoniou ist das zypriotische Gegenstück zu Tesco. Tesco, Sainsbury's und Morrisons gibt es nicht, aber Papantoniou führt viele britische Produkte (Marmite, PG Tips, Bisto, Heinz-Bohnen). Frisches Obst und Gemüse sowie lokale Produkte (Halloumi, Olivenöl, Honig) sind deutlich günstiger als in Großbritannien. Insgesamt liegen die Lebensmittelkosten in Paphos etwa 15–20 % unter dem britischen Durchschnitt.
+
+---
+
+## Zusammenfassung: Welcher Stadtteil passt?
+
+| Ihr Profil | Stadtteil | Budget (1 Schlafzimmer, € im Monat) | Entsprechung in £ |
+|------------|-----------|-------------------------------------|-------------------|
+| Im Ruhestand (britische Rente) | Chloraka / Tala | 750–1.500 | 645–1.290 |
+| Familie mit Kindern | Coral Bay / Geroskipou | 750–1.600 | 645–1.375 |
+| Digitaler Nomade | Kato Paphos | 800–1.000 | 690–860 |
+| Budget-Option | Emba / Geroskipou | 600–950 | 515–815 |
+| Premium am Meer | Tombs of the Kings / Coral Bay | 1.000–4.000 | 860–3.440 |
+| Echtes Zypern | Ktima / Emba | 600–800 | 515–690 |
+
+> **Britische Rente:** Die volle britische Staatsrente (2025/26: £221,20 pro Woche ≈ £960 im Monat ≈ 1.115 € im Monat) deckt die Miete in Chloraka, Emba, Geroskipou oder Universal, und es bleibt etwas übrig. Ein Paar mit zwei vollen Staatsrenten (≈£1.920 im Monat, ≈2.230 €) lebt in jedem Stadtteil von Paphos gut, auch in Tala und in den günstigeren Teilen von Coral Bay. In Limassol reicht dasselbe Einkommen nur für die Budget-Gegenden.
+
+---
+
+*Miet- und Preisbeispiele beruhen auf Quellendaten vom April 2026. Wenn Sie eine Ungenauigkeit finden, schreiben Sie uns über [Telegram](https://t.me/expatscy).*
+
+**[Immobilienpreise in den Stadtteilen von Paphos auf research.cy vergleichen](https://research.cy/search/?district=paphos)** — Angebote von Bauträgern, Stadtteilkarte, keine Maklergebühren.
+
+Mehr zum Leben auf Zypern: [Lebenshaltungskosten](/de/life/lebenshaltungskosten-zypern-leitfaden/), [Ruhestand auf Zypern](/de/life/ruhestand-zypern-rentner-leitfaden/), [GESY und private Krankenversicherung](/de/life/gesy-vs-private-krankenversicherung-zypern/).
 
 ---
 
 ## Quellen
 
-- [CYSTAT Census 2021](https://www.gov.cy/en/economy-and-finance/census-of-population-and-housing-2021-final-results/) — gov.cy
+- [GESY-Beitragssätze](https://www.gesy.org.cy/sites/Sites?d=Desktop&locale=en_US&lookuphost=/en-us/&lookuppage=hiofinancing) — GESY, geprüft am 2026-11-07
+- [Einkommensteuergesetz 118(I)/2002, Abschnitt 20 (ausländische Renten)](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — CyLaw, geprüft am 2026-11-07
+- [CYSTAT Volkszählung 2021](https://www.gov.cy/en/economy-and-finance/census-of-population-and-housing-2021-final-results/) — gov.cy

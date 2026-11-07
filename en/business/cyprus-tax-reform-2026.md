@@ -71,11 +71,11 @@ Child, housing and energy reliefs have **income and family eligibility tests**. 
 
 ## How does the 8% crypto regime work?
 
-**Income Tax Law section 20Ε** imposes **8%** on gains from covered disposals of crypto-assets, using the law's MiCA-linked definition. Disposal includes **sale, gift, exchange for another crypto-asset and use as payment**.
+**Income Tax Law section 20E** imposes **8%** on gains from covered disposals of crypto-assets, using the law's MiCA-linked definition. Disposal includes **sale, gift, exchange for another crypto-asset and use as payment**.
 
 Losses under this regime can offset only crypto gains within the same tax year. They cannot be carried forward or assigned under group-loss relief. They do not reduce salary or other unrelated income.
 
-The section expressly excludes **disposal of crypto-assets acquired through mining**. Income outside section 20Ε must be assessed under the ordinary income-tax provisions; this guide does not assign a blanket rate or receipt-time rule to every mining or staking activity.
+The section expressly excludes **disposal of crypto-assets acquired through mining**. Income outside section 20E must be assessed under the ordinary income-tax provisions; this guide does not assign a blanket rate or receipt-time rule to every mining or staking activity.
 
 **Illustration:** Assume EUR 220,000 of covered disposal gains and EUR 50,000 of eligible disposal losses in the same year, with no other adjustments. The net EUR 170,000 at 8% gives **EUR 13,600**. This example does not establish the acquisition value, deductibility or classification of an actual transaction.
 
@@ -114,7 +114,7 @@ For a hypothetical EUR 1,000,000 balance unchanged at every month-end, this prod
 
 ### Alternative SDC payment after deemed domicile
 
-Under **SDC section 3Δ**, eligible individuals without a Cyprus domicile of origin who become deemed domiciled may apply for an alternative lump-sum SDC charge, subject to Commissioner approval.
+Under **SDC section 3D**, eligible individuals without a Cyprus domicile of origin who become deemed domiciled may apply for an alternative lump-sum SDC charge, subject to Commissioner approval.
 
 It costs **EUR 250,000 upfront for each five-year period**, payable by the end of the month following approval. An application is due by **30 June of the first year** of the period; up to **two periods** are allowed. The election is irrevocable and the payment non-refundable. It is an alternative SDC charge, rather than an investment or extension of non-dom status. Its suitability depends on the actual income and applicable SDC, rather than a universal income threshold.
 

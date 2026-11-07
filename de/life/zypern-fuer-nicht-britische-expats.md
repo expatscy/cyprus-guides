@@ -3,7 +3,7 @@ slug: "zypern-fuer-nicht-britische-expats"
 title: "Zypern für Deutsche: Was Auswanderer wissen"
 description: "Zypern-Guide für Deutsche: Wegzugsbesteuerung, DBA, Krankenversicherung, Rente, Bankkonto. Was anders ist als in britischen Guides."
 date: "2026-04-10"
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -25,7 +25,7 @@ faqSchema:
   - question: "Funktioniert meine deutsche Krankenversicherung auf Zypern?"
     answer: "Nein. Die gesetzliche Krankenversicherung (GKV) endet in der Regel mit der Abmeldung aus Deutschland. Eine private Krankenversicherung (PKV) kann unter Umständen weltweit gelten — prüfen Sie Ihren Tarif. Auf Zypern müssen Sie sich über GESY (durch Arbeit/Aufenthalt) oder private Versicherung absichern."
 ---
-> **Kurzantwort:** Zypern bietet auch Nicht-Briten exzellente Bedingungen: EU-Freizuegigkeit, niedrige Steuern, englischsprachige Infrastruktur, 340 Sonnentage.
+> **Kurzantwort:** Zypern bietet auch Nicht-Briten exzellente Bedingungen: EU-Freizuegigkeit, niedrige Steuern, englischsprachige Infrastruktur, sonniges Klima.
 
 Die meisten englischsprachigen Zypern-Guides sind für Briten geschrieben: S1-Formular für die Gesundheitsversorgung, Rente über das DWP, Bankkonto in einer Stunde. Als Deutscher gelten andere Regeln — besonders bei Steuern, Rente und Versicherung.
 

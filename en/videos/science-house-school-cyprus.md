@@ -1,9 +1,9 @@
 ---
 type: videos
-title: "Science House Cyprus: Reimagining School"
+title: "Science House Limassol: Children’s Science Centre"
 description: "Science House in Limassol: a children’s science centre offering science, medical and creative activities. Video and verified operator information."
 date: 2024-12-15
-updated: 2026-10-03
+updated: 2026-11-07
 youtube_id: "2rI17ANUBik"
 duration: "PT11M29S"
 upload_date: "2024-12-15"

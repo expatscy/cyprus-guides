@@ -3,7 +3,7 @@ slug: "russian-mortgage-payments-from-cyprus"
 title: "Pay a Russian Mortgage from Cyprus (2026)"
 description: "How to legally pay a Russian mortgage while living in Cyprus: working transfer routes, risks of friend schemes, AML rules and practical solutions."
 date: 2026-02-23
-updated: 2026-04-18
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -18,13 +18,13 @@ draft: false
 translationKey: "ipoteka-v-rossii-kak-platit-s-kipra"
 faqSchema:
   - question: "How can I pay a Russian mortgage from Cyprus?"
-    answer: "Direct SWIFT transfers to Russian banks are blocked by sanctions. Working methods in 2026: Profee (0% fee, requires a card at a non-sanctioned Russian bank), third-country corridors (Kazakhstan via e-Residency or Armenia — both directions), licensed transfer services (KwikPay), and crypto P2P as a grey-area fallback."
+    answer: "Direct SWIFT transfers to Russian banks are blocked by sanctions. Working methods in 2026: Profee (its own site says transfers to Russia are available but restricted for certain sanctioned Russian banks), third-country corridors (Kazakhstan via e-Residency or Armenia — both directions), licensed transfer services (KwikPay), and crypto P2P as a grey-area fallback."
   - question: "Is it legal to pay mortgage through a friend in Russia?"
     answer: "Technically yes, but risks include AML checks on regular transfers, tax questions for the recipient, and difficulty proving the source of funds. Cyprus law 149(I)/2025 also criminalises sanctions-evasion schemes — your friend could face up to 5 years imprisonment."
   - question: "What is the safest way to send money to Russia from Cyprus?"
-    answer: "If you have a card at Raiffeisen, UniCredit or OTP Russia, Profee is the cleanest route (0% fee, online, legal). If you don't, opening an account in Armenia (Ameriabank, Acba, Ardshinbank, Inecobank) gives you a single channel that works both EU→RU and RU→EU. Kazakhstan e-Residency is a newer remote-open alternative ($499–999/year)."
+    answer: "If you have a card at a Russian bank that is not under sanctions, check Profee first (online; confirm the fee and whether your bank is accepted on profee.com). If you don't, opening an account in Armenia (Ameriabank, Acba, Ardshinbank, Inecobank) gives you a single channel that works both EU→RU and RU→EU. Kazakhstan e-Residency is a newer remote-open alternative ($499–999/year)."
 ---
-> **Short answer:** Direct SWIFT from Cyprus to Russia is blocked. Working routes in 2026: Profee (if you have a non-sanctioned Russian card), third-country corridors through Kazakhstan (e-Residency or in-person) or Armenia (works both directions), or licensed services like KwikPay. Budget 1.5–5% in fees depending on the method.
+> **Short answer:** Direct SWIFT from Cyprus to Russia is blocked. Working routes in 2026: Profee (if you have a non-sanctioned Russian card), third-country corridors through Kazakhstan (e-Residency or in-person) or Armenia (works both directions), or licensed services like KwikPay. Budget roughly 1–5% per leg for third-country corridors and 2.5–10% for payment services.
 
 
 You live and work in Cyprus — but you still have a mortgage on a property in Russia. Direct bank transfers no longer go through. What are your options? We break down the legal routes, the risks of grey-area workarounds, and the tax implications.
@@ -42,7 +42,7 @@ Since February 2022, the banking infrastructure between Cyprus and Russia has be
 
 ### Direct SWIFT from Cyprus to Russia — doesn't work
 
-Even banks that formally remained outside the SWIFT ban (Gazprombank, UniCredit Russia, OTP Russia) **do not accept incoming transfers from the EU** in practice:
+Even banks that formally remained outside the SWIFT ban (Gazprombank, UniCredit Russia, OTP Russia) are **extremely unreliable for incoming transfers from the EU** in practice:
 
 - **Gazprombank** — hit by full transaction ban (July 2025). Inbound SWIFT from EU blocked
 - **Revolut, Wise, N26** — block outgoing transfers to Russian banks at their own compliance level
@@ -73,7 +73,7 @@ Transfer funds via an intermediate bank account in a country that accepts transf
 
 **Path C — Armenia, works both directions.** Armenian banks open accounts for Russian nationals (usually in-person in Yerevan, 1–2 hours) and process SWIFT both to Russia and to the EU — a rare single channel that closes both directions at once. Banks with RUB accounts and direct correspondent links to Russia: **Ameriabank, Acba, Ardshinbank, Inecobank**. Fee 1–3% per leg (up to 5% with double conversion). Evocabank previously supported instant Tinkoff transfers but that channel was suspended in 2025 — verify current status before using.
 
-Fee across all three paths: 2–5% per leg.
+Fee across all three paths: 1–5% per leg.
 
 ### 2. Cryptocurrency (P2P) — grey area
 
@@ -101,8 +101,6 @@ A common workaround: you give cash to a friend in Cyprus, and they transfer mone
 
 ### Cyprus AML Risks (Law 188(I)/2007)
 
-- **Cash over €10,000** — mandatory report to the Central Bank
-- **Cash over €10,000 for goods/services** — **banned** since December 2024
 - **Any suspicious activity** — SAR to MOKAS (no minimum threshold)
 - Structuring (breaking into amounts below €10,000) — **itself** a money laundering indicator
 
@@ -147,3 +145,4 @@ Questions about transfers and mortgages — join our <a href="https://t.me/expat
 
 - [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
 - [Registrar of Companies](https://www.companies.gov.cy/en/) — gov.cy
+- [Profee](https://www.profee.com/) — provider's own site, checked 2026-11-07 (transfers to Russia available, restricted for certain Russian banks)

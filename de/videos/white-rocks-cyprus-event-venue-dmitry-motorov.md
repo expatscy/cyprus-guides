@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "White Rocks: Aufbau einer Eventlocation bei Limassol auf Zypern"
+title: "White Rocks: Eventlocation bei Limassol auf Zypern aufbauen"
 description: "Dmitry Motorov über White Rocks, Geburtstage, Kooperationen und Eventplanung auf Zypern. Ein Interview von 2024 über den Aufbau einer Veranstaltungsstätte."
 slug: "white-rocks-cyprus-event-venue-dmitry-motorov"
 date: 2024-10-25

@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Пенсия на Кипре: Далит и её магазин Good Taste Gallery в Пафосе"
+title: "Пенсия на Кипре: Далит и магазин Good Taste Gallery в Пафосе"
 description: "Далит переехала из Ливерпуля на Кипр после выхода на пенсию и открыла магазин в Пафосе. Разговор об одежде, личном стиле и общении с людьми."
 slug: "retiring-in-cyprus-dalit-good-taste-paphos"
 date: "2026-10-11"

@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Cyprus rain ambience: a quiet balcony with bougainvillea near Nicosia"
+title: "Cyprus rain ambience: a balcony with bougainvillea, Nicosia"
 description: "Natural rain sounds on a balcony near Nicosia, Cyprus. Bougainvillea, grey skies and a wet city view, without music, talking or fast cuts."
 slug: "cyprus-rain-balcony-bougainvillea-nicosia"
 date: 2026-05-23

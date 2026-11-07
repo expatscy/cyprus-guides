@@ -1,9 +1,9 @@
 ---
 slug: "schools-cyprus-comparison"
-title: "Privatschulen auf Zypern: Island, Trinity"
-description: "Detaillierte Bewertungen der besten Privatschulen Zyperns: Island School, Trinity, Pascal, Foley's, Heritage, American Academy. IB, Gebühren, Elternfeedback."
+title: "Privatschulen auf Zypern: Lehrpläne und Gebühren"
+description: "Island, Trinity, PASCAL, Foley’s, Heritage und American Academy Larnaca im Vergleich: Lehrpläne der Schulen, IB-Autorisierungen und Gebühren mit Datum."
 date: 2026-01-24
-updated: 2026-04-09
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -15,204 +15,84 @@ tags:
 draft: false
 translationKey: "shkoly-kipr-sravnenie-island-trinity-pascal"
 faqSchema:
-  - question: "Was ist die beste Privatschule auf Zypern für Expat-Kinder?"
-    answer: "Hängt von Standort und Budget ab. Limassol: Heritage International School (IB/Cambridge, €8.000–12.000), Foley's School (British, €5.000–8.000). Paphos: ISOP (Cambridge, €4.000–7.000). Nikosia: Pascal Education, American Academy. Für deutsche Kinder: Heritage und ISOP haben Erfahrung mit nicht-englischsprachigen Neuzugängen."
+  - question: "Was ist die beste Privatschule auf Zypern?"
+    answer: "Wählen Sie nach Alter, Sprachkenntnissen, Fächern, Förderung und Budget Ihres Kindes. Dieser Leitfaden vergleicht veröffentlichte Programme und Gebühren; er erstellt kein Ranking. Besuchen Sie die Schulen Ihrer engeren Wahl und prüfen Sie den konkreten Standort und die Jahrgangsstufe."
+  - question: "Was kostet die Pascal-Schule auf Zypern?"
+    answer: "PASCAL veröffentlicht getrennte Gebührenlisten nach Standort und Stufe. In der Liste der Lefkosia Secondary School für 2026–2027 steht für Year 1 ein Schulgeld von 9.300 €, dazu kommen weitere Kosten und Ausnahmen. Das ist ein Beispiel mit Datum, kein Preis für alle PASCAL-Schüler; fragen Sie das vollständige Angebot für Ihren Fall an."
+  - question: "Was ist der Unterschied zwischen Island School und Trinity?"
+    answer: "Das IB-Verzeichnis führt bei Island die Programme Primary Years, Middle Years, Diploma und Career-related auf. Bei Trinity sind es Middle Years und Diploma; die Diploma-Autorisierung von Trinity stammt vom 13. März 2026. Prüfen Sie, welches Programm in welcher Sprache für die Stufe Ihres Kindes angeboten wird."
 ---
-> **Kurzantwort:** Private und internationale Schulen kosten 5.000-15.000 EUR/Jahr. Oeffentliche Schulen sind kostenlos, aber griechischsprachig.
+> **Kurzantwort:** Vergleichen Sie die genaue Schule, den Standort, die Jahrgangsstufe und den Abschluss. Das IB-Verzeichnis bestätigt die Autorisierung einzelner Programme; die Gebührenlisten der Schulen nennen Preise mit Datum. Der Name einer Schule, die Empfehlung von Eltern oder eine allgemeine Spanne für das Jahresschulgeld reichen für die Entscheidung nicht.
 
-Die Schulwahl ist eine der wichtigsten Entscheidungen für Familien mit Kindern, die nach Zypern ziehen. Hier finden Sie einen Überblick über die wichtigsten Optionen.
+Dieser Leitfaden fasst veröffentlichte Programminformationen zusammen, geprüft am **3. Oktober 2026**. Zu Anmeldung und Schulpflicht lesen Sie den [Leitfaden zur Bildung](/de/life/schools-education-cyprus/). Zu den Möglichkeiten in anderen Städten siehe das [Verzeichnis internationaler Schulen](/de/life/internationale-schulen-zypern-ueberblick/).
 
-> **Offizielle Quellen:**
-> - [Ministry of Education](https://www.moec.gov.cy/en/schools_info.html) — Schulverzeichnis Zypern
-> - [Secondary Education Department](https://www.moec.gov.cy/dme/en/index.html) — Privatschulen (39 Schulen)
+## Welche Programme veröffentlichen diese Schulen?
 
-## Welche Schulen gibt es im Überblick?
+| Schule | Veröffentlichte Programminformation | Hauptquelle |
+|---|---|---|
+| The Island Private School of Limassol | IB Primary Years (PYP), Middle Years (MYP), Diploma (DP) und Career-related (CP) | [IB-Verzeichnis](https://ibo.org/en/programmes/find-an-ib-school/?SearchFields.Country=CY) |
+| Trinity Private School | IB MYP und DP | [IB-Eintrag zur Schule](https://ibo.org/school/063444/) |
+| PASCAL-Sekundarschulen in Lefkosia, Larnaka und Lemesos | IB DP, für jede Schule getrennt aufgeführt | [IB-Verzeichnis](https://ibo.org/en/programmes/find-an-ib-school/?SearchFields.Country=CY) |
+| Foley's School | Orientiert sich im Großen und Ganzen am britischen National Curriculum, angepasst für internationale Schüler; IGCSE- und A-Level-Prüfungen | [Beschreibung der Schule](https://foleysschool.com/foleys-school/) |
+| Heritage Private School, Sekundarstufe | IGCSE/GCSE in Years 10–11; GCE AS und A Levels in Years 12–13 | [Lehrplan der Schule](https://www.heritageschool.ac.cy/secondary-curriculum) |
+| American Academy Larnaca, Oberstufe | GCSE/IGCSE in Years 4–5; A Levels in Years 6–7 (eigene Nummerierung der Schule: Key Stages 4 und 5) | [Lehrplan der Schule](https://www.academy.ac.cy/senior-school/academics/curriculum/) |
 
-### The Island School (Limassol)
+Die Zählung der Jahrgänge unterscheidet sich je nach Schule. Fragen Sie, in welche Klasse Ihr Kind mit seinem Alter, seiner bisherigen Schule und seinen Fächern eingestuft würde. Klären Sie, welche Fächer tatsächlich stattfinden und welche Stelle jeden Abschluss vergibt.
 
-**Typ:** Internationale Schule mit IB-Programm
+## Island und Trinity: Was sollte ich prüfen?
 
-**Besonderheiten:**
-- Gilt als eine der **Top-Schulen** der Insel
-- Programm: **International Baccalaureate (IB)**
-- Es gibt einen **Montessori**-Kindergarten und eine Grundschule
-- Stipendienprogramm **Tech Leaders of the Future**
-- Lage: 15–20 Minuten vom Zentrum Limassols
+Das [IB-Verzeichnis](https://ibo.org/en/programmes/find-an-ib-school/?SearchFields.Country=CY) führt bei Island PYP, MYP, DP und CP auf. Auf der [Website von Island](https://isl.cy/) stehen außerdem Montessori von der Vorschule bis Grade 4 und ein Stipendienprogramm „Technology Leaders of the Future“. Der Hauptcampus liegt in Palodia, Limassol. Fragen Sie Aufnahmebedingungen, Programm, Förderung und eine mögliche Stipendienbewerbung jeweils getrennt ab.
 
-**Aus Elternerfahrungen:**
+Der [IB-Eintrag zu Trinity](https://ibo.org/school/063444/) nennt die MYP-Autorisierung vom **11. April 2025** und die DP-Autorisierung vom **13. März 2026**. Für das DP ist Englisch angegeben, für das MYP Englisch und Russisch. Diese Einträge gelten je Programm: Daraus folgt nicht, dass jede Schulstufe denselben Lehrplan oder Sprachzweig hat.
 
-> „15–20 Min ohne Stau bis zur Island School. In der Nähe: Alpha-Mega, Shell und 2 Apotheken."
+Klären Sie mit der Schule die genaue Stufe und den Zweig für Ihr Kind. Fragen Sie bei einem Wechsel zwischen Programmen nach Fächerkontinuität und Bewertung. Ein IB-Etikett oder der Bericht anderer Eltern über einen Wechsel beweist nicht, dass Ihr Kind aufgenommen wird.
 
-**Was gesagt wird:**
+## PASCAL: Welcher Standort und welche Gebührenliste?
 
-- Viele Kinder aus IT-Unternehmerfamilien
-- Hohes Englischniveau
-- Es gibt Übergänge von Schülern zu anderen Schulen
+Die [Gebührenseite von PASCAL](https://www.pascal.ac.cy/admissions/fees) bietet getrennte Listen für Lefkosia, Larnaka und Lemesos, mit unterschiedlichen Links je Stufe und Standort. Das [IB-Verzeichnis](https://ibo.org/en/programmes/find-an-ib-school/?SearchFields.Country=CY) führt das DP für alle drei genannten Sekundarschulen auf. Prüfen Sie den Kurs, der Ihrem Kind tatsächlich angeboten wird, und behandeln Sie die ganze Gruppe nicht als ein einziges Programm.
 
-**Website:** [isl.cy](https://isl.cy/)
+Ein konkretes Preisbeispiel: Die [Liste der Lefkosia Secondary School für 2026–2027](https://www.pascal.ac.cy/fs/resource-manager/view/ce8ade0a-bc3c-497d-a132-4db82cea29b4), aktualisiert am **15. Dezember 2025**, nennt **9.300 € Schulgeld pro Jahr für Year 1**. Ihr Year 1 entspricht dem britischen Year 7. Das ist kein Pauschalpreis und kein Preis für andere PASCAL-Standorte und -Stufen.
 
----
+Nicht enthalten sind Uniformen, Bücher (außer den kostenlosen vom Ministerium), Schultransport und die Teilnahme an Aktivitäten wie Wettbewerben und Konferenzen. Gebühren für externe Prüfungen außer GL Assessment werden gesondert berechnet. Lesen Sie vor der Unterschrift die ganze Liste: Pflicht- und Wahlkosten, Zahlungsverpflichtungen sowie Rücktritts- und Erstattungsbedingungen.
 
-### Trinity Private School (Limassol)
+## Foley's, Heritage und American Academy Larnaca
 
-**Typ:** Privatschule mit IB-Programm
+[Foley's beschreibt sich](https://foleysschool.com/foleys-school/) als private, unabhängige Schule mit Englisch als Unterrichtssprache. Sie folgt im Großen und Ganzen dem britischen National Curriculum mit Anpassungen für internationale Schüler und bereitet auf IGCSE und A Levels vor. Fragen Sie nach der konkreten Jahrgangsstufe und der Sprachförderung.
 
-**Besonderheiten:**
-- Programm: **International Baccalaureate**
-- Sommercamps (Star Camp, Cinema Camp, Kids Science Camp)
-- Aktive Eltern-Community
-- Familienveranstaltungen
+Der [Lehrplan der Sekundarstufe von Heritage](https://www.heritageschool.ac.cy/secondary-curriculum) beschreibt Key Stage 4 in Years 10–11 mit Abschluss durch IGCSE/GCSE-Prüfungen und Key Stage 5 in Years 12–13 mit Abschluss durch GCE AS und A Levels. Fragen Sie, welche Fächer und Fächerkombinationen für den geplanten Eintritt möglich sind.
 
-**Aus Elternerfahrungen:**
+Der Name „American Academy“ bedeutet keinen amerikanischen Lehrplan. Der [Lehrplan der American Academy Larnaca](https://www.academy.ac.cy/senior-school/academics/curriculum/) beschreibt GCSE/IGCSE in Years 4–5 und A Levels in Years 6–7 (die eigene Nummerierung der Schule, die sie Key Stage 4 und Key Stage 5 nennt; sie ist daher nicht mit den britischen Years 10–13 der anderen Schulen oben vergleichbar); außerdem beschreibt sie ihr School Apolytirion. Das sind Angaben der Schule in Larnaka, keine Aussage über jede Schule mit ähnlichem Namen.
 
-> „Bei Trinity wechseln in letzter Zeit nicht wenige von Island hin — offenbar läuft nicht alles glatt."
+## Wie vergleiche ich die Gesamtkosten?
 
-> „Ich persönlich empfehle Trinity sehr — meiner Meinung nach die beste Schule Zyperns."
+Fordern Sie von jeder Schule ein schriftliches Angebot für **dasselbe Schuljahr, Alter und Programm** an. Vergleichen Sie Schulgeld zusammen mit Anmeldegebühr, Kaution, Büchern, Uniform, Prüfungen, Mittagessen, Transport, Lernförderung, Aktivitäten und gegebenenfalls Internat. Fragen Sie, welche Kosten Pflicht sind und ob Zahlungen erstattet oder übertragen werden können.
 
-> „Unser Sohn ist bei Trinity und insgesamt läuft alles hervorragend. Das ist auch eine IB-Schule."
+Die [Gebührenseite von Island](https://isl.cy/fees) verlinkt die Liste für den Campus Palodia für **2026–2027** und sagt, das angezeigte Schulgeld enthalte einen **Nachlass von 30 %, bis der dauerhafte Campus fertig ist**. Klären Sie diese Bedingung und den für Sie geltenden Betrag, statt den beworbenen Preis als dauerhaft anzusehen.
 
-**Sommercamps:**
+Das PASCAL-Beispiel von 9.300 € oben gilt für eine Jahrgangsstufe an einem Standort. Es zeigt weder ein landesweites Minimum oder Maximum noch ein „typisches“ Schulgeld privater Schulen. Für Camps und Zusatzprogramme fordern Sie das Angebot mit Datum für die konkrete Session, das Alter, die Stunden und die enthaltenen Leistungen an.
 
-| Camp | Alter | Preis | Zeitraum |
-|------|-------|-------|----------|
-| Star Camp | 8–13 Jahre | €999 | Juli |
-| Cinema Camp | 11–16 Jahre | €1.490 | Juli |
-| Kids Science Camp | 5–8 Jahre | €499 | Juli |
-| Art City Camp | — | — | — |
+## Wie bewerte ich Bewertungen und Ruf?
 
-**Website:** [trinity.cy](https://trinity.cy/)
+Die Erfahrung einzelner Eltern ist ein persönlicher Bericht. Fragen Sie, wann es war, welchen Standort und welche Jahrgangsstufe es betraf und ob es zu den Bedürfnissen Ihres Kindes passt. Prüfen Sie praktische Angaben bei der Schule.
 
----
+Besuchen Sie die Schulen Ihrer engeren Wahl und fragen Sie nach Unterricht, Förderung, Kinderschutz, Fächerangebot und dem Umgang mit Beschwerden. Prüfen Sie den Schulweg von Ihrem Wohnort zur relevanten Uhrzeit. Machen Sie aus anonymen Kommentaren, Wechselgeschichten und Schulwerbung kein unabhängiges Ranking.
 
-### Pascal (Nikosia, Limassol)
+Klären Sie Aufnahme- und Wechselbedingungen, bevor Sie zahlen oder eine andere Schule verlassen. Fragen Sie nach Einstufung, freien Plätzen und Warteliste. Bitten Sie um einen Besuch oder eine Führung, statt anzunehmen, dass jede Schule einen Tag der offenen Tür hat.
 
-**Typ:** Privatschule
+## Was ist mit staatlichen Schulen?
 
-**Besonderheiten:**
-- Mehrere Standorte (Nikosia, Limassol)
-- Guter Ruf bei den Abschlussklassen
-- Wechsel zwischen Standorten möglich
+Laut [Informationen des Ministeriums zur Grundschule](https://www.moec.gov.cy/dde/en/infoserv_primary_general_information.html) ist der Besuch der staatlichen Grundschule für in Zypern lebende Kinder aller Nationalitäten kostenlos und Pflicht, unabhängig vom Aufenthaltsstatus. Klären Sie Schulbezirk, Klasseneinstufung und Sprachförderung mit der Schule. Alter und Anmeldebedingungen finden Sie im [Leitfaden zur Bildung](/de/life/schools-education-cyprus/).
 
-**Aus der Praxis:**
+## Häufige Fragen
 
-> „Der Sohn macht seinen Abschluss an Pascal Nicosia, möchte aber aus bestimmten Gründen nach Limassol umziehen. Als schnelle Lösung — Wechsel zu Pascal Limassol."
+### Was ist die beste Privatschule auf Zypern?
 
----
+Wählen Sie nach Alter, Sprachkenntnissen, Fächern, Förderung und Budget Ihres Kindes. Dieser Leitfaden vergleicht veröffentlichte Programme und Gebühren; er erstellt kein Ranking. Besuchen Sie die Schulen Ihrer engeren Wahl und prüfen Sie den konkreten Standort und die Jahrgangsstufe.
 
-### Foley's Grammar School
+### Was kostet die Pascal-Schule auf Zypern?
 
-**Typ:** Privatschule
+PASCAL veröffentlicht getrennte Gebührenlisten nach Standort und Stufe. In der Liste der Lefkosia Secondary School für 2026–2027 steht für Year 1 ein Schulgeld von 9.300 €, dazu kommen weitere Kosten und Ausnahmen. Das ist ein Beispiel mit Datum, kein Preis für alle PASCAL-Schüler; fragen Sie das vollständige Angebot für Ihren Fall an.
 
-**Was gesagt wird:**
-- Gute Ergebnisse bei Oberstufenschülern
-- Die Schule ist beliebt — es gibt Anfragen für Empfehlungen
+### Was ist der Unterschied zwischen Island School und Trinity?
 
-> „Die Tochter wurde mit ihm zum Top Performer bei Foley's und schreibt Sonette im Shakespeare-Stil auf Englisch."
-
----
-
-### Heritage Private School
-
-**Typ:** Privatschule
-
-Wird als Alternative in der Liste der Schulen in [Limassol](/de/life/limassol-stadtteile-guide-2026/) erwähnt.
-
----
-
-### American Academy
-
-**Typ:** Amerikanisches Programm
-
-Wird als eine der Optionen zur Prüfung erwähnt.
-
----
-
-### Grammar School
-
-**Typ:** Privatschule
-
-Bietet Sportabteilungen an (z.B. Junior Grammar School für sportliche Aktivitäten).
-
----
-
-### Silverline School
-
-Wird in der Schulauswahl als Option erwähnt.
-
-## Worauf sollte ich bei der Auswahl achten?
-
-### Lehrprogramm
-
-| Schule | Programm |
-|--------|----------|
-| Island School | IB |
-| Trinity | IB |
-| Pascal | Britisch/Zypriotisch |
-| Foley's | Britisch |
-| American Academy | Amerikanisch |
-
-### Worauf Sie achten sollten
-
-1. **IB vs. britisches Programm** — für ein Studium in Europa/USA ist IB besser
-2. **Lage** — Fahrtzeit ist wichtig
-3. **Eltern-Community** — wie aktiv sie ist
-4. **Schulwechsel** — wie einfach ein Wechsel ist
-5. **Sommerprogramme** — gibt es Feriencamps?
-
-## Welche praktischen Tipps gibt es?
-
-### Wie Sie wählen
-
-1. **Besuchen Sie den Open Day** — alle Schulen veranstalten Tage der offenen Tür
-2. **Sprechen Sie mit Eltern** — fragen Sie in Expat-Chats
-3. **Berücksichtigen Sie das Alter** — für Jüngere ist die Atmosphäre wichtiger, für Ältere die Ergebnisse
-4. **Prüfen Sie die Warteliste** — bei Top-Schulen kann es Wartelisten geben
-6. **Auf gov.cy verifizieren** — Regeln und Öffnungszeiten ändern sich. Die offizielle Website ([gov.cy](https://www.gov.cy/)) ist die verlässlichste Quelle
-7. **Saisonalität beachten** — im Sommer haben viele Einrichtungen verkürzte Öffnungszeiten. Winterfahrplan: 07:30–14:30
-8. **Telegram-Kanäle nutzen** — Fragen stellen und Antworten von erfahrenen Expats in unserem [Kanal](https://t.me/expatscy) erhalten
-9. **Aktenzeichen anfordern** — bei jedem Behördenbesuch eine Fallnummer (case number) zur Nachverfolgung verlangen
-
-### Telegram-Communities
-
-Für Schuldiskussionen gibt es separate Chats:
-- Founders CY Family & Children — für Unternehmer
-- Allgemeine Expat-Chats
-
-### Kosten
-
-Privatschulen auf Zypern kosten je nach Niveau und Programm **€5.000 bis €15.000+** pro Jahr.
-
-## Welche Alternativen gibt es?
-
-### Staatliche Schulen
-
-- **Kostenlos** für Residenten
-- Unterricht auf **Griechisch**
-- Geeignet, wenn Sie langfristig bleiben wollen
-
-### Internationale Schulen mit anderen Programmen
-
-- Verschiedene Programme verfügbar
-- Für Familien, die in ein bestimmtes Land zurückkehren möchten
-
----
-
-Die Schulwahl ist eine individuelle Entscheidung. Trinity und Island School sind führend für IT-Unternehmerfamilien, Pascal ist eine bewährte Option mit mehreren Standorten. Besuchen Sie die Schulen persönlich, bevor Sie eine Entscheidung treffen.
-
-Weiterführende Informationen: [Schulen auf Zypern](/de/life/schools-education-cyprus/) · [internationale Schulen](/de/life/internationale-schulen-zypern-ueberblick/) · [Lebenshaltungskosten](/de/life/lebenshaltungskosten-zypern-leitfaden/).
-
-
-## Welche wichtigen Hinweise gibt es?
-
-- **Sommeröffnungszeiten** — von Juni bis September arbeiten viele Ämter und Geschäfte mit verkürzten Zeiten. Mittagspause: 13:00–16:00 (besonders in kleineren Orten)
-- **Sprache** — in Behörden wird fast überall Englisch gesprochen. In Gemeindeämtern kleinerer Städte kann etwas Griechisch nötig sein
-- **Transport** — öffentlicher Nahverkehr ist begrenzt. Limassol und Nicosia haben Busnetze, aber für komfortables Leben ist ein Auto unerlässlich. Siehe: [Führerschein auf Zypern](/de/life/driving-license-cyprus/)
-- **Notfallnummern** — 112 (allgemein), 199 (Feuerwehr), 1400 (Rettungsdienst). Nicht-Notfälle: 1420 (GeSY-Hotline)
-- **Klimaanpassung** — Sommer (Juni–September) sind heiß: 35–40°C. Klimaanlage ist unverzichtbar. Die Stromrechnung kann sich im Sommer verdrei- bis vervierfachen
-
----
-
-## Quellen
-
-- [Ministry of Education](https://www.moec.gov.cy/en/schools_info.html) — gov.cy
-- [Secondary Education Department](https://www.moec.gov.cy/dme/en/index.html) — gov.cy
+Das IB-Verzeichnis führt bei Island die Programme Primary Years, Middle Years, Diploma und Career-related auf. Bei Trinity sind es Middle Years und Diploma; die Diploma-Autorisierung von Trinity stammt vom 13. März 2026. Prüfen Sie, welches Programm in welcher Sprache für die Stufe Ihres Kindes angeboten wird.

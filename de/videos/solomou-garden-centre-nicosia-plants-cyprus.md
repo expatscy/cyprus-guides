@@ -1,7 +1,7 @@
 ---
 type: "videos"
 title: "Solomou: ein Gartencenter bei Nikosia"
-description: "Ein Rundgang durch das Solomou Garden Centre bei Nikosia: Pflanzen, Töpfe, Drainage, kostenlose Lieferung und Umtopfen und eine drei Meter hohe Bougainvillea für einen windigen Balkon. Plus Pflegetipps."
+description: "Rundgang durch das Solomou Garden Centre bei Nikosia: Pflanzen, Töpfe, Drainage, kostenlose Lieferung, Umtopfen und eine hohe Bougainvillea für den Balkon."
 slug: "solomou-garden-centre-nicosia-plants-cyprus"
 date: "2026-05-24"
 author: "Katerina Bletsch"

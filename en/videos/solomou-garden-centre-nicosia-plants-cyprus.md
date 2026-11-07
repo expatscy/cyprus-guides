@@ -1,7 +1,7 @@
 ---
 type: "videos"
 title: "Solomou: a garden centre near Nicosia"
-description: "A walk through Solomou Garden Centre near Nicosia: plants, pots, drainage, free delivery and repotting, and a three-metre bougainvillea for a windy balcony. Plus bougainvillea care."
+description: "A walk through Solomou Garden Centre near Nicosia: plants, pots, drainage, free delivery and repotting, and a tall bougainvillea for a windy balcony."
 slug: "solomou-garden-centre-nicosia-plants-cyprus"
 date: "2026-05-24"
 author: "Katerina Bletsch"

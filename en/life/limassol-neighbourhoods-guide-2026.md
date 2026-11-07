@@ -3,7 +3,7 @@ slug: "limassol-neighbourhoods-guide-2026"
 title: "Limassol 2026: Neighbourhoods & Prices"
 description: "Neighbourhood guide to Limassol: rent, schools, communities. Which area for families, retirees, remote workers. Real prices April 2026, GBP equivalents."
 date: 2026-04-09
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -24,11 +24,11 @@ faqSchema:
   - question: "Where do British expats live in Limassol?"
     answer: "The main British areas are Germasogeia (both Tourist Area and the Village), Agios Tychonas, and Columbia. British schools in the area include Foley's, Heritage, PASCAL English, and The Grammar School. There is a well-established British community with social clubs, quiz nights, and charity groups. Paphos is the alternative if Limassol feels too expensive."
   - question: "How does Limassol rent compare to the UK?"
-    answer: "A one-bed in Limassol centre (1,292 EUR, roughly 1,105 GBP) is comparable to UK regional cities but 40-50% cheaper than London. Two-bed flats range from 900-3,200 EUR (770-2,735 GBP). For UK retirees, the full State Pension (roughly 1,070 EUR/month) covers rent in budget areas like Mesa Geitonia or Zakaki but not in premium neighbourhoods."
+    answer: "A one-bed in Limassol centre (1,292 EUR, roughly 1,111 GBP) is comparable to UK regional cities but 40-50% cheaper than London. Two-bed flats range from 900-3,200 EUR (roughly 774-2,752 GBP). For UK retirees, the full new State Pension (GBP 241.30/week, about GBP 1,046/month, roughly EUR 1,216; gov.uk, checked 2026-11-07) covers rent in budget areas like Mesa Geitonia or Zakaki but not in premium neighbourhoods."
   - question: "What are the main problems with living in Limassol?"
     answer: "Traffic is the biggest issue: 100,000 cars per day on the road through Agios Athanasios, with the Northern Bypass under construction (2026). Parking in the centre: 80-120 EUR/month. No metro and unreliable public transport. Rent is the highest on Cyprus, rising 8-12% per year. Summers are hot (30-33C) but humidity is lower than Paphos."
 ---
-> **Short answer:** Limassol's best areas for expats are Germasogeia (beach, schools), Agios Athanasios (affordable, families), and the Historic Centre (walkable, vibrant). Rent ranges from EUR 800-2,500/month.
+> **Short answer:** Limassol's best areas for expats are Germasogeia (beach, schools), Agios Athanasios (affordable, families), and the Historic Centre (walkable, vibrant). Rent ranges from EUR 700-3,200/month depending on area and bedrooms.
 
 
 Limassol is the business capital of Cyprus and the island's second-largest city (280,000 in the district, 108,000 in the municipality). It is the hub for tech companies, shipping, and the largest international expat community on the island. But it also has the highest rents in Cyprus -- and choosing the wrong neighbourhood can make or break your experience.
@@ -103,7 +103,7 @@ The premium neighbourhood, east of the city centre. Villas with sea views. Close
 **Pros:** Best views in Limassol, peaceful, close to private hospitals, very safe.
 **Cons:** Most expensive rents in the city, car essential, few shops and restaurants, far from the centre.
 
-> **For UK retirees:** If you are used to living in the Cotswolds or a quiet Home Counties village and want the Cyprus equivalent -- peaceful, upmarket, with good medical access -- Agios Tychonas is where to look. The full UK State Pension (~GBP 920/month) will not cover rent here alone, but combined with a private pension or savings, it is a very comfortable place to retire.
+> **For UK retirees:** If you are used to living in the Cotswolds or a quiet Home Counties village and want the Cyprus equivalent -- peaceful, upmarket, with good medical access -- Agios Tychonas is where to look. The full UK State Pension (~GBP 1,046/month) will not cover rent here alone, but combined with a private pension or savings, it is a very comfortable place to retire.
 
 ### City Centre / Old Town
 
@@ -136,7 +136,7 @@ Central suburb. The most affordable prices while still being close to the centre
 **Pros:** Cheap, central location, supermarkets.
 **Cons:** No sea view, less attractive architecture, smaller English-speaking community (Greek is more useful here).
 
-> **Budget tip:** For UK retirees on the State Pension alone (~GBP 920/month, roughly EUR 1,070), Mesa Geitonia is one of the few Limassol neighbourhoods where rent is manageable. A one-bed at EUR 700-1,000 leaves EUR 70-370 for other expenses. If that feels tight, Paphos offers more breathing room.
+> **Budget tip:** For UK retirees on the State Pension alone (~GBP 1,046/month, roughly EUR 1,216), Mesa Geitonia is one of the few Limassol neighbourhoods where rent is manageable. A one-bed at EUR 700-1,000 leaves roughly EUR 215-515 for other expenses. If that feels tight, Paphos offers more breathing room.
 
 ### Zakaki
 
@@ -343,7 +343,7 @@ According to [e-Kalathi](https://www.gov.cy/en/service/e-kalathi/), the differen
 | Retirees | Agios Tychonas / Ypsonas | 800-2,200 | 690-1,890 |
 | Digital nomad (walkable) | Centre (no car) / Tourist Area | 1,000-1,600 | 860-1,375 |
 
-> **UK pension check:** The full UK State Pension (2025/26: GBP 221.20/week = ~GBP 960/month = ~EUR 1,115/month) covers rent in the budget neighbourhoods (Mesa Geitonia, Zakaki, Pano Polemidia) with a little left over. For mid-range or premium areas, you will need a private pension, savings, or other income. A couple with two full State Pensions (~EUR 2,230/month) can live comfortably in Agios Athanasios or Ypsonas. For detailed retirement budgets, see our [retiring in Cyprus guide](/en/life/retiring-in-cyprus-guide/).
+> **UK pension check:** The full UK State Pension ([GBP 241.30/week](https://www.gov.uk/new-state-pension/what-youll-get), checked 2026-11-07, = ~GBP 1,046/month = ~EUR 1,216/month) covers rent in the budget neighbourhoods (Mesa Geitonia, Zakaki, Pano Polemidia) with a little left over. For mid-range or premium areas, you will need a private pension, savings, or other income. A couple with two full State Pensions (~EUR 2,430/month) can live comfortably in Agios Athanasios or Ypsonas. For detailed retirement budgets, see our [retiring in Cyprus guide](/en/life/retiring-in-cyprus-guide/).
 
 ---
 

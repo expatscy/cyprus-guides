@@ -26,7 +26,6 @@ faqSchema:
 
 > **מקורות רשמיים:**
 > - [U.S. Embassy Cyprus — Visas](https://cy.usembassy.gov/visas/) — מידע על ויזות
-> - [Visa Appointment Service](https://cy.usembassy.gov/visas/) — הזמנת ראיון
 > - [Tourism & Business Visas](https://cy.usembassy.gov/tourism-and-business-visas) — ויזות B1/B2
 > - [Visa Waiver Travel for Israeli Citizens](https://travel.state.gov/content/travel/en/News/visas-news/visa-waiver-travel-for-israeli-citizens.html) — Department of State
 > - [ESTA](https://esta.cbp.dhs.gov/esta/) — מערכת ESTA הרשמית

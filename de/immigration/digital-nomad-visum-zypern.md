@@ -1,9 +1,9 @@
 ---
 slug: "digital-nomad-visum-zypern"
 title: "Digital Nomad Visum Zypern 2026"
-description: "Vollstaendiger Leitfaden zum Digital Nomad Visum in Zypern: Voraussetzungen, Dokumente, Antragsverfahren, steuerliche Aspekte und Tipps für Remote-Arbeiter."
+description: "Leitfaden zum Digital Nomad Visum in Zypern: Voraussetzungen, Dokumente, Antragsverfahren, Steuern und Tipps für Remote-Arbeiter aus Nicht-EU-Ländern."
 date: 2026-02-22
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -15,215 +15,181 @@ tags:
 draft: false
 translationKey: "digital-nomad-visa-kipr"
 faqSchema:
-  - question: "Können Deutsche das Digital Nomad Visum für Zypern beantragen?"
-    answer: "Nein. Das Digital Nomad Visum ist nur für Nicht-EU-Bürger. Deutsche genießen als EU-Bürger Freizügigkeit und können ohne Visum in Zypern leben und remote arbeiten. Sie benötigen lediglich einen Yellow Slip (Anmeldebescheinigung)."
-  - question: "Was kostet das Digital Nomad Visum für Zypern?"
-    answer: "Die Antragsgebühr beträgt 70 € plus 70 € für die Karte. Voraussetzung ist ein monatliches Nettoeinkommen von mindestens 3.500 € (Einzelperson) bzw. 4.200 € für Paare. Das Kontingent wurde 2025 auf 1.000 Genehmigungen pro Jahr verdoppelt."
-  - question: "Muss ich als Digital Nomad in Zypern Steuern zahlen?"
-    answer: "Das Visum selbst schafft kein Sondersteuerregime. Bei Steuerresidenz gelten die normalen PIT-Stufen 2026: 0% bis 22.000 € und bis zu 35%. Non-Dom befreit bis zu 17 Jahre von SDC auf Dividenden und Zinsen."
+  - question: "Welches Mindesteinkommen braucht man für das Digital Nomad Visum Zypern?"
+    answer: "Sie brauchen ein stabiles Einkommen aus dem Ausland von mindestens 3.500 € pro Monat nach Steuern und Beiträgen. Für Ehepartner oder eingetragene Lebenspartner erhöht sich die Schwelle um 20 %, für jedes Kind um 15 %. Verlangt werden detaillierte Kontoauszüge der letzten sechs Monate und Einkommensnachweise; wenn sich das Nettoeinkommen nicht anders belegen lässt, ist eine eidesstattliche Erklärung nötig."
+  - question: "Wie lange kann ich mit dem Digital Nomad Visum in Zypern bleiben?"
+    answer: "Die erste Genehmigung gilt ein Jahr und kann um bis zu zwei weitere Jahre verlängert werden. Das offizielle Programm hat eine Obergrenze von 500 Genehmigungen, die am 3. März 2022 von 100 erhöht wurde. Ein Jahreskontingent nennt das Programm nicht."
+  - question: "Zählt die Zeit mit dem Digital Nomad Visum für die zyprische Staatsbürgerschaft?"
+    answer: "Das aktuelle Staatsbürgerschaftsgesetz schließt den Aufenthalt als Digital Nomad nicht ausdrücklich aus. Der Aufenthalt muss die gesetzlichen Anforderungen und die Pflicht zur körperlichen Anwesenheit erfüllen, und alle weiteren Voraussetzungen der Einbürgerung gelten weiter. Die verkürzte Aufenthaltsdauer verlangt zusätzlich eine qualifizierte Anstellung bei einem Unternehmen; das Digital-Nomad-Visum allein reicht dafür nicht."
+howtoSchema:
+  name: "So beantragen Sie das Digital Nomad Visum in Zypern"
+  description: "Schritt-für-Schritt-Anleitung zum Digital Nomad Visum Zypern für Remote-Arbeiter und Freiberufler"
+  estimatedCost: "140"
+  steps:
+    - name: "Rechtmäßig einreisen oder den bestehenden rechtmäßigen Aufenthalt nutzen"
+      text: "Nutzen Sie ein Touristenvisum, wenn eines nötig ist, oder die visumfreie Einreise, wenn Sie dazu berechtigt sind. Stellen Sie den Antrag innerhalb von drei Monaten nach der Einreise; wer sich bereits mit einem anderen Status rechtmäßig in Zypern aufhält, kann ebenfalls beantragen."
+    - name: "Erforderliche Dokumente vorbereiten"
+      text: "Nutzen Sie die offizielle Checkliste für Ihre Beschäftigungsart und für Familienmitglieder. Die erste Checkliste umfasst einen Reisepass, der ab Antragstellung mindestens drei Monate gültig ist, Verträge und Einkommensnachweise, eine Versicherung nach Plan A, Wohnnachweis, ein Führungszeugnis und medizinische Tests."
+    - name: "Antrag bei der Migrationsbehörde einreichen"
+      text: "Reichen Sie den vollständigen Antrag persönlich oder über einen Bevollmächtigten bei der Migrationsbehörde in Nikosia ein. Die Ausstellung der Genehmigung kostet 70 €, dazu 70 € nur, wenn die erste Eintragung im Ausländerregister nötig ist; die Schätzung von 140 € deckt diese beiden amtlichen Gebühren."
+    - name: "Biometrische Daten abgeben"
+      text: "Laut Programmseite können biometrische Daten bei der Antragstellung oder danach bei der Migrationsbehörde oder einer Polizeidienststelle für Ausländer und Migration im Bezirk abgegeben werden. Bringen Sie ein gültiges Reisedokument und die Antragsbestätigung mit. Kinder unter sechs Jahren geben nur ein Foto ab."
+    - name: "Auf die Entscheidung warten"
+      text: "Die Migrationsbehörde nennt eine Bearbeitungszeit von fünf bis sieben Wochen. Das ist eine veröffentlichte Schätzung, keine gesetzliche Frist und keine Garantie für rechtmäßigen Aufenthalt während der Wartezeit; klären Sie Ihre Aufenthaltsnachweise für diese Zeit mit der Behörde."
+    - name: "Aufenthaltstitel erhalten"
+      text: "Bei Genehmigung folgen Sie den Abholhinweisen in der Benachrichtigung. Die erste Aufenthaltsgenehmigung gilt ein Jahr und kann um bis zu zwei weitere Jahre verlängert werden."
 ---
-> **Kurzantwort:** Das Digital Nomad Visum gilt für Nicht-EU-Bürger mit Fernarbeit-Einkommen ab 3.500 EUR/Monat. Gueltigkeit: 1 Jahr, verlaengerbar auf 3 Jahre.
 
-Zypern hat das Digital Nomad Visum 2022 eingefuehrt und das jaehrliche Kontingent im Oktober 2025 auf 1.000 Genehmigungen verdoppelt. Hier finden Sie alles zu Voraussetzungen, Dokumenten, Antragsverfahren, Steuern und praktischen Tipps.
+> **Kurzantwort:** Das Digital Nomad Visum verlangt ein stabiles Einkommen aus dem Ausland von mindestens 3.500 € pro Monat nach Steuern und Beiträgen. Es gilt ein Jahr und kann um bis zu zwei weitere Jahre verlängert werden. Das Programm hat eine Obergrenze von 500 Genehmigungen.
 
-> **Offizielle Quellen:**
-> - [Cyprus Digital Nomad Visa Scheme](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/) — Regierungsbekanntmachung
-> - [Stellvertretendes Migrationsministerium (MIP)](https://www.gov.cy/mip-md/en/) — Offizielle Programmseite
-> - [Stellvertretendes Migrationsministerium](https://www.gov.cy/mip-md/en/) — Hauptwebsite
+Das Digital Nomad Visum erlaubt Staatsangehörigen von Nicht-EU/EWR-Ländern, in Zypern zu leben und per Fernarbeit für Arbeitgeber oder Kunden im Ausland zu arbeiten. Die [aktuelle Seite der Migrationsbehörde](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/) nennt weiterhin eine **Obergrenze von 500 Genehmigungen**, die am 3. März 2022 von 100 erhöht wurde. EU-Bürger brauchen dieses Visum nicht.
 
-## Wer kann sich bewerben?
+## Wer kann den Antrag stellen?
 
-Das Programm richtet sich an **Staatsangehoerige von Nicht-EU/EWR-Laendern**, die:
+Das Programm richtet sich an **Staatsangehörige von Nicht-EU/EWR-Ländern**, die:
 
-- **Remote** mittels Telekommunikationstechnologie arbeiten
-- Dienstleistungen für Arbeitgeber oder Kunden **ausserhalb Zyperns** erbringen
-- Über ein stabiles monatliches Einkommen verfuegen
+- mit Telekommunikationstechnik aus der Ferne arbeiten,
+- für einen im Ausland registrierten Arbeitgeber arbeiten oder als Selbstständige Kunden im Ausland betreuen,
+- ein stabiles monatliches Nettoeinkommen von mindestens **3.500 €** nach Steuern und Beiträgen haben.
 
-**Wichtig:** Die Arbeit für zyprische Unternehmen oder die Bedienung zyprischer Kunden ist unter diesem Visum **untersagt**.
+Die Arbeit für einen in Zypern registrierten Arbeitgeber und Leistungen für Kunden in Zypern sind im Rahmen des Programms **verboten**.
 
-## Welche Anforderungen gelten?
+## Welche Voraussetzungen gelten?
 
 ### Einkommen
 
-| Antragsteller | Monatliches Mindestnettoeinkommen |
+| Antragsteller | Mindest-Nettoeinkommen pro Monat |
 |---------------|----------------------------------|
-| Hauptantragsteller | **3.500 EUR** |
-| + Ehepartner/Partner | **4.200 EUR** (+20%) |
-| + Jedes Kind | **+525 EUR** (+15% der Basis) |
+| Hauptantragsteller | **3.500 €** |
+| Mit Ehepartner/eingetragenem Lebenspartner | **4.200 €** (+20 % der Basis) |
+| Jedes Kind | **+525 €** (+15 % der Basis) |
 
-Das Einkommen muss aus dem Ausland stammen. Nachweis: Gehaltsabrechnungen, Kontoauszuege der letzten 6 Monate.
+Die [offizielle Checkliste für Antragsteller](https://www.gov.cy/app/uploads/sites/174/2025/12/Accompanying-Documents_VIS-Digital-Nomad_19032025.pdf) verlangt Einkommensnachweise und detaillierte Kontoauszüge der letzten sechs Monate, die Einkünfte aus dem Ausland zeigen. Wenn das Nettoeinkommen nicht belegt werden kann, muss eine eidesstattliche Erklärung bestätigen, dass das Einkommen nach Steuern und Beiträgen die geltende Schwelle erreicht.
 
-### Erforderliche Dokumente
+### Dokumente für den Erstantrag
+
+Nutzen Sie die Checkliste für Ihre Situation. Die Checkliste des Hauptantragstellers umfasst:
 
 | Dokument | Hinweise |
-|----------|---------|
-| Gueltiger Reisepass | Mindestens 3 Monate über das Genehmigungsende hinaus gueltig |
-| Arbeitsvertrag oder Kundenvertraege | Fuer die Dauer der Genehmigung; Nachweis der Remote-Arbeit |
-| Arbeitgeberbestaetigung | Erklaerung, dass die Arbeit keinen Bezug zum zyprischen Markt hat |
-| Firmenregistrierungsurkunde | Registrierung des auslaendischen Arbeitgeberunternehmens |
-| Kontoauszuege | 6 Monate, Nachweis eines Nettoeinkommens von 3.500+ EUR |
-| Krankenversicherung | Stationaere + ambulante Abdeckung in Zypern |
-| Mietvertrag oder Eigentumsurkunde | Nachweis einer Unterkunft in Zypern |
-| Polizeiliches Fuehrungszeugnis | Aus dem Staatsangehoerigkeitsland, nicht aelter als 6 Monate |
-| Aerztliche Untersuchung | Roentgenaufnahme der Brust (Tuberkulose); Mantoux-Test für Kinder unter 15 |
-| Heirats-/Geburtsurkunden | Apostilliert und übersetzt (bei Familiennachzug) |
-| Aktueller Lebenslauf | Auf dem neuesten Stand |
+|----------|----------|
+| Reisepass/Reisedokument | Mindestens drei Monate gültig **ab Antragstellung**, dazu die Seite mit der letzten Einreise |
+| Arbeitsvertrag (Angestellte) | Unbefristet oder für mindestens die beantragte Geltungsdauer |
+| Unterlagen des Arbeitgebers (Angestellte) | Bestätigung der Fernarbeit und dass nicht für einen zyprischen Arbeitgeber gearbeitet wird; Registrierung der ausländischen Firma, Kontaktdaten und Status des Antragstellers im Unternehmen |
+| Verträge Selbstständiger | Projekt- oder Dienstleistungsverträge für mindestens die beantragte Geltungsdauer, dazu die Bestätigung der Fernarbeit und dass keine Kunden in Zypern bedient werden |
+| Einkommensnachweis | Geltende Netto-Einkommensschwelle und detaillierte Kontoauszüge über Auslandseinkommen der letzten sechs Monate |
+| Versicherungsbescheinigung | Plan A: stationäre und ambulante Behandlung **und Überführung der sterblichen Überreste** |
+| Wohnnachweis | Eigentumsnachweis oder Mietvertrag für Haus/Wohnung **und eine passende Nebenkostenrechnung** |
+| Original des Führungszeugnisses | Aus dem Herkunftsland oder dem Wohnsitzland, wenn dieses abweicht |
+| Originale der medizinischen Befunde | Bluttests auf HIV, Syphilis, Hepatitis B und C; Röntgenaufnahme des Brustkorbs auf Tuberkulose, von einem Facharzt bestätigt |
+| Eidesstattliche Erklärung | Antragsteller und Familie arbeiten nicht für einen zyprischen Arbeitgeber und betreuen keine Kunden in Zypern |
 
-### Fuer Freiberufler / Selbstaendige
+Das Formular MVIS8 verlangt Dokumente auf Griechisch oder Englisch oder eine beglaubigte Übersetzung in eine dieser Sprachen. Für im Ausland ausgestellte Dokumente nennt es die Anforderungen an Apostille oder diplomatische Legalisierung. Ausnahmen hängen vom Dokument und vom Ausstellungsland ab; siehe den [Apostille-Leitfaden](/de/documents/apostille-documents-cyprus/).
 
-- Vertraege mit auslaendischen Kunden für die Genehmigungsdauer
-- Nachweis der Geschaeftsregistrierung im Ausland
-- Kontoauszuege mit Zahlungseingaengen
+Die Checkliste vom März 2025 erwähnt noch die Stempelung mancher Mietverträge. Laut Steuerbehörde wurde die Stempelsteuer **zum 1. Januar 2026** abgeschafft; Dokumente, die mindestens eine Partei bis zum 31. Dezember 2025 zuerst unterschrieben hat, unterliegen weiter den früheren Regeln.
 
-## Wie läuft das Antragsverfahren ab?
+## Wie läuft das Antragsverfahren?
 
-### Schritt für Schritt
+1. **Reisen Sie rechtmäßig ein**, mit einem Touristenvisum, wenn eines nötig ist, oder visumfrei, wenn Sie dazu berechtigt sind. Das Programm erlaubt den Antrag auch Personen, die sich bereits mit einem anderen Status rechtmäßig aufhalten.
+2. **Bereiten Sie das passende Formular und die Unterlagen der Checkliste vor.** Unvollständige Anträge werden nicht angenommen.
+3. **Stellen Sie den Antrag innerhalb von drei Monaten nach der Einreise**, persönlich oder über einen Bevollmächtigten, bei der Migrationsbehörde in Nikosia. Folgen Sie den Terminhinweisen auf der Programmseite.
+4. **Geben Sie biometrische Daten und Unterschrift ab.** Laut Programmseite ist das bei der Antragstellung oder danach bei der Migrationsbehörde oder einer Polizeidienststelle für Ausländer und Migration im Bezirk möglich, mit einem gültigen Reisedokument und der Bestätigung. Kinder unter sechs Jahren geben nur ein Foto ab. Biometrische Daten werden auch bei der Verlängerung verlangt.
+5. **Warten Sie auf die Prüfung.** Die Behörde nennt eine Bearbeitungszeit von **fünf bis sieben Wochen**. Das ist eine Schätzung, kein garantierter Entscheidungstermin. Melden Sie der Behörde sofort, wenn sich Ihre Daten während der Prüfung ändern.
+6. **Folgen Sie der Benachrichtigung über die Entscheidung.** Das Genehmigungsschreiben erklärt die Abholung; ein Ablehnungsschreiben nennt die Gründe.
 
-1. **Einreise nach Zypern** — mit Touristenvisum oder visumfreier Einreise
-2. **Dokumente vorbereiten** — Uebersetzungen, Apostillen, Versicherung, Mietvertrag
-3. **Antrag einreichen** — persoenlich oder durch einen bevollmaechtigten Vertreter beim [Stellvertretenden Migrationsministerium (MIP)](https://www.gov.cy/mip-md/en/) in Nikosia
-4. **Biometrie abgeben** — Foto + Fingerabdruecke bei der Einreichung
-5. **Auf Entscheidung warten** — 5-7 Wochen (bis zu 2-3 Monate in Spitzenzeiten)
-6. **Genehmigung erhalten** — befristete Aufenthaltserlaubnis für 1 Jahr
+Das allgemeine Formular MVIS8 erwähnt Antragsstellen in den Bezirken und biometrische Daten bei der Antragstellung; die Programmseite beschreibt das Verfahren in Nikosia und die oben genannten zusätzlichen Möglichkeiten für die Biometrie. Folgen Sie den aktuellen Hinweisen für Ihre Kategorie und klären Sie die Abläufe bei der Terminbuchung.
 
-**Frist:** Einreichung innerhalb von 3 Monaten nach der Einreise. Waehrend der Bearbeitung koennen Sie legal im Land bleiben.
+Klären Sie während der Wartezeit mit der Behörde, wie Sie Ihren rechtmäßigen Aufenthalt nachweisen.
 
 ### Gebühren
 
 | Gebühr | Betrag |
-|---------|--------|
-| Antrag / Genehmigungserteilung | **70 EUR** |
-| Eintragung ins Auslaenderregister (erstmalig) | **70 EUR** |
-| Verlaengerung | **70 EUR** |
+|--------|--------|
+| Ausstellung der Genehmigung | **70 €** |
+| Erste Eintragung im Ausländerregister, falls nötig | **70 €** |
+| Verlängerung der Genehmigung | **70 €** |
 
-Gesamtkosten bei Erstantrag: **140 EUR** für den Hauptantragsteller. Jedes Familienmitglied: zusaetzlich 70 EUR.
+Die beiden amtlichen Gebühren für den Hauptantragsteller ergeben **140 €**, wenn die erste Registereintragung nötig ist. Nicht enthalten sind Versicherung, medizinische Tests, Übersetzungen und andere Kosten für Dokumente. Prüfen Sie für jeden mitreisenden Antragsteller die entsprechenden Gebühren für Ausstellung und erste Eintragung.
 
 ## Wie lange gilt das Visum und wie verlängert man es?
 
-- **Erstlaufzeit:** 1 Jahr
-- **Verlaengerung:** bis zu 2 weitere Jahre (maximal **3 Jahre** insgesamt)
-- **Verlaengerungsantrag:** mindestens 1 Monat vor Ablauf einreichen
-- **Kontingent 2025-2026:** 1.000 Genehmigungen pro Jahr (seit Oktober 2025 verdoppelt)
+- **Erste Gültigkeit:** ein Jahr
+- **Mögliche Verlängerung:** um bis zu zwei weitere Jahre
+- **Verlängerungsantrag:** mindestens einen Monat vor Ablauf bei der Migrationsbehörde in Nikosia
 
-### Verlaengerungsbedingungen
+Die Checkliste für die Verlängerung verlangt Verträge, das geltende Nettoeinkommen und Kontoauszüge über sechs Monate, die Versicherung nach Plan A, Wohnnachweis und die Erklärung, nicht in Zypern zu arbeiten. Wenn sich der Arbeitgeber ändert, werden die Bestätigung der Fernarbeit, Registrierungs- und Kontaktdaten und der Nachweis des Angestelltenstatus verlangt; die Bestätigung der Fernarbeit für Selbstständige wird verlangt, wenn sich der Projektvertrag ändert. Ein erneutes Führungszeugnis und erneute medizinische Tests nennt die Checkliste für die Verlängerung nicht.
 
-- Fortgesetzte Remote-Arbeit für auslaendische Kunden/Arbeitgeber
-- Einkommen bleibt bei 3.500+ EUR
-- Wohnsitz in Zypern
-- Gueltige Versicherung und Unterkunft
+## Welche Regeln gelten für Familienmitglieder?
 
-## Was gilt für Familienangehörige?
+Ehepartner, Partner einer eingetragenen Lebenspartnerschaft und **minderjährige Kinder** können Genehmigungen für dieselbe Dauer wie der Hauptantragsteller erhalten. Auf diesem Familienweg dürfen sie in Zypern nicht arbeiten und keine wirtschaftliche Tätigkeit ausüben.
 
-Ehepartner, eingetragene Lebenspartner und minderjaehrige Kinder koennen Aufenthaltsgenehmigungen für denselben Zeitraum erhalten.
+Die [Checkliste für Ehepartner/Partner](https://www.gov.cy/app/uploads/sites/174/2025/12/Acc-docs-spouse-or-partner-_19032025.pdf) verlangt die Heirats- oder Lebenspartnerschaftsurkunde. Die [Checkliste für Kinder](https://www.gov.cy/app/uploads/sites/174/2025/12/Acc-Docs-children_19032025.pdf) verlangt eine Geburtsurkunde und, falls zutreffend, einen Sorgerechtsbeschluss oder die eidesstattliche Erklärung des anderen Elternteils. Beide verlangen Einkommensnachweise des Hauptantragstellers, Versicherung und Wohnunterlagen.
 
-**Einschraenkung:** Familienangehoerige duerfen **nicht arbeiten** und keine wirtschaftliche Tätigkeit in Zypern ausueben. Sie erhalten ausschliesslich ein Aufenthaltsrecht.
+Für den ersten Antrag eines Kindes nennt die Checkliste medizinische Befunde aus dem Herkunfts- oder Wohnsitzland. Kinder unter 15 Jahren machen einen Mantoux-Test statt einer Röntgenaufnahme des Brustkorbs; Kinder unter 16 Jahren brauchen kein Führungszeugnis. Falls zutreffend, sind Nachweise über Anmeldung und Besuch von Schule oder Einrichtung nötig. Die Richtlinie zu Digital Nomads und die aktuelle MVIS8-Kategorie nennen minderjährige Kinder.
 
-Familienantraege werden zusammen mit dem Hauptantragsteller eingereicht.
+## Welche steuerlichen Folgen gibt es?
 
-## Welche steuerlichen Aspekte sind wichtig?
+### Steuerliche Ansässigkeit
 
-### Steuerliche Ansaessigkeit
+Aufenthaltsgenehmigung und steuerliche Ansässigkeit sind getrennte Fragen. Die [Hinweise der Steuerbehörde, aktualisiert am 31. August 2026](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/), wenden diese Tests an:
 
-Das DN-Visum **macht Sie nicht automatisch steuerlich ansaessig**. Die steuerliche Ansaessigkeit wird separat bestimmt:
+- **183-Tage-Regel:** mehr als 183 Tage im Kalender-Steuerjahr in Zypern.
+- **60-Tage-Regel:** Alle vier Bedingungen müssen erfüllt sein: mindestens 60 Tage in Zypern; nicht mehr als 183 Tage in einem anderen Land; ein Geschäft, eine Beschäftigung oder ein Amt in einer in Zypern steuerlich ansässigen Einheit; ein fester Wohnsitz in Zypern, gekauft oder gemietet. Wenn Sie dieses Geschäft, diese Beschäftigung oder dieses Amt im Lauf des Jahres beenden, erfüllen Sie diesen Test für dieses Jahr nicht.
 
-- **183-Tage-Regel:** 183+ Tage in einem Kalenderjahr in Zypern verbracht → steuerlich ansaessig
-- **60-Tage-Regel:** 60+ Tage in Zypern verbracht, nicht mehr als 183 Tage in einem anderen Land, Wohnsitz und wirtschaftliche Verbindungen in Zypern → ebenfalls steuerlich ansaessig
+Ab 2026 wurde die gesonderte Einschränkung zur steuerlichen Ansässigkeit in einem anderen Land aus dem 60-Tage-Test gestrichen. Fernarbeit und eine Digital-Nomad-Genehmigung erfüllen für sich allein nicht alle Bedingungen dieses Tests.
 
-### Einkommensteuersaetze (2026)
+### Einkommensteuersätze (2026)
 
-| Jahreseinkommen (EUR) | Steuersatz |
-|-----------------------|-----------|
-| 0 — 22.000 | 0% |
-| 22.001 — 32.000 | 20% |
-| 32.001 — 42.000 | 25% |
-| 42.001 — 72.000 | 30% |
-| 72.001+ | 35% |
+Diese Grenzsteuersätze gelten für das **jährliche zu versteuernde Einkommen** nach den geltenden Freistellungen und Abzügen, laut dem [Reformleitfaden der Steuerbehörde vom Mai 2026](https://www.gov.cy/media/sites/167/2026/05/%CE%95%CF%80%CE%B5%CE%BE%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%82-o%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82-%CF%84%CE%B7%CF%82-%CF%86%CE%BF%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82-%CE%BC%CE%B5%CF%84%CE%B1%CF%81%CF%81%CF%8D%CE%B8%CE%BC%CE%B9%CF%83%CE%B7%CF%82-%CE%B3%CE%B9%CE%B1-%CF%86%CF%85%CF%83%CE%B9%CE%BA%CE%AC-%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%B1-%CF%80%CE%BF%CF%85-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%86%CE%BF%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CE%AF-%CE%BA%CE%AC%CF%84%CE%BF%CE%B9%CE%BA%CE%BF%CE%B9-%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%85_1105.pdf).
 
-Beim Mindesteinkommen für DN (3.500 EUR/Monat = 42.000 EUR/Jahr): erste 22.000 EUR steuerfrei, 22–32K zu 20% (2.000 EUR), 32–42K zu 25% (2.500 EUR). Steuer gesamt: 4.500 EUR. Effektiver Steuersatz: ca. **10,7%**.
+| Jährliches zu versteuerndes Einkommen (EUR) | Satz |
+|---------------------------------------------|------|
+| 0 — 22.000 | 0 % |
+| 22.001 — 32.000 | 20 % |
+| 32.001 — 42.000 | 25 % |
+| 42.001 — 72.000 | 30 % |
+| ab 72.001 | 35 % |
+
+Die Anforderung des Programms von **netto** 3.500 € pro Monat ist keine Angabe zum zu versteuernden Einkommen. Berechnen Sie damit nicht direkt Ihre Jahressteuer.
 
 ### Non-Dom-Status
 
-Wenn Sie in den letzten 20 Jahren mindestens 17 Jahre lang kein Steueransaessiger in Zypern waren, koennen Sie den **Non-Domiciled-Status** erhalten:
+Ob Sie als Non-Dom gelten können, hängt vom Domicile of Origin und weiteren Regeln ab, die die Steuerbehörde beschreibt. Wenn Sie in den letzten 20 Jahren weniger als 17 Jahre in Zypern steuerlich ansässig waren, beweist das allein noch nicht, dass Sie berechtigt sind. Berechtigte Non-Doms sind von der **Special Defence Contribution (SDC) auf Dividenden und Zinsen** befreit; das heißt nicht, dass sie von allen Steuern und Beiträgen befreit sind. Die SDC auf Mieteinkünfte wurde ab 2026 allgemein abgeschafft.
 
-- **0% auf Dividenden** (statt 5% SDC)
-- **0% auf Zinsertraege**
-- **Mieteinnahmen**: SDC ist seit 2026 für alle abgeschafft; Einkommensteuer kann weiter anfallen
-- Gueltig für **17 Jahre**
+Nutzen Sie den [Non-Dom-Leitfaden](/de/business/non-dom-status-cyprus-60-day-rule/) und klären Sie die nötige Erklärung und Ihre Situation mit der Steuerbehörde.
 
-Das macht Zypern besonders attraktiv für Unternehmer mit passiven Einkommensquellen.
+## Wie funktioniert GeSY?
 
-### 50%-Steuerbefreiung für Gutverdiener
+Die Checkliste für Digital Nomads verlangt eine Versicherungsbescheinigung nach Plan A, die stationäre Behandlung, ambulante Behandlung und die Überführung der sterblichen Überreste abdeckt.
 
-Auslaendische Arbeitnehmer mit einem Einkommen ab **55.000 EUR/Jahr** bei ihrer ersten Beschaeftigung in Zypern koennen eine 50%ige Einkommensteuerbefreiung auf ihr Gehalt erhalten.
+Eine Digital-Nomad-Genehmigung allein begründet keinen Anspruch auf GeSY. Die [Regeln der Krankenversicherungsorganisation](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) verlangen den gewöhnlichen Aufenthalt und eine passende Leistungsberechtigten-Kategorie; für Drittstaatsangehörige zählen die Bedingungen zu Daueraufenthalt, Gleichbehandlung oder Familie. Prüfen Sie einen möglichen Anspruch gesondert: Gehen Sie nicht davon aus, dass diese Genehmigung ihn gibt, und auch nicht, dass jeder Digital Nomad unter allen Umständen ausgeschlossen ist.
 
-## Wie funktioniert GeSY für Digital Nomads?
+## Zählt dieser Aufenthalt für die Staatsbürgerschaft?
 
-Digitale Nomaden haben **keinen Zugang zum GeSY** (dem nationalen Gesundheitssystem). Das bedeutet:
+Das [aktuelle Staatsbürgerschaftsgesetz, Abschnitt 111B](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html), schließt Zeiten mit Studentenerlaubnis und Zeiten als Antragsteller auf internationalen Schutz, Inhaber von subsidiärem Schutz oder Inhaber von vorübergehendem Schutz ausdrücklich aus der Berechnung des Aufenthalts aus. Den Aufenthalt als Digital Nomad schließt es **nicht ausdrücklich aus**.
 
-- **Private Krankenversicherung ist Pflicht** (stationaer + ambulant)
-- Kosten: ca. 500-1.500 EUR/Jahr je nach Abdeckung und Alter
-- Bei schweren Erkrankungen sind nur Privatkliniken verfuegbar
+Das garantiert nicht, dass jeder Tag zählt: Der Aufenthalt muss die gesetzlichen Formalitäten und die Regeln zur körperlichen Anwesenheit erfüllen, und der Antragsteller muss alle weiteren Voraussetzungen der Einbürgerung erfüllen. Die verkürzte Aufenthaltsdauer verlangt zusätzlich eine qualifizierte Anstellung bei einem Unternehmen; das Digital-Nomad-Visum allein reicht dafür nicht.
 
-Wenn Sie spaeter zu einem anderen Aufenthaltstyp wechseln (z. B. Arbeitserlaubnis), kann der GeSY-Zugang möglich werden. Unter dem DN-Visum bleibt die private Versicherung Ihre einzige Option.
-
-## Wie schneidet das Visum im Vergleich ab?
-
-| Aspekt | Digital Nomad | Besuchererlaubnis | Arbeitserlaubnis |
-|--------|---------------|-------------------|-----------------|
-| Mindesteinkommen | 3.500 EUR/Mo | ~2.000 EUR/Mo | Abhaengig vom Vertrag |
-| Maximaler Aufenthalt | 3 Jahre | Verlaengerbar | Verlaengerbar |
-| Arbeit für zyprische Firmen | Nein | Nein | Ja |
-| GeSY-Zugang | Nein | Nein | Ja |
-| Weg zur Staatsbürgerschaft | Zaehlt nicht | Zaehlt | Zaehlt |
-| Antragsort | In Zypern | In Zypern | Vor der Einreise |
-
-## Wie vergleicht es sich mit anderen EU-Visa?
-
-| Land | Mindesteinkommen | Max. Aufenthalt | Steuerbehandlung | Besonderheit |
-|------|-----------------|----------------|-----------------|-------------|
-| **Zypern** | 3.500 EUR/Mo | 3 Jahre | PIT nach 183 Tagen, Non-Dom verfuegbar | Niedrige Steuern, englischsprachig |
-| Portugal | ~3.480 EUR/Mo | 5 Jahre | NHR-Regime 2024 beendet | Weg zur EU-Staatsbürgerschaft |
-| Spanien | ~2.646 EUR/Mo | 5 Jahre | Beckham-Gesetz (24% pauschal) | Grosser Markt, Schengen |
-| Griechenland | 3.500 EUR/Mo | 2 Jahre | 50% PIT-Rabatt für 7 Jahre | Aehnliches Klima |
-| Kroatien | ~3.295 EUR/Mo | 1 Jahr | 0% auf auslaendisches Einkommen | Keine Steuer |
+Lesen Sie den [Leitfaden zur Einbürgerung](/de/immigration/cyprus-citizenship-naturalization/), bevor Sie einen Plan für die Staatsbürgerschaft machen.
 
 ## Welche praktischen Tipps gibt es?
 
-1. **Beantragen Sie bald nach der Ankunft** — das jaehrliche Kontingent von 1.000 Plaetzen kann sich schnell fuellen
-2. **Versicherung frueh abschliessen** — lokale Anbieter (Pitsas, GasanMamo) oder internationale (SafetyWing, Cigna)
-3. **Alle Vertraege und Auszuege aufbewahren** — Sie benoetigen diese für die Verlaengerung
-4. **Die 60-Tage-Regel in Betracht ziehen** — nuetzlich zur Steueroptimierung, wenn Sie Ihr Jahr auf mehrere Laender verteilen
-5. **Bankkonto eröffnen** — Bank of Cyprus oder Eurobank Limited akzeptieren DN-Visum-Inhaber
-6. **Unterkunft vor der Antragstellung sichern** — ein Mietvertrag ist erforderlich
-7. **Non-Dom-Status beantragen** — wenn Sie Dividenden oder passives Einkommen haben
-8. **Mit der Besuchererlaubnis vergleichen** — wenn Sie die Staatsbürgerschaft anstreben, zaehlt das DN-Visum nicht zur Aufenthaltszeit
-
-## Wo finde ich weitere Informationen?
-
-- [Antragsseite (MIP)](https://www.gov.cy/mip-md/en/)
-- [Regierungsbekanntmachung](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/)
-- [Stellvertretendes Migrationsministerium](https://www.gov.cy/mip-md/en/)
-
----
-
-Das Digital Nomad Visum in Zypern ist eine der zugaenglichsten Möglichkeiten, legal in Europa zu leben und remote zu arbeiten. Niedrige Steuersaetze, eine englischsprachige Umgebung, warmes Klima und ein unkompliziertes Verfahren machen Zypern zu einer wettbewerbsfaehigen Wahl unter den europaeischen Digital-Nomad-Programmen. Die wichtigsten Einschraenkungen: Sie duerfen nicht für zyprische Unternehmen arbeiten, und die Zeit mit dem DN-Visum zaehlt nicht für die Staatsbürgerschaft.
-
+- Nutzen Sie die aktuelle offizielle Checkliste für Ihre Beschäftigungsart und für jedes Familienmitglied.
+- Organisieren Sie Versicherung und Wohnnachweis vor der Antragstellung.
+- Bewahren Sie Verträge und detaillierte Einkommensnachweise für die Verlängerung auf.
+- Klären Sie mit der Behörde den rechtmäßigen Aufenthalt, die Terminabläufe und mögliche Ausnahmen von der Legalisierung für einzelne Dokumente.
+- Prüfen Sie steuerliche Ansässigkeit, Non-Dom-Status und Anspruch auf Gesundheitsversorgung getrennt.
 
 ## Was sollte ich noch lesen?
 
 - [Aufenthaltserlaubnis Zypern](/de/immigration/residence-permit-cyprus-guide/)
-- [Besuchererlaubnis](/de/immigration/visitor-permit-cyprus/) — Alternative für Remote-Arbeiter mit Weg zur Staatsbürgerschaft
-- [Visum wechseln](/de/immigration/switching-visa-types-cyprus/) — DN zu Arbeits- oder Besuchererlaubnis wechseln
-- [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/) — DN-Visum zaehlt NICHT für Einbürgerung
-- [Griechisch-Pruefung](/de/immigration/greek-language-exam-citizenship/) — erforderlich für die Einbürgerung
-
----
-
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
-
----
+- [Besuchererlaubnis](/de/immigration/visitor-permit-cyprus/)
+- [Visum wechseln](/de/immigration/switching-visa-types-cyprus/)
 
 ## Quellen
 
-- [Cyprus Digital Nomad Visa Scheme](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/) — gov.cy
-- [Deputy Ministry of Migration (MIP)](https://www.gov.cy/mip-md/en/) — gov.cy
+- [Digital nomads and family members: aktuelles Programm](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/)
+- [Offizielle Formulare und Unterlagen](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/)
+- [Steuerliche Ansässigkeit und Domicile](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
+- [Steuerbehörde: Stempelsteuer](https://www.gov.cy/mof-tax/documents/chartosima/)
+- [GeSY-Anspruchsberechtigung](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility)
+- [Gesetz über das Zivilregister: aktuelle Staatsbürgerschaftsregeln](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)

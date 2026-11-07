@@ -1,9 +1,9 @@
 ---
 slug: "immobilien-larnaca-erschwingliches-zypern"
-title: "Immobilien Larnaca: Stadtteile & Preise"
-description: "Larnaca Immobilienführer: Stadtteile von Mackenzie bis Oroklini, Wohnungs- und Villenpreise, Mieten. Die günstigste Küstenstadt Zyperns."
+title: "Immobilien in Larnaca: Lagen und Kaufprüfungen"
+description: "Immobilien in Larnaca: Lagen am Meer und im Hinterland, Zahlen der Zentralbank für Q4 2025, neue Hafen- und Marina-Pläne und Prüfpunkte vor dem Kauf."
 date: 2026-02-22
-updated: 2026-03-21
+updated: 2026-11-07
 category: "Immobilien"
 author: "Expats Cyprus"
 tags:
@@ -15,190 +15,71 @@ tags:
 draft: false
 translationKey: "nedvizhimost-larnaka-dostupnyy-kipr"
 faqSchema:
-  - question: "Ist Larnaca günstiger als Limassol und Paphos?"
-    answer: "Ja — Larnaca ist die günstigste Küstenstadt Zyperns. Preise 40–50% unter Limassol, 15–25% unter Paphos. 2-Zimmer-Wohnung: €100.000–170.000 (Kauf), €450–750/Monat (Miete). Der Hauptflughafen ist 5 Minuten vom Zentrum. Wachstumspotenzial durch den Marina-Bau (€1,2 Mrd.)."
----
-> **Kurzantwort:** Larnaka ist der guenstigste Immobilienmarkt an der Kueste. 2-Zimmer-Wohnung ab 120.000 EUR, Miete ab 650 EUR/Monat.
-
-Larnaca ist die günstigste Küstenstadt Zyperns: die Preise liegen 40–50 % unter Limassol, und gleichzeitig wächst der Immobilienmarkt am schnellsten auf der Insel (+9–11 % pro Jahr). Der Hauptflughafen Zyperns ist nur 5 Minuten vom Zentrum entfernt, Flamingos am Salzsee und der Bau einer Marina im Wert von €1,2 Mrd. sind im Gange.
-
-> **Offizielle Quellen:**
-> - [DLS — Verkaufsstatistiken](https://portal.dls.moi.gov.cy/en/statistics/) — Daten des Grundbuchamtes
-> - [Central Bank of Cyprus — RPPI](https://www.centralbank.cy/en/publications/financial-stability-report) — Immobilienpreisindex
-> - [Eurostat — House Price Index](https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_q/default/table?lang=en)
-
-## Welche Stadtteile hat Larnaka?
-
-### Premiumlagen an der Küste (€2.000–3.500/m²)
-
-**Mackenzie** — der prestigeträchtigste Stadtteil Larnacas. Breiter Sandstrand (Blue Flag), Bars, Restaurants. Berühmt für die Nähe zur Landebahn — Flugzeuge fliegen direkt über die Köpfe hinweg. Luxuswohnungen. Preise: €3.200–3.500/m² — die höchsten der Stadt. Rendite: 6,5–8,0 %.
-
-**Finikoudes** — die zentrale Palmenpromenade, das Herz des touristischen Larnaca. Blue-Flag-Strand (600 m), Restaurants, Flaniermeile. Preise: €2.000–2.500/m².
-
-**Zone der neuen Marina** — nahe dem Hafen, wo eine Marina für 650 Yachten + Hotels + Wohntürme bis 13 Stockwerke gebaut wird. Wohnungen steigen hier bereits schneller im Preis als im Rest der Stadt. Prognose: +5–8 % Aufschlag nach Fertigstellung.
-
-### Mittlere Lage (€1.700–2.200/m²)
-
-**Drosia** — zentraler Stadtteil, 4 km vom Meer. Fußgängerfreundlich, gute Infrastruktur. Einer der teureren Binnenland-Stadtteile: ~€2.200/m².
-
-**Kamares** — nahe dem Salzsee und dem mittelalterlichen Aquädukt. Wohngebiet, nicht touristisch. Preise: €1.700–1.800/m².
-
-**Stadtzentrum (Agios Nikolaos, Faneromeni)** — Altstadt, Kirche des Heiligen Lazarus, Burg, Einkaufsstraße Ermou. Gentrifizierung. Preise: €2.500–4.000/m² (zentrale Lagen).
-
-**Salzsee-Viertel** — Südwesten, Naturschutzgebiet, Flamingos, Moschee Hala Sultan Tekke. Begrenzte Bebauung, malerische Umgebung.
-
-### Günstige / aufstrebende Lage (€1.300–2.400/m²)
-
-**Oroklini** — gemütliches Dorf 10 km nordöstlich, 2 km vom Meer. 33 Nationalitäten. Beliebt bei Expats. Preise: €2.000–2.300/m² (günstige Projekte ab €1.300).
-
-**Livadia** — rege Bautätigkeit, neue Wohnanlagen. Nahe der Marina-Zone. Gutes Preis-Leistungs-Verhältnis: €2.100–2.400/m².
-
-**Dhekelia Road** — langer Küstenstreifen nach Nordosten (10–20 km). Hotels, Wohnprojekte. Starkes Kapitalwachstum.
-
-**Vergina** — aufstrebender Binnenland-Stadtteil. Günstige Neubauten: ~€1.500–1.650/m².
-
-**Aradippou** — ruhiges Wohngebiet, zweitgrößte Gemeinde. Preise: ~€1.500/m².
-
-**Kiti** — malerisches Dorf, 3 km von der Küste, nahe dem Flughafen. Die niedrigsten Preise in Meeresnähe: €1.300–1.500/m².
-
-**Pervolia** — Villen, Bestandsimmobilien, nahe Flughafen und Küste. Preise: ab €320.000.
-
-## Wie hoch sind die Kaufpreise 2026?
-
-| Typ | Preisspanne | Anmerkung |
-|-----|-------------|-----------|
-| 1-Zimmer-Wohnung | €115.000–210.000 | Kiti/Oroklini ab €115K; Drosia/Marina ab €165–210K |
-| 2-Zimmer-Wohnung | €155.000–380.000 | Livadia ab €155K; Mackenzie €250–380K |
-| 3-Zimmer-Wohnung | €250.000–620.000 | Mackenzie — obere Grenze |
-| Haus / Villa | €320.000–1.000.000 | Abhängig von der Entfernung zum Meer |
-
-**Konkrete Neubau-Beispiele (+ MwSt):**
-
-| Stadtteil | Typ | Fläche | Preis |
-|-----------|-----|--------|-------|
-| Oroklini | 1 Zimmer | 51 m² | €115.000 |
-| Kiti | 1 Zimmer | 52 m² | €115.000 |
-| Livadia | 2 Zimmer | 82 m² | €155.000 |
-| Vergina | 2 Zimmer | 97 m² | €160.000 |
-| Drosia | 1 Zimmer | 57 m² | €165.000 |
-| Marina-Zone | 1 Zimmer | — | €210.000 |
-
-**Median der Stadt:** ~€2.414/m² (Februar 2026).
-
-**Preisentwicklung:** Wohnungen +9,6–11 % pro Jahr, Häuser +5,8–7,3 %. Verkäufe im Januar 2026: 288 Transaktionen (+11 % gegenüber Januar 2025). Anteil ausländischer Käufer: ~48 %.
-
-## Wie hoch sind die Mietpreise?
-
-| Typ | Zentrum | Außerhalb des Zentrums |
-|-----|---------|------------------------|
-| 1 Zimmer | €650–1.000 (Ø €847) | €520–800 (Ø €652) |
-| 2 Zimmer | €950–1.300 (Ø €1.163) | €700–950 |
-| 3 Zimmer | €1.250–2.800 (Ø €1.556) | €900–2.000 (Ø €1.146) |
-| Villa (3 Zi.) | €1.600–2.400 | — |
-
-**Durchschnittliche Stadtmiete:** €1.150–1.277/Monat — die günstigste unter den Küstenstädten Zyperns.
-
-**Kurzzeitvermietung (Hochsaison):** €1.200–1.800/Woche, Auslastung 85–95 % in Küstengebieten (April–Oktober).
-
-## Welche Mietrendite ist zu erwarten?
-
-| Stadtteil | Rendite |
-|-----------|---------|
-| Mackenzie / Marina | 6,5–8,0 % |
-| Zentrum | 5,6–7,4 % |
-| Drosia / Livadia | 5,5–6,5 % |
-| Oroklini | 5,0–6,2 % |
-
-## Wie ist die Infrastruktur?
-
-### Gesundheitsversorgung
-
-- **Larnaca General Hospital** (öffentl.) — Erweiterung um €20 Mio.: neuer Flügel mit 23.500 m². GeSY-System
-- Private Kliniken mit englischsprachigen Ärzten. Private Krankenversicherung: €50–150/Monat
-
-### Schulen
-
-| Schule | Typ | Kosten/Jahr |
-|--------|-----|-------------|
-| American Academy Larnaca | Privat, 11–19 Jahre | €6.000–12.000 |
-| PASCAL English School | Privat, K-12 | — |
-| Staatliche Schulen | Kostenlos, Unterricht auf Griechisch | — |
-
-### Einkaufszentren
-
-- **Metropolis Mall** — eröffnet 2021, 100+ Geschäfte, 1.400 Parkplätze (Zara, Mango, Gant)
-- **ERA Zenon** — internationale Marken
-- **Ermou** — Haupteinkaufsstraße
-- Supermärkte: Lidl, Alphamega, Papantoniou
-
-### Strände
-
-| Strand | Blue Flag | Besonderheiten |
-|--------|-----------|----------------|
-| Finikoudes | Ja | 600 m, Palmenpromenade, flacher Einstieg |
-| Mackenzie | Ja | Breit, Bars, Flugzeuge direkt darüber |
-| CTO Beach | Ja | Familienstrand, Spielplätze, Sport |
-| Faros (Pervolia) | Ja | 15 km südlich, ruhig, Leuchtturm |
-
-### Verkehrsanbindung
-
-- **Flughafen LCA** — 5–10 Min. mit dem Auto, ~70 % des Flugverkehrs Zyperns
-- **Autobahn** — Nikosia 45 Min., Limassol 50 Min.
-- **Bolt** verfügbar
-- **Busse** — günstig (~€1,50), aber selten
-
-## Was sind die wichtigsten Eckdaten?
-
-| Parameter | Wert |
-|-----------|------|
-| Einwohner (Stadt) | ~72.000 |
-| Einwohner (Bezirk) | ~165.500 |
-| Bis Flughafen | 5–10 Min. |
-| Ausländische Einwohner | 30.000+ |
-| Preiswachstum (Wohnungen) | +9,6–11 % pro Jahr |
-| Durchschnittspreis Wohnung | ~€247.000–290.000 |
-| Marina | €1,2 Mrd., Fertigstellung ≈ September 2026 |
-
-### Sehenswürdigkeiten
-
-- **Kirche des Heiligen Lazarus** — 9. Jh., byzantinisch, erbaut über dem Grab des Lazarus
-- **Salzsee** — 2,2 km², bis zu 20.000 Flamingos (November–März). Der einzige schwarze Flamingo weltweit wurde hier gesichtet
-- **Hala Sultan Tekke** — islamisches Heiligtum am Ufer des Salzsees (Moschee von 1817)
-- **Kamares** — mittelalterliches Aquädukt
-- **Burg von Larnaca** — mittelalterliche Burg und Museum
-
-## Welche Vorteile bietet Larnaka?
-
-1. **Günstigste Küstenstadt** — 40–50 % günstiger als Limassol
-2. **Flughafen in 5 Minuten** — Direktflüge in 100+ Richtungen, ideal für Vielreisende
-3. **Am schnellsten wachsender Markt** — Wohnungen +9–11 % pro Jahr, Häuser +6–7 %
-4. **Hohe Mietrendite** — 5–8 % brutto
-5. **Flamingos und Natur** — Salzsee, Küste, einzigartiges Ökosystem
-6. **Entspannter Lebensrhythmus** — weniger hektisch als Limassol
-7. **Marina-Projekt in Entwicklung** — Preistreiber für die kommenden Jahre
-8. **30.000+ Expats** aus 33+ Ländern
-
-## Welche Nachteile hat Larnaka?
-
-1. **Hitze und Feuchtigkeit im Sommer** — 40 °C+, hohe Luftfeuchtigkeit an der Küste
-2. **Hohe Stromkosten** — eine der höchsten in der EU, Klimaanlage €200–400/Monat im Sommer
-3. **Auto notwendig** — Busse fahren, aber selten, besonders in den Vororten
-4. **Verzögerungen bei der Marina** — das €1,2-Mrd.-Projekt wurde gekündigt und umstrukturiert, Termine unsicher
-5. **Weniger Unterhaltung** — nicht die gleiche Auswahl an Restaurants und Nachtleben wie in Limassol
-6. **Begrenzter Arbeitsmarkt** — weniger Stellen als in Nikosia oder Limassol
-7. **Infrastruktur der Vororte** — einige Gebiete (Kiti, Aradippou) befinden sich noch in der Entwicklung
-
+  - question: "Wie schätze ich Preis oder Miete einer Immobilie in Larnaca?"
+    answer: "Nutzen Sie datierte Vergleichsobjekte und eine fachliche Bewertung für Lage, Größe, Zustand und Eigentumsstatus. Der Bericht der Zentralbank von Zypern für das 4. Quartal 2025 verzeichnet für Larnacas kombinierten Wohnimmobilien-Preisindex ein Plus von 8,3 % im Jahresvergleich. Das ist eine Veränderung in der Vergangenheit: Sie belegt weder einen aktuellen Preis in Euro noch eine Miete oder eine künftige Rendite."
+  - question: "Was sollte ich in Strandnähe prüfen?"
+    answer: "Offizielle Tourismusführer beschreiben die Promenade Foinikoudes und die Einrichtungen am Mckenzie-Strand. Besuchen Sie das Objekt zu verschiedenen Tageszeiten und prüfen Sie Zugang, Parkplatz, Lärm, Gebäudezustand und Ihre täglichen Wege. Eine touristische Beschreibung sagt nichts über den Investitionswert einer Immobilie aus."
+  - question: "Was besagte die überarbeitete Ankündigung zu Hafen und Marina?"
+    answer: "Am 15. Mai 2026 kündigte das Verkehrsministerium an, dass die Zyprische Hafenbehörde die Verantwortung für das Projekt übernimmt. Es umfasst den Ausbau und die Erweiterung der Marina für rund 200 Boote und die Entwicklung von etwa 50.000 Quadratmetern Land. Die Ankündigung sah einen späteren Fahrplan vor. Eine Fertigstellung im September 2026 oder einen garantierten Preisaufschlag für Immobilien bestätigte sie nicht."
 ---
 
-Mehr zu Steuern beim Kauf finden Sie in unserem [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt). Zum Kaufprozess — im Artikel [Immobilienkauf auf Zypern](/de/property/buying-property-cyprus). Zu Investitionen — im Artikel [Immobilieninvestitionen auf Zypern](/de/property/immobilieninvestition-zypern-leitfaden). Fragen? Schreiben Sie uns im [Telegram-Kanal](https://t.me/expatscy).
+Vergleichen Sie das konkrete Objekt und Ihre täglichen Wege. Gehen Sie nicht davon aus, dass eine ganze Stadt, ein Vorort oder ein Küstenviertel einen einheitlichen Preis oder Lebensstil hat. Dieser Leitfaden stützt sich auf datierte Primärdaten zum Markt und auf offizielle Beschreibungen. Die Quellen wurden am **3. Oktober 2026** geprüft.
 
+## Was zeigen die datierten Marktdaten?
 
-> **Immobilie auf Zypern gesucht?** [Vergleichen Sie 1.000+ Objekte direkt vom Bauträger auf research.cy](https://research.cy/search/) — ohne Makler, mit Preishistorie und Bezirksanalyse.
+Der [Bericht der Zentralbank von Zypern für Q4 2025](https://www.centralbank.cy/images/media/pdf/RPPI_2025Q4_ENG.pdf) verzeichnet für Larnacas kombinierten Preisindex für Häuser und Wohnungen ein Plus von **8,3 % im Jahresvergleich**, und zwar **Q4 2025 gegenüber Q4 2024**. Es ist ein historischer, auf Bewertungen beruhender Index. Er ist kein aktueller Angebotspreis pro Quadratmeter, kein Verkaufspreis einer bestimmten Wohnung und keine Prognose.
 
----
+Wenn Sie Angebote vergleichen, notieren Sie Datum, genaue Lage, Schlafzimmer, Flächendefinition, Zustand, Titel- und Genehmigungsstatus, Mehrwertsteuerbehandlung sowie enthaltene Parkplätze und Abstellräume. Trennen Sie Angebotspreise von vereinbarten Mieten, fachlichen Bewertungen und abgeschlossenen Verkäufen. Holen Sie Vergleichsdaten ein, bevor Sie einem Studio, einer Wohnung oder einer Villa einen Preis oder eine Miete zuordnen.
 
-## Quellen
+Datierte Renditewerte nach Segment und hypothetische Cashflow-Rechnungen finden Sie im [Investitionsleitfaden](/de/property/immobilieninvestition-zypern-leitfaden/). Schätzen Sie Leerstand, Reparaturen, Finanzierung, Steuern und Verwaltung anhand der Immobilie und des Mietvertrags. Ein Stadtteilname belegt keine erzielbare Rendite.
 
-- [DLS — Sales Statistics](https://portal.dls.moi.gov.cy/en/statistics/) — gov.cy
-- [Central Bank of Cyprus — RPPI](https://www.centralbank.cy/en/publications/financial-stability-report) — Central Bank of Cyprus
-- [Eurostat — House Price Index](https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_q/default/table?lang=en) — European Commission
+## Was sollte ich in Strandnähe vergleichen?
+
+### Foinikoudes / Finikoudes
+
+Der [offizielle Tourismusführer](https://www.visitcyprus.com/discover-cyprus/sun-sea/beaches/foinikoudes-beach-blue-flag/) beschreibt eine **600 Meter lange Promenade mit Palmen**, mit Cafés, Restaurants und Strandeinrichtungen. Zum Strand heißt es: ruhiges, flaches Wasser, an einem Ende die Marina und der Hafen, am anderen das Fort.
+
+Prüfen Sie den tatsächlichen Weg zum Strand, den Hauseingang, Parkplätze, Lärm am Abend und den Zustand der Gemeinschaftsflächen. Bewerten Sie die Nähe zu Einrichtungen für Besucher nach Ihrem Bedarf. Sie ist kein garantierter Miet- oder Preisvorteil.
+
+### Mckenzie / Mackenzie
+
+[Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/sun-sea/beaches/mckenzie-beach-blue-flag/) beschreibt einen **einen Kilometer langen Sandstrand** nahe dem Gelände des alten Flughafens, mit Cafés, Bars, Restaurants und Clubs. Als Besonderheit des Ortes nennt es das Beobachten von Flugzeugen (Plane Spotting).
+
+Besuchen Sie das Objekt zu den Zeiten, in denen Sie die Wohnung nutzen würden. Vergleichen Sie Fenster, Ausrichtung, Schallschutz, Zugang und Parkplatz des Objekts. Nehmen Sie nicht an, dass jedes Angebot im Viertel gleich laut ist oder den gleichen Strandzugang hat.
+
+### Objekte abseits der Küste
+
+Wenn Angebote als Drosia, Kamares, Faneromeni, Livadia, Aradippou, Oroklini, Dhekelia Road, Kiti oder Pervolia bezeichnet sind, prüfen Sie die genaue Adresse und die kommunale oder administrative Zuordnung. Messen Sie die Wege zu Arbeit, Schule, Geschäften und Arztpraxis. Fragen Sie nach Vergleichspreisen und echten Gebäudeunterlagen. Verlassen Sie sich nicht auf pauschale Etiketten wie „günstig“, „Premium“ oder „bestes Preis-Leistungs-Verhältnis“.
+
+## Was hat sich bei den Hafen- und Marina-Plänen geändert?
+
+Eine [Ankündigung des Verkehrsministeriums vom 15. Mai 2026](https://www.gov.cy/metafores-epikoinonies-erga/i-archi-limenon-kyprou-analamvanei-to-limani-kai-ti-marina-larnakas-diloseis-ypourgou-metaforon-meta-ti-syskepsi-sto-proedriko-gia-to-limani-kai-ti-marina-larnakas/) besagt, dass die **Zyprische Hafenbehörde** die Verantwortung für das Projekt aus Hafen, Marina und zugehörigem Land übernimmt. Sie beschreibt den Ausbau und die Erweiterung der Marina für **etwa 200 Boote** und die Entwicklung von **rund 50.000 m²** Land für städtische Nutzungen.
+
+Das Ministerium erklärte, die Behörde werde bis Ende Juni einen Fahrplan mit Zeitplan, Finanzierung und Kostenschätzung vorlegen. Das war ein angekündigter nächster Schritt, kein Nachweis der Fertigstellung. Fordern Sie die aktuellen offiziellen Projektunterlagen an, bevor Sie einen Aufschlag für die Neuentwicklung zahlen. Die Mai-Ankündigung belegt weder eine Eröffnung im September 2026 noch eine fertige Marina für 650 Yachten oder einen garantierten künftigen Preisanstieg bei Immobilien.
+
+## Welche Orientierungspunkte sind nützlich?
+
+- **Agios Lazaros:** [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/agios-lazaros-church/) verortet die Kirche im Stadtzentrum und datiert den Bau auf das **9. Jahrhundert**, mit einer **Restaurierung im 17. Jahrhundert**. Der Führer nennt sie ein byzantinisches Denkmal und verweist auf das angrenzende Museum.
+- **Aquädukt von Kamares:** Die [regionale Tourismusbehörde](https://www.larnakaregion.com/en/directory/product/kamares-old-aqueduct-larnaka) beschreibt ein **Aquädukt aus dem 18. Jahrhundert** an der Straße Richtung Limassol, im römischen Stil gebaut. Es ist ein Orientierungspunkt und kein Beleg für Preis oder Baugenehmigung benachbarter Grundstücke.
+- **Salzsee:** [Visit Cyprus](https://www.visitcyprus.com/discover-cyprus/nature/excursions/larnaka-larnaca-salt-lake/) verortet den See südwestlich der Stadt und gibt eine Fläche von **2,2 km²** an. Laut Beschreibung bleiben ziehende Flamingos meist von **November bis März**. Die Vogelzahlen hängen von den Bedingungen ab. Die Beschreibung verspricht keine Sichtung an einem bestimmten Tag.
+- **Hala Sultan Tekke und das Fort:** Der [offizielle Reiseführer für Zypern](https://www.visitcyprus.com/wp-content/uploads/2024/09/A_GUIDE_TO_CYPRUS_-_English_WEB_VERSION_15_5_24.pdf) zählt die Moschee am Salzsee und das Fort mit Museum in Larnaca zu den Sehenswürdigkeiten der Gegend. Prüfen Sie vor dem Besuch den aktuellen Zugang.
+
+## Wie prüfe ich die Infrastruktur im Alltag?
+
+Klären Sie Aufnahme, Unterrichtssprache, Klassenstufe, Transport und aktuelle Gebühren direkt mit der Schule. Bestätigen Sie Ihren Anspruch auf medizinische Versorgung sowie Leistungen und Termine des Anbieters. Holen Sie echte Versicherungsangebote ein. Betrachten Sie eine Preisspanne aus einem Stadtführer nicht als Angebot.
+
+Fragen Sie beim Busbetreiber nach aktueller Route und aktuellem Fahrpreis und testen Sie die Fahrt zur passenden Tageszeit. Rechnen Sie für den Weg zum Flughafen mit genauer Adresse, Verkehr, Parkplatz und Anforderungen des Terminals. Die feste Angabe „fünf Minuten“ taugt nicht als verlässliches Zeitbudget für jedes Objekt.
+
+Prüfen Sie Kühlung, Dämmung, Energieausweis und aktuelle Nebenkostenabrechnungen. Fragen Sie nach gemeinsamen Kosten und geplanten Bauarbeiten. Vergleichen Sie die vollen Lebenshaltungskosten in der konkreten Einheit. Wenden Sie keine pauschale Schätzung für Stromkosten im Sommer an.
+
+## Was sollte ich vor Kauf oder Miete prüfen?
+
+Lassen Sie beim Kauf eingetragenen Eigentümer, Titel und Belastungen, Genehmigungen, Vertrag, Steuern und Finanzierung mit unabhängigen Beratern prüfen. Lassen Sie sich bei einer Miete Vertrag, Nebenkostenpflichten, Kaution, Kündigungsfristen und Übergabebedingungen erklären. Holen Sie für jede fachliche Leistung und jede Arbeit am Objekt ein datiertes Angebot ein.
+
+- [Immobilienkauf auf Zypern: Komplettleitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026/)
+- [Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/)
+- [Hypothek für Ausländer](/de/property/hypothek-zypern-fuer-auslaender/)
+- [Title Deed und Eigentum](/de/property/title-deed-zypern-eigentumsrecht/)
+- [Immobiliensuche auf research.cy](https://research.cy/search/)
+
+Fragen zu einer Immobilie in Larnaca? Schreiben Sie uns im [Telegram-Kanal](https://t.me/expatscy).

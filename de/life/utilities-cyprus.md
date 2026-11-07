@@ -1,9 +1,9 @@
 ---
 slug: "utilities-cyprus"
-title: "Nebenkosten auf Zypern: Wasser, Strom"
-description: "Wie Sie Wasser und Strom auf Zypern ummelden, Internet anschließen und Rechnungen bezahlen. Praktischer Leitfaden für neue Bewohner."
+title: "Nebenkosten Zypern: Wasser, Strom und Internet"
+description: "Wasser, Strom und Internet auf Zypern einrichten, Konten ummelden, Rechnungen zahlen und was neue Bewohner vor dem Einzug klären sollten."
 date: 2026-01-24
-updated: 2026-04-09
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -16,200 +16,85 @@ tags:
 draft: false
 translationKey: "kommunalka-voda-elektrichestvo-kipr"
 faqSchema:
-  - question: "Wie hoch sind die Nebenkosten auf Zypern?"
-    answer: "Für eine 2-Zimmer-Wohnung: Strom €80–150/Monat (Sommer mit Klimaanlage höher: €150–250), Wasser €20–40/Monat, Internet (Glasfaser) €30–45/Monat, Müllabfuhr €50–100/Jahr. Gesamt: €130–235/Monat. Im Vergleich zu Deutschland: Strom teurer (kein Erdgas verfügbar), Wasser und Internet günstiger."
-  - question: "Wie melde ich Strom und Wasser auf meinen Namen um?"
-    answer: "Strom: Bei der EAC (Electricity Authority of Cyprus) mit Mietvertrag, Personalausweis und Kaution (~€250). Wasser: Beim lokalen Water Board mit Mietvertrag. Internet: Direkt beim Anbieter (CYTA, Cablenet, Epic) — Glasfaser in den meisten Städten verfügbar. Alles kann persönlich oder teils online erledigt werden."
----
-> **Kurzantwort:** Strom (EAC): 100-200 EUR/Monat, Wasser: 30-50 EUR/Monat, Internet (Fiber): 30-45 EUR/Monat. Kein Erdgas — Butanflaschen zum Kochen.
-
-Beim Einzug in eine neue Wohnung müssen Sie die Versorgungsverträge auf Ihren Namen umschreiben. Hier erfahren Sie, wie das funktioniert.
-
-> **Offizielle Quellen:**
-> - [EAC — Electricity Authority](https://www.eac.com.cy/EN/RegulatedActivities/Supply/ConnectionReconnectionTransfer/Pages/default.aspx) — Stromanschluss
-> - [EAC FAQ](https://www.eac.com.cy/EN/RegulatedActivities/Supply/FAQ/Pages/default.aspx) — Häufig gestellte Fragen
-> - [CYTA](https://www.cyta.com.cy/internet-home/en) — Internet und Telefonie
-> - Water Boards: [Limassol](https://www.wbl.com.cy/), [Nikosia](https://www.wbn.org.cy/)
-
-## Wie funktioniert die Wasserversorgung?
-
-### Ummeldung
-
-Beim Einzug müssen Sie den Wasservertrag auf sich umschreiben.
-
-**Online-Verfahren:**
-
-1. Stellen Sie einen Antrag auf der Website des **Water Board** Ihrer Stadt
-2. Legen Sie den **Mietvertrag** bei
-3. Warten Sie auf ein Schreiben mit der Aufforderung zur **Kautionszahlung**
-4. Bezahlen Sie und senden Sie die Bestätigung
-5. Der Vertrag wird auf Sie umgeschrieben
-
-**Bearbeitungszeit:**
-
-- Innerhalb von 1–2 Werktagen sollte eine Antwort kommen
-- Wenn nach einer Woche nichts kommt — stimmt etwas nicht
-
-### Wenn keine Antwort kommt
-
-> „Nach dem Online-Antrag antworten sie innerhalb von 1–2 Tagen per E-Mail. Wenn eine Woche lang Stille herrscht — ist es sinnvoll, anzurufen oder persönlich zum Water Board zu fahren."
-
-**Lösung:**
-- **Fahren Sie persönlich ins Büro** — in der Regel wird es vor Ort gelöst
-- Prüfen Sie, ob alle Dokumente angekommen sind
-
-### Kaution
-
-Bei der Ummeldung ist eine **Kaution** erforderlich:
-
-- Die Höhe hängt von der Stadt ab
-- Wird bei Auszug zurückerstattet
-
-## Wie funktioniert die Stromversorgung?
-
-### Ummeldung
-
-Ähnliches Verfahren:
-
-1. Antrag **online** oder im EAC-Büro
-2. Mietvertrag
-3. Kautionszahlung
-4. Vertragsummeldung
-
-### EAC-Büros
-
-In jeder Stadt vorhanden:
-
-- Limassol
-- Nikosia
-- Larnaka
-- Paphos
-
-### Rechnungen
-
-Stromrechnungen kommen:
-
-- Alle **2 Monate**
-- Bezahlung **online**, bei der Bank oder bei JCC möglich
-
-## Wie bekomme ich Internet?
-
-### Anbieter
-
-Die wichtigsten Anbieter:
-
-- **Cyta** — staatlich, der größte
-- **PrimeTel**
-- **Epic**
-- **Cablenet**
-
-### Geschwindigkeit und Preise
-
-- Glasfaser in den meisten Städten verfügbar
-- Geschwindigkeiten **100–1.000 Mbit/s**
-- Preise ab **€30–50/Monat**
-
-### Anschluss
-
-1. Anrufen oder online einen Antrag stellen
-2. Ein Techniker kommt zur Installation
-3. In der Regel innerhalb **weniger Tage**
-
-### Zur Adressbestätigung
-
-Eine Internetrechnung kann verwendet werden für:
-
-- **Adressnachweis** bei der Bank
-- **Adressänderung** bei der Bank
-
-> „Ich habe den Reisepass und eine ausgedruckte Rechnung des Internetanbieters vorgelegt. Das hat gereicht."
-
-## Wie funktioniert die Gasversorgung?
-
-Auf Zypern wird Gas üblicherweise in **Flaschen** geliefert:
-
-- Es gibt keine zentrale Gasversorgung
-- Gasflaschen werden mit Lieferung bestellt
-- Wichtigste Anbieter: Petrolina, EKO
-
-### Bestellung einer Gasflasche
-
-- Rufen Sie den Lieferanten an
-- Lieferung meist am selben Tag
-- Barzahlung bei Lieferung
-
-## Wie funktioniert die Müllentsorgung?
-
-Die Müllabfuhr ist in den **Gemeindegebühren** enthalten:
-
-- Wird separat bezahlt (in der Regel einmal jährlich)
-- Rechnung kommt von der Gemeindeverwaltung
-
-### Mülltrennung
-
-Auf Zypern gibt es Mülltrennung:
-
-- **Grüne Container** — Restmüll
-- **Blaue/gelbe Container** — Wertstoffe
-- Glas — separate Container
-
-## Welche Rechnungen brauche ich für die Aufenthaltsgenehmigung?
-
-### Für die Verlängerung der Aufenthaltsgenehmigung
-
-Die Migrationsbehörde kann **Nebenkostenabrechnungen** verlangen:
-
-- Nachweis des tatsächlichen Wohnsitzes
-- In der Regel für **12 Monate**
-
-### Formular für Ein- und Ausreisen
-
-Bei der Verlängerung kann ein Formular mit Ein- und Ausreisedaten verlangt werden:
-
-> „Sie verlangen Rechnungen für ein Jahr und ein ausgefülltes Formular mit Ein- und Ausreisedaten. Ich habe Scans der Passstempel beigefügt."
-
-## Wie bezahle ich die Rechnungen?
-
-### Zahlungsmöglichkeiten
-
-- **JCC** — Zahlungsterminals und online
-- **Bank** — über Online-Banking
-- **Büros** — Water Board, EAC
-- **Apps** — von Banken und Anbietern
-
-### Lastschrift
-
-Sie können **automatische Zahlungen** über die Bank einrichten — praktisch, damit Sie nichts vergessen.
-
-## Welche praktischen Tipps gibt es?
-
-1. **Melden Sie alles sofort beim Einzug um**
-2. **Bewahren Sie alle Rechnungen auf** — nützlich für die Aufenthaltsgenehmigung
-3. **Richten Sie Lastschriften ein** — keine verspäteten Zahlungen mehr
-4. **Prüfen Sie die Zählerstände** — manchmal gibt es Fehler
-5. **Das Büro ist schneller** — wenn online nichts klappt
-6. **Auf gov.cy verifizieren** — Regeln und Öffnungszeiten ändern sich. Die offizielle Website ([gov.cy](https://www.gov.cy/)) ist die verlässlichste Quelle
-7. **Saisonalität beachten** — im Sommer haben viele Einrichtungen verkürzte Öffnungszeiten. Winterfahrplan: 07:30–14:30
-8. **Telegram-Kanäle nutzen** — Fragen stellen und Antworten von erfahrenen Expats in unserem [Kanal](https://t.me/expatscy) erhalten
-9. **Aktenzeichen anfordern** — bei jedem Behördenbesuch eine Fallnummer (case number) zur Nachverfolgung verlangen
-
+  - question: "Wie plane ich die Stromkosten?"
+    answer: "Lassen Sie sich aktuelle Rechnungen für die Immobilie zeigen und prüfen Sie den geltenden Tarif, die tatsächlichen Zählerstände und alle Posten. Klären Sie vor dem Einzug mit der EAC das Verfahren für das Versorgungskonto und eine mögliche Kaution. Verwenden Sie keine unbelegte monatliche Pauschale und keinen garantierten Prozentsatz für Solareinsparungen."
+  - question: "Welche Kaution braucht man für die Ummeldung des Wasserkontos?"
+    answer: "Stand 3. Oktober 2026 veröffentlicht EOA Lemesos eine Kaution für die Ummeldung von 250 Euro für Mieter und 50 Euro für Eigentümer. Die Checkliste verlangt für Mieter den Mietvertrag, für Eigentümer einen Eigentumsnachweis und in allen Fällen ein Foto des Zählers. Offene Beträge müssen beglichen sein. Das ist das Verfahren in Limassol; klären Sie die Bedingungen Ihres eigenen Versorgers."
+  - question: "Welche Anbieter bieten Internet für zu Hause?"
+    answer: "Cyta, Epic, PrimeTel und Cablenet bieten Internet für zu Hause an. Lassen Sie sich vor der Bestellung von jedem Anbieter Verfügbarkeit an Ihrer Adresse, Installation und den vollen Vertragspreis bestätigen."
 ---
 
-Die Nebenkosten auf Zypern sind ein relativ unkomplizierter Prozess. Das Wichtigste: Melden Sie alles beim Einzug um und bewahren Sie die Rechnungen für die Migrationsdokumente auf.
+Klären Sie, bevor Sie eine Immobilie übernehmen, mit dem Vermieter, welche Versorgungskonten auf Ihren Namen laufen. Notieren Sie die Zählerstände und fragen Sie jeden Anbieter nach seiner aktuellen Checkliste für die Ummeldung. Bewahren Sie das Übergabeprotokoll und die Bestätigungen Ihrer Anträge auf.
 
-> **Für Deutsche:** Die Nebenkosten auf Zypern sind insgesamt niedriger als in Deutschland — kein GEZ, keine Grundsteuer-Reform, kein Heizöl. Dafür sind Stromkosten im Sommer durch Klimaanlage höher. Erdgas gibt es nicht — gekocht wird mit Gasflaschen (ähnlich Camping-Gas, aber fest installiert).
+## Wie melde ich das Wasserkonto um?
 
-**Verwandte Artikel:**
-- [Lebenshaltungskosten auf Zypern](/de/life/lebenshaltungskosten-zypern-leitfaden/) — Nebenkosten im Gesamtbudget
-- [Aufenthaltsgenehmigung](/de/immigration/residence-permit-cyprus-guide/) — welche Dokumente für die Verlängerung nötig sind
-- [Auswandern nach Zypern — Kompletter Leitfaden](/de/immigration/auswandern-nach-zypern-leitfaden/) — alles, was Sie vor der Ankunft wissen müssen
+Wenden Sie sich an den Versorger, der für Ihre Adresse zuständig ist. Das Folgende ist ein **Beispiel für Limassol** aus den [FAQ zur Wasserversorgung von EOA Lemesos](https://eoalemesos.org.cy/en/faqs-water-supply), geprüft am **3. Oktober 2026**:
 
----
+1. Füllen Sie den Antrag auf Ummeldung des Wasserzählers aus.
+2. Mieter fügen den Mietvertrag bei; Eigentümer eine Eigentumsurkunde oder einen Kaufvertrag.
+3. Fügen Sie in allen Fällen ein Foto des Wasserzählers bei. Für Firmen, Vertreter oder Antragsteller, die weder Eigentümer noch Mieter sind, gelten weitere Unterlagen.
+4. Zahlen Sie die veröffentlichte Kaution für die Ummeldung: **250 € für Mieter** oder **50 € für Eigentümer**. Offene Beträge müssen ebenfalls beglichen werden.
 
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
+Klären Sie den Antragsweg und die aktuellen Anforderungen mit Ihrem Versorger. Diese Kautionen und Unterlagen sind keine allgemeingültige Checkliste für jeden Bezirk.
 
----
+### Was passiert beim Auszug mit der Wasserkaution?
+
+Laut FAQ von EOA Lemesos kann ein registrierter Verbraucher die Abmeldung beantragen. Die Schlussrechnung richtet sich nach dem Zählerstand, und die Kaution wird zu ihrer Begleichung verwendet. Ist die Rechnung niedriger als die Kaution, wird der Rest innerhalb von zwei Wochen erstattet; übersteigt sie die Kaution, muss die Differenz vor der Abmeldung gezahlt werden.
+
+Vereinbaren Sie Abschlusskonto und Zählerablesung mit Ihrem Versorger, statt davon auszugehen, dass die volle Kaution beim Auszug automatisch zurückkommt.
+
+### Was, wenn sich ein Antrag verzögert?
+
+Bewahren Sie die Eingangsbestätigung auf und fragen Sie den Versorger, ob Unterlagen oder Zahlung fehlen. Lassen Sie sich ein Aktenzeichen und den nächsten Schritt nennen. Planen Sie nicht mit einer unbestätigten Antwortzeit von ein bis zwei Tagen.
+
+## Wie organisiere ich den Strom?
+
+Beginnen Sie mit den [Informationen der EAC zur Versorgung](https://www.eac.com.cy/EN/RegulatedActivities/Supply/ConnectionReconnectionTransfer/Pages/default.aspx) und lassen Sie sich das aktuelle Verfahren für Ihre Situation bestätigen: Mieterwechsel, Wiederanschluss oder Neuanschluss.
+
+Klären Sie vor dem Antrag:
+
+- welche Identitäts- und Immobilienunterlagen Sie mitbringen müssen und ob der bisherige Kontoinhaber etwas unterschreiben muss;
+- Kaution und Servicegebühren, Zahlungsweg und Datum der Kontoeröffnung;
+- wie das bisherige Konto geschlossen wird und wie Sie den Zählerstand bei der Übergabe festhalten;
+- welche Abrechnungs- und Zahlungsarten es gibt, einschließlich der Anforderungen an ein Lastschriftmandat.
+
+Für das Budget lassen Sie sich aktuelle Rechnungen für die Immobilie zeigen und vergleichen Abrechnungszeitraum, Verbrauch und alle Posten. Prüfen Sie den aktuellen Tarif, bevor Sie Kosten schätzen. Wenn Sie Solartechnik erwägen, fordern Sie eine Einschätzung für die konkrete Immobilie mit schriftlichen Annahmen an, statt sich auf einen festen Einsparungsprozentsatz zu verlassen.
+
+## Welche Internetoptionen gibt es?
+
+[Cyta](https://www.cyta.com.cy/fiber/en), [Epic](https://www.epic.com.cy/en/page/X_R8o1C8t/internet-fixed-telephony-terms-conditions), [PrimeTel](https://primetel.com.cy/internet-5svzt) und [Cablenet](https://cablenet.com.cy/en/) bieten Internet für zu Hause an.
+
+Lassen Sie sich Abdeckung an Ihrer genauen Adresse, den vollen Vertragspreis, Aktivierungs- oder Installationsgebühren, nötige Unterlagen und den Installationstermin bestätigen. Prüfen Sie den Preis nach Ablauf von Aktionen und die Kündigungsbedingungen.
+
+Beispiele für Tarife mit Datum finden Sie im [Ratgeber zu Internet- und Mobilfunkanbietern](/de/life/internet-mobilfunk-zypern-anbieter/). Für die Adressprüfung bei einer Bank oder für den Aufenthaltsantrag fragen Sie die empfangende Stelle genau, welche Unterlagen sie akzeptiert; eine Rechnung, die in einem Antrag angenommen wurde, ergibt keine allgemeine Regel.
+
+## Wie organisiere ich Gas und Müllabfuhr?
+
+Wenn die Immobilie Gas nutzt, fragen Sie den Vermieter, welche Geräte und welchen Lieferanten. Klären Sie Lieferung, Preis und Zahlung direkt mit dem Lieferanten.
+
+Beim Hausmüll fragen Sie Ihre Gemeinde nach Abholplan, Gebühr und Zahlungsweg. Das ist getrennt von den Hinweisen zum Verpackungsrecycling unten.
+
+### Recycling
+
+Die [veröffentlichten Hinweise von Green Dot Cyprus](https://greendot.com.cy/en/recycling-process/how-packaging-materials-are-recycled/) unterscheiden:
+
+- **PMD-Verpackungen:** durchsichtige Recyclingbeutel oder blaue Tonnen;
+- **Papier:** braune Recyclingbeutel oder braune Tonnen;
+- **Glasverpackungen:** getrennte grüne, glockenförmige Sammelbehälter. Glasverpackungen werden nach diesem System nicht an Häusern abgeholt.
+
+Prüfen Sie die örtlichen Abholregeln, bevor Sie Material herausstellen. Behandeln Sie nicht jede grüne Tonne als Restmüll und nicht alle blauen oder gelben Tonnen als austauschbar.
+
+## Was sollte ich nach dem Einzug aufbewahren?
+
+Bewahren Sie Kopien der Kontoverträge, Antragsbestätigungen, Zählerfotos, Zahlungsbelege und Rechnungen auf. Für einen Aufenthaltsantrag nutzen Sie die Checkliste für Ihre genaue Kategorie und fragen Sie, ob Rechnungen einen bestimmten Zeitraum abdecken müssen.
+
+Fragen Sie vor dem Auszug jeden Anbieter, wie Sie das Konto schließen oder übertragen, die Schlussablesung vereinbaren und eine verbleibende Kaution zurückerhalten. Bewahren Sie die Schließungsbestätigung auf.
+
+**Verwandte Ratgeber:** [Lebenshaltungskosten](/de/life/lebenshaltungskosten-zypern-leitfaden/), [Internet und Mobilfunk](/de/life/internet-mobilfunk-zypern-anbieter/) und [Aufenthaltsgenehmigungen](/de/immigration/residence-permit-cyprus-guide/).
 
 ## Quellen
 
-- [General Healthcare System (GeSY)](https://www.gesy.org.cy/sites/Sites/en-US/default.aspx) — GeSY
+- [EOA Lemesos: FAQ zur Wasserversorgung](https://eoalemesos.org.cy/en/faqs-water-supply)
+- [EAC: Informationen zur Versorgung](https://www.eac.com.cy/EN/RegulatedActivities/Supply/ConnectionReconnectionTransfer/Pages/default.aspx)
+- [Cyta Glasfaser](https://www.cyta.com.cy/fiber/en), [Epic: Bedingungen für Heiminternet](https://www.epic.com.cy/en/page/X_R8o1C8t/internet-fixed-telephony-terms-conditions), [PrimeTel Heiminternet](https://primetel.com.cy/internet-5svzt) und [Cablenet](https://cablenet.com.cy/en/)
+- [Green Dot Cyprus: Hinweise zum Verpackungsrecycling](https://greendot.com.cy/en/recycling-process/how-packaging-materials-are-recycled/)

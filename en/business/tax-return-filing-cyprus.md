@@ -3,7 +3,7 @@ slug: "tax-return-filing-cyprus"
 title: "Cyprus Tax Return: TD1, Portal & Deadlines"
 description: "How to file a tax return in Cyprus: the TD1 form, TAXISnet, filing deadlines, who must file, and common mistakes to avoid."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -112,8 +112,6 @@ If you changed jobs during the year:
 - Your combined income may be higher — pushing you into a higher tax bracket
 - Possible result: **additional tax due** when filing
 
-Changing employer does not automatically end the 50% exemption: eligibility depends on the applicable statutory conditions. Give the new payroll team the supporting eligibility documents.
-
 ### Not Declaring Foreign Income
 
 Cyprus taxes the **worldwide income** of its tax residents. If you have dividends from abroad, rental income, or freelance income — declare it. Check the reporting and exemption rules for each income category.
@@ -146,8 +144,6 @@ File your tax return on time — the penalties aren't worth it. If you're unsure
 
 - [TAXISnet](https://taxisnet.mof.gov.cy/) — gov.cy
 - [Tax Department — Individuals](https://www.gov.cy/mof-tax/en/documents/forologiki-dilosi-eisodimatos-atomoy/) — gov.cy
-
-- [Migration Department: employment tax exemption](https://www.gov.cy/mip-md/en/documents/eu-blue-card/)
 
 - [Official 2025 return completion guide](https://www.gov.cy/media/sites/167/2026/06/Guide-for-completion-of-tax-return-2025.pdf) — Tax Department, especially Parts 1–2, salaried services, tax calculation and IBAN/refunds.
 

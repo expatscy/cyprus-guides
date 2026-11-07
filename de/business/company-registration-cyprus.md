@@ -3,7 +3,7 @@ slug: "company-registration-cyprus"
 title: "Firmengründung auf Zypern: Leitfaden"
 description: "Zyprisches Unternehmen gründen: GmbH vs Cyprus Ltd, Wegzugsbesteuerung, BCS-Einschränkungen, Unterhaltskosten, 15% KSt und Alternativen."
 date: 2026-01-24
-updated: 2026-10-21
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -16,13 +16,13 @@ draft: false
 translationKey: "registratsiya-kompanii-na-kipre-dlya-nerezidentov"
 faqSchema:
   - question: "Was kostet die Firmengründung auf Zypern?"
-    answer: "Registrierungsgebühr beim Handelsregister ca. 105–165 €, Anwalts-/Treuhänderkosten 1.500–3.000 €. Die frühere jährliche Abgabe von €350 ist seit 2024 abgeschafft. Jährliche Unterhaltskosten (Buchhaltung, Audit, Registered Office) liegen bei ca. 3.000–6.000 €. Der Körperschaftsteuersatz beträgt 15% (ab 2026)."
+    answer: "Gründung: 1.000–2.000 EUR. Registered Office: 500–1.500 EUR pro Jahr. Buchhaltung: 2.000–5.000 EUR pro Jahr. Company Secretary: 300–500 EUR pro Jahr. Die frühere jährliche Abgabe von 350 EUR ist seit 2024 abgeschafft. Der Körperschaftsteuersatz beträgt 15% (ab 1. Januar 2026)."
   - question: "Muss ich Wegzugsbesteuerung zahlen, wenn ich meine GmbH nach Zypern verlege?"
     answer: "Ja. Bei Wegzug aus Deutschland fällt die Wegzugsbesteuerung (§ 6 AStG) auf stille Reserven an — alle Wertzuwächse Ihrer GmbH-Anteile werden so besteuert, als hätten Sie sie am Tag des Wegzugs verkauft. Innerhalb der EU kann eine zinslose Ratenzahlung über 7 Jahre beantragt werden."
   - question: "Wie gründe ich eine Cyprus Ltd als Deutscher?"
     answer: "Schritte: 1) Firmenname prüfen und reservieren beim Registrar of Companies, 2) Gesellschaftsvertrag (Memorandum & Articles) erstellen, 3) Registrierung beim Handelsregister (online möglich), 4) Steueranmeldung beim Tax Department, 5) Bankkonto eröffnen. Dauer: 5-7 Werktage für die Namensgenehmigung, 2-3 Wochen für die vollständige Registrierung beim Registrar of Companies. Fast-Track gegen EUR 500 Aufpreis möglich."
 ---
-> **Kurzantwort:** Eine zyprische LTD kostet ca. 2.500-4.000 EUR Gruendungskosten. Koerperschaftsteuer 15% ab 2026, weiter eine der niedrigsten in der EU.
+> **Kurzantwort:** Die Gründung einer Gesellschaft auf Zypern dauert 5-10 Werktage und kostet 500-3.000 EUR inklusive Behördengebühren. Sie brauchen eine Geschäftsadresse (Registered Office), einen Secretary und mindestens einen Director.
 
 Zypern zieht Unternehmer mit niedrigen Steuersätzen und der EU-Mitgliedschaft an. Die Firmengründung für Drittstaatsangehörige hat jedoch ihre Besonderheiten und Einschränkungen.
 
@@ -163,11 +163,13 @@ Für deutsche Unternehmer ein Vergleich der wesentlichen Unterschiede:
 |---|---|---|
 | Körperschaftsteuer | ~30% (KSt 15% + Soli + GewSt) | **15%** |
 | Dividendensteuer | 25% Abgeltungssteuer + Soli | **0%** mit Non-Dom |
-| Mindestkapital | €25.000 (mind. 50% eingezahlt) | Kein gesetzliches Minimum (€1.000 nominal üblich) |
+| Mindestkapital | €25.000 (mind. 50% eingezahlt, [§ 5](https://www.gesetze-im-internet.de/gmbhg/__5.html) und [§ 7 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__7.html)) | Kein gesetzliches Minimum (€1.000 nominal üblich) |
 | MwSt. | 19% | 19% |
 | Gründungszeit | 2-6 Wochen (Notar, Handelsregister) | 5-10 Werktage |
 | EU-Marktzugang | Voll | Voll |
 | Jahresabschluss | Handelsregister + Finanzamt | Registrar + Tax Dept |
+
+Quellen (geprüft am 7. November 2026): [§ 23 KStG](https://www.gesetze-im-internet.de/kstg_1977/__23.html) — Körperschaftsteuer 15 % bis 2027, danach schrittweise niedriger; [§ 32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html) — 25 % auf Kapitalerträge; die Gewerbesteuer hängt vom Hebesatz der Gemeinde ab, daher ist ~30 % ein Richtwert.
 
 **Entscheidender Vorteil:** GmbH = ~30% KSt + ~26% Dividendensteuer. Cyprus Ltd + Non-Dom = 15% KSt + 0% Dividendensteuer. **Gesamtbelastung: ~15% statt ~48%**.
 
@@ -198,7 +200,7 @@ Wenn die Registrierung auf Zypern nicht passt:
 
 ### Unternehmen in den VAE:
 
-- 0% Körperschaftsteuer (für die meisten)
+- 0% Körperschaftsteuer (für die meisten, seit Juni 2023 aber 9% auf Gewinne über 375.000 AED)
 - Einfacher ein Konto zu eröffnen
 - Aber kein Zugang zu SEPA
 

@@ -1,9 +1,9 @@
 ---
 slug: "money-transfer-russia-cyprus-2026"
-title: "Money from Russia to Cyprus: Transfer Methods in 2026"
+title: "Money Transfer from Russia to Cyprus: Methods 2026"
 description: "How to send money from Russia to Cyprus in 2026 after the 19th sanctions package: SWIFT, Profee, KwikPay, crypto, third countries. Fees, timing, risks."
 date: 2026-03-11
-updated: 2026-04-18
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -19,7 +19,7 @@ faqSchema:
   - question: "What is the most reliable way to transfer money from Russia to Cyprus in 2026?"
     answer: "SWIFT through a non-sanctioned bank (Raiffeisenbank, UniCredit, OTP). The fee is 1.5-5% and it takes 3-14 days. According to user reports, a significant share of transfers via OTP is rejected by correspondent banks (unofficially around 30–40%, source: discussions on Banki.ru and specialised Telegram channels, [UNVERIFIED]). The money is returned, but keep copies of all payment orders: a refund takes 2–4 weeks."
   - question: "Does KoronaPay (Zolotaya Korona) work in 2026?"
-    answer: "No. KoronaPay came under US sanctions in August 2024. Transfers from Cyprus to Russia through this service do not work."
+    answer: "No. KoronaPay Europe, the company licensed by the Central Bank of Cyprus, says new transfers are unavailable and that it is voluntarily giving up its licence (koronapay.com, checked 7 November 2026)."
   - question: "Can I use cryptocurrency to transfer money?"
     answer: "Technically yes, through P2P platforms (Bybit, OKX). The fee is 1-3% and it takes minutes. But the risk is high: Cypriot banks close accounts when they detect crypto transactions without documentation."
   - question: "What is the maximum transfer I can make without problems?"
@@ -47,7 +47,7 @@ This is the updated guide for 2026. On 25 January 2026 the EU's 19th sanctions p
 
 ### What stopped working earlier
 
-- **KoronaPay (Zolotaya Korona)** — came under US sanctions (August 2024). Transfers from Cyprus to Russia do not work
+- **KoronaPay (Zolotaya Korona)** — KoronaPay Europe has stopped new transfers and is giving up its Central Bank of Cyprus licence ([koronapay.com](https://koronapay.com/transfers/europe/), checked 7 November 2026)
 - **Paysend** — stopped serving the Cyprus → Russia route
 - **Gazprombank** — was added to the US SDN list (November 2024). Its status in the EU is ambiguous, but Cypriot banks have stopped accepting transfers from Gazprombank
 
@@ -72,7 +72,7 @@ SWIFT transfers are formally available through Russian banks that remain connect
 
 | Parameter | Details |
 |----------|--------|
-| Fee | 1.5–5% (depends on the bank and the amount). Isolated cases of 15–50% at small banks |
+| Fee | 1.5–5% (depends on the bank and the amount). In isolated cases up to 15–50% at small banks |
 | Speed | 3–14 business days |
 | Reliability | Medium. A transfer can be blocked by a correspondent bank |
 | Limits | Depend on the bank. OTP: from $500, no upper limit (but compliance checks amounts over $10,000) |
@@ -90,7 +90,7 @@ SWIFT transfers are formally available through Russian banks that remain connect
 
 ### How it works
 
-[Profee](https://www.profee.com/) is a money transfer service (registered in the EU). It lets you send money from Europe to Russia and back using non-sanctioned banks.
+[Profee](https://www.profee.com/) is a money transfer service (registered in the EU). It lets you send money from Europe to Russia; its site says transfers to some Russian banks are restricted by sanctions.
 
 ### Route
 
@@ -181,13 +181,13 @@ P2P platforms (Bybit, OKX and others) let you buy and sell crypto (usually USDT)
 ### Kazakhstan
 
 - **Opening an account in person:** since January 2025, remote opening for non-residents outside the state programme has been closed. Banks: Freedom Finance, Halyk Bank, Kaspi
-- **e-Residency (NEW, 2026):** state programme [eresidency.gov.kz](https://eresidency.gov.kz/en) — digital residency for 18+, nationality-agnostic (no citizenship restrictions). $499/year (promo) or $999/year, payable by card or USDT/USDC. It gives you an IIN, a digital ID card and an eSIM. Remote account opening with partners: Freedom Bank, RBK Bank; BCC and Bereke Bank were announced for January 2026 — check the current status. The bank runs its own KYC — there is no guarantee
+- **e-Residency (NEW, 2026):** state programme [eresidency.gov.kz](https://eresidency.gov.kz/en) — digital residency for ages 18+, open to any nationality (no citizenship restrictions). It costs $499/year (promo) or $999/year, payable by card or USDT/USDC. It gives you an IIN, a digital ID card and an eSIM. Remote account opening with partners: Freedom Bank, RBK Bank. BCC and Bereke Bank were announced for January 2026 — check the current status. The bank runs its own KYC, so there is no guarantee
 - Route: Russia → Kazakhstan (rouble transfer) → conversion to EUR → SWIFT to Cyprus (it also works in reverse: Cyprus → Kazakhstan → Russia)
 - MIR card support: until recently it worked; after the 19th package the status is ambiguous
 
 ### Armenia
 
-**Works in both directions:** Armenian banks are one of the few channels where the route "Russia → Armenia → Cyprus" **and** "Cyprus → Armenia → Russia" work symmetrically. You can go either way — it depends on which direction you need the money to move today. The banks have rouble accounts and direct correspondent relationships with Russia, plus the usual European SWIFT corridor.
+**Works in both directions:** Armenian banks are one of the few channels where the route "Russia → Armenia → Cyprus" **and** "Cyprus → Armenia → Russia" work symmetrically. You can go either way, depending on which direction you need the money to move today. The banks have rouble accounts and direct correspondent relationships with Russia, plus the usual European SWIFT corridor.
 
 - **Banks with rouble SWIFT to/from Russia:** Ameriabank, Acba, Ardshinbank, Inecobank
 - **Opening an account:** usually in person at a branch (Yerevan, 1–2 hours). Evocabank previously supported instant transfers from T-Bank — the channel was temporarily suspended in 2025, check the current status
@@ -207,7 +207,7 @@ P2P platforms (Bybit, OKX and others) let you buy and sell crypto (usually USDT)
 
 | Service/method | Status | Reason |
 |-------------|--------|---------|
-| KoronaPay (Zolotaya Korona) | Does not work | US sanctions (August 2024) |
+| KoronaPay (Zolotaya Korona) | Does not work | KoronaPay Europe stopped new transfers |
 | Paysend | Does not work | Stopped serving the route |
 | Western Union / MoneyGram | Does not work | Left Russia |
 | Wise | Does not work | Does not accept transfers from/to Russia |
@@ -226,7 +226,7 @@ P2P platforms (Bybit, OKX and others) let you buy and sell crypto (usually USDT)
 ### Cypriot side
 
 - **Incoming transfers >€15,000**: the bank must check the source (4AMLD/6AMLD)
-- **Cash >€10,000**: customs declaration on entry/exit
+- **Cash of €10,000 or more**: customs declaration on entry/exit
 - **Regular receipts without a contract**: if you receive transfers every month but have no employment contract or invoices, the bank will ask
 
 > **Practical tip:** The best size for a single transfer is €3,000–10,000. Large enough not to overpay for lots of transactions, but not so large that it triggers an automatic check. Transfer regularly (once or twice a month), not erratically.
@@ -267,7 +267,7 @@ P2P platforms (Bybit, OKX and others) let you buy and sell crypto (usually USDT)
 SWIFT through a non-sanctioned bank (Raiffeisenbank, UniCredit, OTP). The fee is 1.5–5% and it takes 3–14 days. According to user reports, a significant share of transfers via OTP is rejected by correspondent banks (unofficially around 30–40%, source: discussions on Banki.ru and specialised Telegram channels, [UNVERIFIED]). The money is returned, but keep copies of all payment orders: a refund takes 2–4 weeks.
 
 **Does KoronaPay (Zolotaya Korona) work in 2026?**
-No. KoronaPay came under US sanctions in August 2024. Transfers from Cyprus to Russia through this service do not work.
+No. KoronaPay Europe, the company licensed by the Central Bank of Cyprus, says new transfers are unavailable and that it is voluntarily giving up its licence ([koronapay.com](https://koronapay.com/transfers/europe/), checked 7 November 2026).
 
 **Can I use cryptocurrency to transfer money?**
 Technically yes, through P2P platforms (Bybit, OKX). The fee is 1–3% and it takes minutes. But the risk is high: Cypriot banks close accounts when they detect crypto transactions without documentation. More in the "Method 4" section above.
@@ -290,3 +290,4 @@ The sweet spot is €3,000–10,000 at a time, once or twice a month. In Russia,
 - [Central Bank of Cyprus](https://www.centralbank.cy/) — Central Bank of Cyprus
 - [EU Sanctions Map](https://www.sanctionsmap.eu/) — up-to-date map of EU sanctions
 - [eResidency Kazakhstan — official portal](https://eresidency.gov.kz/en) — gov.kz
+- [KoronaPay Europe: notice to clients](https://koronapay.com/transfers/europe/) — koronapay.com

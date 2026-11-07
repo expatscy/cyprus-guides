@@ -3,7 +3,7 @@ slug: "unemployment-benefits-cyprus"
 title: "Arbeitslosengeld auf Zypern: Anspruch 2026"
 description: "Arbeitslosengeld auf Zypern für Expats: Anspruchsvoraussetzungen, Leistungshöhe, Dauer, Antragstellung. Was tun bei Kündigung."
 date: 2026-02-22
-updated: 2026-10-21
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -52,8 +52,6 @@ Der Wochenbetrag besteht aus einem **Grund- und einem Zusatzanteil**, berechnet 
 
 Zuschläge für Unterhaltsberechtigte kommen zum Grundanteil hinzu und haben eigene Bedingungen, darunter Regeln zu Einkünften oder Leistungen des Ehepartners und zu sich überschneidenden Ansprüchen. Lassen Sie sich die Leistung für Ihr tatsächliches Konto und Ihre Unterhaltsberechtigten berechnen, statt einen einfachen Prozentsatz auf Ihr letztes Bruttogehalt anzuwenden. [Fourth Schedule, Part II und Section 62](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
 
-Dieser Ratgeber nennt keinen allgemeinen Monatshöchstbetrag und verwendet kein gehaltsbasiertes Beispiel als Schätzung des Anspruchs.
-
 ## Wie lange wird gezahlt?
 
 Das gesetzliche Maximum sind **156 Leistungstage pro Unterbrechung der Beschäftigung**, kein automatisches Kontingent für jedes Kalenderjahr. **Sonntage und andere festgelegte Tage zählen nach Section 31 nicht als Arbeitslosentage**. [Sections 31–32](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
@@ -69,7 +67,7 @@ Nach Ausschöpfung des Anspruchs verlangt die reguläre Regel zur erneuten Anspr
 3. Folgen Sie den Antragsanweisungen zu den Nachweisen für Ihre Situation und bewahren Sie die Einreichungsbestätigungen auf.
 4. Halten Sie Ihre Registrierung beim Public Employment Service während der gesamten Arbeitslosigkeit aufrecht. Klären Sie mit Social Insurance Services, ob laufende Melde- oder Unterschriftspflichten bestehen: Die [FAQ](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/4FFC18708B61EC9DC2257A30001FD764) beschreibt eine Unterschrift in Abständen, die das Bezirksbüro festlegt.
 
-Die offizielle Kontaktadresse des Leistungsdienstes ist **unemployment@sid.mlsi.gov.cy**, Telefon **1450**. Fragen Sie umgehend nach der geltenden Antragsfrist und den Folgen einer Verzögerung; dieser Ratgeber legt keine Sieben-Tage-Frist fest und garantiert keine rückwirkende Zahlung.
+Die offizielle Kontaktadresse des Leistungsdienstes ist **unemployment@sid.mlsi.gov.cy**, Telefon **1450**. Fragen Sie umgehend nach der geltenden Antragsfrist und den Folgen einer Verzögerung.
 
 Laut dem veröffentlichten Leitfaden wird die Leistung per Überweisung auf das Bankkonto des Berechtigten gezahlt. Prüfen Sie, welchen Kontonachweis der aktuelle Antrag verlangt.
 

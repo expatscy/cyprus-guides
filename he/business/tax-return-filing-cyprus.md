@@ -3,7 +3,7 @@ slug: "tax-return-filing-cyprus"
 title: "הגשת דוח מס בקפריסין: טופס TD1"
 description: "איך להגיש דוח מס בקפריסין באמצעות טופס TD1 ו-TAXISnet לשנת 2025 או TFA לשנת 2026: מועדי הגשה, מי חייב לדווח וטעויות נפוצות שכדאי למנוע. הגשה מקוונת."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "עסקים"
 author: "Expats Cyprus"
 tags:
@@ -115,8 +115,6 @@ translationKey: "nalogovaya-deklaratsiya-kipr-kak-podat"
 מהקהילה:
 > "בהחלפת חברה נאבדה ההנחה של 20% על מס. רואה החשבון אומר שהחודשים מינואר עד מאי צריכים להיות מחושבים מחדש ללא ההנחה."
 
-החלפת מעסיק אינה מבטלת אוטומטית את הפטור של 50%; הזכאות תלויה בתנאי החוק. העבירו למעסיק החדש מסמכים התומכים בזכאות.
-
 ### לא דיווחו על הכנסה מחו"ל
 
 קפריסין ממסה **הכנסה עולמית** של תושבי מס. אם יש דיבידנדים מחו"ל, שכירות, פרילנס — דווחו. בדקו את חובת הדיווח והפטורים לכל סוג הכנסה.
@@ -162,5 +160,3 @@ TD63 — אישור מהמעסיק על הכנסה שנתית ומסים שנו�
 
 - [TAXISnet: 2025 / TFA: 2026](https://www.gov.cy/mof-tax/documents/forologiki-dilosi-eisodimatos-atomoy/) — gov.cy
 - [Tax Department — Individuals](https://www.gov.cy/mof-tax/documents/forologiki-dilosi-eisodimatos-atomoy/) — gov.cy
-
-[Migration Department: employment tax exemption](https://www.gov.cy/mip-md/en/documents/eu-blue-card/)

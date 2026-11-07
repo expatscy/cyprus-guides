@@ -3,7 +3,7 @@ slug: "company-registration-cyprus"
 title: "Cyprus Company Registration: Expat Guide"
 description: "Registering a Cyprus company: UK Ltd vs Cyprus Ltd comparison, BCS visa restrictions, maintenance costs, 15% CIT, and alternatives."
 date: 2026-01-24
-updated: 2026-10-05
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -20,7 +20,7 @@ faqSchema:
   - question: "What is the corporate tax rate in Cyprus?"
     answer: "15% from 1 January 2026. The IP Box regime can reduce the effective rate on qualifying IP profits to about 3%. No withholding tax on dividends paid abroad."
   - question: "How long does company registration take?"
-    answer: "5-7 business days for name approval, 2-3 weeks for full registration at the Registrar of Companies. Fast-track available for EUR 500 extra."
+    answer: "About 5-10 business days once your documents are ready, starting with name approval at the Registrar of Companies."
 ---
 > **Short answer:** Registering a company in Cyprus takes 5-10 business days and costs EUR 500-3,000 including government fees. You need a registered office address, a secretary, and at least one director.
 

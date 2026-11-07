@@ -1,7 +1,7 @@
 ---
 slug: "lebenshaltungskosten-zypern-2026"
 title: "Monatsbudget auf Zypern: Preise 2026"
-description: "So bauen Sie ein Zypern-Budget aus aktuellen Angeboten auf: datierte Bezirks-Mietschätzungen, Lebensmittelvergleich, Internet-Konditionen und Informationen zur britischen State Pension."
+description: "Zypern-Budget aus aktuellen Angeboten aufbauen: datierte Mietschätzungen je Bezirk, Lebensmittelvergleich, Internet-Konditionen und britische State Pension."
 date: 2026-04-09
 updated: 2026-10-21
 category: "Leben"

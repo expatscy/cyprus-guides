@@ -3,442 +3,225 @@ slug: "auswandern-nach-zypern-leitfaden"
 title: "Auswandern nach Zypern: Leitfaden 2026"
 description: "Alles zum Auswandern nach Zypern: Visum, Wohnung, Arbeit, Banken, Gesundheit, Schulen, Steuern. Schritt-für-Schritt-Checkliste für Auswanderer und Expats."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags: [Auswandern, Umzug, Checkliste, Visum, Wohnung, Expat-Leitfaden]
 draft: false
 translationKey: "pereezd-na-kipr-polnyy-gid"
 faqSchema:
-  - question: "Brauche ich als Deutscher ein Visum für Zypern?"
-    answer: "Nein. Als EU-Bürger genießen Deutsche volle Freizügigkeit in Zypern. Sie können ohne Visum einreisen und sich niederlassen. Innerhalb von 4 Monaten müssen Sie beim Civil Registry einen Yellow Slip (Anmeldebescheinigung) beantragen."
-  - question: "Was kostet das Auswandern nach Zypern?"
-    answer: "Rechnen Sie mit Startkosten von ca. 5.000–10.000 € für Kaution (2-3 Monatsmieten), erste Miete, Möbel, Anmeldung und GeSY-Beiträge. Eine 2-Zimmer-Wohnung kostet in Paphos ca. 600–900 €/Monat, in Limassol 900–1.500 €/Monat."
-  - question: "Muss ich mich in Deutschland abmelden, wenn ich nach Zypern auswandere?"
-    answer: "Ja, bei einem dauerhaften Umzug müssen Sie sich beim Einwohnermeldeamt abmelden. Die Abmeldung beendet Ihre unbeschränkte Steuerpflicht in Deutschland (nach Wegzug), allerdings kann die erweiterte beschränkte Steuerpflicht noch bis zu 10 Jahre greifen."
-  - question: "Wie funktioniert die Krankenversicherung in Zypern?"
-    answer: "Zypern hat seit 2020 das GeSY (GESY) — ein staatliches Gesundheitssystem vergleichbar mit der deutschen GKV. Der Beitragssatz beträgt 2,65% des Einkommens für Arbeitnehmer (+ 2,9% Arbeitgeber). Die Anmeldung erfolgt online unter gesy.org.cy."
+  - question: "Was kostet der Umzug nach Zypern?"
+    answer: "Erstellen Sie ein Budget aus datierten Angeboten für Wohnung, Kaution, Anreise, Dokumente, Aufenthaltsantrag, Versicherung, Nebenkosten und Verkehr. Trennen Sie einmalige Kosten von monatlichen Ausgaben und planen Sie eine Reserve ein. Eine Mietspanne für eine ganze Stadt sagt nichts über den Preis einer bestimmten Wohnung."
+  - question: "Welches Visum brauche ich für den Umzug nach Zypern als Remote-Arbeiter?"
+    answer: "Das Digital-Nomad-Programm gilt für Drittstaatsangehörige außerhalb von EU/EWR, die für einen im Ausland registrierten Arbeitgeber oder für Kunden im Ausland arbeiten und ein stabiles monatliches Nettoeinkommen von mindestens 3.500 Euro nach Steuern und Beiträgen haben. Die erste Genehmigung gilt ein Jahr und kann um höchstens weitere zwei Jahre verlängert werden. Für EU-Bürger gelten getrennte Aufenthalts- und Anmeldevorschriften."
+  - question: "Wie lange dauert es, die zyprische Staatsbürgerschaft zu bekommen?"
+    answer: "Der ordentliche Weg verlangt sieben anrechenbare Jahre innerhalb der zehn Jahre vor den letzten zwölf Monaten ununterbrochenen rechtmäßigen Aufenthalts, mit den gesetzlich erlaubten Abwesenheiten. Außerdem gelten Griechisch auf Niveau B1 (oder eine anerkannte griechischsprachige Ausbildung als Ausnahme), guter Leumund, Kenntnisse über Zypern und weitere gesetzliche Voraussetzungen. Ein abgeschlossener Aufenthaltszeitraum garantiert weder die Genehmigung noch eine Bearbeitungsdauer."
 ---
-> **Kurzantwort:** Auswandern nach Zypern: EU-Bürger brauchen nur den Yellow Slip. Wichtigste Schritte: Wohnung, Bankkonto, GESY, Steuernummer.
+> **Kurzantwort:** Wählen Sie für Ihre Staatsangehörigkeit und Tätigkeit einen rechtmäßigen Aufenthalts- und Arbeitsweg und nutzen Sie dann dessen tatsächliche Dokumentenliste und Fristen. Holen Sie Preise für die konkrete Wohnung und die Leistungen ein, die Sie nutzen wollen, und prüfen Sie Steuerresidenz und Anspruch auf Gesundheitsversorgung getrennt.
 
-Zypern gehört zu den beliebtesten Auswanderungszielen in der EU — besonders für Deutsche, Österreicher und Schweizer. 340 Sonnentage, eines der attraktivsten Steuersysteme Europas, Englisch als Geschäftssprache und eine große deutschsprachige Community in Paphos machen die Insel zu einem erstklassigen Standort. Dieser Leitfaden führt Sie Schritt für Schritt durch den gesamten Auswanderungsprozess.
+Die gesetzlichen und behördlichen Quellen dieses Leitfadens wurden am **3. Oktober 2026** geprüft. Die Checkliste unten hilft bei der Planung; für Ihren Antrag gilt die Frist, die für Ihre Antragskategorie veröffentlicht ist.
 
-> **Offizielle Quellen:**
-> - [Deputy Ministry of Migration (MIP)](https://www.gov.cy/mip-md/en/) — Migrationsbehörde Zyperns
-> - [Tax Department](https://www.gov.cy/mof/en/) — Steuerbehörde
-> - [GeSY — Gesundheitssystem](https://www.gesy.org.cy/en-us/home-en) — Staatliche Krankenversicherung
-> - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Standesamt
+## 1. Vor dem Umzug: Vorbereitung
 
----
+- Legen Sie fest, wo Sie arbeiten, wer Ihr Arbeitgeber oder Ihre Kunden sind, wie Ihre Familie aufgestellt ist und wie lange Sie bleiben wollen.
+- Prüfen Sie vor der Bestellung von Dokumenten die Passgültigkeit, die nötigen Bescheinigungen, Übersetzungen und Beglaubigungen für Ihren Weg. Eine Apostille ist nicht für jedes ausländische Dokument nötig: Für bestimmte öffentliche EU-Dokumente gibt es Ausnahmen. Siehe den [Apostille-Leitfaden](/de/documents/apostille-documents-cyprus/).
+- Vergleichen Sie tatsächliche Wohnungen in Limassol, Paphos, Larnaka oder Nikosia mit Ihrem Budget, Arbeitsweg, Schulbedarf und den verfügbaren Dienstleistungen.
+- Fragen Sie die Banken, die Sie in Betracht ziehen, welches Konto, welche Voraussetzungen und welche Dokumente für Sie gelten.
+- Klären Sie, ob Sie Ihren Führerschein nutzen oder umtauschen können, bevor Sie ein Auto besorgen.
 
-## Was muss ich vor dem Umzug vorbereiten?
+Machen Sie sich einen persönlichen Vorbereitungsplan und gehen Sie nicht davon aus, dass alle Dokumente gleich viele Monate vor der Reise bestellt werden müssen. Prüfen Sie jede Gültigkeitsdauer gegen das geplante Einreichungsdatum.
 
-### Wichtige Schritte
+## 2. Aufenthalts- und Arbeitsweg wählen
 
-- **Visumstyp bestimmen** — als EU-Bürger genießen Deutsche Freizügigkeit (siehe Abschnitt 2)
-- **Dokumente vorbereiten** — Apostille für Führungszeugnis, Diplome, Geburtsurkunden
-- **Wise/Revolut-Konto eröffnen** — nützlich vor der zyprischen Kontoeröffnung
-- **Stadt wählen** — Paphos (große deutsche Community, günstiger), Limassol (teuer, IT-Hub), Larnaka (ausgeglichen), Nikosia (Hauptstadt)
-- **Internationalen Führerschein beantragen** — gilt die ersten 6 Monate
-- **Wohnung frühzeitig suchen** — der Mietmarkt ist umkämpft, besonders in Limassol
+### EU-Bürger
 
-### Zeitplan
+Das [MEU1-Verfahren der Migrationsbehörde](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/) beschreibt einen Aufenthalt von bis zu drei Monaten mit gültigem Personalausweis oder Reisepass. Für längere Aufenthalte nennt es unter anderem eine Beschäftigung oder Selbstständigkeit in Zypern oder ausreichende Mittel für sich und die Familie sowie eine umfassende Krankenversicherung in Zypern.
 
-| Maßnahme | Vorlauf |
-|----------|---------|
-| Visum/Anmeldung planen & Dokumente sammeln | 3-6 Monate |
-| Apostillen beantragen | 2-3 Monate |
-| Wohnungssuche | 1-2 Monate |
-| Flüge buchen | 1 Monat |
-| Krankenversicherung abschließen | 2 Wochen |
+Beantragen Sie die erste MEU1-Anmeldebescheinigung **innerhalb von vier Monaten nach der Einreise** mit den Unterlagen Ihrer Kategorie. Die Behörde beschreibt den freien Zugang von Unionsbürgern und ihren Familienangehörigen zu Beschäftigung und Selbstständigkeit. Antrag und Anspruch eines Familienmitglieds aus einem Nicht-EU-Staat müssen gesondert geprüft werden; siehe den [Leitfaden für EU-Familien](/de/immigration/eu-citizen-spouse-cyprus-yellow-slip/).
 
-### Wegzugsbesteuerung (nur für Deutsche)
+### Digital-Nomad-Programm
 
-Als deutscher Steuerpflichtiger müssen Sie die **Wegzugsbesteuerung** beachten (§ 6 AStG):
+Das [offizielle Programm](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/) gilt für Angehörige von Nicht-EU/EWR-Staaten, die per Telekommunikation aus der Ferne für einen im Ausland registrierten Arbeitgeber oder für Kunden im Ausland arbeiten.
 
-- Betrifft Anteile an Kapitalgesellschaften ≥ 1%
-- Fiktiver Veräußerungsgewinn wird bei Wegzug besteuert
-- **Innerhalb der EU**: Stundung möglich (zinslos, aber Sicherheitsleistung erforderlich)
-- Beratung durch einen **deutschen Steuerberater mit Zypern-Erfahrung** ist dringend empfohlen
-- Das **DBA Deutschland-Zypern** (Doppelbesteuerungsabkommen) regelt die Zuordnung der Besteuerungsrechte
+- Das stabile Einkommen muss mindestens **3.500 Euro pro Monat nach Steuern und Beiträgen** betragen, erhöht um **20 % für Ehepartner oder eingetragene Lebenspartner** und **15 % für jedes Kind**.
+- Die [Checkliste](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members-2/) verlangt die entsprechenden Verträge und Nachweise der Auslandstätigkeit, sechs Monate detaillierte Kontoauszüge zu den Einkünften, einen Wohnnachweis und weitere Dokumente. Sie nennt **Versicherung Plan A für stationäre und ambulante Behandlung und Überführung von Verstorbenen**.
+- Antragsteller verpflichten sich, dass weder sie noch ihre Familienangehörigen Arbeit, Dienstleistungen oder Projekte für Arbeitgeber oder Kunden mit Sitz in Zypern erbringen.
+- Die erste Genehmigung gilt **ein Jahr**; die Verlängerung ist für **höchstens weitere zwei Jahre** möglich. Ehepartner oder eingetragene Lebenspartner und minderjährige Kinder können für die Laufzeit des Hauptantragstellers einen Antrag stellen, ohne Recht auf Beschäftigung oder wirtschaftliche Tätigkeit in Zypern.
+- Das veröffentlichte Verfahren verlangt den Antrag **innerhalb von drei Monaten nach der Ankunft** und lässt auch Anträge von Personen zu, die sich bereits mit einem anderen Status rechtmäßig dort aufhalten.
+- Die veröffentlichte Gebühr beträgt **70 Euro für Ausstellung oder Verlängerung der Genehmigung** sowie **70 Euro für die Erstregistrierung im Ausländerregister, wo sie anfällt**. Dokumente, Versicherung und andere Kosten kommen gesondert hinzu.
+- Die veröffentlichte Obergrenze liegt bei **500 Genehmigungen**, erhöht von 100 am 3. März 2022. Das ist keine Jahresquote und keine Garantie für freie Plätze.
 
----
+Lesen Sie vor dem Antrag den [vollständigen Digital-Nomad-Leitfaden](/de/immigration/digital-nomad-visum-zypern/).
 
-## Welches Visum brauche ich?
+### Die passende Kategorie prüfen
 
-### Welches Visum passt zu Ihnen
+Mit diesen Leitfäden vergleichen Sie die offiziellen Voraussetzungen für Ihre Lage:
 
-| Ihre Situation | Visum/Erlaubnis | Details |
-|----------------|----------------|---------|
-| EU-Bürger (DE/AT/CH-bilateral) | Freizügigkeit — Anmeldung innerhalb von 4 Monaten | [Aufenthaltserlaubnis](/de/immigration/residence-permit-cyprus-guide/) |
-| Anstellung bei Tech-/Internationaler Firma | BCS (Business Continuity Scheme) | [Aufenthaltserlaubnis](/de/immigration/residence-permit-cyprus-guide/) |
-| Remote-Arbeit für ausländische Kunden | Digital Nomad Visa | [Digital Nomad Visa](/de/immigration/digital-nomad-visum-zypern/) |
-| Unternehmensgründung | Firmengründung + Arbeitserlaubnis | [Firmengründung](/de/business/company-registration-cyprus/) |
-| Tech-Startup | Startup Visa (max. 150 Visa) | [Startup Visa](/de/business/startup-visa-cyprus/) |
-| Hochqualifizierte Fachkraft | EU Blue Card | [Blue Card](/de/immigration/eu-blue-card-cyprus/) |
-| Passives Einkommen / Ruhestand | Visitor Permit | [Besuchererlaubnis](/de/immigration/visitor-permit-cyprus/) |
-| Ehepartner eines EU-Bürgers | Yellow Slip + Arbeitsrecht | [EU-Bürger Ehepartner](/de/immigration/eu-citizen-spouse-cyprus-yellow-slip/) |
-| Ehepartner braucht Arbeitserlaubnis | Arbeitserlaubnis für Nicht-EU-Ehepartner | [Arbeitserlaubnis Ehepartner](/de/immigration/spouse-employment-permit-cyprus/) |
-| Immobilienkauf ab €300.000 | Daueraufenthalt (PR) | [Daueraufenthalt](/de/immigration/long-term-residence-permit-cyprus/) |
-| Weg zur Staatsbürgerschaft | Einbürgerung nach 7 Jahren | [Einbürgerung](/de/immigration/cyprus-citizenship-naturalization/) |
+| Geplante Situation | Welcher Leitfaden |
+|---|---|
+| Beschäftigung | [Aufenthaltsgenehmigungen](/de/immigration/residence-permit-cyprus-guide/) und [EU Blue Card](/de/immigration/eu-blue-card-cyprus/) |
+| Startup-Gründer oder Team | [Startup-Programm](/de/business/startup-visa-cyprus/) |
+| Aufenthalt als Besucher | [Besucher-Aufenthaltsgenehmigung](/de/immigration/visitor-permit-cyprus/) |
+| Aufenthalt oder Arbeit in der Familie | [EU-Familie](/de/immigration/eu-citizen-spouse-cyprus-yellow-slip/) und [Arbeit des Ehepartners](/de/immigration/spouse-employment-permit-cyprus/) |
+| Bestehender Status oder langfristige Pläne | [Kategoriewechsel](/de/immigration/switching-visa-types-cyprus/) und [langfristig Aufenthaltsberechtigte](/de/immigration/long-term-residence-permit-cyprus/) |
 
-### Deutsche als EU-Bürger
+Prüfen Sie neben der Aufenthaltskategorie auch die geplante Tätigkeit. Die Gründung einer Firma, ein Immobilienkauf oder eine Familienbeziehung gelten nicht als Genehmigung eines bestimmten Antrags.
 
-Als EU-Bürger haben Sie das Recht, sich in Zypern **ohne Visum** niederzulassen:
+### Staatsbürgerschaft planen
 
-- Anmeldung beim District Administration Office innerhalb von **4 Monaten**
-- Dokumente: Reisepass/Personalausweis, Mietvertrag, Nachweis Krankenversicherung, Einkommensnachweis
-- Kein Arbeitserlaubnis nötig — Sie dürfen sofort arbeiten
-- Ehepartner aus Drittstaaten: beantragen Yellow Slip
+Für den ordentlichen Weg verlangt das [geltende Gesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html) **sieben anrechenbare Jahre innerhalb der zehn Jahre vor den letzten zwölf Monaten ununterbrochenen rechtmäßigen Aufenthalts**. Im letzten Zeitraum sind Abwesenheiten von insgesamt bis zu 90 Tagen zulässig. Bestimmte Aufenthaltskategorien zählen nicht zur anrechenbaren Zeit.
 
-### Digital Nomad Visa (für Nicht-EU)
+Die [Hinweise zu Formular M127](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/) nennen **Griechisch auf Niveau B1**, mit einer Ausnahme für das dort beschriebene anerkannte griechischsprachige Abschlusszeugnis der Sekundarschule oder einen entsprechenden Hochschulabschluss. Außerdem gelten die Voraussetzungen guter Leumund, politische und gesellschaftliche Kenntnisse, Mittel, Wohnung und Bleibeabsicht. Für qualifizierte Fachkräfte gibt es einen eigenen Weg mit zusätzlichen Voraussetzungen; siehe [ordentliche Einbürgerung](/de/immigration/zypern-staatsbuergerschaft-einbuergerung/) und [Einbürgerung hochqualifizierter Fachkräfte](/de/immigration/cyprus-citizenship-naturalization/).
 
-- Mindesteinkommen: **€3.500/Monat** (netto), +20% für Ehepartner, +15% pro Kind
-- Arbeit **nur für ausländische Auftraggeber** — kein zyprischer Markt
-- Dauer: 1 Jahr, verlängerbar bis 3 Jahre
-- Gebühr: €70 pro Familienmitglied
-- Jahresquote: **1.000 Visa/Jahr** (vorher 500 bis 2025)
+## 3. Eine Wohnung finden
 
-Mehr: [Digital Nomad Visa im Detail](/de/immigration/digital-nomad-visum-zypern/)
+Holen Sie datierte Angebote für konkrete Objekte ein. Vergleichen Sie Gesamtmiete, Kaution, Maklergebühren, Nebenkosten, Möblierung, Parkplatz, zulässige Nutzung, Vertragslaufzeit und Ausstiegsbedingungen. Fordern Sie den vorgeschlagenen schriftlichen Vertrag an und lassen Sie unklare Bedingungen prüfen, bevor Sie zahlen.
 
-### Weg zur Staatsbürgerschaft
+Verwenden Sie für einen Aufenthaltsantrag die Wohnungs-Checkliste genau dieser Kategorie und gehen Sie nicht davon aus, dass ein Mietvertrag oder eine Beglaubigungsregel für alle passt. Die Checkliste für Digital Nomads verlangt zum Beispiel eine Eigentumsurkunde oder einen Mietvertrag **und** eine dazu passende Nebenkostenrechnung.
 
-Nach **7 Jahren** legalem Aufenthalt (davon 5 der letzten 8 Jahre) können Sie die [zyprische Staatsbürgerschaft durch Einbürgerung](/de/immigration/cyprus-citizenship-naturalization/) beantragen. Voraussetzungen: [Griechischprüfung (B1-Niveau)](/de/immigration/greek-language-exam-citizenship/), einwandfreies Führungszeugnis und Kenntnisse der zyprischen Gesellschaft. Die Staatsbürgerschaft gewährt einen EU-Pass mit visafreiem Zugang zu 170+ Ländern.
+Der [Hinweis der Steuerbehörde](https://www.gov.cy/mof-tax/documents/chartosima/) besagt, dass die Stempelsteuer **ab dem 1. Januar 2026** abgeschafft wurde. Dokumente, die bis zum 31. Dezember 2025 von mindestens einer Partei erstellt und unterzeichnet wurden, bleiben unter den bisherigen Regeln. Gehen Sie nicht davon aus, dass eine Stempelanweisung aus einer älteren Checkliste unverändert für einen neuen Vertrag gilt.
 
-### Visum wechseln
+Vergleichen Sie Angebote auf [research.cy](https://research.cy/search/) und lesen Sie den [Mietleitfaden](/de/property/renting-property-cyprus/) oder den [Kaufleitfaden](/de/property/immobilienkauf-zypern-komplettleitfaden-2026/). Klären Sie die tatsächlichen Gebühren des Maklers und die Rechtsdokumente der Immobilie direkt.
 
-Bereits in Zypern und müssen den Aufenthaltsstatus ändern? Siehe unseren Leitfaden zum [Wechsel des Visumstyps](/de/immigration/switching-visa-types-cyprus/).
+## 4. Bankwesen
 
----
+Fragen Sie die Bank nach ihrem Verfahren zur Kontoeröffnung, den Voraussetzungen, Gebühren und Dokumenten. Sorgen Sie dafür, dass Sie Umzugskosten zahlen können, solange ein Antrag geprüft wird; verstehen Sie eine geschätzte Eröffnungsdauer nicht als Garantie.
 
-## Wie finde ich eine Wohnung auf Zypern?
+So beschreibt zum Beispiel die [Seite der Bank of Cyprus zur Kontoeröffnung für internationale Kunden](https://www.bankofcyprus.com/en-gb/International/Products-and-services/Account-opening/) einen persönlichen Besuch bei der IBU oder einen Antrag über einen örtlichen professionellen Vermittler und verlinkt die digitale Eröffnung für Privatkunden. Die Bank verlangt ihre Formulare und die Dokumente aus dem jeweiligen Fragebogen, kann weitere Informationen anfordern und einen Antrag ablehnen. Prüfen Sie vor dem Antrag, ob der gewählte Weg für Sie infrage kommt.
 
-### Durchschnittliche Mietpreise (2026)
+Siehe [Banken in Zypern](/de/business/banks-cyprus-comparison/), [Kontoeröffnung](/de/business/bank-account-cyprus-foreigners/) und [Geldtransfers](/de/business/money-transfer-cyprus-swift-crypto/); aktuelle bankspezifische Anweisungen bestätigen Sie bei der Bank.
 
-| Stadt | 1-Zimmer | 2-Zimmer | 3-Zimmer |
-|-------|----------|----------|----------|
-| Limassol | €950 | €1.200-2.500 | €1.500+ |
-| Larnaka | €575 | €740 | €900 |
-| Paphos | €410 | €625 | €710 |
-| Nikosia | €450 | €600 | €800 |
+## 5. Gesundheitsversorgung und Versicherung
 
-### Paphos — die deutsche Hochburg
+Prüfen Sie die [Anspruchskategorien der HIO](https://www.gesy.org.cy/en-us/hiobeneficiaryeligiblility) für Ihre Staatsangehörigkeit, Ihren gewöhnlichen Aufenthalt und Ihren Rechtsstatus. Das Arbeitsrecht einer Genehmigung oder die Zahlung eines Beitrags allein begründen keinen Anspruch auf GESY.
 
-Paphos beherbergt die **größte deutschsprachige Community** in Zypern:
+Nutzen Sie die Versicherungsanforderung Ihrer Genehmigungskategorie. Die Checkliste für Digital Nomads nennt Plan A mit stationärer und ambulanter Behandlung und Überführung von Verstorbenen. Lassen Sie sich vom Versicherer bestätigen, dass Ihre Police die jeweilige Checkliste erfüllt.
 
-- Deutsche Ärzte, Supermärkte mit deutschen Produkten, deutschsprachige Vereine
-- Deutlich günstigere Mieten als Limassol (fast die Hälfte)
-- Internationaler Flughafen mit Direktflügen nach Deutschland
-- Beliebte Gegenden: Kato Paphos, Peyia, Chloraka
+Prüfen Sie vor einer Behandlung Ihren Anspruch, Ihre Einschreibung und ob der Leistungserbringer an GESY teilnimmt. Siehe [Gesundheitsversorgung und GESY](/de/life/healthcare-cyprus-gesy/) und [ärztliche Atteste für die Einwanderung](/de/life/medical-clinics-immigration/).
 
-### Praktische Tipps
+## 6. Arbeit und Geschäft
 
-- **Kaution**: üblicherweise 1-2 Monatsmieten
-- **Mietvertrag**: immer **schriftlich** abschließen, idealerweise beim Gemeinderat gestempelt
-- **Makler**: verlangen 1 Monatsmiete Provision. Direkt suchen auf Bazaraki.com
-- **Vor Unterzeichnung prüfen**: Nebenkosten inklusive? Klimaanlage? Möblierung? Parkplatz?
-- **Trend 2026**: Mieten steigen 3-6% jährlich
+Prüfen Sie vor der Annahme einer Stelle die Arbeitserlaubnis, den Vertrag, die Arbeitszeiten, den Urlaub und die geltenden Lohnregeln. Klären Sie vor Beginn einer Selbstständigkeit oder dem Betrieb einer Firma, welche Tätigkeit Ihr Status erlaubt.
 
-**[787+ Immobilien von Bauträgern auf research.cy durchsuchen](https://research.cy/search/)** — Preise vergleichen, keine Maklerprovision.
+Die [aktuellen FAQ der Abteilung für Arbeitsbeziehungen zum Mindestlohn](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/1BC7DC1FA85737B9C22586870039FD04) nennen für einen erfassten Vollzeitbeschäftigten **979 Euro brutto pro Monat vor Ablauf von sechs Monaten beim selben Arbeitgeber** und **danach 1.088 Euro**, ab dem 1. Januar 2026. Hausangestellte, Beschäftigte in Landwirtschaft und Viehhaltung, Seeleute und Beschäftigte, die unter die gesonderte Hotelverordnung fallen, sind von dieser nationalen Verordnung ausgenommen. Die Arbeitszeit richtet sich nach der geltenden Vereinbarung; die FAQ legen keine allgemeine Vierzigstundenwoche fest.
 
-Mehr: [Mieten in Zypern](/de/property/renting-property-cyprus/) | [Immobilien kaufen](/de/property/buying-property-cyprus/) | [Immobilien Limassol](/de/property/immobilien-limassol-stadtteile-preise/) | [Immobilien Larnaka](/de/property/immobilien-larnaca-erschwingliches-zypern/) | [Immobilien Paphos](/de/property/immobilien-paphos-kaeufer-leitfaden/)
+Für die Verwaltungsschritte Ihres Geschäfts lesen Sie [Selbstständigkeit](/de/business/self-employed-cyprus-guide/), [Firmengründung](/de/business/company-registration-cyprus/) und [Arbeiten in Zypern](/de/business/working-cyprus-job-search/). Prüfen Sie Steuer-, Sozialversicherungs- und Umsatzsteuerpflichten für Ihre tatsächliche Tätigkeit, statt eine Anmeldefrist auf jeden Neuankömmling anzuwenden.
 
----
+## 7. Steuern
 
-## Wie eröffne ich ein Bankkonto?
+### Steuerresidenz
 
-### Wichtige Banken
+[Das Einkommensteuergesetz, Abschnitt 2,](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) sieht zwei Tests für natürliche Personen vor:
 
-| Bank | Hinweise |
-|------|---------|
-| Bank of Cyprus | Größte Bank, Mobile App, englischsprachiger Support |
-| Eurobank Limited (ehem. Hellenic Bank) | Hellenic Bank und Eurobank Cyprus fusionierten im September 2025, gut für Geschäftskunden |
-| Alpha Bank Cyprus (ex-AstroBank) | AstroBank-Geschäft wurde 2025 übertragen |
-| RCB Bank | Aus dem Bankgeschäft ausgestiegen — **keine Kontoeroeffnungsoption** |
+- Ein Aufenthalt in Zypern von **mehr als 183 Tagen** im selben Steuerjahr. Genau 183 Tage erfüllen diesen Test für sich allein nicht.
+- Der bedingte **60-Tage-Weg** verlangt mindestens 60 Tage in Zypern, keinen Aufenthalt von mehr als 183 Tagen in einem anderen einzelnen Staat, eine Geschäfts- oder Beschäftigungstätigkeit in Zypern oder ein Amt bei einer in Zypern steuerlich ansässigen Person sowie einen ständigen Wohnsitz in Zypern, gekauft oder gemietet. Die betreffende Geschäftstätigkeit, Beschäftigung oder das Amt darf in diesem Steuerjahr nicht beendet werden.
 
-### Erforderliche Dokumente
+Der aktuelle Wortlaut von 2026 enthält die frühere gesonderte Bedingung nicht mehr, dass die Person nicht anderswo steuerlich ansässig sein darf. Prüfen Sie den Anspruch eines anderen Staates und das anwendbare Doppelbesteuerungsabkommen gesondert. Eine Aufenthaltsgenehmigung entscheidet für sich allein nicht über die Steuerresidenz.
 
-- Gültiger Reisepass oder Personalausweis
-- Adressnachweis (Nebenkostenrechnung oder Kontoauszug, max. 3 Monate alt)
-- Einkommensnachweis (Gehaltsabrechnungen, Steuerbescheid, Arbeitsvertrag)
-- Herkunft der Mittel (Kontoauszüge, Firmendokumente)
-- Bankempfehlungsschreiben (nicht immer nötig, aber hilfreich)
+### Ordentliche Einkommensteuersätze
 
-### Zeitrahmen
+Der Tarif 2026 gilt für das **zu versteuernde Einkommen** nach den anwendbaren Anpassungen:
 
-- **Fernkontoeröffnung**: 7-10 Werktage (Bank of Cyprus, Eurobank)
-- **Persönlich**: 1 Tag bis 2 Wochen
-- **Tipp**: Starten Sie den Prozess vor der Ankunft — 30% der neuen Konten werden inzwischen remote eröffnet
+| Teil des zu versteuernden Jahreseinkommens | Satz |
+|---|---|
+| Bis 22.000 Euro | 0 % |
+| Über 22.000 bis 32.000 Euro | 20 % |
+| Über 32.000 bis 42.000 Euro | 25 % |
+| Über 42.000 bis 72.000 Euro | 30 % |
+| Über 72.000 Euro | 35 % |
 
-Mehr: [Banken in Zypern](/de/business/banks-cyprus-comparison/) | [Bankkonto für Ausländer](/de/business/bank-account-cyprus-foreigners/) | [Geldtransfers](/de/business/money-transfer-cyprus-swift-crypto/)
+Die Schwelle ist keine pauschale Befreiung für das Bruttogehalt oder für alle ausländischen Einkünfte. Beitragsgrundlagen, Abzüge, Befreiungen und grenzüberschreitende Einkünfte sollten Sie gesondert prüfen lassen.
 
----
+### Non-Dom und andere Steuern
 
-## Wie funktioniert die Krankenversicherung?
+[Das SDC-Gesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html) enthält die Domizilregeln und Ausnahmen. Eine Person, die in **mindestens 17 der vorangegangenen 20 Steuerjahre** in Zypern steuerlich ansässig war, gilt für diese Zwecke als domiziliert. Die begünstigte Non-Dom-Behandlung von Dividenden und Zinsen befreit Einkünfte aus Beschäftigung oder Geschäft nicht von der ordentlichen Einkommensteuer und bedeutet nicht, dass kein GESY-Beitrag anfällt.
 
-### GeSY — Staatliches Gesundheitssystem
+Berechtigte Personen ohne zyprisches Herkunftsdomizil, die als domiziliert gelten, können mit Zustimmung des Steuerkommissars eine alternative pauschale SDC wählen: **250.000 Euro im Voraus für jeden Fünfjahreszeitraum**, zu zahlen bis zum Ende des Monats nach der Genehmigung. Der Antrag ist bis zum 30. Juni des ersten Jahres zu stellen. Bis zu zwei Zeiträume sind erlaubt; dies ist eine alternative SDC-Abgabe nach Abschnitt 3Δ und keine Verlängerung des Non-Dom-Status. Jede Fünfjahreswahl ist unwiderruflich und bindend. Die Zahlung wird nicht erstattet, kann nicht mit anderen Steuerschulden oder Guthaben verrechnet werden und berechtigt nicht zur Anrechnung ausländischer Steuern. Wird sie nicht bis zur gesetzlichen Frist gezahlt, gilt dieses Verfahren für kein Steuerjahr, und es gelten die ordentlichen einkommensabhängigen SDC-Regeln.
 
-- **Beitrag**: 2,65% vom Gehalt (wird vom Arbeitgeber einbehalten)
-- **Leistungen**: Hausarzt, Fachärzte, Labor, Krankenhausaufenthalt, Medikamente (mit Zuzahlung)
-- **Berechtigt**: Inhaber von Aufenthaltsgenehmigungen mit Arbeitsrecht. Visitor Permit und Digital Nomad: **nicht berechtigt**
-- **Anmeldung**: online auf [gesy.org.cy](https://www.gesy.org.cy/en-us/hiobeneficiaryenrollmentpro) oder beim Hausarzt
-- Zypern belegt **Platz 4 weltweit** bei der Gesundheitsversorgung (Expat Insider Survey 2025)
+Siehe [Steuern und Beiträge](/de/business/taxes-cyprus-gesy-deductions/), [Non-Dom](/de/business/non-dom-status-cyprus-60-day-rule/), [TIN-Anmeldung](/de/business/tax-identification-number-cyprus/), [Steuererklärungen](/de/business/tax-return-filing-cyprus/) und [die Reform 2026](/de/business/cyprus-tax-reform-2026/).
 
-### Private Krankenversicherung
+## 8. Kinder: Schulen und Kindergärten
 
-- Erforderlich für: Besuchererlaubnis, Digital Nomad Visa, Übergangszeit vor GeSY
-- Kosten: €500-1.500/Jahr pro Person
-- Bekannte Anbieter: GlobMed, Metlife, Minerva, Bupa Global
-- **Tipp für Deutsche**: Prüfen Sie, ob Ihre deutsche PKV/GKV eine Auslandsdeckung bietet oder ob eine Anwartschaft sinnvoll ist
+Wenden Sie sich an den zuständigen Bildungsbezirk oder die gewünschte Schule wegen Anmeldung, Wechsel, Dokumenten, Sprachförderung und freien Plätzen. Holen Sie aktuelle Angebote privater Schulen ein, statt eine allgemeine Jahresgebühr anzunehmen.
 
-### GKV/PKV vs. GeSY — Vergleich für Deutsche
+Die [Hinweise des Bildungsministeriums zur Vorschule](https://www.moec.gov.cy/dde/en/infoserv_preprimary_general_information.html) nennen für **2026/27 als Pflichtalter vier Jahre und vier Monate vor dem 1. September**. Kinder, die dauerhaft oder vorübergehend in Zypern wohnen, können unabhängig von ihrer Staatsangehörigkeit angemeldet werden. Jüngere Kinder ab drei Jahren werden nach den genannten Kriterien für verbleibende Plätze berücksichtigt; ein Platz ist nicht garantiert.
 
-| Aspekt | Deutschland (GKV) | Deutschland (PKV) | Zypern (GeSY) |
-|--------|-------------------|-------------------|---------------|
-| Beitrag | ~14,6% + Zusatz | Risikobasiert | 2,65% vom Gehalt |
-| Arbeitgeberanteil | Ja (ca. halbe-halbe) | Zuschuss | Ja (8,8% AG-Beitrag inkl.) |
-| Freie Arztwahl | Eingeschränkt | Ja | Ja (Hausarzt als Gatekeeper) |
-| Wartezeiten | Wochen-Monate (Facharzt) | Kürzer | Wochen (ähnlich GKV) |
-| Zuzahlungen | €10 Praxisgebühr abgeschafft | Selbstbeteiligung | €1-6 pro Arztbesuch |
-| Familienversicherung | Kostenlos für Angehörige | Jeder einzeln | Jeder einzeln (2,65%) |
+[Öffentliche Vorschulbildung ist kostenlos](https://www.moec.gov.cy/dde/en/preprimary_fees.html); gemeindliche Vorschulen legen ihre Gebühren selbst fest. Halten Sie sich an die tatsächlichen Anforderungen an Anmeldedokumente und gehen Sie nicht davon aus, dass die Geburtsurkunde jedes Kindes apostilliert werden muss.
 
-**Empfehlung**: Wer in Deutschland PKV-versichert ist, sollte eine **Anwartschaftsversicherung** abschließen (ca. €80-150/Monat), um die Rückkehroption zu sichern. GeSY-Beiträge sind deutlich niedriger als deutsche Beiträge — aber die Versorgung ist eher mit der GKV vergleichbar.
+Siehe [Bildung in Zypern](/de/life/schools-education-cyprus/) und [Schulvergleich](/de/life/schools-cyprus-comparison/).
 
-Mehr: [Gesundheit in Zypern](/de/life/healthcare-cyprus-gesy/) | [Kliniken und Untersuchungen](/de/life/medical-clinics-immigration/)
+## 9. Autofahren und Verkehr
 
----
+Prüfen Sie vor dem Fahren oder einem Umtauschantrag die Regeln für das **Land, das Ihren Führerschein ausgestellt hat**, die Klasse und Ihre Aufenthaltssituation. Holen Sie ein Versicherungsangebot ein und prüfen Sie Papiere und Zustand eines Fahrzeugs, bevor Sie es kaufen.
 
-## Wie kann ich auf Zypern arbeiten?
+[Your Europe](https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-exchange-recognition/index_en.htm) erklärt, dass ein gültiger EU-Führerschein bei einem Umzug in ein anderes EU-Land in der Regel nicht umgetauscht werden muss, vorbehaltlich der genannten Ausnahmen. Internationale Führerscheine sind auf EU-Ebene nicht geregelt und werden möglicherweise nicht anerkannt; gehen Sie nicht davon aus, dass ein internationaler Führerschein jedem Neuankömmling sechs Monate rechtmäßiges Fahren erlaubt.
 
-### Anstellung
+Für die zyprische Anerkennung, Aufenthaltsnachweise und Antragsanweisungen nutzen Sie den [Führerschein-Leitfaden](/de/life/driving-license-cyprus/). Prüfen Sie [Fahrzeugzulassung](/de/life/car-registration-cyprus/) und [Verkehrsregeln](/de/life/traffic-fines-cyprus/) für Ihr Fahrzeug und den vorgesehenen Gebrauch.
 
-- Mindestlohn: **€979/Monat** (€1.088 nach 6 Monaten), gültig bis Dezember 2027
-- Arbeitswoche: 40 Stunden (5 Tage)
-- Urlaub: 20 Arbeitstage + 14 Feiertage
-- Mutterschutz: **22 Wochen** (verlängert von 18 Wochen in 2024)
-- **Tech-Sektor**: höchste Nachfrage — Entwickler, QA, DevOps, Produktmanager
-- IT-Gehälter: €2.000-5.000 (Junior-Senior), €5.000-10.000+ (Lead/CTO)
+## 10. Alltag und Budget
 
-### Selbstständigkeit und Firmengründung
+Nutzen Sie eine Tabelle, die auf Ihre Wohnung und Ihre Aktivitäten zugeschnitten ist:
 
-- **Selbstständig**: Anmeldung bei Social Insurance, Steuerbehörde, Umsatzsteuer (ab €15.600/Jahr Umsatz)
-- **Ltd-Gesellschaft**: Gründung in 5-7 Tagen, Stammkapital ab €1
-- KSt: **15%** ab 2026 (OECD Pillar Two)
-- **IP-Box-Regelung**: nur ca. 3% effektiver Steuersatz auf geistiges Eigentum — relevant für Tech-Unternehmer
+| Posten | Was zu prüfen ist |
+|---|---|
+| Wohnen | Miete, Kaution, Maklergebühren, Vertrag und enthaltene Nebenkosten |
+| Nebenkosten | Rechnungen für das Objekt, Kontoübertragung, Tarif, Kühl- und Heizbedarf |
+| Internet/Mobilfunk | Abdeckung an der genauen Adresse, Installation, Vertrag und Ersatzverbindung |
+| Essen | Ihre eigenen Annahmen zu Einkauf und Restaurantbesuchen im Haushalt |
+| Verkehr | Tatsächliche Buslinien oder Fahrzeug, Versicherung und Parkkosten |
+| Gesundheit | Passende Versicherung, Anspruch und Regelungen mit den Leistungserbringern |
+| Dokumente/Steuern | Gebühren der Kategorie, Übersetzungen, Beglaubigung und fachliche Beratung |
 
-### Für deutsche Freiberufler
+Öffnungszeiten und Terminpflicht der Ämter klären Sie direkt. Besuchen Sie wenn möglich das Viertel und planen Sie die Anforderungen Ihres Haushalts an Barrierefreiheit und Jahreszeiten ein.
 
-- DBA Deutschland-Zypern verhindert Doppelbesteuerung
-- Wechsel der unbeschränkten Steuerpflicht erfordert **vollständige Verlagerung des Lebensmittelpunkts**
-- Meldepflicht in Deutschland beachten (Abmeldung beim Einwohnermeldeamt)
+Siehe [Nebenkosten](/de/life/utilities-cyprus/), [Internet/Mobilfunk](/de/life/internet-mobilfunk-zypern-anbieter/), [Lebenshaltungskosten](/de/life/lebenshaltungskosten-zypern-2026/) und [Betrug vermeiden](/de/life/scams-fraud-cyprus/).
 
-Mehr: [Arbeiten in Zypern](/de/business/working-cyprus-job-search/) | [Selbstständigkeit](/de/business/self-employed-cyprus-guide/) | [Firmengründung](/de/business/company-registration-cyprus/) | [Firma + Anstellung](/de/business/unternehmen-und-anstellung-zypern-doppeleinkommen/)
+## 11. Umzugs-Checkliste
 
----
+### Bevor Sie sich auf Reise oder Wohnung festlegen
 
-## Welche Steuern zahle ich auf Zypern?
+- [ ] Bestätigen Sie den rechtmäßigen Aufenthalts- und Arbeitsweg und die zugehörige offizielle Checkliste.
+- [ ] Prüfen Sie Passgültigkeit, Datum der Bescheinigungen, Übersetzungen und Beglaubigung für diesen Antrag.
+- [ ] Schließen Sie die nötige Versicherung ab und holen Sie Angebote für Wohnung und Leistungen ein.
+- [ ] Klären Sie die Schulanmeldung oder den Schulwechsel für jedes Kind.
+- [ ] Prüfen Sie die Voraussetzungen für Bankkonto und Führerschein; planen Sie eine Reserve für Verzögerungen und einmalige Kosten ein.
+- [ ] Vereinbaren Sie die geplante Beschäftigung oder Remote-Arbeit.
 
-### Steuerliche Ansässigkeit
+### Bei Ankunft und vor den jeweiligen Fristen
 
-| Regel | Kriterien | Für wen |
-|-------|-----------|---------|
-| 183 Tage | 183+ Tage pro Jahr in Zypern | Standardregel |
-| 60 Tage | 60+ Tage in Zypern + nirgendwo anders steuerlich ansässig + Geschäft/Arbeit in Zypern | Steueroptimierung |
+- [ ] Halten Sie sich an Antragsfrist, Termin und Biometrieverfahren Ihrer Kategorie.
+- [ ] Bewahren Sie die Quittung und die Antragsdaten auf; prüfen Sie, welchen Statusnachweis sie liefern.
+- [ ] Regeln Sie Wohnung und Nebenkosten für das tatsächliche Objekt.
+- [ ] Folgen Sie den Verfahren für Schule, Bank und Führerschein.
+- [ ] Prüfen Sie für Ihre Lage die Steueranmeldung, die Sozialversicherung und die Einschreibung in die Gesundheitsversorgung.
 
-### Wichtige Steuersätze (2026)
+Nutzen Sie die oben genannten wegspezifischen Fristen und die verlinkten Leitfäden. Die Überschriften bezeichnen Planungsphasen, keine allgemeine Sieben-Tage-Frist bei der Einwanderung und keine Ein-Monats-Frist bei den Steuern.
 
-| Steuer | Satz | Hinweis |
-|--------|------|---------|
-| ESt (bis €22.000) | 0% | Erhöht von €19.500 in 2026 |
-| ESt (€22.001-32.000) | 20% | — |
-| ESt (€32.001-42.000) | 25% | — |
-| ESt (€42.001-72.000) | 30% | — |
-| ESt (über €72.000) | 35% | — |
-| KSt | 15% | Erhöht von 12,5% (Pillar Two) |
-| SDC (Dividenden) | 5% | Gesenkt von 17% (2026 Reform) |
-| SDC (Mieteinnahmen) | Entfällt | Aus SDC entfernt 2026 |
-| SV (Arbeitnehmer) | 8,8% | — |
-| SV (Arbeitgeber) | 8,8% | — |
-| SV (Selbstständig) | 16,6% | — |
-| GeSY | 2,65% | Arbeitnehmeranteil |
-| Stempelsteuer | 0% | Abgeschafft am 1. Januar 2026 |
+## 12. Prüfungen vor Zahlung oder Antrag
 
-### Non-Dom-Status
+1. Vergleichen Sie vor dem Einreichen die tatsächliche offizielle Checkliste mit Ihren Dokumenten.
+2. Prüfen Sie den vorgeschlagenen Wohnungsvertrag, die Gebühren und die Zahlungsanweisungen.
+3. Bestätigen Sie die Voraussetzungen für das Bankkonto und sichern Sie sich zwischenzeitlich einen Zahlungszugang.
+4. Prüfen Sie Steuerresidenz und Domizil, statt anzunehmen, dass alle Neuankömmlinge Anspruch auf die Non-Dom-Behandlung haben.
+5. Verfolgen Sie die kategoriespezifischen Antragsfristen und Ablaufdaten.
+6. Prüfen Sie Anerkennung des Führerscheins, Versicherung und Verkehr für Ihren Gebrauch.
+7. Klären Sie Öffnungszeiten, Terminvergabe und Verfügbarkeit der Leistungserbringer.
+8. Vergleichen Sie konkrete Wohnungen und Leistungen, statt sich auf ein Preisetikett für die ganze Stadt zu verlassen.
+9. Prüfen Sie vor einem Kauf die Rechtsdokumente der Immobilie und den Bauträger.
+10. Bewahren Sie datierte Angebote, Quittungen und Kopien der eingereichten Dokumente auf.
 
-- **17 Jahre** Befreiung von SDC auf Dividenden und Zinsen
-- Personen ohne zyprisches domicile of origin, die als deemed domiciled gelten, können mit Genehmigung des Steuerkommissars eine pauschale SDC wählen: €250.000 als einmalige Vorauszahlung je Fünfjahresperiode, bis zum Ende des Monats nach der Genehmigung. Antrag bis 30. Juni des ersten Jahres. Höchstens zwei Perioden (€500.000 für zehn Jahre); dies ist eine alternative SDC-Abgabe, keine Investition oder Verlängerung des Non-dom-Status. [SDC law, §3Δ](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html>).
-- Keine Erbschafts- oder Schenkungssteuer in Zypern
+## Häufig gestellte Fragen
 
-### Vergleich Deutschland vs. Zypern
+### Was kostet der Umzug nach Zypern?
 
-| Aspekt | Deutschland | Zypern |
-|--------|------------|--------|
-| ESt-Spitzensatz | 45% + Soli | 35% |
-| KSt | ~30% (inkl. GewSt) | 15% |
-| Dividendenbesteuerung | 25% + Soli | 5% SDC (Non-Dom: 0%) |
-| Erbschaftssteuer | Bis 50% | 0% |
-| Grundfreibetrag | €11.604 | €22.000 |
-| ESt-Höchstsatz ab | €277.826 | €72.000 |
+Erstellen Sie ein Budget aus datierten Angeboten für Wohnung, Kaution, Anreise, Dokumente, Aufenthaltsantrag, Versicherung, Nebenkosten und Verkehr. Trennen Sie einmalige Kosten von monatlichen Ausgaben und planen Sie eine Reserve ein. Eine Mietspanne für eine ganze Stadt sagt nichts über den Preis einer bestimmten Wohnung.
 
-Mehr: [Steuern in Zypern](/de/business/taxes-cyprus-gesy-deductions/) | [Non-Dom-Status](/de/business/non-dom-status-cyprus-60-day-rule/) | [Steuer-ID (TIN)](/de/business/tax-identification-number-cyprus/) | [Steuererklärung](/de/business/tax-return-filing-cyprus/) | [Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/)
+### Welches Visum brauche ich für den Umzug nach Zypern als Remote-Arbeiter?
 
----
+Das Digital-Nomad-Programm gilt für Drittstaatsangehörige außerhalb von EU/EWR, die für einen im Ausland registrierten Arbeitgeber oder für Kunden im Ausland arbeiten und ein stabiles monatliches Nettoeinkommen von mindestens 3.500 Euro nach Steuern und Beiträgen haben. Die erste Genehmigung gilt ein Jahr und kann um höchstens weitere zwei Jahre verlängert werden. Für EU-Bürger gelten getrennte Aufenthalts- und Anmeldevorschriften.
 
-## Welche Schulen gibt es für Kinder?
+### Wie lange dauert es, die zyprische Staatsbürgerschaft zu bekommen?
 
-### Schultypen
+Der ordentliche Weg verlangt sieben anrechenbare Jahre innerhalb der zehn Jahre vor den letzten zwölf Monaten ununterbrochenen rechtmäßigen Aufenthalts, mit den gesetzlich erlaubten Abwesenheiten. Außerdem gelten Griechisch auf Niveau B1 (oder eine anerkannte griechischsprachige Ausbildung als Ausnahme), guter Leumund, Kenntnisse über Zypern und weitere gesetzliche Voraussetzungen. Ein abgeschlossener Aufenthaltszeitraum garantiert weder die Genehmigung noch eine Bearbeitungsdauer.
 
-| Typ | Unterrichtssprache | Kosten/Jahr | Beispiele |
-|-----|-------------------|-------------|---------|
-| Staatlich | Griechisch | Kostenlos | Nach Wohngebiet |
-| Privat international | Englisch | €5.000-17.000 | ISOP, Pascal, AISC |
-| Deutsch-/Mehrsprachig | Deutsch + Englisch | €4.000-10.000 | Deutsche Schule Limassol |
-
-### Praktische Hinweise
-
-- **Anmeldung**: 3-6 Monate vor Schuljahresbeginn (September) beginnen
-- **Dokumente**: Geburtsurkunde (apostilliert), bisherige Zeugnisse, ärztliches Attest
-- **Kindergärten**: staatlich (3-6 Jahre, kostenlos) und privat (ab €300/Monat)
-- **Trend**: ausländische Einschulungen in Privatschulen nehmen stark zu — Plätze sind schnell vergeben
-
-Mehr: [Schulen in Zypern](/de/life/schools-education-cyprus/) | [Schulvergleich](/de/life/schools-cyprus-comparison/)
-
----
-
-## Was muss ich zum Autofahren wissen?
-
-### Linksverkehr
-
-Zypern ist eines der wenigen EU-Länder mit **Linksverkehr** (wie in Großbritannien). Lenkrad rechts. Die Umgewöhnung dauert erfahrungsgemäß 1-2 Wochen.
-
-### Führerscheinumtausch
-
-| Ihr Führerschein | Umtausch |
-|-----------------|---------|
-| EU/EWR (Deutschland, Österreich, Schweiz) | Freiwilliger Umtausch nach 6 Monaten Aufenthalt |
-| USA, Kanada, Australien, Japan, VAE, Russland, Ukraine | Umtausch ohne Prüfung (bilaterales Abkommen) |
-| Andere Länder | Fahrprüfung + Umtausch |
-
-- Gebühr: **€40** (kostenlos für Personen über 65)
-- Bearbeitungszeit: 15 Tage bis 1 Monat
-- Internationaler Führerschein gilt die **ersten 6 Monate**
-
-### Autokauf
-
-- Zulassung: Road Transport Department
-- TÜV (MOT) für Fahrzeuge über 4 Jahre vorgeschrieben
-- Versicherung: ab €300/Jahr (Haftpflicht)
-- **Achtung**: Kein Fahrzeug mit Linkslenkung aus Deutschland mitbringen — Sie fahren auf der linken Seite!
-
-Mehr: [Führerschein in Zypern](/de/life/driving-license-cyprus/) | [Autozulassung](/de/life/car-registration-cyprus/) | [Bußgelder](/de/life/traffic-fines-cyprus/)
-
----
-
-## Wie sieht der Alltag auf Zypern aus?
-
-### Nebenkosten
-
-| Posten | Kosten/Monat | Hinweis |
-|--------|-------------|---------|
-| Strom (EAC) | €80-200 | Klimaanlage = größter Posten |
-| Wasser | €20-40 | Vierteljährliche Abrechnung |
-| Internet (Glasfaser) | €30-50 | Cyta, Epic, PrimeTel |
-| Mobilfunk | €15-30 | Cyta, Epic, PrimeTel |
-
-### Lebensmittel und Essen
-
-- Supermärkte: Alphamega, Papantoniou, Lidl, Carrefour
-- Durchschnittliche Ausgaben (2 Personen): **€400-600/Monat**
-- Restaurants: Mittagessen €10-15, Abendessen €20-35 pro Person
-- Frisches Obst, Gemüse, Olivenöl, Halloumi — günstiger als in Nordeuropa
-
-### Kulturschock
-
-- **Siesta**: 13:00 bis 16:00 sind viele Geschäfte und Ämter geschlossen (besonders im Sommer)
-- **Bürokratie**: Rechnen Sie mit Wartezeiten bei Behörden
-- **Verkehr**: Öffentlicher Nahverkehr ist minimal — ein Auto ist praktisch unverzichtbar
-- **Hitze**: Juli-August bis +40°C; Klimaanlage ist Pflicht, kein Luxus
-- **Sicherheit**: Platz 13 weltweit (Global Finance 2024), sehr niedrige Kriminalität
-- **Gemeinschaft**: Deutsche Vereine, Stammtische und Facebook-Gruppen in Paphos und Limassol
-
-Mehr: [Nebenkosten in Zypern](/de/life/utilities-cyprus/) | [Coworking Spaces](/de/business/coworking-spaces-cyprus/) | [Betrug vermeiden](/de/life/scams-fraud-cyprus/)
-
----
-
-## Was steht auf der Auswanderungs-Checkliste?
-
-### 3 Monate vorher
-
-- [ ] Visumstyp bestimmen und Dokumente zusammenstellen
-- [ ] Führungszeugnis, Diplome, Geburtsurkunden apostillieren
-- [ ] Dokumente ins Englische übersetzen lassen (beglaubigte Übersetzung)
-- [ ] Wise/Revolut-Konto eröffnen
-- [ ] Städte recherchieren: Paphos, Limassol, Larnaka, Nikosia
-- [ ] Für Kinder: Schule auswählen und Bewerbung einreichen
-- [ ] Bankkontoeröffnung remote starten
-- [ ] Internationalen Führerschein beantragen
-- [ ] **Steuerberater konsultieren** wegen Wegzugsbesteuerung und DBA
-
-### 1 Monat vorher
-
-- [ ] Wohnung finden und Mietvertrag unterschreiben
-- [ ] Flüge buchen
-- [ ] Krankenversicherung abschließen (GeSY-Berechtigung prüfen)
-- [ ] Bargeldreserve vorbereiten (€2.000-3.000 für die erste Zeit)
-- [ ] Arbeitgeber informieren / Remote-Arbeit vereinbaren
-- [ ] Pass-Gültigkeit prüfen (mindestens 1 Jahr)
-- [ ] **Abmeldung beim Einwohnermeldeamt** planen
-
-### Erste Woche
-
-- [ ] Beim District Administration Office anmelden (EU-Bürger: innerhalb von 4 Monaten)
-- [ ] Mobilfunk-SIM besorgen (Cyta, Epic, PrimeTel)
-- [ ] Bankkonto eröffnen (falls nicht remote erledigt)
-- [ ] Strom (EAC) und Wasser auf eigenen Namen umstellen
-- [ ] Kinder in der Schule anmelden (falls noch nicht geschehen)
-
-### Erster Monat
-
-- [ ] Steuer-ID (TIN) beantragen — [Anleitung](/de/business/tax-identification-number-cyprus/)
-- [ ] Bei Social Insurance registrieren
-- [ ] Bei GeSY anmelden (falls berechtigt)
-- [ ] Führerschein umtauschen
-- [ ] Auto kaufen oder mieten
-- [ ] Hausarzt und Zahnarzt finden
-- [ ] Internet einrichten (Glasfaser: Cyta, Epic)
-- [ ] Nachbarschaft erkunden: Geschäfte, Apotheken, Fitnessstudios, Parks
-- [ ] Expat-Communities beitreten: [Telegram @expatscy](https://t.me/expatscy)
-
----
-
-## Welche Fehler machen Auswanderer am häufigsten?
-
-1. **Ohne apostillierte Dokumente anreisen** — Sie verlieren Monate für Nachsendungen aus der Heimat
-2. **Wohnung ohne schriftlichen Vertrag mieten** — kein Rechtsschutz, keine Kautionsrückgabe
-3. **Bankkonto nicht rechtzeitig eröffnen** — ohne Konto kein Gehalt, keine Mietüberweisung
-4. **Non-Dom-Status ignorieren** — Sie verschenken jährlich tausende Euro an SDC
-5. **Wegzugsbesteuerung nicht planen** — kann bei Kapitalgesellschaftsanteilen teuer werden
-6. **Auto mit Linkslenkung aus Deutschland mitbringen** — auf Zypern herrscht Linksverkehr!
-7. **Auf öffentliche Verkehrsmittel verlassen** — Buslinien sind begrenzt und unregelmäßig
-8. **Siesta nicht einplanen** — Banken, Ämter und Geschäfte sind nachmittags geschlossen
-9. **In Limassol zu viel für Miete zahlen** — Paphos und Larnaka sind halb so teuer
-10. **Bauträger beim Immobilienkauf nicht prüfen** — bestehen Sie auf ein Title Deed; [Bauträger prüfen](/de/property/property-developers-issues-cyprus/)
-
----
-
-*Fragen? Treten Sie unserem [Telegram-Kanal @expatscy](https://t.me/expatscy) bei — wir beantworten alle Fragen zum Auswandern nach Zypern.*
-
-
----
-
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
-
----
-
-## Quellen
-
-- [Deputy Ministry of Migration (MIP)](https://www.gov.cy/mip-md/en/) — gov.cy
-- [Tax Department](https://www.gov.cy/mof/en/) — gov.cy
-- [GeSY — General Healthcare System](https://www.gesy.org.cy/en-us/home-en) — GeSY
-- [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — gov.cy
-- [gesy.org.cy](https://www.gesy.org.cy/en-us/hiobeneficiaryenrollmentpro) — GeSY
+Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330).

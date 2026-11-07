@@ -1,13 +1,12 @@
 ---
 type: videos
-title: "Warum IT-Fachleute nach Zypern ziehen 2026"
-description: "Wir erklaeren, warum Zypern zu einem beliebten Ziel für IT-Fachleute geworden ist. Steuern, Visa, Lebensqualitaet -- ein vollstaendiger Überblick."
+title: "IT-Fachleute ziehen nach Zypern: ein Erfahrungsbericht"
+description: "Ein IT-Spezialist erzählt vom Umzug von Russland nach Zypern: Inselwahl, wechselnde Eindrücke, Heimweh und Karriere. Mit Steuer-Fakten."
 date: 2024-10-16
-updated: 2026-07-12
+updated: 2026-11-07
 youtube_id: "6ug36uGS0aA"
-duration: "PT32M00S"
+duration: "PT7M38S"
 upload_date: "2024-10-16"
-view_count: 22000
 tags:
   - IT
   - Relokation
@@ -15,90 +14,68 @@ tags:
   - Aufenthaltserlaubnis
 categories:
   - Videos
+author: "Expats Cyprus"
 topics:
   - rabota
   - vnzh
 draft: false
-author: "Expats Cyprus"
 translationKey: "pochemu-vse-aytishniki-edut-na-kipr"
-
 topics_mentioned:
-  - "IT-Relokation nach Zypern"
-  - "Steuern für IT-Fachleute"
-  - "Aufenthaltserlaubnis für Programmierer"
-  - "Non-Dom-Status"
-  - "Vorteile Zyperns"
-
+  - "Umzugserfahrung eines IT-Spezialisten"
+  - "Warum Zypern"
+  - "Wie sich die Eindrücke änderten"
+  - "Heimweh"
+  - "Karriereaussichten"
 faqs:
-  - question: "Warum waehlen IT-Fachleute Zypern?"
-    answer: "Niedrige Steuern (Non-Dom-Status, IP Box), einfache Aufenthaltserlaubnis, Englisch als Verkehrssprache, EU-Mitgliedschaft, gutes Klima, Sicherheit, gut entwickelte Infrastruktur."
-  - question: "Welche Steuervorteile gibt es auf Zypern für IT-Fachleute?"
-    answer: "Non-Dom-Status (keine Steuer auf Dividenden für 17 Jahre), IP Box (effektiv ca. 3 % auf qualifizierte Einkuenfte aus geistigem Eigentum), maximaler Einkommensteuersatz 35 %, keine Kapitalertragssteuer."
-  - question: "Fuer wen ist Zypern NICHT geeignet?"
-    answer: "Fuer diejenigen, die keine Hitze moegen, in einer Grossstadt leben wollen, Vielfalt im Kulturleben schaetzen, nicht bereit für das Inselleben sind oder hohe lokale Gehaelter suchen."
+  - question: "Worum geht es in diesem Video?"
+    answer: "Der Herausgeber beschreibt ein Interview mit einem IT-Spezialisten über den Umzug von Russland nach Zypern: Wahl der Insel, wechselnde Eindrücke, Heimweh und Karriereaussichten. Es ist ein persönlicher Bericht."
+  - question: "Bringt der Non-Dom-Status jedem Neuankömmling siebzehn steuerfreie Jahre?"
+    answer: "Das hängt von Domizil und Aufenthaltsgeschichte ab. Laut Steuerbehörde gilt das Deemed Domicile nach zyprischer Steueransässigkeit in mindestens 17 der 20 Jahre vor dem Steuerjahr. Die Befreiung betrifft die SDC; andere Steuern und Beiträge prüfen Sie getrennt."
+  - question: "Wie wird das Beispiel mit 3 % bei der IP Box berechnet?"
+    answer: "Wenn der Gewinn voll für den 80-%-IP-Abzug qualifiziert und der Standard-Körperschaftsteuersatz 2026 von 15 % gilt, ergeben 20 % × 15 % genau 3 % dieses Gewinns. Förderfähige Vermögenswerte, die Nexus-Berechnung und weitere gesetzliche Bedingungen müssen erfüllt sein."
 faqSchema:
-  - question: "Lohnt sich ein Auswandern nach Zypern als IT-Fachmann aus Deutschland?"
-    answer: "Ja, besonders für Selbststaendige und GmbH-Inhaber. Auf Zypern betraegt die Koerperschaftssteuer seit 2026 15 % (vs. 30 %+ in Deutschland). Der Non-Dom-Status befreit Dividenden 17 Jahre lang von der Steuer. Der IP Box reduziert den effektiven Steuersatz auf qualifizierte Softwarelizenzen auf ca. 3 %. Kombiniert mit EU-Niederlassungsfreiheit (kein Visum für Deutsche) ist Zypern steuerlich einer der attraktivsten Standorte innerhalb der EU."
-  - question: "Muss ich in Deutschland Steuern zahlen, wenn ich als IT-Freelancer nach Zypern umziehe?"
-    answer: "Bei dauerhaftem Umzug (Aufgabe des deutschen Wohnsitzes, Ummeldung, mind. 183 Tage auf Zypern) endet die unbeschraenkte Steuerpflicht in Deutschland. Achtung: Die erweiterte beschraenkte Steuerpflicht kann noch bis zu 10 Jahre greifen. Empfehlenswert: Steuerberater mit Erfahrung im deutsch-zyprischen Doppelbesteuerungsabkommen hinzuziehen."
-  - question: "Wie hoch sind die Gehaelter für Entwickler auf Zypern?"
-    answer: "Im lokalen Markt: Junior 1.500–2.500 €, Mid 2.500–4.000 €, Senior 4.000–7.000 € brutto. Remote-Arbeit für deutsche oder britische Unternehmen ist wesentlich lukrativer — bei 5.000–10.000 € und zypriotischer Steuer spart man deutlich mehr als in Deutschland."
-  - question: "Benoetigt man als EU-Bürger ein Visum für Zypern?"
-    answer: "Nein. Als EU-Bürger geniessen Deutsche, Oesterreicher und Schweizer (mit eingeschraenkter Personenfreizuegigkeit) Niederlassungsfreiheit. Nach 3 Monaten ist ein Yellow Slip (Anmeldebescheinigung) beim Civil Registry erforderlich — kein Visum, kein Antrag auf Aufenthaltserlaubnis."
-  - question: "Was ist der Non-Dom-Status auf Zypern und wie beantragt man ihn?"
-    answer: "Der Non-Domicile-Status befreit Personen, die nicht auf Zypern geboren und aufgewachsen sind, 17 Jahre lang von der SDC-Steuer auf Dividenden und Zinsen. Der Antrag erfolgt beim Finanzamt (Tax Department) nach Erwerb der Steuerpflicht in Zypern (183 Tage Aufenthalt oder Mittelpunkt der Lebensinteressen). Kein aufwendiges Verfahren — Standard bei IT-Umzug."
+  - question: "Worum geht es in diesem Video?"
+    answer: "Der Herausgeber beschreibt ein Interview mit einem IT-Spezialisten über den Umzug von Russland nach Zypern: Wahl der Insel, wechselnde Eindrücke, Heimweh und Karriereaussichten. Es ist ein persönlicher Bericht."
+  - question: "Bringt der Non-Dom-Status jedem Neuankömmling siebzehn steuerfreie Jahre?"
+    answer: "Das hängt von Domizil und Aufenthaltsgeschichte ab. Laut Steuerbehörde gilt das Deemed Domicile nach zyprischer Steueransässigkeit in mindestens 17 der 20 Jahre vor dem Steuerjahr. Die Befreiung betrifft die SDC; andere Steuern und Beiträge prüfen Sie getrennt."
+  - question: "Wie wird das Beispiel mit 3 % bei der IP Box berechnet?"
+    answer: "Wenn der Gewinn voll für den 80-%-IP-Abzug qualifiziert und der Standard-Körperschaftsteuersatz 2026 von 15 % gilt, ergeben 20 % × 15 % genau 3 % dieses Gewinns. Förderfähige Vermögenswerte, die Nexus-Berechnung und weitere gesetzliche Bedingungen müssen erfüllt sein."
 ---
 
-> **Haftungsausschluss:** Die Meinungen und Erfahrungen in diesem Video stammen von den Podcast-Gaesten und spiegeln nicht unbedingt die Position des Kanalautors wider.
+> **Persönlicher Bericht:** Der Herausgeber stellt dieses Interview als Erfahrung eines IT-Spezialisten vor, der von Russland nach Zypern gezogen ist.
 
-## Warum ziehen IT-Fachleute massenweise nach Zypern?
+## Worum es im Interview geht
 
-In diesem Video analysieren wir das Phaenomen -- warum Zypern zum IT-Hub für russischsprachige Fachkraefte geworden ist.
+Die Beschreibung des Herausgebers nennt die Umzugsentscheidung des Gasts, seine Eindrücke vor und nach dem Umzug, was ihm am Leben dort gefällt und wie er die Karriereaussichten sieht. Das sind persönliche Erfahrungen und Meinungen, keine geprüften Fakten.
 
-### Die Hauptgruende
+Der Herausgeber nennt diese Kapitel:
 
-#### 1. Steuervorteile
+- **00:00** — Wie er Russland erlebt hat
+- **00:48** — Warum Zypern?
+- **03:10** — Wie sich seine Eindrücke änderten
+- **04:50** — Heimweh
+- **06:32** — Das Niveau der Fachleute
+- **07:34** — Fazit
 
-- **Non-Dom-Status** -- 0 % auf Dividenden und Zinsen (17 Jahre)
-- **IP Box** -- effektiver Steuersatz ca. 3 %
-- **Koerperschaftssteuer** -- 15 % (war 12,5 % bis 2026)
-- **Keine Kapitalertragssteuer** (ausser bei Immobilien)
+## Steuerplanung neben dem Video
 
-#### 2. Einfache Aufenthaltserlaubnis
+Das Video wurde am **16. Oktober 2024** hochgeladen. Prüfen Sie die aktuellen Regeln getrennt, bevor Sie über Umzug oder Steuern entscheiden.
 
-- Digital Nomad Visa
-- Aufenthaltserlaubnis für Arbeitnehmer
-- Aufenthaltserlaubnis für Selbststaendige
-- Schnelle Bearbeitung
+- **Non-Dom:** Die [Hinweise der Steuerbehörde zu Steueransässigkeit und Domizil](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/) beschreiben die bedingte SDC-Befreiung für Dividenden und Zinsen. Das Deemed Domicile gilt nach zyprischer Steueransässigkeit in mindestens **17 der 20 Jahre vor dem Steuerjahr**. Ihre persönliche Aufenthalts- und Domizilgeschichte zählt.
+- **IP Box:** Das [Finanzministerium](https://www.gov.cy/mof/documents/forologiki-politiki-kai-metarrythmiseis-2/forologika-kinitra/) beschreibt einen **Abzug von 80 %** für qualifizierte IP-Gewinne nach der **Nexus**-Berechnung und mit förderfähigen Vermögenswerten. Beim **Standard-Körperschaftsteuersatz 2026 von 15 %** ergibt sich bei voller Qualifikation rechnerisch **20 % × 15 % = 3 %** des qualifizierten Gewinns. Prüfen Sie die gesetzlichen Bedingungen für Ihre Tätigkeit.
+- **Arbeit und Aufenthalt:** Lesen Sie den [Leitfaden zur Aufenthaltserlaubnis](/de/immigration/residence-permit-cyprus-guide/) und klären Sie die nötige Erlaubnis vor dem Umzug.
 
-#### 3. Lebensqualitaet
+## Passt Zypern zu Ihnen?
 
-- 340 Sonnentage im Jahr
-- Sicherheit (eine der niedrigsten Kriminalitaetsraten in der EU)
-- Meer und Natur
-- Internationale Gemeinschaft
+Nutzen Sie das Interview, um eigene Fragen zu stellen: Welche Arbeit wird angeboten, wie hoch ist das Wohnbudget, wie stehen Sie zum Klima, was braucht Ihre Familie, und haben Sie ein Netzwerk vor Ort? Vergleichen Sie Ihre echten Arbeits- und Aufenthaltsoptionen, bevor Sie entscheiden.
 
-#### 4. Praktische Vorteile
-
-- Englisch überall
-- Guenstige Zeitzone (GMT+2)
-- EU-Mitgliedschaft
-- Gut entwickelte Infrastruktur
-
-### Fuer wen Zypern geeignet ist
-
-Fuer Freiberufler und Remote-Arbeiter
-Fuer IT-Unternehmer
-Fuer Familien mit Kindern
-Fuer Liebhaber warmer Klimazonen
-
-### Fuer wen es NICHT geeignet ist
-
-Fuer Grossstadtliebhaber
-Fuer diejenigen, die keine Hitze vertragen
-Fuer diejenigen, die hohe lokale Gehaelter suchen
-Fuer diejenigen, die ein vielfaeltiges Kulturleben schaetzen
-
-**Abonnieren Sie den Kanal**, um mehr über das Leben auf Zypern für IT-Fachleute zu erfahren!
+**Sehen Sie sich das Video an**, um den persönlichen Bericht des Gasts zu hören.
 
 Weiterführende Informationen: [Arbeiten auf Zypern](/de/business/working-cyprus-job-search/) · [Auswandern nach Zypern](/de/immigration/auswandern-nach-zypern-leitfaden/) · [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/).
+
+## Quellen
+
+- [Originalvideo und Beschreibung des Herausgebers](https://www.youtube.com/watch?v=6ug36uGS0aA) — Themen, Kapitel, Upload-Datum und Dauer
+- [Steuerbehörde: Steueransässigkeit und Domizil](https://www.gov.cy/mof-tax/en/documents/tax-residency-domicility/)
+- [Finanzministerium: Steueranreize](https://www.gov.cy/mof/documents/forologiki-politiki-kai-metarrythmiseis-2/forologika-kinitra/)
+- [Regierung: Körperschaftsteuerreform 2026](https://www.gov.cy/taxreform/forologika-ofeli-gia-epixeiriseis-nomika-proswpa/)

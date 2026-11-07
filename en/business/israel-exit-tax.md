@@ -1,9 +1,9 @@
 ---
 slug: "israel-exit-tax"
 title: "Israel's Exit Tax Before Moving to Cyprus"
-description: "What Israelis should check before moving to Cyprus: exit tax, the 10-year reporting duty, deemed sale taxation, center of life, pensions and National Insurance."
+description: "Moving from Israel to Cyprus: exit tax (deemed sale, Section 100A), the center-of-life test, Form 1348, pensions and National Insurance."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -17,30 +17,30 @@ draft: false
 translationKey: "israel-exit-tax"
 faqSchema:
   - question: "Do I have to pay exit tax before I leave?"
-    answer: "No. You can defer payment and pay only when the asset is actually sold. The price: an annual reporting duty to the Tax Authority for 10 years."
+    answer: "No. If you do not pay on departure, the law treats you as having deferred payment until the asset is actually sold. You then pay tax on the share of the real gain that belongs to the period up to your departure (Section 100A(b))."
   - question: "What happens to RSUs that have not vested yet?"
-    answer: "For RSUs that vest after you leave Israel, the portion that vested during your Israeli residency is taxed in Israel (pro-rata allocation)."
-  - question: "Does the Israel-Cyprus tax treaty protect me from exit tax?"
-    answer: "No. Exit tax applies on the day you are still an Israeli tax resident. The treaty only becomes relevant after your residency changes."
+    answer: "Under the Section 102 trustee track, the tax event is the release of the shares from the trustee or their sale, whichever comes first, not vesting. The exit-tax share is split by time: the gain multiplied by the holding period up to departure, divided by the total holding period (Section 100A(d))."
+  - question: "Is there an Israel-Cyprus tax treaty that protects me from exit tax?"
+    answer: "No. The Cyprus Ministry of Finance list of double tax agreements in force does not include Israel (checked 2026-11-07). Exit tax is calculated on the day before you stop being an Israeli resident in any case."
   - question: "How long does it take to cut Israeli tax residency?"
-    answer: "There is no automatic date. Israel uses the center-of-life test: you need to sell or rent out your home, move your family and close accounts. In practice: 6-12 months until the assessing officer accepts the break."
+    answer: "There is no automatic date. Israel uses the center-of-life test: you need to sell or rent out your home, move your family and close accounts. Spending 183+ days in Israel in a tax year, or 30+ days with 425+ days over that year and the two before it, creates a rebuttable presumption that you are still resident."
   - question: "Is it worth continuing to pay National Insurance?"
-    answer: "If you paid for 10+ years, probably yes. Minimum contributions (~198 NIS/month) keep your eligibility for an old-age pension (1,738-3,061 NIS/month). The math usually works out."
+    answer: "It depends on your situation. While National Insurance still treats you as an Israeli resident, a person abroad with no income pays a minimum of 266 NIS/month (from 01.01.2026). The basic old-age pension for a single person is 1,838 NIS/month (from 01.01.2026), before supplements."
 ---
-> **In short:** Israel's exit tax means a 10-year reporting duty, a deemed sale, the center-of-life test and special rules for pensions and stock options when you move to Cyprus.
+> **In short:** Israel's exit tax means a deemed sale of your assets on the day before your residency ends, the center-of-life test and special rules for pensions and stock options when you move to Cyprus.
 
 Exit tax is one of the most critical, and most neglected, topics when Israelis plan a move to Cyprus. Many people only discover it after they have already moved, and by then it is far more expensive to fix. This guide explains what you need to know **before** you leave.
 
 > **Official sources:**
-> - [Income Tax Ordinance — Section 100A](https://www.nevo.co.il/law_html/law01/999_344.htm) — deemed sale on leaving Israel
-> - [Israel Tax Authority — tax residency](https://www.gov.il/he/departments/guides/tax-residency) — the center-of-life test
-> - [Israel–Cyprus tax treaty](https://www.gov.il/he/departments/general/double-tax-treaties) — avoidance of double taxation
+> - [Income Tax Ordinance — Sections 1 and 100A](https://www.nevo.co.il/law_html/law00/84255.htm) — residency presumptions and deemed sale on leaving Israel (checked 2026-11-07)
+> - [Israel Tax Authority — Form 1348](https://www.gov.il/BlobFolder/service/annual-tax-report/he/Service_Pages_Income_tax_itc1348_18.pdf) — residency declaration for people who declare they are not Israeli residents (checked 2026-11-07)
+> - [Cyprus Ministry of Finance — double tax treaties in force](https://www.gov.cy/mof/en/documents/double-tax-treaties/) — Israel is not on the list (checked 2026-11-07)
 
 ## What is Israel's exit tax?
 
 ### The principle
 
-When an Israeli resident stops being an Israeli tax resident, **Section 100A of the Income Tax Ordinance** treats them as if they had **sold all their assets** on the day they left (a "deemed sale"). This includes:
+When an Israeli resident stops being an Israeli tax resident, **Section 100A of the Income Tax Ordinance** treats them as if they had **sold all their assets** on the day before they stopped being resident (a "deemed sale"). This includes:
 
 - **Shares** in public and private companies
 - **Options and RSUs** that have not been exercised
@@ -50,30 +50,28 @@ When an Israeli resident stops being an Israeli tax resident, **Section 100A of 
 
 ### What this means in practice
 
-If you hold startup shares that you bought at $0.01 and on the day you leave they are worth $10, the Tax Authority treats the difference ($9.99 per share) as a **realized capital gain**. The tax rate is **25-33%** (depending on whether you are a controlling shareholder).
+If you hold startup shares that you bought at $0.01 and on the day you leave they are worth $10, the Tax Authority treats the difference ($9.99 per share) as a **capital gain**. The rate for individuals is generally **25%**, or **30%** for a substantial shareholder (Section 91(b)), plus a 3% surtax on taxable income above the annual threshold and a further 2% on capital income above it (Section 121B).
 
 ### Two ways to pay
 
 1. **Pay immediately** — the capital gain is calculated on the value of your assets on the day you leave. Advantage: the file is closed.
-2. **Defer payment** — you pay nothing on the day you leave and pay only when the asset is actually sold. Advantage: no payment on assets you have not sold. Downside: an **annual reporting duty to Israel for 10 years**.
+2. **Defer payment** — this is the default if you do not pay on departure (Section 100A(b)). You pay when the asset is actually sold, on the share of the real gain that belongs to the period up to your departure (gain × holding period until departure ÷ total holding period). Indexation and interest are added only from the sale date until payment.
 
-Most leavers choose option 2 (deferral), because paying tax on an asset you have not yet sold is needless pain.
+If the sale is taxable in Israel anyway when it happens, you pay the tax on the actual capital gain instead (Section 100A(c)).
 
-## What is the 10-year reporting duty?
+## What do you report after leaving?
 
-### Section 100A(b)
+### Section 100A(e)
 
-If you chose to defer exit tax, Israel requires you to:
+The Ordinance lets the Minister of Finance set rules for applying Section 100A, including on reporting. The Ordinance itself does not set a 10-year reporting period.
 
-- **File an annual report** with the Tax Authority on the assets included in the deemed sale
-- **Report every realization** (sale of shares, RSU vesting, dividend distributions)
-- **Period: 10 years** from the day you leave
+- **Form 1348** — the residency declaration for people who declare they are not Israeli residents, filed as an appendix to the individual annual return (Form 1301)
+- **The actual sale** of each asset covered by the deemed sale — deferred tax becomes payable at that point
+- Ask your tax adviser which annual return obligations still apply to you as a non-resident
 
-### What happens if you don't report
+### Interest and indexation
 
-- **Penalties** of up to ₪7,500 per report not filed
-- **Interest and indexation** on unpaid tax
-- **A criminal offense** (in extreme cases of evasion)
+- On deferred exit tax, **indexation and interest** run only from the sale date until actual payment (Section 100A(b))
 
 ## What is the center-of-life test, and when does Israel stop taxing you?
 
@@ -104,17 +102,16 @@ To cleanly cut Israeli tax residency:
 1. **Sell or rent out** your home in Israel
 2. **Move your family** — spouse and children to Cyprus
 3. **Close** or reduce bank accounts, insurance and subscriptions
-4. **Notify your assessing officer** that your residency has ended (Form 1348)
-5. **Request a tax residency certificate** from Cyprus (TIN + form)
+4. **File Form 1348** (residency declaration) with your Israeli annual return
+5. **Request a tax residency certificate** from the Cyprus Tax Department ([certificate of tax residence](https://www.gov.cy/mof-tax/en/documents/certificate-of-tax-residence/))
 6. **Keep records**: flight tickets, a rental contract in Cyprus, children's school enrollment
 
 ## How do you notify the assessing officer of your departure?
 
 ### When to notify
 
-You must file a **notice of cessation of residency** with your assessing officer. There is no clear statutory deadline, but:
+You declare the end of residency on **Form 1348**, the residency declaration filed as an appendix to the individual annual return (Form 1301). In addition:
 
-- **File before the end of the tax year** in which you left
 - Attach the **Cyprus tax residency certificate** as soon as you receive it
 - Expect **requests for documents** — the assessing officer can ask for evidence of the break
 
@@ -125,7 +122,7 @@ You must file a **notice of cessation of residency** with your assessing officer
 - Employment contract / company confirmation in Cyprus
 - Cypriot bank statements
 - Cypriot health insurance (GeSY or private)
-- Form 1348 (notice of change of residency)
+- Form 1348 (residency declaration)
 
 ## What does Israel keep taxing after you leave?
 
@@ -134,10 +131,10 @@ Even after you are **no longer an Israeli tax resident**, Israel taxes:
 | Income | Taxed in Israel? | Note |
 |-------|--------------|------|
 | Employment income **in Israel** | Yes | Physical work in Israel |
-| Rent **from property in Israel** | Yes | 15% of turnover or marginal tax |
-| Capital gain **on shares of an Israeli company** | Yes | 25-33% |
+| Rent **from a residential flat in Israel** | Yes | 10% of gross rent (Section 122 track) or marginal tax |
+| Capital gain **on shares of an Israeli company** | Yes | 25% (30% for a substantial shareholder) |
 | Dividends **from an Israeli company** | Yes | 25-30% (withholding) |
-| **Israeli** pension | Depends | Under the tax treaty |
+| **Israeli** pension | Depends | No Israel–Cyprus treaty to rely on — check with an adviser |
 | Remote employment income **from Cyprus** | No | If there is no permanent establishment in Israel |
 | Income **from non-Israeli sources** | No | — |
 
@@ -153,12 +150,12 @@ Even after you are **no longer an Israeli tax resident**, Israel taxes:
 
 | Question | Answer |
 |------|-------|
-| Do I have to keep paying? | No, if you are a non-resident for more than two years |
+| Do I have to keep paying? | Yes, as long as National Insurance treats you as an Israeli resident; no, once it accepts that your residency has ended |
 | Is it worth continuing? | Depends — it preserves old-age pension eligibility |
-| Minimum contributions | ~₪198/month (non-resident) |
-| Old-age pension | ₪1,738-3,061/month (depending on years of insurance) |
+| Minimum contributions | ₪266/month from 01.01.2026 (Israeli resident abroad with no income) |
+| Old-age pension | ₪1,838/month basic pension for a single person from 01.01.2026, before supplements |
 
-> **The consideration:** If you paid National Insurance for 10+ years, it may be worth continuing to pay the minimum so as not to lose old-age pension eligibility. The amount is low (~₪198/month) compared with the future pension. Consult a National Insurance agent.
+> **The consideration:** If you paid National Insurance for 10+ years, it may be worth continuing to pay the minimum while you are still treated as a resident, so as not to lose old-age pension eligibility. The minimum is ₪266/month (from 01.01.2026). Consult a National Insurance agent.
 
 ## How are options, RSUs and startup equity handled?
 
@@ -166,38 +163,30 @@ Even after you are **no longer an Israeli tax resident**, Israel taxes:
 
 For tech employees and founders, options and RSUs are the most significant asset, which makes this the most complex topic on exit.
 
-### ISO (Incentive Stock Options) — Section 102
+### Employee options and shares — Section 102
 
-- **Vesting before you leave** → the capital gain is included in the deemed sale
-- **Vesting after you leave** → pro-rata allocation: the portion that vested while you were an Israeli resident is taxed in Israel
+- **Covered by exit tax** — Section 100A(d) defines "asset" to include shares and rights granted under Section 102
+- **Split by time** — the taxable share is the gain multiplied by the holding period up to departure, divided by the total holding period until sale (Section 100A(d))
 
 ### RSUs (Restricted Stock Units)
 
 - Treated similarly to options
-- **Vesting day = realization day** for tax purposes
+- Under the Section 102 trustee track, the **realization date** is the release of the shares from the trustee or their sale, whichever comes first — not the vesting date
 - Tax is usually withheld automatically (the employer withholds)
 
 ### Founders with shares
 
 - Founders' shares are included in the **deemed sale** on the day you leave
-- If the company is at an early stage — low valuation = low tax = a good moment to leave
-- If the company is after a large round — high valuation = significant tax liability
+- If you pay on departure and the company is at an early stage — low valuation = low tax
+- If you pay on departure after a large round — high valuation = significant tax liability
 
-> **Practical tip:** If you hold significant equity, **timing is critical**. Leaving before a funding round = low tax on the deemed sale. Leaving after = high tax. A good tax adviser will save you far more than their fee.
+> **Practical tip:** If you pay on departure, the tax is based on the value on the day before you leave, so leaving before a funding round means a lower bill. If you defer, the tax is a time-based share of the gain at sale (Section 100A(d)). A good tax adviser will save you far more than their fee.
 
-## What is the tax treaty between Israel and Cyprus?
+## Is there a tax treaty between Israel and Cyprus?
 
-Israel and Cyprus have a **convention for the avoidance of double taxation**. The treaty dates back to the British Mandate period (1946/1949) and has been updated since.
+The Cyprus Ministry of Finance list of double tax agreements in force does **not** include Israel ([list](https://www.gov.cy/mof/en/documents/double-tax-treaties/), checked 2026-11-07). Do not plan around treaty relief for salaries, dividends, pensions, capital gains or royalties between the two countries.
 
-### What the treaty provides
-
-- **Salaries** — taxed in the country where the work is performed
-- **Dividends** — Israeli withholding tax is limited (up to 15%); in Cyprus — 0% with Non-Dom
-- **Pensions** — under the treaty, possibly taxed only in the country of residence
-- **Capital gains** — from shares of an Israeli company are taxed in Israel; Cyprus does not tax capital gains on listed shares
-- **Royalties** — 0-10% withholding (depending on type)
-
-> **Important:** The treaty is unusual and dates from the Mandate period. It is strongly recommended to consult an accountant who knows this specific treaty and its interpretation. See also [Taxes in Cyprus](/en/business/taxes-cyprus-gesy-deductions/).
+> **Important:** Without a treaty, relief from double taxation depends on each country's own law. Have an accountant who knows both systems check each income stream. See also [Taxes in Cyprus](/en/business/taxes-cyprus-gesy-deductions/).
 
 ## Can you combine Non-Dom with exit tax?
 
@@ -205,11 +194,11 @@ Yes, and very much so. The ideal scenario:
 
 1. **Leave Israel** → defer exit tax
 2. **Become a Cyprus tax resident** → the 183-day rule or the 60-day rule
-3. **Get Non-Dom status** → automatic for immigrants, 17 years of SDC exemption
-4. **Dividends** = 0% SDC (Non-Dom) instead of the regular 5% SDC, and instead of 25-30% in Israel
-5. **IP Box** = about 3% effective on income from intellectual property
+3. **Non-Dom status** → applies if your domicile of origin is outside Cyprus, until you have been Cyprus tax resident for 17 of the last 20 years; from 2026 it can be extended for two 5-year periods by paying a lump-sum SDC of €50,000 a year
+4. **Dividends** = 0% SDC (Non-Dom) instead of the 5% SDC for domiciled individuals (from 2026), and instead of 25-30% in Israel
+5. **IP Box** = about 3% effective: 80% of qualifying IP profit is deductible and corporate tax is 15% from 2026
 
-> **The catch:** The 10 years of reporting to Israel **run in parallel** with the Non-Dom period in Cyprus. There is no contradiction — you report to Israel on assets included in the deemed sale, and at the same time enjoy 0% tax on new dividends in Cyprus.
+> **The catch:** Deferred Israeli exit tax becomes payable when you sell the assets, even years later while you are Non-Dom in Cyprus. There is no contradiction — Israel taxes the share of the gain from your Israeli period, and new dividends in Cyprus can still carry 0% SDC.
 
 ## Checklist — before the move
 
@@ -229,9 +218,8 @@ Yes, and very much so. The ideal scenario:
 
 ### After departure
 
-- [ ] **Notice to the assessing officer** (Form 1348)
+- [ ] **Form 1348** (residency declaration) with your Israeli annual return
 - [ ] **Tax residency certificate** from Cyprus (TIN)
-- [ ] **Annual reports** — 10 years if you deferred
 - [ ] **Track realizations** — every sale of shares/RSUs → report to Israel
 
 ---
@@ -241,22 +229,22 @@ Exit tax is not a reason not to move, but it is a good enough reason to **plan y
 ## Frequently asked questions (FAQ)
 
 **Do I have to pay exit tax before I leave?**
-No. You can defer payment and pay only when the asset is actually sold. The price: an annual reporting duty to the Tax Authority for 10 years.
+No. If you do not pay on departure, the law treats you as having deferred payment until the asset is actually sold. You then pay tax on the share of the real gain that belongs to the period up to your departure (Section 100A(b)).
 
 **What happens to RSUs that have not vested yet?**
-For RSUs that vest after you leave Israel, the portion that vested during your Israeli residency is taxed in Israel (pro-rata allocation).
+Under the Section 102 trustee track, the tax event is the release of the shares from the trustee or their sale, whichever comes first, not vesting. The exit-tax share is split by time: the gain multiplied by the holding period up to departure, divided by the total holding period (Section 100A(d)).
 
-**Does the Israel-Cyprus tax treaty protect me from exit tax?**
-No. Exit tax applies on the day you are still an Israeli tax resident. The treaty only becomes relevant after your residency changes.
+**Is there an Israel-Cyprus tax treaty that protects me from exit tax?**
+No. The Cyprus Ministry of Finance list of double tax agreements in force does not include Israel (checked 2026-11-07). Exit tax is calculated on the day before you stop being an Israeli resident in any case.
 
 **How long does it take to cut Israeli tax residency?**
-There is no automatic date. Israel uses the center-of-life test: you need to sell or rent out your home, move your family and close accounts. In practice: 6–12 months until the assessing officer accepts the break.
+There is no automatic date. Israel uses the center-of-life test: you need to sell or rent out your home, move your family and close accounts. Spending 183+ days in Israel in a tax year, or 30+ days with 425+ days over that year and the two before it, creates a rebuttable presumption that you are still resident.
 
 **Is it worth continuing to pay National Insurance?**
-If you paid for 10+ years, probably yes. Minimum contributions (~198 ₪/month) keep your eligibility for an old-age pension (1,738–3,061 ₪/month). The math usually works out.
+It depends on your situation. While National Insurance still treats you as an Israeli resident, a person abroad with no income pays a minimum of ₪266/month (from 01.01.2026). The basic old-age pension for a single person is ₪1,838/month (from 01.01.2026), before supplements.
 
 **Further reading:**
-- [Cost of living: Cyprus vs Israel](/en/life/cost-of-living-cyprus-vs-uk/) — how much you really save
+- [Cost of Living: Cyprus vs UK (2026)](/en/life/cost-of-living-cyprus-vs-uk/) — how much you really save
 - [The first 90 days in Cyprus](/en/life/first-90-days-cyprus-reality/) — what awaits you
 - [Non-Dom status and the 60-day rule](/en/business/non-dom-status-cyprus-60-day-rule/) — the big exemption
 - [Taxes in Cyprus](/en/business/taxes-cyprus-gesy-deductions/) — rates, GeSY, deductions
@@ -272,4 +260,12 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 
 ## Sources
 
-- [Department of Taxation — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Tax Department — Ministry of Finance](https://www.gov.cy/mof-tax/en/) — gov.cy
+- [Income Tax Ordinance — Sections 1, 91, 100A, 102, 121B, 122, 125B](https://www.nevo.co.il/law_html/law00/84255.htm) — checked 2026-11-07
+- [Form 1348 — residency declaration](https://www.gov.il/BlobFolder/service/annual-tax-report/he/Service_Pages_Income_tax_itc1348_18.pdf) — Israel Tax Authority, checked 2026-11-07
+- [National Insurance — contributions while abroad](https://www.btl.gov.il/Insurance/Living_abroad/Pages/tashlumdmeibituah.aspx) — btl.gov.il, checked 2026-11-07
+- [National Insurance — old-age pension amounts](https://www.btl.gov.il/benefits/old_age/Shum/Pages/Shum.aspx) — btl.gov.il, checked 2026-11-07
+- [Double tax treaties in force](https://www.gov.cy/mof/en/documents/double-tax-treaties/) — Cyprus Ministry of Finance, checked 2026-11-07
+- [Tax reform 2026: SDC and non-dom](https://www.gov.cy/media/sites/167/2026/03/EEA-%CE%A6%CE%9A%CE%9A-%CE%9C%CE%95%CE%A4%CE%91%CE%A1%CE%A1%CE%A5%CE%98%CE%9C%CE%99%CE%A3%CE%97-06032026.pdf) — Cyprus Tax Department, checked 2026-11-07
+- [Tax reform 2026: income tax, 15% corporate tax](https://www.gov.cy/media/sites/167/2026/03/2026-%CE%A6%CE%BF%CF%81%CE%9C%CE%B5%CF%84%CE%B1%CF%81%CF%81%CF%8D%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-%CE%A6%CF%8C%CF%81%CE%BF%CF%82-%CE%95%CE%B9%CF%83%CE%BF%CE%B4%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82.pdf) — Cyprus Tax Department, checked 2026-11-07
+- [Income Tax Law 118(I)/2002, Article 9(1)(k) IP box](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — cylaw.org, checked 2026-11-07

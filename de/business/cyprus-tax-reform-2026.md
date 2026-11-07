@@ -1,9 +1,9 @@
 ---
 slug: "cyprus-tax-reform-2026"
 title: "Steuerreform Zypern 2026: Alle Änderungen"
-description: "Steuerreform Zypern ab 1. Januar 2026: Koerperschaftsteuer 15%, Krypto 8%, SDC 5% statt 17%, ESOP, Stempelsteuer abgeschafft. Was Deutsche wissen muessen."
+description: "Steuerreform Zypern 2026: 15 % Körperschaftsteuer, neue Einkommensteuerstufen, Übergangsregeln für Dividenden, Immobiliensteuern und Fristen im Überblick."
 date: 2026-03-20
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -15,351 +15,222 @@ tags:
 draft: false
 translationKey: "nalogovaya-reforma-kipr-2026"
 faqSchema:
-  - question: "Wie wirkt sich die zyprische Steuerreform 2026 auf die Wegzugsbesteuerung aus?"
-    answer: "Die Wegzugsbesteuerung (Paragraph 6 AStG) bleibt deutsches Recht und wird durch die zyprische Reform nicht geaendert. Allerdings macht die Reform Zypern als Zielland attraktiver: SDC auf Dividenden sinkt von 17% auf 5%, und Non-Dom-Inhaber zahlen weiterhin 0%. Die 7-Jahres-Ratenzahlung der Wegzugssteuer laeuft parallel zum steuerguenstigeren zyprischen Regime."
-  - question: "Lohnt sich Zypern nach der Reform noch gegenueber der deutschen Abgeltungssteuer?"
-    answer: "Ja, deutlich. Deutsche Kapitalertraege unterliegen 26,375% (25% Abgeltungssteuer + 5,5% Soli). Auf Zypern: SDC 5% auf Dividenden (2026), Non-Dom sogar 0%. Selbst ohne Non-Dom-Status sparen Sie über 21 Prozentpunkte auf Dividendeneinkuenfte."
-  - question: "Wie werden Kryptowaehrungen auf Zypern ab 2026 besteuert?"
-    answer: "Verkauf, Tausch und Schenkung von Kryptoassets werden mit einem festen Satz von 8% besteuert. Im Vergleich: In Deutschland unterliegen Kryptogewinne nach unter einem Jahr Haltedauer dem persoenlichen Einkommensteuersatz (bis 45% plus Soli). Auf Zypern gibt es keine Haltefrist — der Satz betraegt immer 8%."
-  - question: "Aendert die Reform das DBA Deutschland-Zypern?"
-    answer: "Nein. Das Doppelbesteuerungsabkommen von 2011 bleibt unveraendert. Es regelt weiterhin die Zuordnung der Besteuerungsrechte. Die zyprische Reform senkt jedoch die effektive Steuerlast auf Zypern, was das DBA für Deutsche noch vorteilhafter macht — insbesondere bei Dividenden (DBA max. 15% Quellensteuer, Zypern intern nur 5% SDC)."
-  - question: "Muessen Deutsche auf Zypern Stempelsteuer (Stamp Duty) bezahlen?"
-    answer: "Nein, nicht mehr. Die Stempelsteuer wurde zum 1. Januar 2026 vollstaendig abgeschafft. Das betrifft alle Vertraege — Immobilienkauf, Gesellschaftsgruendung, Darlehensvertraege. Frueher fielen bis zu 0,2% (gedeckelt bei 20.000 EUR) an. Ausnahme: Vertraege, die bereits 2025 von mindestens einer Partei unterzeichnet wurden."
+  - question: "Was hat sich mit der Steuerreform Zypern 2026 geändert?"
+    answer: "Der Regelsatz der Körperschaftsteuer beträgt 15 %, der steuerfreie Betrag für Privatpersonen 22.000 EUR. Es gibt bedingte 8-%-Regime für Krypto-Veräußerungen und genehmigte Mitarbeiteraktienoptionen, neue persönliche Abzüge, Übergangsregeln für die SDC auf Dividenden und die Abschaffung der Stempelsteuer mit einer Ausnahme für ältere Dokumente. Die Änderungen haben unterschiedliche Bedingungen und Beginnzeitpunkte."
+  - question: "Wie werden Kryptowährungen auf Zypern ab 2026 besteuert?"
+    answer: "Section 20E des Einkommensteuergesetzes besteuert Gewinne aus erfassten Veräußerungen mit 8 %. Zur Veräußerung zählen Verkauf, Schenkung, Tausch und Zahlung. Verluste lassen sich nur mit erfassten Kryptogewinnen desselben Jahres verrechnen, ohne Vortrag oder Übertragung innerhalb einer Gruppe. Das Regime schließt die Veräußerung von Token aus, die durch Mining erworben wurden; gehen Sie nicht davon aus, dass jeder Tokenerhalt oder jede Tätigkeit darunter fällt."
+  - question: "Wie hoch ist der neue SDC-Satz auf Dividenden auf Zypern?"
+    answer: "Für steuerpflichtige ansässige Privatpersonen beträgt der allgemeine SDC-Satz auf Dividenden 5 %. Dividenden, die 2026–2031 von einer in Zypern ansässigen Gesellschaft aus Gewinnen bis 2025 bezogen werden, behalten den Übergangssatz von 17 %, vorbehaltlich der gesetzlichen Anrechnungsregeln. Qualifizierte Non-Doms bleiben von der SDC befreit; andere Steuern und Beiträge müssen gesondert geprüft werden."
+  - question: "Wie wirkt sich die Reform auf Immobiliengeschäfte aus?"
+    answer: "Die Schwelle für mittelbare Beteiligungen an immobilienreichen Gesellschaften liegt jetzt bei 20 %; für direkt gehaltene zyprische Immobilien gilt ein eigener CGT-Anwendungsbereich. Die allgemeinen und landwirtschaftlichen Freibeträge auf Lebenszeit betragen 30.000 EUR und 50.000 EUR; der Freibetrag für die Hauptwohnung beträgt 150.000 EUR bei Bedingungen zu Selbstnutzung, Grundstücksfläche und weiteren Voraussetzungen. Die Stempelsteuer wurde zum 1. Januar 2026 abgeschafft, doch Dokumente, die vorher von einer Partei unterzeichnet wurden, unterliegen weiter den alten Regeln."
+  - question: "Gibt es den Non-Dom-Status auf Zypern nach der Reform noch?"
+    answer: "Ja, vorbehaltlich der Domizil- und Ansässigkeitsbedingungen des SDC-Gesetzes. Der Test für das fingierte Domizil ist die zyprische Steueransässigkeit in mindestens 17 der vorangegangenen 20 Jahre; es ist keine garantierte 17-Jahres-Befreiung für jeden Neuankömmling. Mieteinnahmen fallen ab 2026 grundsätzlich nicht unter die SDC; das ist keine besondere Non-Dom-Befreiung für Mieten."
 ---
-> **Kurzantwort:** Steuerreform 2026: Freibetrag auf 22.000 EUR erhoeht, neue Steuerstufen, Mindestkoerperschaftsteuer 15% ab 2026. Details im Gesetz.
+> **Kurzantwort:** Der Regelsatz der Körperschaftsteuer beträgt **15 %**, der steuerfreie Betrag für Privatpersonen **22.000 EUR**. Krypto, Aktienoptionen, Dividenden und Immobilien haben jeweils eigene Bedingungen. Lesen Sie die Übergangsregeln, bevor Sie einen Schlagzeilen-Satz auf Ihr Einkommen anwenden.
 
-Am 22. Dezember 2025 verabschiedete das zyprische Parlament die umfassendste Steuerreform seit 20 Jahren. Sechs Gesetze wurden geaendert oder aufgehoben, die neuen Regeln gelten seit dem 1. Januar 2026. Dieser Leitfaden erklaert jede Aenderung, die für Deutsche relevant ist — ob Auswanderer, Unternehmer, Immobilienkaeufer oder Rentner.
-
-> **Quellen:**
-> - [PwC Cyprus Tax Reform](https://www.pwc.com.cy/en/services/tax-legal-services/tax-advisory-services/the-cyprus-tax-reform.html)
-> - [EY — Cyprus enacts major tax reform](https://taxnews.ey.com/news/2026-0140-cyprus-enacts-major-tax-reform-legislation)
-> - [KPMG — Tax reform legislation](https://kpmg.com/us/en/taxnewsflash/news/2026/01/tnf-cyprus-tax-reform-legislation-enacted-and-effective-january-1-2026.html)
-> - [Aptus Legal — Full overview](https://www.aptuslegal.com/insights/cyprustaxreform)
-
-## Was hat sich bei der Steuerreform geändert?
-
-Die Reform betrifft 6 Gesetze:
-
-| Gesetz | Nr. | Wesentliche Änderungen |
-|--------|-----|------------------------|
-| Income Tax Law | 244(I)/2025 | Koerperschaftsteuer 15%, Krypto 8%, ESOP 8%, neue Einkommensteuerstufen |
-| SDC Law | 245(I)/2025 | Dividenden 17% auf 5%, SDC auf Miete abgeschafft, verdeckte Gewinnausschuettungen |
-| Capital Gains Tax | 242(I)/2025 | Property-Rich-Schwelle 50% auf 20%, neue Freibetraege |
-| ACTL | 243(I)/2025 | Abgabefristen, Strafen, elektronische Mietzahlung |
-| Collection of Taxes | 241(I)/2025 | Erweiterte Befugnisse der Steuerbehoerde |
-| Stamp Duty | 239(I)/2025 | **Vollstaendige Abschaffung** der Stempelsteuer |
+Dieser Leitfaden stützt sich auf die konsolidierten Gesetze und die Hinweise der Steuerbehörde, geprüft am **3. Oktober 2026**, einschließlich späterer Änderungen von 2026. Er unterscheidet zwischen Steuersatz, Abzug und Befreiung. Keines davon legt Ihre endgültige Steuerlast fest, ohne die Bedingungen zu Einkommen und Ansässigkeit.
 
 ## Wie ändert sich die Körperschaftsteuer?
 
-Die zentrale Aenderung bringt Zypern in Einklang mit dem [OECD Pillar Two](https://www.oecd.org/en/topics/pillar-two.html) (globaler Mindeststeuersatz 15%).
+Die [Informationen des Finanzministeriums zur Unternehmensbesteuerung](https://www.gov.cy/taxreform/forologika-ofeli-gia-epixeiriseis-nomika-proswpa/) und das [Einkommensteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) setzen den Regelsatz **ab 2026 auf 15 %** fest, statt bisher 12,5 %.
 
-**Verlustvortrag** verlaengert von 5 auf **7 Jahre**. Verluste aus 2019 koennen noch 2026 geltend gemacht werden. Quelle: [Harneys](https://www.harneys.com/our-blogs/regulatory/a-new-era-for-cyprus-taxation-the-key-insights-of-the-2026-cyprus-tax-reform/)
+Nach **Section 13** gilt für Steuerpflichtige, die Bücher führen, geprüfte Jahresabschlüsse erstellen und eine Erklärung abgeben müssen, jetzt eine Verlustvortragsgrenze von **sieben Jahren ab Ende des Verlustjahres**. Beschränkungen bei Eigentümer- und Geschäftswechsel können den Vortrag verhindern. Das ist keine Erlaubnis, jeden alten Verlust ohne Prüfung der Regeln wieder zu nutzen.
 
-**R&D-Superabzug** (+20% auf Forschungsausgaben) verlaengert bis **2030**. Qualifizierte Ausgaben: nach IAS/IFRS anerkannt, ausschliesslich für Forschung oder Entwicklung. Nicht anwendbar auf Vermoegenswerte im IP-Box-Regime.
+Nach **Section 9(1)(δ)** können qualifizierte Ausgaben für Forschung und Entwicklung in **2025–2030** einen zusätzlichen **Abzug von 20 %** erhalten. Der gesetzliche Test umfasst das wirtschaftliche Eigentum am entstandenen oder möglichen immateriellen Wirtschaftsgut, die bilanzielle Erfassung und die Behandlung von Investitionsausgaben. Ausgeschlossen ist ein IP-Wirtschaftsgut, für das in einem beliebigen Steuerjahr der Abzug für qualifiziertes geistiges Eigentum genutzt wurde. Für Maschinen, Anlagen und Gebäude gelten eigene Abschreibungsregeln.
 
-**IP Box — unveraendert.** Effektiver Steuersatz jetzt ca. 3% (15% x 20% steuerpflichtiger Anteil). Quelle: [IBCCS Tax](https://ibccs.tax/blog/cyprus-tax-reform-2026/)
+Die [IP-Hinweise des Ministeriums](https://www.gov.cy/mof/documents/forologiki-politiki-kai-metarrythmiseis-2/forologika-kinitra/) beschreiben einen **Abzug von 80 % des qualifizierten IP-Gewinns** nach den Nexus-Regeln. Wendet man 15 % auf die verbleibenden 20 % an, ergeben sich **3 % dieses qualifizierten Gewinns** vor weiteren Anpassungen. Das ist kein Satz von 3 % auf alle Gewinne einer Gesellschaft.
 
-### Vergleich mit Deutschland
+## Welche Einkommensteuerstufen gelten?
 
-| | Deutschland | Zypern (2026) |
+Die Tabelle des Einkommensteuergesetzes für 2026 wendet progressive Sätze auf das **jährliche zu versteuernde Einkommen** nach Abzügen an.
+
+| Stufe des zu versteuernden Einkommens | Satz in der Stufe | Steuer an der Obergrenze |
 |---|---|---|
-| Koerperschaftsteuer | 15% KSt + 5,5% Soli + ca. 14% GewSt = **ca. 30%** | **15%** |
-| IP-Regime | Keine vergleichbare Regelung | **ca. 3%** (IP Box) |
-| Verlustvortrag | Unbegrenzt (aber Mindestbesteuerung) | **7 Jahre** |
-| R&D-Förderung | Forschungszulage (25% bis 4 Mio.) | Superabzug +20% bis 2030 |
+| Bis 22.000 EUR | 0 % | 0 EUR |
+| Über 22.000 bis 32.000 EUR | 20 % | 2.000 EUR |
+| Über 32.000 bis 42.000 EUR | 25 % | 4.500 EUR |
+| Über 42.000 bis 72.000 EUR | 30 % | 13.500 EUR |
+| Über 72.000 EUR | 35 % | Hängt vom Einkommen ab |
 
-Fuer GmbH-Gesellschafter, die nach Zypern auswandern, ist die Gesamtbelastung auf Unternehmensgewinne deutlich niedriger — auch nach der Erhoehung auf 15%. Zur Wegzugsbesteuerung bei GmbH-Anteilen: [Wegzugsbesteuerung GmbH: Auswandern nach Zypern](/de/business/gmbh-wegzugsbesteuerung-auswandern/).
+Der steuerfreie Betrag stieg von 19.500 EUR auf **22.000 EUR**. Ein hoher Spitzensatz bedeutet nicht, dass das gesamte Einkommen so besteuert wird. Mehr dazu im [Leitfaden zu Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/).
 
-## Welche neuen Einkommensteuerstufen gelten?
+### Persönliche Abzüge
 
-| Jahreseinkommen | Steuersatz | Kumulierte Steuer |
-|-----------------|------------|-------------------|
-| Bis 22.000 EUR | 0% | 0 EUR |
-| 22.001 — 32.000 EUR | 20% | 2.000 EUR |
-| 32.001 — 42.000 EUR | 25% | 4.500 EUR |
-| 42.001 — 72.000 EUR | 30% | 13.500 EUR |
-| Über 72.000 EUR | 35% | — |
+Das Gesetz und der **Leitfaden mit FAQ der Steuerbehörde vom 11. Mai 2026** beschreiben die neuen Abzüge für qualifizierte ansässige Privatpersonen.
 
-Der Grundfreibetrag stieg von 19.500 EUR auf **22.000 EUR** (Deutschland 2025: 11.784 EUR). Detaillierte Steuertabelle mit Vergleichsrechnung: [Steuern auf Zypern: Einkommensteuer, GESY, Abzuege](/de/business/taxes-cyprus-gesy-deductions/).
+| Abzug | Gesetzlicher Betrag oder Jahreshöchstgrenze |
+|---|---|
+| Unterhaltsberechtigte Kinder | 1.000 EUR für das erste; 1.250 EUR für das zweite; 1.500 EUR für das dritte und jedes weitere qualifizierte Kind |
+| Hauptwohnung | Bis zu 2.000 EUR für qualifizierte Darlehenszinsen oder Miete für die Hauptwohnung auf Zypern |
+| Energetische Verbesserungen und Elektrofahrzeug | Bis zu 1.000 EUR, abhängig von förderfähigen Ausgaben und den Aufteilungsregeln des Gesetzes |
+| Versicherung gegen Naturkatastrophen für Wohnraum | Bis zu 500 EUR qualifizierter Prämien |
 
-### Neue persoenliche Abzuege
+Den Kinderabzug kann jeder qualifizierte Elternteil unter den gesetzlichen Bedingungen nutzen. Das Gesetz verdoppelt ihn für Alleinerziehende und wenn ein Elternteil das volle Sorgerecht hat. Der Wohnabzug betrifft **Zinsen**, nicht die Tilgung des Hypothekenkapitals; das Gesetz nennt außerdem Bedingungen zu Eigentum, Darlehen und Ausgaben.
 
-Erstmals werden Familienabzuege eingefuehrt:
+Für Kinder-, Wohn- und Energieabzüge gibt es **Einkommens- und Familienprüfungen**. Die Beträge werden vom zu versteuernden Einkommen abgezogen. Es sind keine Zuschüsse und keine automatische Minderung der Steuer um denselben Betrag. Prüfen Sie tatsächliche Ausgaben, Zuschüsse, die Aufteilung zwischen Ehe- oder Lebenspartnern und einen möglichen Vortrag. Der Versicherungsabzug hat eigene Bedingungen. Lesen Sie vor der Geltendmachung den [ausführlichen Leitfaden zu den Abzügen](/de/business/taxes-cyprus-gesy-deductions/) und den offiziellen Leitfaden unten.
 
-| Abzug | Betrag (EUR/Jahr) |
-|-------|-------------------|
-| 1. Kind | 1.000 |
-| 2. Kind | 1.250 |
-| 3. und jedes weitere Kind | 1.500 |
-| Wohnen (Hypothek oder Miete) | bis 2.000 |
-| Energieeffizienz und Elektrofahrzeuge | bis 1.000 |
-| Naturkatastrophenversicherung | bis 500 |
+## Wie funktioniert das 8-%-Kryptoregime?
 
-Alleinerziehende erhalten den **doppelten** Kinderabzug.
+**Section 20E des Einkommensteuergesetzes** erhebt **8 %** auf Gewinne aus erfassten Veräußerungen von Kryptoassets, mit der an MiCA angelehnten Definition des Gesetzes. Zur Veräußerung zählen **Verkauf, Schenkung, Tausch gegen ein anderes Kryptoasset und Verwendung als Zahlungsmittel**.
 
-**Einkommensgrenzen:** Alleinstehende bis 40.000 EUR, Familie mit 0–2 Kindern bis 100.000 EUR, 3–4 Kindern bis 150.000 EUR, 5+ bis 200.000 EUR.
+Verluste in diesem Regime lassen sich nur mit Kryptogewinnen desselben Steuerjahres verrechnen. Sie können nicht vorgetragen oder über den Gruppenverlustausgleich übertragen werden. Sie mindern weder Gehalt noch andere nicht verwandte Einkünfte.
 
-## Wie werden Kryptowährungen besteuert?
+Die Vorschrift schließt ausdrücklich die **Veräußerung von Kryptoassets aus, die durch Mining erworben wurden**. Einkünfte außerhalb von Section 20E sind nach den normalen Einkommensteuerregeln zu beurteilen. Dieser Leitfaden nennt keinen pauschalen Satz und keine Regel zum Zeitpunkt des Erhalts für jede Mining- oder Staking-Tätigkeit.
 
-Erstmals gibt es auf Zypern ein klares Besteuerungsregime für Kryptoassets. Quelle: [Paraschou](https://paraschou.com.cy/cyprus-2026-tax-reform-8-crypto-tax-a-new-clear-regime-for-digital-asset-investors/)
+**Beispiel:** Angenommen, es gibt 220.000 EUR Gewinn aus erfassten Veräußerungen und 50.000 EUR förderfähige Veräußerungsverluste im selben Jahr, ohne weitere Anpassungen. Die verbleibenden 170.000 EUR zu 8 % ergeben **13.600 EUR**. Das Beispiel legt weder Anschaffungswert noch Abzugsfähigkeit noch Einordnung eines echten Geschäfts fest.
 
-**Der feste Satz von 8%** gilt bei:
-- **Verkauf** von Kryptowaehrungen (BTC, ETH usw.)
-- **Tausch** einer Kryptowaehrung gegen eine andere (BTC in ETH = Realisierung)
-- **Schenkung** von Kryptowaehrungen
-- **Bezahlung** von Waren oder Dienstleistungen mit Kryptowaehrungen
+## Wie funktioniert das 8-%-Regime für Aktienoptionen?
 
-**Nicht unter 8% (regulaere Saetze — 15% CIT oder progressive Skala):**
-- Einkuenfte aus **Mining**
-- **Staking**-Ertraege (bei Erhalt = Einkommen; bei spaeteren Verkauf = 8%-Regime)
+**Section 20Δ** erfasst qualifizierte Vergütungen in Form von Beteiligungen für einen **in Zypern ansässigen Arbeitnehmer oder Direktor**. Der Steuerkommissar muss den Plan für die betreffende Person genehmigen.
 
-### Vergleich mit Deutschland
+Die gesetzlichen Bedingungen umfassen:
 
-| | Deutschland | Zypern (2026) |
-|---|---|---|
-| Haltedauer < 1 Jahr | Persoenlicher Steuersatz (bis 45% + Soli) | **8%** |
-| Haltedauer > 1 Jahr | Steuerfrei (Paragraph 23 EStG) | **8%** |
-| Tausch Krypto-zu-Krypto | Steuerpflichtiges Veraeusserungsgeschaeft | **8%** |
-| Mining | Gewerbliche Einkuenfte | 15% CIT / progressive Skala |
-| Freigrenze | 1.000 EUR/Jahr (ab 2024) | Keine |
+- Eine Haltefrist (Vesting) von mindestens **drei Jahren**, die frühestens mit der Genehmigung beginnt.
+- Keine Übertragung der Aktien oder Optionen vor Ende des Vestings.
+- Aktien des Arbeitgebers oder seiner unmittelbaren oder mittelbaren Muttergesellschaft mit den üblichen Aktienrechten und -pflichten, abgesehen von der zulässigen Ausnahme beim Stimmrecht.
+- Ein Ausübungspreis von mindestens **50 % des Marktwerts bei Genehmigung**.
 
-**Fazit für Deutsche:** Wer aktiv handelt (Haltedauer unter einem Jahr), spart auf Zypern erheblich. Wer nur langfristig haelt (über ein Jahr), ist in Deutschland besser dran (steuerfrei). Zypern ist besonders attraktiv für aktive Trader und bei Krypto-zu-Krypto-Taeusch.
+Das 8-%-Regime gilt nur für Vorteile bis zum **Zweifachen der Arbeitseinkünfte beim selben Arbeitgeber im Jahr des Vesting-Endes**, ohne den Beteiligungsvorteil selbst. Übersteigende Vorteile werden normal behandelt. Dazu kommt eine **Obergrenze von 1.000.000 EUR über einen rollierenden Zehnjahreszeitraum**, kein unbegrenzter Anspruch auf Lebenszeit und keine eigene Grenze je Zuteilung. Gesetzlich nahestehende Personen nach Section 33 sind ausgeschlossen; die Direktorenstellung allein begründet keinen Ausschluss.
 
-### Verluste aus Kryptoassets — strenge Beschraenkung
+Die Übergangsregel erlaubte dem Kommissar, qualifizierte frühere Pläne zu genehmigen, deren Vesting vor der Änderung von 2025 begonnen hatte und deren Mindestzeit von drei Jahren am **30. Juni 2026** noch nicht abgelaufen war, sofern der Arbeitgeber den Antrag bis zu diesem Datum stellte. Diese Antragsfrist ist abgelaufen; stellen Sie sie nicht als künftiges Antragsfenster dar.
 
-- Koennen **nur** mit Kryptogewinnen **desselben Jahres** verrechnet werden
-- **Kein** Vortrag in Folgejahre
-- **Keine** Verrechnung mit anderen Einkunftsarten (Gehalt, Unternehmensgewinne)
+## Was geschieht mit der SDC auf Dividenden und dem Non-Dom-Status?
 
-### Rechenbeispiel
+Nach dem [SDC-Gesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html) zahlen steuerpflichtige ansässige Privatpersonen grundsätzlich **5 % SDC auf Dividenden**. Dividenden, die in **2026–2031** von einer in Zypern ansässigen Gesellschaft aus Gewinnen bis einschließlich **2025** bezogen werden, behalten jedoch **17 %**, mit gesetzlicher Anrechnung der früheren SDC. Für Dividenden zwischen Gesellschaften und ausländische Dividenden gelten eigene Bedingungen.
 
-| Vorgang | Ergebnis | Regime |
-|---------|----------|-------|
-| Verkauf Bitcoin | +220.000 EUR | 8% |
-| Tausch in Ethereum | -50.000 EUR | Verrechnung im selben Jahr |
-| Mining-Einkuenfte | +60.000 EUR | 15% CIT / progressive Skala |
+Die fingierte Ausschüttung (Deemed Distribution) bleibt für **Gewinne von 2024 und 2025** nach der bedingten 70-%-Regel in Section 3Γ relevant. Auf Gewinne ab 2026 ist sie nicht anwendbar. Die Aussage, fingierte Ausschüttungen seien für alle offenen Jahre entfallen, ist falsch.
 
-Netto-Kryptogewinn: 170.000 EUR x 8% = **13.600 EUR**. Mining-Einkuenfte: 60.000 EUR x 35% = **21.000 EUR**. Gesamt: **34.600 EUR**.
+Gewöhnliche Zinsen steuerpflichtiger Privatpersonen unterliegen grundsätzlich **17 % SDC**; für bestimmte Kategorien und berechtigte Fälle mit niedrigem Einkommen gilt nach Section 3B eine andere Behandlung. Zinsen von Gesellschaften werden nach den Einkommensteuerregeln beurteilt. Mieteinnahmen sind **ab 2026 außerhalb der SDC**, doch das beseitigt weder die Einkommensteuer noch die geltenden GeSY-Beiträge.
 
-In Deutschland (bei Haltedauer unter 1 Jahr, Spitzensteuersatz): 170.000 EUR x 47,475% = ca. **80.700 EUR**. Die Ersparnis auf Zypern betraegt in diesem Beispiel über 45.000 EUR.
+Qualifizierte Non-Doms bleiben von der SDC befreit. Der gesetzliche Test für das fingierte Domizil ist die **zyprische Steueransässigkeit in mindestens 17 der vorangegangenen 20 Steuerjahre**, zusammen mit den Regeln zum Herkunftsdomizil und den Ausnahmen. Es ist keine automatische 17-Jahres-Befreiung für jeden, der nach Zypern zieht. Die Bedingungen und den getrennten 60-Tage-Test finden Sie im [Non-Dom-Leitfaden](/de/business/non-dom-status-cyprus-60-day-rule/).
 
-## Wie werden Aktienoptionen besteuert?
+### Verdeckte Gewinnausschüttungen und Gesellschafterdarlehen
 
-Sonderregime für aktienbasierte Verguetung. Quelle: [ID Law](https://www.idlaw.com.cy/knowledge/employee-share-option-schemes-in-2026-from-incentive-tool-to-strategic-imperative/)
+**SDC Section 3A** erhebt **10 %** auf definierte Vorteile aus verdeckten Gewinnausschüttungen, die steuerpflichtige ansässige Gesellschafter von in Zypern ansässigen Gesellschaften erhalten. Erfasst sind bestimmte private Nutzungen von Firmenvermögen und Veräußerungen unter Marktwert, mit gesetzlichen Regeln zu Bewertung, Aufteilung der privaten Nutzung und Anrechnung. Vorteile aus Arbeitsverhältnissen, Kapitalherabsetzungen und Liquidation sind gesondert ausgenommen; nicht jeder Vorteil aus der Gesellschaft ist automatisch eine verdeckte Gewinnausschüttung.
 
-**Voraussetzungen:**
-- ESOP-Plan vom **Steuerkommissar genehmigt**
-- Mindest-Vesting: **3 Jahre** ab Genehmigungsdatum
-- Ausuebungspreis mindestens **50%** des Marktwerts zum Genehmigungszeitpunkt
-- Uebertragung von Aktien/Optionen vor Ablauf der 3 Jahre **verboten**
+**Section 5(1)(ζ) des Einkommensteuergesetzes** behandelt gesondert Darlehen oder andere Finanzierungen der Gesellschaft, einschließlich Entnahmen, aber ohne kaufmännische Salden, an Direktoren, unmittelbare oder mittelbare Gesellschafter (Privatpersonen), deren Ehepartner oder Verwandte bis zum zweiten Grad. Der monatliche steuerpflichtige Vorteil wird mit **9 % jährlich auf den Monatsendsaldo** berechnet und über PAYE abgewickelt. Die 9 % sind die Berechnung des Vorteils, nicht der Steuersatz.
 
-**Beschraenkungen:**
-- 8%-Satz nur auf einen Betrag bis zum **2-fachen des Jahresgehalts**
-- Darueber hinaus: regulaere Einkommensteuersaetze
-- Obergrenze: **1.000.000 EUR** pro Mitarbeiter über **10 Jahre**
-- **Nicht anwendbar** auf nahestehende Personen (Gesellschafter-Geschaeftsfuehrer, Direktoren)
+Bei einem angenommenen Saldo von 1.000.000 EUR, der an jedem Monatsende gleich bleibt, ergibt das 7.500 EUR steuerpflichtigen Vorteil pro Monat, also **90.000 EUR in zwölf Monaten**. Die resultierende Steuer hängt von den Umständen des Empfängers ab.
 
-**Uebergangsregelung:** Bestehende Plaene muessen bis **30. Juni 2026** zur Genehmigung eingereicht werden.
+### Alternative SDC-Zahlung nach fingiertem Domizil
 
-Fuer Deutsche in der Tech-Branche, die mit Aktienoptionen verguetet werden, ist dies relevant: In Deutschland unterliegen ESOP-Ertraege dem regulaeren Einkommensteuersatz (bis 45% + Soli) — auf Zypern nur 8%.
+Nach **SDC Section 3Δ** können berechtigte Personen ohne zyprisches Herkunftsdomizil, die fingiert domiziliert werden, mit Genehmigung des Kommissars eine alternative pauschale SDC beantragen.
 
-## Wie ändert sich die Dividendenbesteuerung?
+Sie kostet **250.000 EUR im Voraus für jeden Fünfjahreszeitraum**, zahlbar bis Ende des Monats nach der Genehmigung. Der Antrag ist bis zum **30. Juni des ersten Jahres** des Zeitraums zu stellen; bis zu **zwei Zeiträume** sind möglich. Die Wahl ist unwiderruflich, die Zahlung nicht erstattbar. Es ist eine alternative SDC-Abgabe, keine Investition und keine Verlängerung des Non-Dom-Status. Ob sie sich lohnt, hängt von den tatsächlichen Einkünften und der anwendbaren SDC ab, nicht von einer allgemeinen Einkommensgrenze.
 
-Die Special Defence Contribution (SDC) auf Dividenden sinkt deutlich. Fuer Deutsche bedeutet das: Mehr behalten vom Gewinn. Vergleich mit der deutschen Abgeltungssteuer:
+## Was gilt für Zahlungen an ausländische Gesellschaften?
 
-| | Deutschland | Zypern (SDC, 2026) | Zypern (Non-Dom) |
+Das SDC-Gesetz und das Einkommensteuergesetz enthalten Beschränkungen bei Quellensteuer und Abzug für bestimmte Zahlungen im Zusammenhang mit **nicht kooperativen Jurisdiktionen auf der EU-Liste** und **Niedrigsteuerjurisdiktionen**. Klären Sie vor der Zahlung Ansässigkeit oder Gründungsort des Empfängers, die gesetzlichen Kontrollbeziehungen, die Zahlungsart, Ausnahmen und Missbrauchsregeln.
+
+Die Definition der Niedrigsteuerjurisdiktion betrifft ein Drittland und vergleicht dessen gesetzlichen Körperschaftsteuersatz mit der **Hälfte des zyprischen Satzes**; sie prüft nicht die effektive Steuer eines einzelnen Empfängers. Maßgeblich ist die [aktuelle EU-Liste des Rates](https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/) zum Zahlungsdatum. Eine Gesellschaft in einem genannten Land begründet für sich nicht alle Bedingungen für die Quellensteuer, und ein nicht nahestehender Empfänger bedeutet nicht, dass jede Zahlung steuerfrei ist.
+
+## Wie wirkt sich die Reform auf die Kapitalgewinnsteuer aus?
+
+Das [Kapitalgewinnsteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/1980_1_52/full.html) erhebt grundsätzlich **20 %** auf erfasste Gewinne, vorbehaltlich Ausnahmen und Freibeträgen.
+
+### Anteile an Gesellschaften mit Immobilienbesitz
+
+Das Gesetz erfasst gesondert Anteile an Gesellschaften, die zyprische Immobilien direkt halten, und Anteile an Gesellschaften, die mittelbar oder unmittelbar an solchen Gesellschaften beteiligt sind. Für Letztere gilt der Test **mindestens 20 % des Marktwerts der Anteile stammen aus zyprischen Immobilien**, ohne Berücksichtigung von Verbindlichkeiten. Betrachten Sie 20 % nicht als allgemeine Schwelle für jede Gesellschaft mit direktem Immobilienbesitz.
+
+### Anteile an anerkannten Börsen
+
+Section 5 befreit erfasste Gewinne aus Anteilen, die an einem **regulierten Markt einer anerkannten Börse** notiert sind.
+
+Für Anteile an einem **nicht regulierten Markt einer anerkannten Börse** gilt die Befreiung nur, wenn der kumulierte Veräußerungswert im Kalenderjahr **50.000 EUR** nicht übersteigt. Das ist der Veräußerungswert, kein Freibetrag für Gewinne. Wird die Schwelle überschritten, besteuert das Gesetz die Gewinne aus jeder erfassten Veräußerung, nicht nur den überschießenden Erlös.
+
+Eine gesonderte Übergangsregel befreit qualifizierte Anteile, die **am 31. Dezember 2025 gehalten wurden und an diesem Tag bereits an einem solchen nicht regulierten Markt notiert waren**. Es ist keine allgemeine Befreiung für jeden nicht notierten Anteil, der vor 2026 gekauft wurde.
+
+### Freibeträge für Privatpersonen bei Immobilien
+
+| Freibetrag | Aktueller gesetzlicher Betrag und Umfang |
+|---|---|
+| Allgemeine Veräußerungen | 30.000 EUR kumulierter Gewinnfreibetrag für Privatpersonen |
+| Landwirtschaftliche Flächen | 50.000 EUR kumulierter Gewinnfreibetrag, wenn Landwirtschaft die Haupttätigkeit der Person ist |
+| Qualifizierte Hauptwohnung | 150.000 EUR Gewinnfreibetrag nach Section 5(2) |
+
+Der Freibetrag für die Hauptwohnung verlangt mindestens **fünf Jahre ausschließliche Selbstnutzung** und begrenzt die erfasste Fläche auf **1,5 Dekar**. Bei wiederholten Veräußerungen sind mindestens **zehn Jahre** qualifizierte Selbstnutzung nötig. Der Freibetrag entfällt, wenn die Veräußerung mindestens ein Jahr nach Ende der Selbstnutzung erfolgt. Allgemeiner/landwirtschaftlicher Freibetrag und der Freibetrag für die Hauptwohnung lassen sich nicht einfach addieren; das Gesetz gewährt den größeren anwendbaren Freibetrag.
+
+Section 5(4) betrifft gesondert bestimmte Veräußerungen der Hauptwohnung im Zusammenhang mit Umstrukturierung oder Verfahren von Kreditgebern, mit einer **Obergrenze des Veräußerungserlöses von 450.000 EUR** und weiteren Bedingungen. Das ist kein zusätzlicher Gewinnfreibetrag von 450.000 EUR auf Lebenszeit. Für die Prüfung eines konkreten Geschäfts siehe den [Leitfaden zu Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/).
+
+## Ist die Stempelsteuer abgeschafft?
+
+Die [Seite der Steuerbehörde zur Stempelsteuer](https://www.gov.cy/mof-tax/documents/chartosima/) bestätigt die Abschaffung zum **1. Januar 2026** durch das Gesetz 239(I)/2025.
+
+Dokumente, die **von mindestens einer Partei bis zum 31. Dezember 2025** erstellt und unterzeichnet wurden, unterliegen weiter den früheren Regeln, auch wenn eine weitere Unterschrift oder die Stempelung später erfolgt. Die Abschaffung für neue Dokumente hebt die Pflicht für ältere Dokumente nicht auf.
+
+## Muss Miete elektronisch gezahlt werden?
+
+**Section 48A des Veranlagungs- und Erhebungsgesetzes**, wirksam ab dem **1. Juli 2026**, verlangt, dass Miete für Immobilien auf Zypern ausschließlich per Banküberweisung, Debit-/Kreditkarte oder einem anderen anerkannten elektronischen Zahlungsweg gezahlt wird. Der Empfänger darf keinen anderen Weg annehmen. Bargeld gehört daher nicht zu den erlaubten Wegen.
+
+Nutzen Sie einen zulässigen Zahlungsweg und bewahren Sie den Zahlungsnachweis auf. Ob eine Mietzahlung steuerlich abzugsfähig ist, ist eine getrennte Frage und hängt von den Bedingungen des Abzugs ab; allein die Überweisung begründet keine Abzugsfähigkeit.
+
+## Welche Registrierungs- und Abgaberegeln gelten?
+
+Nach **Section 5A** muss eine Privatperson die Steuerbehörde zur Registrierung und für eine Steuernummer informieren, wenn sie in Zypern ansässig und **25 Jahre oder älter** ist oder Einkünfte nach Section 5 des Einkommensteuergesetzes bezieht. Dieser Registrierungstest weicht vom Altersbereich für die Abgabe der Steuererklärung ab.
+
+Die Übergangsregel, nach der eine Registrierung bis zum **31. Dezember 2027** möglich ist, betrifft Personen, die noch nicht registriert sind und in den Steuerjahren **2026 und 2027** keine Einkünfte nach Section 5 haben. Es ist keine allgemeine Verlängerung für jeden nicht registrierten Steuerpflichtigen.
+
+Eine in Zypern gegründete oder eingetragene Gesellschaft muss sich grundsätzlich innerhalb von **60 Tagen** melden. Für im Ausland gegründete Gesellschaften nennt das Gesetz andere Auslöser bei Eintragung, Ansässigkeitswerdung oder Erzielung erfasster Einkünfte. Registrierte Personen müssen Änderungen ihrer Daten ebenfalls innerhalb von **60 Tagen** melden.
+
+Für eine Steuererklärung 2026 einer Privatperson ohne Pflicht zum geprüften Abschluss setzt Section 5 die reguläre Frist auf den **31. Juli 2027**, vorbehaltlich geltender Verlängerungen. Für andere Gruppen gelten andere Fristen. Wenden Sie das nicht auf eine Erklärung für 2025 an, die 2026 abgegeben wird. Die passende Gruppe und die aktuelle Bekanntmachung finden Sie im [Leitfaden zur Steuererklärung](/de/business/tax-return-filing-cyprus/).
+
+### Verwaltungsstrafen und Schließungsbefugnisse
+
+Section 50A unterscheidet zwischen versäumten gesetzlichen Fristen und der Nichtbefolgung einer zugestellten Aufforderung. Die Standardbeträge:
+
+| Fall nach Section 50A | Privatperson | Juristische Person: Umsatz oder Aktiva über 1 Mio. EUR | Andere juristische Person |
 |---|---|---|---|
-| Dividendenbesteuerung | **26,375%** (25% + 5,5% Soli) | **5%** | **0%** |
-| Zinsbesteuerung | **26,375%** | **17%** (SDC) | **0%** |
-| Mieteinnahmen (lokal) | Persoenlicher Steuersatz | **Nur Einkommensteuer** (SDC entfaellt) | **Nur Einkommensteuer** |
+| Buchstabe (a): versäumte ausdrücklich vorgeschriebene Pflicht oder Frist | 150 EUR | 500 EUR | 250 EUR |
+| Buchstabe (b): Nichtbefolgung der zugestellten Aufforderung nach mindestens 60 Tagen | 300 EUR | 1.000 EUR | 500 EUR |
 
-Zum Non-Dom-Status: [Non-Dom-Status und die 60-Tage-Regel](/de/business/non-dom-status-cyprus-60-day-rule/).
+Das sind definierte gesetzliche Fälle, keine allgemeine Gebühr für jedes Steuerversäumnis. Das Gesetz nimmt bestimmte Erklärungen aus, die innerhalb einer öffentlich verlängerten Frist abgegeben werden. Für andere Regime, auch die SDC, müssen die Regeln gesondert geprüft werden.
 
-### Vollstaendige SDC-Tabelle
+Section 50A(e) erhebt grundsätzlich **5 %** auf nicht gezahlte Steuer nach der vorgeschriebenen Frist, mit weiteren **5 %**, wenn die Nichtzahlung zwei Monate später andauert. Es gibt eine Ausnahme für bestimmte Zahlungen zur Erklärung, die bei Abgabe innerhalb einer öffentlich bekanntgegebenen verlängerten Frist erfolgen. Zinsen und andere Folgen sind gesondert zu prüfen.
 
-| Einkunftsart | Vor Reform | Ab 2026 |
-|-------------|-----------|---------|
-| Dividenden (natuerliche Personen) | SDC 17% | **SDC 5%** |
-| Zinsen (natuerliche Personen) | SDC 17% + Einkommensteuer | **SDC 17%** (Einkommensteuer entfaellt) |
-| Zinsen auf Anleihen | SDC 3% + Einkommensteuer | **SDC 3%** (Einkommensteuer entfaellt) |
-| Zinsen (Unternehmen) | Einkommensteuer + SDC | **Nur 15% Einkommensteuer** |
-| Mieteinnahmen | Einkommensteuer + SDC 3% | **Nur Einkommensteuer** |
-| Deemed Dividend (70%-Regel) | Galt | **Abgeschafft** (ab Gewinnen 2026+) |
-| Verdeckte Gewinnausschuettung | Eingeschraenkte Regeln | **SDC 10%** |
+Nach **Section 32A** kann der Kommissar einen Betrieb für höchstens **zehn Tage** einstellen und die Räume versiegeln, nach dem gesetzlichen Verfahren. Gründe sind bestimmte fehlende Erklärungen ab dem **1. Januar 2027** (mindestens zwei Steuererklärungen, zwölf monatliche Quellensteuererklärungen oder drei Umsatzsteuererklärungen), qualifizierte unbezahlte Schulden über **20.000 EUR**, fehlende oder unrichtige Rechnungen oder Belege sowie Behinderung einer Prüfung.
 
-**Non-Dom: weiterhin 0%** auf Dividenden, Zinsen und Mieteinnahmen.
+Die Schließung erfolgt nicht automatisch: Das Gesetz verlangt **drei Mitteilungen**. Die erste und die zweite geben jeweils mindestens **zehn Tage** zur Erfüllung; die dritte lädt zu schriftlichen Stellungnahmen innerhalb von **fünf Tagen** ein. Das Gesetz sieht auch Rechtsbehelfe vor. Bei festgesetzten Schulden müssen zunächst die Fristen oder Verfahren für Verwaltungs- und Gerichtsrechtsbehelfe ausgeschöpft sein, bevor sie auf die Schuldenschwelle angerechnet werden.
 
-### Was das für die Wegzugsplanung bedeutet
+## Wie lange sind Neuveranlagung und Aufbewahrung möglich?
 
-Die Senkung der SDC auf 5% macht die Gesamtplanung attraktiver:
+Nach **Section 23** beträgt die reguläre Frist für eine Neuveranlagung **sechs Jahre ab dem späteren Datum der Abgabe der ursprünglichen oder berichtigten Erklärung**; das Gesetz erlaubt die Veranlagung auch während des Steuerjahres. Bei Betrug oder vorsätzlichem Unterlassen verlängert sich die Sechsjahresfrist auf **zwölf Jahre**.
 
-1. **Wegzugsbesteuerung** (Paragraph 6 AStG): 7 Raten, zinslos — laeuft nach dem Umzug weiter
-2. **Laufende Dividenden auf Zypern**: 5% SDC (oder 0% mit Non-Dom) statt 26,375% in Deutschland
-3. **DBA Deutschland-Zypern**: maximale Quellensteuer auf Dividenden 15% (Art. 10)
+Nach **Section 30(2)** sind die genannten Bücher und Unterlagen mindestens **sechs Jahre ab der letzten anwendbaren Abgabefrist der ursprünglichen oder berichtigten Erklärung oder dem tatsächlichen Abgabedatum** aufzubewahren. Beginnt eine Prüfung im letzten Jahr, verlängert sich die Aufbewahrung bis zum Prüfungsende oder bis ein Jahr nach Prüfungsbeginn, je nachdem, was früher eintritt. Berechnen Sie die Aufbewahrung nicht allein ab einem frühen Abgabedatum der ursprünglichen Erklärung.
 
-Detaillierte DBA-Analyse: [DBA Deutschland-Zypern: Steuerverteilung erklaert](/de/business/dba-deutschland-zypern/).
+## Häufig gestellte Fragen
 
-### Uebergangsregeln (wichtig!)
+### Was hat sich mit der Steuerreform Zypern 2026 geändert?
 
-Für in Zypern steueransässige und domizilierte natürliche Personen unterliegen Dividenden einer zyprischen steueransässigen Gesellschaft, die bis einschließlich 31. Dezember 2031 aus Gewinnen bis einschließlich Steuerjahr 2025 gezahlt werden, weiterhin 17% SDC. Non-dom-Personen bleiben befreit. [SDC law, §3](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html>).
+Der Regelsatz der Körperschaftsteuer beträgt 15 %, der steuerfreie Betrag für Privatpersonen 22.000 EUR. Es gibt bedingte 8-%-Regime für Krypto-Veräußerungen und genehmigte Mitarbeiteraktienoptionen, neue persönliche Abzüge, Übergangsregeln für die SDC auf Dividenden und die Abschaffung der Stempelsteuer mit einer Ausnahme für ältere Dokumente. Die Änderungen haben unterschiedliche Bedingungen und Beginnzeitpunkte.
 
-### Verdeckte Gewinnausschuettungen — neuer Tatbestand
+### Wie werden Kryptowährungen auf Zypern ab 2026 besteuert?
 
-Wenn ein Unternehmen einem Gesellschafter Vorteile gewaehrt, ohne formelle Dividenden auszuschuetten (private Nutzung einer Firmenwohnung, eines Firmenwagens, Verkauf eines Vermoegenswerts unter Marktwert), gilt dies als **verdeckte Gewinnausschuettung** mit **SDC 10%** (doppelter Satz). Quelle: [Paraschou](https://paraschou.com.cy/cyprus-tax-reform-2026-changes-and-opportunities-on-interest-rental-income-and-disguised-dividends/)
+Section 20E des Einkommensteuergesetzes besteuert Gewinne aus erfassten Veräußerungen mit 8 %. Zur Veräußerung zählen Verkauf, Schenkung, Tausch und Zahlung. Verluste lassen sich nur mit erfassten Kryptogewinnen desselben Jahres verrechnen, ohne Vortrag oder Übertragung innerhalb einer Gruppe. Das Regime schließt die Veräußerung von Token aus, die durch Mining erworben wurden; gehen Sie nicht davon aus, dass jeder Tokenerhalt oder jede Tätigkeit darunter fällt.
 
-Non-Dom: 0% SDC auch auf verdeckte Gewinnausschuettungen.
+### Wie hoch ist der neue SDC-Satz auf Dividenden auf Zypern?
 
-### Benefit in Kind — Gesellschafterdarlehen (9%)
+Für steuerpflichtige ansässige Privatpersonen beträgt der allgemeine SDC-Satz auf Dividenden 5 %. Dividenden, die 2026–2031 von einer in Zypern ansässigen Gesellschaft aus Gewinnen bis 2025 bezogen werden, behalten den Übergangssatz von 17 %, vorbehaltlich der gesetzlichen Anrechnungsregeln. Qualifizierte Non-Doms bleiben von der SDC befreit; andere Steuern und Beiträge müssen gesondert geprüft werden.
 
-Ein zinsloses Darlehen oder eine Finanzdienstleistung des Unternehmens an Direktoren, Gesellschafter oder deren Angehoerige (bis 2. Verwandtschaftsgrad) erzeugt ein **fiktives Einkommen von 9% p.a.** der Darlehenssumme. Wird über PAYE abgefuehrt.
+### Wie wirkt sich die Reform auf Immobiliengeschäfte aus?
 
-**Beispiel:** Darlehen 1.000.000 EUR = 90.000 EUR/Jahr fiktives Einkommen = 7.500 EUR/Monat zum steuerpflichtigen Einkommen.
+Die Schwelle für mittelbare Beteiligungen an immobilienreichen Gesellschaften liegt jetzt bei 20 %; für direkt gehaltene zyprische Immobilien gilt ein eigener CGT-Anwendungsbereich. Die allgemeinen und landwirtschaftlichen Freibeträge auf Lebenszeit betragen 30.000 EUR und 50.000 EUR; der Freibetrag für die Hauptwohnung beträgt 150.000 EUR bei Bedingungen zu Selbstnutzung, Grundstücksfläche und weiteren Voraussetzungen. Die Stempelsteuer wurde zum 1. Januar 2026 abgeschafft, doch Dokumente, die vorher von einer Partei unterzeichnet wurden, unterliegen weiter den alten Regeln.
 
-## Was ändert sich bei der Kapitalertragssteuer?
+### Gibt es den Non-Dom-Status auf Zypern nach der Reform noch?
 
-### Verkauf von Anteilen an immobilienreichen Gesellschaften
+Ja, vorbehaltlich der Domizil- und Ansässigkeitsbedingungen des SDC-Gesetzes. Der Test für das fingierte Domizil ist die zyprische Steueransässigkeit in mindestens 17 der vorangegangenen 20 Jahre; es ist keine garantierte 17-Jahres-Befreiung für jeden Neuankömmling. Mieteinnahmen fallen ab 2026 grundsätzlich nicht unter die SDC; das ist keine besondere Non-Dom-Befreiung für Mieten.
 
-Ab 2026 sinkt die Schwelle von 50% auf **20%**: Wenn 20% oder mehr des Unternehmenswerts aus zyprischer Immobilie besteht, unterliegt der Anteilsverkauf der **CGT von 20%**. Mehr dazu: [Immobiliensteuern auf Zypern](/de/property/immobiliensteuern-zypern-mwst-cgt/).
+## Quellen und weiterführende Leitfäden
 
-**Relevant für Deutsche:** Wer eine zyprische Gesellschaft gruendet, um Immobilien zu halten (z.B. für Vermietung), muss die neue 20%-Schwelle beachten. Frueheren Strukturen mit knapp unter 50% Immobilienanteil verlieren ihren Vorteil.
-
-### Boersennotierte und nicht-boersennotierte Aktien
-
-| | Regulierte Boerse | Nicht reguliert |
-|---|---|---|
-| CGT-Befreiung | **Vollstaendig** | Bis **50.000 EUR/Jahr** Verkaeufe |
-| Über Schwellenwert | — | Steuer auf **gesamten** Gewinn |
-| Uebergangsregelung | — | Vor 31.12.2025 gekaufte Aktien: befreit |
-
-**Wichtig:** Bei Ueberschreitung der 50.000-EUR-Schwelle wird der Gewinn aus **allen** Verkaeufen des Jahres besteuert — nicht nur der überschreitende Teil.
-
-### Erhoehte lebenslange Freibetraege
-
-| Art der Immobilie | Vorher | Neu |
-|---|---|---|
-| Allgemeines Vermoegen | 17.084 EUR | **30.000 EUR** |
-| Landwirtschaftliche Flaeche | 25.629 EUR | **50.000 EUR** |
-| Hauptwohnsitz (5+ Jahre) | 85.430 EUR | **150.000 EUR** |
-| NPL-Umstrukturierung | 350.000 EUR | **450.000 EUR** |
-
-## Wird die Stempelsteuer wirklich abgeschafft?
-
-Seit dem **1. Januar 2026** ist das Stamp Duty Law **vollstaendig aufgehoben**. Bei der Unterzeichnung von Vertraegen faellt kein Stempelsteuerbetrag mehr an.
-
-Frueher betrug die Stempelsteuer:
-- 0,15% auf die ersten 170.860 EUR
-- 0,20% auf den übersteigenden Betrag
-- Gedeckelt bei 20.000 EUR
-
-**Fuer Immobilienkaeufer:** Das ist eine direkte Ersparnis. Bei einem Kaufvertrag über 500.000 EUR fielen frueher ca. 915 EUR Stempelsteuer an — jetzt null.
-
-**Uebergangsregel:** Vertraege, die bereits 2025 von mindestens einer Partei unterzeichnet wurden, unterliegen weiterhin der alten Stempelsteuer, auch wenn die Ausfuehrung 2026 erfolgt.
-
-## Was bedeutet die Pflicht zur elektronischen Mietzahlung?
-
-Ab dem **1. Juli 2026** muss alle Miete für zyprische Immobilien **ausschliesslich elektronisch** bezahlt werden: Bankueberweisung, Karte oder anderer elektronischer Zahlungsweg.
-
-**Barzahlung von Miete ist verboten.** Mietzahlungen in bar werden **steuerlich nicht als Aufwand anerkannt**. Quelle: [Chambers & Co](https://www.chambersandco.com/cyprus-2026-tax-reform-comprehensive-guide-to-the-new-corporate-and-personal-tax-regime/)
-
-## Welche neuen Regeln gelten für Steuererklärungen?
-
-### Neue Abgabefristen
-
-| Typ | Frist |
-|-----|-------|
-| Natuerliche Personen ohne Buchhaltungspflicht | **31. Juli** des Folgejahres |
-| Unternehmen und Selbststaendige (Umsatz > 120.000 EUR) | **31. Januar**, 13 Monate nach Steuerjahr |
-
-Der Jahresabschluss muss **geprueft** (auditiert) sein.
-
-### Steuerliche Registrierung
-
-- **Natuerliche Personen**: TIN-Pflicht für alle Einwohner ab 25 Jahren oder bei Einkommen
-- **Uebergangsfrist**: Registrierung bis **31. Dezember 2027** für bisher nicht Registrierte
-- **Unternehmen**: 60 Tage ab Gruendungsdatum
-
-Mehr zur TIN: [Steueridentifikationsnummer auf Zypern](/de/business/tax-identification-number-cyprus/).
-
-### Strafenkatalog
-
-| Verstoss | Natuerliche Personen | Unternehmen < 1 Mio. | Unternehmen > 1 Mio. |
-|---|---|---|---|
-| Verspaetete Erklaerung (ITL) | 150 EUR | 250 EUR | 500 EUR |
-| + nach Mahnung | 300 EUR | 500 EUR | 1.000 EUR |
-| Verspaetete Erklaerung (SDC) | 500 EUR | 1.000 EUR | 2.000 EUR |
-| Keine Antwort auf Anfrage (60 Tage) | 1.000 EUR | 2.000 EUR | 4.000 EUR |
-| Zahlungsverzug > 2 Monate | +5% | +5% | +5% |
-
-**Nichtzahlung der SDC** ist ein **Straftatbestand**. Bei wiederholten Verstoessen droht neben Geldstrafen auch **Freiheitsstrafe**.
-
-### Betriebsschliessung durch die Steuerbehoerde
-
-Der Steuerkommissar kann Geschaeftsraeume **voruebergehend schliessen und versiegeln**, wenn:
-- 2+ Einkommensteuererklaerungen oder 3+ MwSt-Erklaerungen nicht eingereicht wurden (ab 1. Januar 2027)
-- Steuerschulden über **20.000 EUR** bestehen
-- Keine Rechnungen oder Quittungen ausgestellt werden
-
-## Was bleibt gleich?
-
-Die zentralen Steuervorteile Zyperns bleiben bestehen:
-
-- **Participation Exemption** — Dividenden von Tochtergesellschaften: 0% Koerperschaftsteuer
-- **Titles Exemption** — Gewinn aus Aktien- und Wertpapierverkaeufen: 0% CIT und 0% CGT
-- **Beschaftigungsfreibetraege (50% und 20%)** — Steuerverguenstigungen für auslaendische Fachkraefte
-- **IP Box (Nexus)** — effektiver Steuersatz ca. 3%
-- **Notional Interest Deduction (NID)** — fiktiver Zinsabzug auf Eigenkapital
-- **Non-Dom** — 0% SDC auf Dividenden, Zinsen, Miete (17 Jahre)
-
-Fuer Deutsche besonders relevant: Die **Titles Exemption** bedeutet, dass Gewinne aus dem Verkauf von Aktien (z.B. aus einem ETF-Portfolio) auf Zypern grundsaetzlich steuerfrei sind — in Deutschland faellt darauf 26,375% Abgeltungssteuer an.
-
-## Was passiert nach 17 Jahren Non-Dom-Status?
-
-Wenn der Non-Dom-Status nach 17 Jahren auslaeuft (17 von 20 Jahren auf Zypern), gibt es neu eine **Pauschalzahlungsoption**:
-
-- Personen ohne zyprisches domicile of origin, die als deemed domiciled gelten, können mit Genehmigung des Steuerkommissars eine pauschale SDC wählen: €250.000 als einmalige Vorauszahlung je Fünfjahresperiode, bis zum Ende des Monats nach der Genehmigung. Antrag bis 30. Juni des ersten Jahres. Höchstens zwei Perioden (€500.000 für zehn Jahre); dies ist eine alternative SDC-Abgabe, keine Investition oder Verlängerung des Non-dom-Status. [SDC law, §3Δ](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html>).
-- Deckt SDC auf Dividenden und Zinsen ab
-- Maximal **2 Zeitraeume = 10 Jahre**
-- Antrag bis **30. Juni** des ersten Jahres des Zeitraums
-- Nicht erstattbar und unwiderruflich
-
-Lohnt sich, wenn das jaehrliche Dividenden- und Zinseinkommen über ca. 1.000.000 EUR liegt. Quelle: [Nobel Trust](https://www.nobeltrust.com/news/cyprus-tax-reform-cyprus-non-dom-regime-what-the-2026-tax-reforms-means-for-your-wealth/)
-
-## Wie lang ist die Verjährungsfrist?
-
-Der Steuerkommissar kann Steuern innerhalb von **6 Jahren ab Einreichungsdatum** der Erklaerung (oder der berichtigten Erklaerung) nacherheben. Zuvor: 6 Jahre ab Jahresende.
-
-**Beispiel für 2026:** Einreichung 31.01.2028 = Nacherhebungsfrist bis **31.01.2034**. Das verlaengert das Steuerrisiko um etwa 13 Monate.
-
-**Aufbewahrungspflicht:** 6 Jahre ab Einreichungsdatum der Steuererklaerung.
-
-## Was bedeutet die Reform für Deutsche konkret?
-
-| Situation | Auswirkung der Reform |
-|-----------|----------------------|
-| **GmbH-Gesellschafter, der auswandert** | Wegzugssteuer unveraendert, aber Zypern-Vorteile staerker: 15% CIT + 5% SDC auf Dividenden |
-| **Remote-Worker mit deutschem Arbeitgeber** | Grundfreibetrag 22.000 EUR (statt 11.784 EUR in DE), kein Soli, keine Kirchensteuer |
-| **Krypto-Trader** | 8% statt bis zu 47,475% in DE bei Haltedauer < 1 Jahr |
-| **Immobilienkaeufer** | Stempelsteuer abgeschafft, aber CGT-Schwelle für Property-Rich-Gesellschaften verschaerft |
-| **Rentner in Paphos/Limassol** | Gesetzliche deutsche Sozialversicherungsrente darf in Deutschland besteuert werden (DBA Art. 17(2)); zyprische Rentenberechnung und Steueranrechnung separat prüfen |
-| **Unternehmer mit IP** | IP Box effektiv ca. 3%, R&D-Superabzug bis 2030 |
-
----
-
-**Weiterfuehrende Leitfaeden:**
-- [Steuern auf Zypern: Einkommensteuer, GESY, Abzuege](/de/business/taxes-cyprus-gesy-deductions/)
-- [Non-Dom-Status und die 60-Tage-Regel](/de/business/non-dom-status-cyprus-60-day-rule/)
-- [Wegzugsbesteuerung GmbH: Auswandern nach Zypern](/de/business/gmbh-wegzugsbesteuerung-auswandern/)
-- [DBA Deutschland-Zypern: Steuerverteilung erklaert](/de/business/dba-deutschland-zypern/)
-- [Steuererklaerung einreichen](/de/business/tax-return-filing-cyprus/)
-- [Immobiliensteuern auf Zypern: MwSt, CGT](/de/property/immobiliensteuern-zypern-mwst-cgt/)
-- [Firmengruendung auf Zypern](/de/business/company-registration-cyprus/)
-- [Steueridentifikationsnummer auf Zypern](/de/business/tax-identification-number-cyprus/)
-
----
-
-## Quellen
-
-- [PwC Cyprus Tax Reform](https://www.pwc.com.cy/en/services/tax-legal-services/tax-advisory-services/the-cyprus-tax-reform.html) — PwC
-- [EY — Cyprus enacts major tax reform](https://taxnews.ey.com/news/2026-0140-cyprus-enacts-major-tax-reform-legislation) — EY
-- [KPMG — Tax reform legislation](https://kpmg.com/us/en/taxnewsflash/news/2026/01/tnf-cyprus-tax-reform-legislation-enacted-and-effective-january-1-2026.html) — KPMG
-- [EU Annex I](https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/) — European Union
+- [Einkommensteuergesetz — konsolidierter Text](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html).
+- [SDC-Gesetz — konsolidierter Text](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html).
+- [Kapitalgewinnsteuergesetz — konsolidierter Text](https://www.cylaw.org/nomoi/enop/non-ind/1980_1_52/full.html).
+- [Veranlagungs- und Erhebungsgesetz — konsolidierter Text](https://cylaw.org/nomoi/enop/non-ind/1978_1_4/full.html).
+- [Steuerbehörde — persönliche Abzüge und Hinweise zur Reform](https://www.gov.cy/media/sites/167/2026/05/%CE%95%CF%80%CE%B5%CE%BE%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C%CF%82-o%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AE%CF%82-%CF%84%CE%B7%CF%82-%CF%86%CE%BF%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82-%CE%BC%CE%B5%CF%84%CE%B1%CF%81%CF%81%CF%8D%CE%B8%CE%BC%CE%B9%CF%83%CE%B7%CF%82-%CE%B3%CE%B9%CE%B1-%CF%86%CF%85%CF%83%CE%B9%CE%BA%CE%AC-%CF%80%CF%81%CF%8C%CF%83%CF%89%CF%80%CE%B1-%CF%80%CE%BF%CF%85-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%86%CE%BF%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CE%AF-%CE%BA%CE%AC%CF%84%CE%BF%CE%B9%CE%BA%CE%BF%CE%B9-%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%85_1105.pdf).
+- [Steuerbehörde — Stempelsteuer und Übergang](https://www.gov.cy/mof-tax/documents/chartosima/).
+- [Steuern und Abzüge](/de/business/taxes-cyprus-gesy-deductions/).
+- [Non-Dom und Ansässigkeit](/de/business/non-dom-status-cyprus-60-day-rule/).
+- [Wegzugsbesteuerung bei GmbH-Anteilen](/de/business/gmbh-wegzugsbesteuerung-auswandern/).
+- [DBA Deutschland-Zypern](/de/business/dba-deutschland-zypern/).
+- [Steuererklärung](/de/business/tax-return-filing-cyprus/).
+- [Immobiliensteuern](/de/property/immobiliensteuern-zypern-mwst-cgt/).
+- [Steueridentifikationsnummer](/de/business/tax-identification-number-cyprus/).

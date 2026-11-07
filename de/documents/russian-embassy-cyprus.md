@@ -3,7 +3,7 @@ slug: "russian-embassy-cyprus"
 title: "Russische Botschaft auf Zypern: Leitfaden"
 description: "Das russische Konsulat in Nikosia: Reisepass verlängern, konsularisch registrieren, Vollmachten und Führungszeugnis beantragen sowie Termine vorbereiten."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Dokumente"
 author: "Expats Cyprus"
 tags:
@@ -26,7 +26,8 @@ Die russische Botschaft auf Zypern befindet sich in Nikosia und bietet ein volls
 > **Offizielle Quellen:**
 > - [Botschaft Russlands auf Zypern](https://cyprus.mid.ru/) -- Offizielle Website
 > - [Konsularabteilung](https://cyprus.mid.ru/ru/consular-services/) -- Dienstleistungen und Terminbuchung
-> - Tel: (+357) 22-774622 / Notfall: (+357) 99-477-252
+> - Tel: (+357) 22-774622
+> - Die Kontaktseite nennt als rund um die Uhr erreichbare Notrufnummer (+357) 99-477-252; die Seite der Konsularleistungen nennt stattdessen (+357) 99-477-258 bei Gefahr für Leben oder Gesundheit. Bestätigen Sie die aktuelle Nummer bei der Konsularabteilung.
 
 ## Wie kontaktiere ich die russische Botschaft?
 

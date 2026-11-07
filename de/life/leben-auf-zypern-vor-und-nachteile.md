@@ -1,7 +1,7 @@
 ---
 slug: "leben-auf-zypern-vor-und-nachteile"
 title: "Leben auf Zypern: Vor- und Nachteile"
-description: "Leben auf Zypern: Klima, Steuerbedingungen, Zugang zur Gesundheitsversorgung, Arbeit, Wohnen und Reisen gegen die eigenen Prioritäten abwägen, bevor Sie auswandern."
+description: "Leben auf Zypern: Klima, Steuern, Gesundheitsversorgung, Arbeit, Wohnen und Reisen gegen die eigenen Prioritäten abwägen, bevor Sie auswandern."
 date: 2026-04-09
 updated: 2026-10-21
 category: "Leben"

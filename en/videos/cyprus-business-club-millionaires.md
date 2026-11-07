@@ -26,13 +26,6 @@ topics_mentioned:
   - "Events and networking"
   - "Projects and business support"
   - "The guest’s reported examples"
-faqs:
-  - question: "What is this Cyprus Business Club interview about?"
-    answer: "The publisher introduces Tatyana Dyachenko as the club’s owner at the time of the interview. Its description and chapters cover who the club is for, membership cost, events, projects, support and reported examples. The video was uploaded on 10 December 2024."
-  - question: "What activities does the club currently describe?"
-    answer: "The club’s website, checked on 3 October 2026, describes business breakfasts, strategic meetings, masterminds, investment discussions and panel discussions. These are the organiser’s descriptions; confirm the actual event and access terms before attending."
-  - question: "How can I check whether membership is suitable for me?"
-    answer: "Ask the organiser for current fees, eligibility, included events and services, cancellation terms and any extra charges. Compare those terms with your aims; membership does not establish that a particular deal or investment result will follow."
 faqSchema:
   - question: "What is this Cyprus Business Club interview about?"
     answer: "The publisher introduces Tatyana Dyachenko as the club’s owner at the time of the interview. Its description and chapters cover who the club is for, membership cost, events, projects, support and reported examples. The video was uploaded on 10 December 2024."

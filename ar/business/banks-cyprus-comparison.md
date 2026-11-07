@@ -3,7 +3,7 @@ slug: "banks-cyprus-comparison"
 title: "مقارنة البنوك في قبرص: BoC، Eurobank، Alpha"
 description: "مقارنة Bank of Cyprus وEurobank وAlpha Bank Cyprus: مزايا الحسابات الموثقة، الرسوم حسب المنتج، شروط الفتح وحماية الودائع."
 date: 2026-01-24
-updated: 2026-10-21
+updated: 2026-11-07
 category: "الأعمال"
 author: "Expats Cyprus"
 tags:
@@ -13,7 +13,7 @@ tags:
 draft: false
 faqSchema:
   - question: "ما البنوك القبرصية التي يقارنها هذا الدليل؟"
-    answer: "يقارن هذا الدليل المعلومات المنشورة من Bank of Cyprus وEurobank Limited وAlpha Bank Cyprus. تقول الأسئلة الشائعة حول الاندماج لدى Eurobank إن الاندماج القانوني اكتمل في سبتمبر 2025. وتصف صفحة Alpha الخاصة بـ AstroBank السابق انتقال أنظمة وخدمات العملاء بأنه قيد التنفيذ. تحقق من التعليمات الخاصة بحسابك الفعلي."
+    answer: "يقارن هذا الدليل المعلومات المنشورة من Bank of Cyprus وEurobank Limited وAlpha Bank Cyprus. تقول الأسئلة الشائعة حول الاندماج لدى Eurobank إن الاندماج القانوني اكتمل في سبتمبر 2025. وأعلن Alpha Bank في 3 نوفمبر 2025 اكتمال الاستحواذ على أصول AstroBank والتزاماتها، وتتناول صفحة Alpha الخاصة بـ AstroBank السابق انتقال أنظمة وخدمات العملاء. تحقق من التعليمات الخاصة بحسابك الفعلي."
   - question: "هل تفرض البنوك القبرصية رسوماً شهرية؟"
     answer: "الرسوم تعتمد على المنتج. حساب Basic Account لدى Eurobank يحدد 2 يورو شهرياً وحتى 12 يورو لكل سنة تقويمية لخدمات إضافية محددة، مع حد نسبي للحسابات المفتوحة خلال السنة؛ وقد تُحتسب خدمات أخرى دون هذا السقف. Bank of Cyprus يعلن عن عدم وجود رسوم صيانة لعرض الفتح عبر التطبيق، مع استثناءات للعملاء الدوليين (International Customers). ولا يحدد أي من المثالين الرسوم لكل حساب."
   - question: "هل الخدمات المصرفية عبر الإنترنت متاحة في قبرص؟"
@@ -27,7 +27,7 @@ translationKey: "banki-kipr-otkrytie-scheta-boc-hellenic"
 
 تقول [الأسئلة الشائعة حول الاندماج](https://www.eurobank.com.cy/en-us/faq/integration/common-customers) لدى Eurobank إن **الاندماج القانوني اكتمل في سبتمبر 2025**. وتستخدم صفحات الحسابات الحالية اسم **Eurobank Limited / Eurobank Ltd**. أما الإشارات القديمة إلى Hellenic أو Eurobank Cyprus فيجب التحقق منها مقابل تعليمات المؤسسة الحالية والحساب المعني.
 
-تصف [صفحة معلومات AstroBank السابق](https://www.alphabank.com.cy/en/astrobank) لدى Alpha Bank Cyprus انتقال عملاء AstroBank السابق إلى أنظمة Alpha وخدماتها بأنه **قيد التنفيذ**، مع تغييرات تختلف حسب المنتج وإجراءات محتملة مطلوبة من العملاء. راجع تلك الصفحة والأسئلة الشائعة المرتبطة بها لمنتجاتك.
+تصف [صفحة معلومات AstroBank السابق](https://www.alphabank.com.cy/en/astrobank) لدى Alpha Bank Cyprus انتقال عملاء AstroBank السابق إلى أنظمة Alpha وخدماتها، مع تغييرات تختلف حسب المنتج وإجراءات محتملة مطلوبة من العملاء. وقد [أعلن Alpha Bank في 3 نوفمبر 2025](https://www.alpha.gr/-/media/AlphaGr/Files/Group/Corporate-Announcements/2025/20251103-etairiki-anakoinosi-en.pdf) اكتمال الاستحواذ على جميع أصول AstroBank والتزاماتها تقريباً. راجع الصفحة والأسئلة الشائعة المرتبطة بها لمعرفة الوضع الحالي لمنتجاتك (جرى التحقق في 2026-11-07).
 
 ## كيف تُقارن الخيارات المنشورة؟
 

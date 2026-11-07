@@ -3,7 +3,7 @@ slug: "dba-deutschland-zypern"
 title: "DBA Deutschland-Zypern: Steuern erklärt"
 description: "DBA Deutschland-Zypern 2011: welche Einkünfte wo besteuert werden. Gehalt, Dividenden, Zinsen, Renten, Immobilien — Artikel für Artikel erklärt."
 date: 2026-03-11
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -15,13 +15,13 @@ draft: false
 translationKey: "dba-germany-cyprus"
 faqSchema:
   - question: "Brauche ich einen Steuerberater für das DBA?"
-    answer: "Dringend empfohlen. Das DBA hat Nuancen (Progressionsvorbehalt, Betriebsstaette, Tie-Breaker-Regeln), die ohne Fachkenntnis zu Fehlern fuehren. Idealerweise: ein Berater, der deutsches und zyprisches Steuerrecht kennt."
+    answer: "Dringend empfohlen. Das DBA hat Nuancen (Progressionsvorbehalt, Betriebsstätte, Tie-Breaker-Regeln), die ohne Fachkenntnis zu Fehlern führen. Idealerweise: ein Berater, der deutsches und zyprisches Steuerrecht kennt."
   - question: "Kann ich als Remote-Worker in Zypern für einen deutschen Arbeitgeber arbeiten, ohne in Deutschland Steuern zu zahlen?"
-    answer: "Grundsaetzlich ja. Nach DBA Art. 14 wird Gehalt im Tätigkeitsstaat besteuert — wenn Sie auf Zypern arbeiten, besteuert Zypern. Entscheidend sind die DBA-Ansaessigkeit, der physische Arbeitsort und die jeweiligen Ausnahmen. Eine melderechtliche Abmeldung entscheidet die Steuerpflicht nicht allein."
+    answer: "Grundsätzlich ja. Nach DBA Art. 14 wird Gehalt im Tätigkeitsstaat besteuert — wenn Sie auf Zypern arbeiten, besteuert Zypern. Entscheidend sind die DBA-Ansässigkeit, der physische Arbeitsort und die jeweiligen Ausnahmen. Eine melderechtliche Abmeldung entscheidet die Steuerpflicht nicht allein. Bei Arbeitstagen in Deutschland müssen alle Bedingungen der Ausnahme geprüft werden; die Aufenthaltsdauer allein genügt nicht."
   - question: "Wie lange dauert die Ansaessigkeitsbescheinigung aus Zypern?"
-    answer: "Eine allgemeine Bearbeitungsfrist ist hier nicht verifiziert; fragen Sie beim zuständigen Tax Department nach dem aktuellen Stand. Voraussetzung: steuerliche Ansaessigkeit (183-Tage-Regel oder 60-Tage-Regel) und Registrierung beim Tax Department."
+    answer: "Eine allgemeine Bearbeitungsfrist ist hier nicht verifiziert; fragen Sie beim zuständigen Tax Department nach dem aktuellen Stand. Voraussetzung: steuerliche Ansässigkeit (183-Tage-Regel oder 60-Tage-Regel) und Registrierung beim Tax Department."
   - question: "Werden Beamtenpensionen auch auf Zypern versteuert?"
-    answer: "Grundsätzlich besteuert Deutschland. Beamtenpensionen unterliegen dem Kassenstaatsprinzip (DBA Art. 18) und werden grundsätzlich in Deutschland besteuert. Ausnahme: Ansässigkeit und Staatsangehörigkeit in Zypern nach Art. 18(2)(b). Andere Einkuenfte folgen den normalen DBA-Regeln."
+    answer: "Grundsätzlich besteuert Deutschland. Beamtenpensionen unterliegen dem Kassenstaatsprinzip (DBA Art. 18) und werden grundsätzlich in Deutschland besteuert. Ausnahme: Ansässigkeit und Staatsangehörigkeit in Zypern nach Art. 18(2)(b). Andere Einkünfte (z.B. private Rente) folgen den normalen DBA-Regeln."
 ---
 > **Kurzantwort:** Das DBA Deutschland-Zypern vermeidet Doppelbesteuerung. Rentenarten haben unterschiedliche Regeln; Deutschland darf gesetzliche Sozialversicherungsrenten besteuern. Dividenden: max. 15% Quellensteuer.
 
@@ -105,6 +105,18 @@ Die aktuell gültige Fassung ist das **Abkommen vom 18. Februar 2011** mit den �
 
 **Bedeutung:** Wenn Sie von Zypern aus Lizenzen an deutsche Unternehmen vergeben (Software, Patente, Markenrechte), besteuert nur Zypern. Eine deutsche Entlastung vom Steuerabzug muss nach dem anwendbaren BZSt-Verfahren geprüft werden. Bei der Cyprus Ltd: 15 % KSt auf den Gewinn, bei vollständig qualifizierenden IP-Gewinnen ggf. **effektiv 3 %** ab 2026: 80 % Abzug auf qualifizierende Gewinne × 15 % KSt auf den verbleibenden Anteil. [Einkommensteuergesetz, §9(1)(κ) und Zweiter Anhang](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html>).
 
+### Art. 13 — Veräußerungsgewinne
+
+| Gegenstand | Besteuerungsrecht |
+|-----------|-------------------|
+| Immobilien | Belegenheitsstaat |
+| Bewegliches Vermögen einer Betriebsstätte | Betriebsstättenstaat |
+| Schiffe/Flugzeuge | Ort der tatsächlichen Geschäftsleitung |
+| Anteile, die überwiegend Immobilienwert haben | Belegenheitsstaat |
+| Alle übrigen Vermögensgegenstände | Ansässigkeitsstaat |
+
+**Für GmbH-Anteile:** Der Gewinn aus dem Verkauf Ihrer GmbH-Anteile wird nach dem Wegzug grundsätzlich im **Ansässigkeitsstaat** (Zypern) besteuert. Zypern erhebt auf Gewinne aus der Veräußerung von Anteilen an ausländischen Gesellschaften **keine Capital Gains Tax**. Aber: die [Wegzugsbesteuerung](/de/business/gmbh-wegzugsbesteuerung-auswandern/) (§ 6 AStG) greift bereits beim Wegzug, bevor Sie zyprisch ansässig werden.
+
 ### Art. 14 — Einkünfte aus unselbständiger Arbeit (Gehalt)
 
 **Grundregel:** Gehälter werden im **Tätigkeitsstaat** besteuert — also dort, wo die Arbeit physisch ausgeübt wird.
@@ -142,18 +154,6 @@ Für entsprechend qualifizierende ausländische Renten erlaubt das aktuelle zypr
 - Ausnahme: Wenn der Empfänger Staatsangehöriger des Ansässigkeitsstaates ist (also Zyprer ist) und dort ansässig → dann besteuert der Ansässigkeitsstaat
 
 > **Hinweis:** Deutsche Beamtenpensionen werden grundsätzlich in Deutschland besteuert. Ist der Empfänger jedoch in Zypern ansässig und zyprischer Staatsangehöriger, weist Art. 18 Abs. 2 Buchst. b das Besteuerungsrecht Zypern zu. Andere Einkünfte (z.B. private Rente, Mieteinnahmen auf Zypern) werden aber nach den DBA-Regeln besteuert.
-
-### Art. 13 — Veräußerungsgewinne
-
-| Gegenstand | Besteuerungsrecht |
-|-----------|-------------------|
-| Immobilien | Belegenheitsstaat |
-| Bewegliches Vermögen einer Betriebsstätte | Betriebsstättenstaat |
-| Schiffe/Flugzeuge | Ort der tatsächlichen Geschäftsleitung |
-| Anteile, die überwiegend Immobilienwert haben | Belegenheitsstaat |
-| Alle übrigen Vermögensgegenstände | Ansässigkeitsstaat |
-
-**Für GmbH-Anteile:** Der Gewinn aus dem Verkauf Ihrer GmbH-Anteile wird nach dem Wegzug grundsätzlich im **Ansässigkeitsstaat** (Zypern) besteuert. Zypern erhebt auf Gewinne aus der Veräußerung von Anteilen an ausländischen Gesellschaften **keine Capital Gains Tax**. Aber: die [Wegzugsbesteuerung](/de/business/gmbh-wegzugsbesteuerung-auswandern/) (§ 6 AStG) greift bereits beim Wegzug, bevor Sie zyprisch ansässig werden.
 
 ## Was ist der Progressionsvorbehalt?
 

@@ -17,7 +17,7 @@ faqSchema:
   - question: "Does a residence permit automatically guarantee crossing?"
     answer: "No. Article 2 of the Green Line Regulation requires identity checks. Third-country nationals need either a Republic of Cyprus residence permit or a valid travel document and a Cyprus visa if required, and must not represent a public-policy or public-security threat. Use an authorised crossing and confirm your individual documents with the authorities."
   - question: "Does my car insurance cover a trip north?"
-    answer: "Ask your insurer and, for a rental, the hire company. FCDO says cars hired in the Republic often lack cover in the north and correct insurance documents are required for crossing. Insurance can be bought at some crossings, including Agios Dometios; confirm availability and policy terms before travelling."
+    answer: "Ask your insurer and, for a rental, the hire company. UK government travel advice (FCDO) says cars hired in the Republic often lack cover in the north and correct insurance documents are required for crossing. Insurance can be bought at some crossings, including Agios Dometios; confirm availability and policy terms before travelling."
   - question: "Can I bring shopping back across the Green Line?"
     answer: "Article 6 provides a duty and tax exemption for non-commercial personal-luggage goods worth up to €260 per person. Separate limits are 40 cigarettes and one litre of spirits for personal consumption; those exemptions are unavailable to people under 17. Prohibited or restricted goods remain subject to their own rules."
 ---
@@ -40,11 +40,11 @@ The [Ministry of Foreign Affairs' visitor guidance](https://www.gov.cy/mfa/en/do
 
 Use the [Customs crossing-point information](https://www.mof.gov.cy/mof/customs/customs.nsf/All/05AEEF243C9BFC8BC22572BF002D0A28) and confirm current access and hours with the relevant authorities before travelling.
 
-[FCDO's Cyprus entry guidance](https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements), written for British travellers, says **Ledra Palace and Ledra/Lokmaci Street are pedestrian-only crossings**. Choose a crossing suitable for your transport and confirm vehicle access before setting out.
+[UK government travel advice (FCDO) on entering Cyprus](https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements), written for British travellers, says **Ledra Palace and Ledra/Lokmaci Street are pedestrian-only crossings**. Choose a crossing suitable for your transport and confirm vehicle access before setting out.
 
 ## What should I check about car insurance?
 
-[FCDO's safety guidance](https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security) says cars hired in the Republic of Cyprus **often have no insurance cover in the north**. It advises checking with the insurer because correct insurance documents are required for crossing.
+[UK government safety advice (FCDO)](https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security) says cars hired in the Republic of Cyprus **often have no insurance cover in the north**. It advises checking with the insurer because correct insurance documents are required for crossing.
 
 The same guidance says insurance can be bought at **some crossing points, including Agios Dometios**. Confirm availability, opening hours, price, duration, covered drivers and coverage with the provider before relying on this option.
 
@@ -54,7 +54,7 @@ For your own car, a borrowed car or a rental, ask the owner or hire company and 
 
 The [Republic's MFA guidance](https://www.gov.cy/mfa/en/documents/important-information-concerning-travel-to-the-turkish-occupied-area-of-cyprus/) says entering through an illegally operating airport or port in the occupied areas breaches national legislation. It lists the legal entry points as **Larnaca and Paphos airports**, and **Larnaca, Limassol, Latsi and Paphos ports**.
 
-For British travellers, FCDO warns that entering through the north, such as **Ercan Airport**, can lead to a fine for illegal entry, refusal of entry to or exit from the Republic, or prevention of crossing back into the north.
+UK government travel advice (FCDO) warns British travellers that entering through the north, such as **Ercan Airport**, can lead to a fine for illegal entry, refusal of entry to or exit from the Republic, or prevention of crossing back into the north.
 
 Use a legal entry route. If your itinerary involves an arrival or departure through the north, ask the Republic's authorities for advice about your individual status before booking.
 
@@ -66,7 +66,7 @@ Its separate quantitative exemption limits are **40 cigarettes and one litre of 
 
 The allowance does not override prohibitions or restrictions on particular goods. Consult the [Customs rules and linked permitted/prohibited-goods list](https://www.mof.gov.cy/mof/customs/customs.nsf/All/05AEEF243C9BFC8BC22572BF002D0A28) before purchasing, especially for food, animals, medicines or other regulated items. Ask Customs about anything uncertain and keep purchase records.
 
-FCDO warns that authorities can confiscate goods at the checkpoint and impose fines. Check the applicable rule for the item rather than assuming everything below €260 is permitted.
+UK government travel advice (FCDO) warns that authorities can confiscate goods at the checkpoint and impose fines. Check the applicable rule for the item rather than assuming everything below €260 is permitted.
 
 ## What should I check before booking accommodation?
 
@@ -82,7 +82,7 @@ No. Article 2 of the Green Line Regulation requires identity checks. Third-count
 
 ### Does my car insurance cover a trip north?
 
-Ask your insurer and, for a rental, the hire company. FCDO says cars hired in the Republic often lack cover in the north and correct insurance documents are required for crossing. Insurance can be bought at some crossings, including Agios Dometios; confirm availability and policy terms before travelling.
+Ask your insurer and, for a rental, the hire company. UK government travel advice (FCDO) says cars hired in the Republic often lack cover in the north and correct insurance documents are required for crossing. Insurance can be bought at some crossings, including Agios Dometios; confirm availability and policy terms before travelling.
 
 ### Can I bring shopping back across the Green Line?
 
@@ -93,4 +93,4 @@ Article 6 provides a duty and tax exemption for non-commercial personal-luggage 
 - [Green Line Regulation: Articles 2 and 6](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02004R0866-20150831).
 - [Republic of Cyprus MFA: travel to the occupied areas](https://www.gov.cy/mfa/en/documents/important-information-concerning-travel-to-the-turkish-occupied-area-of-cyprus/).
 - [Customs: crossing points and goods rules](https://www.mof.gov.cy/mof/customs/customs.nsf/All/05AEEF243C9BFC8BC22572BF002D0A28).
-- [FCDO entry requirements](https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements) and [vehicle-insurance guidance](https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security).
+- [UK government travel advice (FCDO): entry requirements](https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements) and [vehicle-insurance guidance](https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security).

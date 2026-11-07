@@ -1,9 +1,9 @@
 ---
 slug: "finanzamt-after-move"
-title: "Moving to Cyprus: Tax Office and Checklist for Germany"
-description: "Deregistering in Germany, informing the Finanzamt, final tax return, statutory health insurance, child benefit, Riester: a checklist for moving to Cyprus in 2026."
+title: "Moving from Germany to Cyprus: Finanzamt Checklist"
+description: "Moving from Germany to Cyprus in 2026: deregister, inform the Finanzamt, file a final tax return, handle health insurance, Kindergeld and Riester."
 date: 2026-03-11
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -26,7 +26,7 @@ faqSchema:
   - question: "Will my DRV pension also be paid in Cyprus?"
     answer: "Yes, worldwide. Report your new address to the DRV and submit a certificate of life every year."
 ---
-> **In short:** After the move: deregister your German tax residence, apply for a Cypriot TIN, file your first TD59. Non-dom status saves tax on dividends and interest.
+> **In short:** After the move: deregister your German tax residence and apply for a Cypriot TIN.
 
 The move to Cyprus is decided, the flat is found, the flight is booked. But the bureaucratic side in Germany is often underestimated. Without a clean deregistration and clarification with the Finanzamt (tax office), you risk double taxation, back payments and nasty surprises with child benefit and Riester. Here is the complete checklist.
 
@@ -42,7 +42,7 @@ The move to Cyprus is decided, the flat is found, the flight is booked. But the 
 
 - **Consult a tax adviser** — clarify the tax consequences (in particular [exit taxation](/en/business/gmbh-exit-tax-planning/) if you hold shares in a GmbH)
 - **Inform your health insurer** — mind the notice periods (GKV: to the end of the month, PKV: 3 months)
-- **Inform the Kindergeldkasse** — notify the Familienkasse in writing about the planned move
+- **Inform the Familienkasse (child benefit office)** — notify it in writing about the planned move
 - **Contact your Riester/Rürup provider** — clarify whether allowances have to be repaid
 - **Clarify your pension insurance account** — apply for an account clarification (Kontenklärung) with the DRV
 
@@ -68,7 +68,7 @@ The move to Cyprus is decided, the flat is found, the flight is booked. But the 
 
 ### Obligation and deadline
 
-Anyone who leaves Germany and keeps no residence there is **obliged** to deregister (BMG § 17(2)). Deregistration can be done at the earliest **1 week before** and must be done at the latest **2 weeks after** moving out.
+If you leave Germany and keep no residence there, you are **obliged** to deregister (BMG § 17(2)). Deregistration can be done at the earliest **1 week before** and must be done at the latest **2 weeks after** moving out.
 
 ### How it works
 
@@ -87,8 +87,8 @@ Anyone who leaves Germany and keeps no residence there is **obliged** to deregis
 |---|---|---|
 | **Requirement** | Residence or habitual abode in Germany | No residence, no habitual abode |
 | **Scope of taxation** | **Worldwide income** | Only **German-source income** (§ 49 EStG) |
-| **Basic allowance** | Yes (€11,784 / 2025) | No (unless an application under § 1(3) EStG is made) |
-| **Splitting tariff** | Yes (spouses) | No |
+| **Basic allowance** | Yes (€12,348 from tax year 2026, [§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), checked 2026-11-07) | No (unless an application under § 1(3) EStG is made) |
+| **Joint assessment (splitting rate)** | Yes (spouses) | No |
 | **Special expenses / income-related expenses** | Fully deductible | Severely restricted |
 
 ### What changes in practice?
@@ -96,8 +96,8 @@ Anyone who leaves Germany and keeps no residence there is **obliged** to deregis
 After you leave, Germany taxes only **German-source income** (§ 49 EStG), in particular:
 
 - **Rental income** from German property
-- **Dividends** from German companies (flat-rate withholding tax 25 % + solidarity surcharge, the DBA may reduce it)
-- **Civil servant pensions** in principle in Germany; exception if you are resident in Cyprus and a Cypriot national (Art. 18(2) DBA)
+- **Dividends** from German companies (final withholding tax, Abgeltungsteuer, of 25 % + solidarity surcharge; the DBA may reduce it)
+- **Civil servant pensions** are in principle taxed in Germany; exception if you are resident in Cyprus and a Cypriot national (Art. 18(2) DBA)
 - **Business income** from a German permanent establishment
 - **Employment income** for work performed in Germany
 
@@ -159,10 +159,10 @@ The statutory pension is **paid worldwide** — including in Cyprus. You only ha
 
 Even after you leave, you can pay **voluntary** contributions into the German pension insurance (§ 7 SGB VI):
 
-- Minimum contribution: **€96,72/month** (2025)
-- Maximum contribution: **€1,404.30/month** (2025)
+- Minimum contribution: **€112.16/month** (since 1 Jan 2026, [DRV](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260209-freiwillige-beitraege-rente-erhoehen), checked 2026-11-07)
+- Maximum contribution: **€1,571.70/month** (since 1 Jan 2026)
 - Responsible body: Deutsche Rentenversicherung Bund
-- Benefit: higher pension entitlements, qualifying periods fulfilled
+- Benefit: higher pension entitlements, and you meet the qualifying periods
 
 > **Note:** As an EU citizen in an EU state you can have contribution periods in different countries added together for the pension calculation (EU Regulation 883/2004).
 
@@ -180,7 +180,7 @@ Report the move to the Familienkasse immediately and have your entitlement check
 
 ### Child benefit in Cyprus
 
-Cyprus pays a **Child Benefit** — considerably lower than in Germany (no flat €250/child/month), but dependent on family income. Apply at the [Department of Social Inclusion](https://www.gov.cy/mlsi/en/).
+Cyprus pays a **Child Benefit**, the amount of which depends on family income. Apply at the [Department of Social Inclusion](https://www.gov.cy/mlsi/en/).
 
 ## What happens to Riester and Rürup?
 
@@ -190,7 +190,7 @@ If you move to an EU country: **no repayment of allowances** is required as long
 
 **If you give up the contribution obligation** (no more German pension insurance contributions): the funding is **put on hold** — no new allowances, but no repayment of the existing balance either. Taxation is deferred until payout.
 
-> **Important:** If you move to a non-EU country, allowances would have to be repaid. Cyprus is in the EU — the allowances are retained.
+> **Important:** If you move to a non-EU country, allowances would have to be repaid. Cyprus is in the EU — the allowances are retained under the conditions above; your provider can clarify the details.
 
 ### Rürup / basic pension (Basis-Rente)
 
@@ -225,7 +225,7 @@ Processing time: varies, usually **2–6 weeks**.
 ## What is on the checklist?
 
 - [ ] Consult a tax adviser (3 months before)
-- [ ] Cancel health insurance / clarify Anwartschaft
+- [ ] Health insurance: clarify who is responsible (do not cancel hastily), consider an Anwartschaft
 - [ ] Inform the Familienkasse (child benefit)
 - [ ] Contact your Riester/Rürup provider
 - [ ] Apply for DRV account clarification

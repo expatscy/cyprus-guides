@@ -3,7 +3,7 @@ slug: "cyprus-vs-malta-vs-portugal-comparison"
 title: "Cyprus vs Malta vs Portugal: Expat Guide"
 description: "Comparing Cyprus, Malta and Portugal for expats: taxes, cost of living, residency, healthcare, climate and safety side by side."
 date: 2026-02-22
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags: [comparison, malta, portugal, taxes, relocation, for-expats]
@@ -13,9 +13,9 @@ faqSchema:
   - question: "Where are taxes lower: Cyprus, Malta, or Portugal?"
     answer: "Cyprus: 15% corporate tax from 2026, with non-dom SDC exemptions. Malta: 35% but refund to 5%. Portugal: original NHR is closed; standard PIT is progressive up to 48%."
   - question: "Where is the cheapest to live: Cyprus, Malta, or Portugal?"
-    answer: "Cyprus is most affordable. 2-bed rent: Cyprus EUR 800-1,200, Malta EUR 900-1,400, Portugal (Lisbon) EUR 1,200-2,000."
+    answer: "Portugal is cheapest overall (about 16% below Cyprus, Numbeo February 2026); Malta and Cyprus are comparable. 1-bed rent in the city centre: Cyprus EUR 843, Malta EUR 1,010, Portugal EUR 900."
   - question: "Which has the best climate: Cyprus, Malta, or Portugal?"
-    answer: "Cyprus is hottest (summer up to 42C). Malta is milder but windy. Portugal has the most comfortable year-round climate (Lisbon 15-28C)."
+    answer: "Cyprus is the hottest and sunniest (summer 35-40C). Malta is a compromise (30-35C, humid in summer). Portugal has the mildest climate (Atlantic influence)."
 ---
 
 Cyprus, Malta and Portugal are common Mediterranean destinations for relocating to Europe. All three offer warm climates, favourable tax regimes and a path to EU residency. But the differences between them matter.
@@ -46,7 +46,7 @@ Cyprus, Malta and Portugal are common Mediterranean destinations for relocating 
 | **Safety (GPI 2026)** | 80th | Not ranked in GPI 2026 | 7th |
 | **Summer climate** | 35–40°C, dry | 30–35°C, humid | 25–35°C (coast milder) |
 | **English spoken** | Widely | Widely | Limited (Lisbon, Porto) |
-| **Path to citizenship** | 8 years | 5 years | 7 years (EU/CPLP) or 10 years (others) |
+| **Path to citizenship** | 8 years (7 + final 12 months) | 5 years | 7 years (EU/CPLP) or 10 years (others) |
 | **Internet speed** | 50–100 Mbps | 100+ Mbps | 100+ Mbps |
 
 ## How do taxes work?
@@ -74,7 +74,7 @@ Cyprus, Malta and Portugal are common Mediterranean destinations for relocating 
 - **STEM professional**: Portugal IFICI (20% flat on local income)
 - **Retirees**: Cyprus (€22K tax-free threshold) — Portugal NHR no longer available
 
-## How much does it cost to live in Cyprus?
+## How much does it cost to live in Cyprus, Malta and Portugal?
 
 Numbeo data (February 2026):
 
@@ -122,9 +122,8 @@ Numbeo data (February 2026):
 
 | | Cyprus | Malta | Portugal |
 |--|--------|-------|----------|
-| Summer | 35–40°C, dry, 0 rain days | 30–35°C, humid | 25–35°C (south hotter) |
+| Summer | 35–40°C, dry | 30–35°C, humid | 25–35°C (south hotter) |
 | Winter | 10–17°C, rainy | 10–15°C, windy | 8–15°C, rainy (north) |
-| Sunny days/year | 340+ | 300+ | 250–300 |
 | Sea temp (summer) | 26–28°C | 24–26°C | 18–22°C (Atlantic) |
 | Swimming season | April–November | May–October | June–September |
 
@@ -211,5 +210,6 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 - [Global Peace Index 2026 Report](https://www.visionofhumanity.org/wp-content/uploads/2026/06/Global-Peace-Index-2026-Report.pdf) — GPI safety rankings
 - [Portugal Ministry of Justice: nationality law update](https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio) — 2026 naturalisation timelines
 - [Numbeo Cost of Living](https://www.numbeo.com/cost-of-living/) — February 2026 cost snapshot
+- [Malta Tax and Customs Administration: 2026 tax rates](https://mtca.gov.mt/personal-tax/tax-rates/tax-ratesindividuals/2026) — Malta single-rate bands, checked 2026-11-07
 - [Residency Malta Agency](https://residencymalta.gov.mt/) — Malta residency programmes
 - [Portugal Golden Visa](https://getgoldenvisa.com/portugal-golden-visa-program) — Portugal Golden Visa overview

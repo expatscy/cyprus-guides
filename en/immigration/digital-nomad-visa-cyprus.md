@@ -122,7 +122,7 @@ Spouses, civil union partners and **minor children** may obtain permits for the 
 
 The [spouse/partner checklist](https://www.gov.cy/app/uploads/sites/174/2025/12/Acc-docs-spouse-or-partner-_19032025.pdf) requires the marriage or civil-union certificate. The [child checklist](https://www.gov.cy/app/uploads/sites/174/2025/12/Acc-Docs-children_19032025.pdf) requires a birth certificate and, where applicable, a custody decision or the other parent's affidavit. Both require the sponsor's income evidence, insurance and housing documents.
 
-For an initial child application, the checklist specifies medical results from the country of origin or residence. Children under 15 take a Mantoux test instead of a chest X-ray; children under 16 are exempt from the criminal-record certificate. School/institution registration and attendance evidence is required where applicable. Although the generic child checklist heading mentions adults, the digital nomad policy and current MVIS8 digital nomad category specify minor children.
+For an initial child application, the checklist specifies medical results from the country of origin or residence. Children under 15 take a Mantoux test instead of a chest X-ray; children under 16 are exempt from the criminal-record certificate. School/institution registration and attendance evidence is required where applicable. The digital nomad policy and the current MVIS8 digital nomad category specify minor children.
 
 ## What are the key tax implications?
 

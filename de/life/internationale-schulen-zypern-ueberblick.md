@@ -1,9 +1,9 @@
 ---
 slug: "internationale-schulen-zypern-ueberblick"
-title: "Internationale Schulen Zypern: Stadtguide"
-description: "Leitfaden zu internationalen, britischen, IB- und russischen Schulen auf Zypern nach Stadt. Gebuhren, Lehrplane, Einschreibung fur Expat-Familien."
+title: "Internationale Schulen Zypern nach Bezirk, 2026"
+description: "Privatschulen auf Zypern nach Bezirk laut Ministeriumsverzeichnis: Sprachen, IB-Programme, Gebührenbeispiel mit Datum. Das prüfen Sie vor der Bewerbung."
 date: 2026-02-22
-updated: 2026-03-12
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -17,297 +17,128 @@ draft: false
 translationKey: "mezhdunarodnye-shkoly-kipr-po-gorodam"
 faqSchema:
   - question: "Was kosten internationale Schulen auf Zypern?"
-    answer: "Grundschule: €4.000–8.000/Jahr. Gymnasium: €6.000–12.000/Jahr. Premium-Schulen (Heritage, American Academy): bis €15.000/Jahr. Dazu: Einschreibegebühr €500–1.500, Schulbus €1.000–2.000/Jahr, Uniform €200–400. Im Vergleich zu Deutschland: deutlich teurer als staatliche Schulen, aber günstiger als britische Internate."
-  - question: "Welchen Lehrplan bieten internationale Schulen auf Zypern?"
-    answer: "Hauptlehrpläne: British Curriculum (IGCSE/A-Levels) — am verbreitetsten, International Baccalaureate (IB) — wenige Schulen, American Curriculum — American Academy Larnaka/Nikosia. Russische und griechische Lehrpläne ebenfalls verfügbar. Für deutsche Kinder: kein deutscher Lehrplan auf Zypern — British oder IB als Alternative."
+    answer: "Fordern Sie die Gebührenordnung der jeweiligen Schule, des Campus, der Stufe und des Jahres an. Ein Beispiel mit Datum: Die PASCAL Lefkosia Secondary School nennt für 2026–2027 Schulgeld von 9.300 € in Year 1, zuzüglich weiterer Kosten und Ausnahmen. Das ist keine landesweite Preisspanne."
+  - question: "Welche Schulen gibt es für Expat-Kinder in Limassol?"
+    answer: "Das Verzeichnis des Ministeriums für weiterführende Schulen im Bezirk Limassol nennt Island, SP Triada (Trinity), Foley's, Heritage, Grammar School, PASCAL, Morfosis und Pupils of Pythagoras. Das sind Verzeichniseinträge, keine Bestätigung eines freien Platzes oder des passenden Programms für Ihr Kind."
+  - question: "Wann sollte ich mich für Schulen auf Zypern bewerben?"
+    answer: "Fragen Sie jede Privatschule nach aktuellen Aufnahmeterminen, Aufnahmeverfahren und freien Plätzen. Die Anmeldung an öffentlichen Grundschulen findet normalerweise im Januar statt, die Termine werden jährlich bekannt gegeben; für Umzug und Wechsel gelten eigene Bedingungen. Übertragen Sie die Frist einer Privatschule nicht auf alle Anbieter."
 ---
-> **Kurzantwort:** Internationale Schulen auf Zypern bieten IB, A-Levels oder nationale Lehrplaene. Kosten: 5.000-15.000 EUR/Jahr je nach Schule und Stufe.
+> **Kurzantwort:** Erstellen Sie eine Auswahlliste aus den Schulverzeichnissen des Ministeriums. Prüfen Sie dann Stufe, Sprache, Programm, Aufnahmebedingungen und das vollständige Angebot. Die Tabellen unten ordnen ausgewählte Einträge nach **Bezirk**: Ein Bezirk umfasst Vororte und umliegende Gemeinden, nicht nur das Stadtzentrum.
 
-Auf Zypern gibt es uber 40 Privatschulen, und die richtige Wahl fur Ihre Familie kann eine Herausforderung sein. Dieser Leitfaden deckt alle wichtigen Schulen nach Stadt, Lehrplane, Gebuhren und den Einschreibungsprozess fur Expat-Familien ab.
+Dieser Leitfaden nutzt die [Verzeichnisseite des Ministeriums](https://www.moec.gov.cy/en/schools_info.html), das [Verzeichnis privater weiterführender Schulen](https://sch.cy/mc/363/en_private_secondary_general.pdf) und das [Verzeichnis privater Grundschulen](https://sch.cy/mc/363/en_private_primary.pdf), geprüft am **3. Oktober 2026**. Es ist eine Auswahl als Startpunkt, kein Ranking und keine vollständige Liste.
 
-> **Offizielle Quellen:**
-> - [Bildungsministerium](https://www.moec.gov.cy/en/schools_info.html) — Schulregister Zyperns
-> - [Private Grundschulen](https://www.moec.gov.cy/dde/en/private_primary.html) — Liste privater Grundschulen
-> - [Private Sekundarschulen](https://www.moec.gov.cy/dme/en/index.html) — Liste privater Sekundarschulen
-> - [PrivateSchools.cy](https://privateschools.cy/) — Verzeichnis mit Preisen und Bewertungen
+Die Tabellen zeigen die **im Verzeichnis des Ministeriums genannte Unterrichtssprache der weiterführenden Schule**. Sprachzweige und Fächer klären Sie mit der Schule: Ein Kurzverzeichnis belegt nicht für jedes Programm Sprache, Verfügbarkeit oder Aufnahmebedingungen. Grundschule und Vorschule prüfen Sie getrennt.
 
-## Wie ist das Bildungssystem aufgebaut?
+## Bezirk Limassol
 
-Das zyprische Bildungssystem folgt einem **6+3+3-Modell**:
+Ausgewählte Einträge im [Verzeichnis privater weiterführender Schulen](https://sch.cy/mc/363/en_private_secondary_general.pdf):
 
-| Stufe | Alter | Dauer |
-|-------|-------|-------|
-| Grundschule (Dimotiko) | 6–12 | 6 Jahre |
-| Unterstufe (Gymnasio) | 12–15 | 3 Jahre |
-| Oberstufe (Lykeio) | 15–18 | 3 Jahre |
+| Schule laut Verzeichnis | Sprache (weiterführend) | Ortsangabe im Verzeichnis |
+|---|---|---|
+| The Island Private School of Limassol | Englisch | Palodia |
+| SP Triada Private School (Trinity) | Englisch | Bezirk Limassol |
+| Foley's School | Englisch | Nikis Avenue, Bezirk Limassol |
+| The Grammar School (Limassol) | Englisch | Panthea Hill |
+| The Heritage Private School | Englisch | Palodia |
+| PASCAL Private Secondary School Lemesos | Englisch | Bezirk Limassol |
+| Morfosis Private School | Russisch | Bezirk Limassol |
+| The Pupils of Pythagoras | Russisch | Pafou Street, Bezirk Limassol |
+| American Private School | Englisch | Bezirk Limassol |
 
-Schuljahr: **September bis Juni**. Ferien: Weihnachten (2 Wochen), Ostern (2 Wochen), Sommer (Juli–August).
+Programmvergleiche und Links zu den Anbietern finden Sie im [Vergleich der Privatschulen](/de/life/schools-cyprus-comparison/). Klären Sie den Campus, den Ihr Kind besuchen würde, bevor Sie den Schulweg planen.
 
-## Welche Schultypen gibt es im Vergleich?
+[Die Anbieterseite von Island](https://isl.cy/) beschreibt Montessori von der Vorschule bis Grade 4 und ein Stipendienprogramm „Technology Leaders of the Future“. [Die Anbieterseite von Morfosis](https://www.morfosisschool.com/) beschreibt eine russischsprachige Schule mit russischem und zyprischem Lehrplan sowie intensivem Englisch und Griechisch. Das sind Selbstdarstellungen der Schulen: Fragen Sie nach dem Programm und dem Abschluss für Ihr Kind.
 
-| Merkmal | Offentliche Schulen | Britische Privatschulen | IB-Schulen | Russische Schulen |
-|---------|--------------------|-----------------------|------------|-------------------|
-| Sprache | Griechisch | Englisch | Englisch | Russisch + Englisch |
-| Lehrplan | Zypriotisch national | IGCSE, A-Levels | IB PYP/MYP/DP | Russisch + zypriotisch |
-| Gebuhren/Jahr | Kostenlos | 4.000–14.000 | 8.000–19.000 | 3.000–10.500 |
-| Geeignet fur | Langfristige Integration | Die meisten Expat-Familien | Internationale Karrieren | Familien mit Ruckkehrplane nach Russland |
-| Anerkennung | Zypern, EU | UK, EU, weltweit | Weltweit | Russland + Zypern |
+## Bezirk Nikosia
 
-## Welche internationalen Schulen gibt es in Limassol?
+Ausgewählte Einträge im [Verzeichnis privater weiterführender Schulen](https://sch.cy/mc/363/en_private_secondary_general.pdf):
 
-[Limassol](/de/life/limassol-stadtteile-guide-2026/) ist das grosste Expat-Zentrum Zyperns mit der grossten Schulauswahl.
+| Schule laut Verzeichnis | Sprache (weiterführend) | Ortsangabe im Verzeichnis |
+|---|---|---|
+| American International School in Cyprus (AISC) | Englisch | Bezirk Lefkosia |
+| Angliki Scholi (The English School) | Englisch | Bezirk Lefkosia |
+| PASCAL Private Secondary School Lefkosia | Englisch | Lakatamia |
+| The American Academy Nicosia | Englisch | Agios Andreas |
+| The G.C. School of Careers | Englisch | Bezirk Lefkosia |
+| ISN — International School of Nicosia | Englisch | Lakatamia |
 
-### The Island Private School
+Das [Verzeichnis privater Grundschulen](https://sch.cy/mc/363/en_private_primary.pdf) enthält ebenfalls Einträge für AISC, PASCAL Lefkosia, American Academy Nicosia, G.C. School of Careers und ISN. Aus einem Verzeichniseintrag lassen sich weder Einschulungsalter noch freie Plätze ableiten. Finden Sie keine aktuelle Website der Schule, nutzen Sie die Kontaktdaten aus dem Verzeichnis des Ministeriums.
 
-- **Lehrplan:** IB (PYP, MYP, DP, CP) — die einzige IB-Kontinuumsschule auf Zypern
-- **Alter:** 3–18
-- **Gebuhren:** 9.345–19.000/Jahr (Anmeldung 500, Aufnahme 100)
-- **Besonderheiten:** Montessori-Kindergarten, Stipendium Tech Leaders of the Future, Internat verfugbar
-- **Website:** [isl.cy](https://isl.cy/)
+## Bezirk Paphos
 
-### Trinity Private School
+Ausgewählte Einträge im [Verzeichnis privater weiterführender Schulen](https://sch.cy/mc/363/en_private_secondary_general.pdf):
 
-- **Lehrplan:** IB MYP (autorisiert), IB DP Kandidat
-- **Alter:** 3–18
-- **Gebuhren:** 7.000–14.000/Jahr
-- **Besonderheiten:** Zweisprachiges Modell (Russisch/Englisch), Sommercamps, aktive Elterngemeinschaft. 2023 auf dem Gelande der ehemaligen Schule L.I.T.C. eroffnet (gegrundet 1995, geschlossen 2023)
-- **Website:** [trinity.cy](https://trinity.cy/)
+| Schule laut Verzeichnis | Sprache (weiterführend) | Ortsangabe im Verzeichnis |
+|---|---|---|
+| The International School of Paphos | Englisch | Anavargos |
+| Private British School Aspire | Englisch | Bezirk Pafos |
+| Private School Lumio | Englisch | Acheleia |
+| The Learning Centre Peyia | Englisch | Pegeia |
 
-### Foley's Grammar School
+Das [Verzeichnis privater Grundschulen](https://sch.cy/mc/363/en_private_primary.pdf) enthält Einträge für International School of Paphos, Aspire, Lumio und TLC. Fragen Sie die jeweilige Schule nach Stufen und Abschlüssen. Gehen Sie nicht davon aus, dass alle Schulen im Bezirk nach demselben Lehrplan unterrichten.
 
-- **Lehrplan:** Britisch (IGCSE, A-Levels — Edexcel und Cambridge)
-- **Alter:** 4–18
-- **Gebuhren:** 5.500–12.000/Jahr (10% Geschwisterrabatt fur 2. Kind, 15% fur 3.)
-- **Besonderheiten:** Neuer Campus in Agios Athanasios (2016/2020), 50+ Nationalitaten
-- **Website:** [foleysschool.com](https://foleysschool.com/)
+## Bezirk Larnaka
 
-### The Grammar School
+Ausgewählte Einträge im [Verzeichnis privater weiterführender Schulen](https://sch.cy/mc/363/en_private_secondary_general.pdf):
 
-- **Lehrplan:** Britisch (IGCSE, A-Levels)
-- **Alter:** 4–18
-- **Gebuhren:** 5.000–10.300/Jahr (8% Geschwisterrabatt)
-- **Besonderheiten:** Gegrundet 1975, starke A-Level-Ergebnisse, Sportvereine
-- **Website:** [grammarschool.com.cy](https://grammarschool.com.cy/)
+| Schule laut Verzeichnis | Sprache (weiterführend) | Ortsangabe im Verzeichnis |
+|---|---|---|
+| American Academy Larnaca | Englisch | Bezirk Larnaka |
+| PASCAL Private Secondary School Larnaka | Englisch | Aradippou |
+| Med High | Englisch | Bezirk Larnaka |
 
-### Heritage Private School
+Das [Verzeichnis privater Grundschulen](https://sch.cy/mc/363/en_private_primary.pdf) nennt American Academy Junior School Larnaca, PASCAL Larnaka und Med High Junior School. [Der Lehrplan der Oberstufe der American Academy Larnaca](https://www.academy.ac.cy/senior-school/academics/curriculum/) beschreibt GCSE/IGCSE in Years 4–5 und A Levels in Years 6–7. Der Name „American“ belegt keinen amerikanischen Lehrplan.
 
-- **Lehrplan:** Britisch (IGCSE, A-Levels)
-- **Alter:** 3–18
-- **Gebuhren:** 5.500–14.000/Jahr
-- **Besonderheiten:** Seit 1987 in Betrieb, eine der altesten Privatschulen in Limassol
-- **Website:** [heritageschool.ac.cy](https://www.heritageschool.ac.cy/)
+## Welche IB-Programme sind autorisiert?
 
-### PASCAL English School Limassol
+Prüfen Sie Schule und Programm im [eigenen Verzeichnis der IB](https://ibo.org/en/programmes/find-an-ib-school/?SearchFields.Country=CY):
 
-- **Lehrplan:** Britisch + IB DP (autorisiert seit September 2025)
-- **Alter:** 3–18
-- **Gebuhren:** 8.800–14.050/Jahr
-- **Besonderheiten:** Teil des PASCAL-Netzwerks (3 Standorte auf Zypern), kuzlich IB DP hinzugefugt
-- **Website:** [pascal.ac.cy](https://www.pascal.ac.cy/)
+| Schule | Von der IB gelistete Programme |
+|---|---|
+| Island | PYP, MYP, DP und CP |
+| Trinity | MYP und DP |
+| PASCAL-Sekundarschulen in Lefkosia, Larnaka und Lemesos | DP an jeder genannten Sekundarschule |
+| American International School in Cyprus | DP |
+| Lumio Private School | MYP und DP |
 
-### Russische Schulen in Limassol
+Der [IB-Eintrag zu Trinity](https://ibo.org/school/063444/) nennt die DP-Autorisierung vom **13. März 2026** und führt Englisch für das DP sowie Englisch und Russisch für das MYP auf. Diese programmbezogenen Angaben sind genauer als eine einzelne Sprachspalte für die ganze Schule. Klären Sie Stufe und Zweig genau.
 
-**Morfosis Private School**
-- **Lehrplan:** Russisch + zypriotisch, mit intensivem Englisch und Griechisch
-- **Alter:** 6–18 (auch Filiale in Paphos)
-- **Gebuhren:** 6.500–10.500/Jahr (Lehrbucher inklusive)
-- **Besonderheiten:** Max. 12 Schuler pro Klasse, verlangerte Betreuung bis 18:20, Lehrer aus Russland und Zypern
-- **Website:** [morfosisschool.com](https://www.morfosisschool.com/)
+## Wie viel sollte ich einplanen?
 
-**Pupils of Pythagoras (Ученики Пифагора)**
-- **Lehrplan:** Russisches Bundesprogramm + IGCSE/A-Level-Vorbereitung (ab Klasse 8)
-- **Alter:** Kindergarten + Klassen 1–11
-- **Gebuhren:** 3.000–7.000/Jahr
-- **Besonderheiten:** seit 1999 tatig, Doppeldiplom (zypriotisch + russisch uber die Botschaft), kleine Klassen, Englisch und Griechisch als Zusatzsprachen
-- **Website:** [cyprusrussiaschool.com](https://www.cyprusrussiaschool.com/)
+Fordern Sie von jedem Anbieter auf Ihrer Liste eine Gebührenordnung mit Datum und ein schriftliches Angebot für **dasselbe Schuljahr, denselben Campus und dieselbe Stufe** an. Prüfen Sie Anmeldung, Kaution, Schulgeld, Bücher, Uniform, Prüfungen, Mahlzeiten, Transport, Förderung, Aktivitäten und mögliche Internatskosten. Fragen Sie, welche Kosten Pflicht sind und was bei Abmeldung oder Wechsel gilt.
 
-> L.I.T.C., die seit 1995 bestand, wurde 2023 ubernommen und in Trinity Private School umbenannt (siehe oben).
+Ein konkretes Beispiel ist die [Gebührenordnung 2026–2027 der PASCAL Lefkosia Secondary School](https://www.pascal.ac.cy/fs/resource-manager/view/ce8ade0a-bc3c-497d-a132-4db82cea29b4), aktualisiert am **15. Dezember 2025**: Das Jahresschulgeld in Year 1 beträgt **9.300 €**, und Year 1 entspricht dem britischen Year 7. Nicht enthalten sind Uniform, Bücher (außer den kostenlosen des Ministeriums), Transport und die Teilnahme an Aktivitäten wie Wettbewerben und Konferenzen. Gebühren für externe Prüfungen außer GL Assessment kommen extra. Lesen Sie alle Pflicht- und Wahlkosten und die Bedingungen.
 
-## Welche internationalen Schulen gibt es in Nikosia?
+Das ist kein Preis für alle PASCAL-Schüler und kein landesweites Minimum oder Maximum. Die [Gebührenseite von PASCAL](https://www.pascal.ac.cy/admissions/fees) verlinkt getrennte Gebührenordnungen nach Campus und Stufe. Die [Gebührenseite von Island](https://isl.cy/fees) verlinkt die Gebührenordnung für Palodia 2026–2027 und sagt, das angezeigte Schulgeld enthalte 30 % Rabatt, bis der dauerhafte Campus fertig ist. Klären Sie das geltende Angebot, bevor Sie rechnen.
 
-Die Hauptstadt beherbergt einige der prestigetrachtigsten und historisch bedeutendsten Schulen Zyperns.
+## Wann und wie bewerbe ich mich?
 
-### The English School
+Termine und Anforderungen privater Schulen klären Sie mit der jeweiligen Schule. Fragen Sie, welche Dokumente nötig sind (Ausweis, Unterlagen der früheren Schule, Sprache, Gesundheit und anderes) und ob Übersetzung oder Beglaubigung nötig ist. Klären Sie Test, Gespräch, Kaution und freie Plätze, bevor Sie Ihr Kind an der alten Schule abmelden.
 
-- **Lehrplan:** Britisch (IGCSE, A-Levels) — HMC-Mitglied (Headmasters' Conference)
-- **Alter:** 12–18 (nur Sekundarstufe)
-- **Gebuhren:** ~8.500–9.600/Jahr
-- **Besonderheiten:** Gegrundet 1900, bikommunal (griechisch- und turkisch-zypriotisch), Aufnahme durch Wettbewerbsprufung, uber 500 Lerngruppen
-- **Website:** [englishschool.ac.cy](https://englishschool.ac.cy/)
+Für **öffentliche Grundschulen** nennen die [Anmeldeinformationen des Ministeriums](https://www.moec.gov.cy/dde/en/infoserv_primary_general_information.html) Anmeldungen im Januar zu jährlich bekannt gegebenen Terminen und die Anmeldung im Bildungsbezirk des Kindes. Für Wechsel und Umzug gelten eigene Bedingungen. Details stehen im [Bildungsleitfaden](/de/life/schools-education-cyprus/). Wenden Sie keinen allgemeinen Kalender privater Schulen auf die öffentliche Anmeldung an.
 
-### American International School in Cyprus (AISC)
+Für die Unterlagen zum Aufenthaltstitel bestimmen Sie die tatsächliche Kategorie des Kindes und prüfen deren aktuelle Checkliste getrennt. Siehe [Bildungsleitfaden](/de/life/schools-education-cyprus/) und [Leitfaden zum Aufenthaltstitel](/de/immigration/residence-permit-cyprus-guide/): Ein Schulplatz allein begründet keine Aufenthaltserlaubnis.
 
-- **Lehrplan:** Amerikanisch + IB DP
-- **Alter:** 3–18
-- **Gebuhren:** 8.000–15.000/Jahr
-- **Besonderheiten:** MSA-akkreditiert, IB-Diplomprogramm, Englisch als Hauptunterrichtssprache
-- **Website:** [aisc.ac.cy](https://www.aisc.ac.cy/)
+## Welche öffentlichen und vorschulischen Angebote sollte ich prüfen?
 
-### PASCAL English School Nicosia
+Laut den [Grundschulinformationen des Ministeriums](https://www.moec.gov.cy/dde/en/infoserv_primary_general_information.html) ist der Besuch der öffentlichen Grundschule für ansässige Kinder aller Nationalitäten kostenlos und verpflichtend, unabhängig vom Aufenthaltsstatus. Fragen Sie die Schule nach dem passenden Bezirk, der Klasse und der Förderung für Ihr Kind.
 
-- **Lehrplan:** Britisch + IB DP (IB World School seit uber 20 Jahren, 100% DP-Bestehensquote)
-- **Alter:** 3–18
-- **Gebuhren:** ab 8.000/Jahr
-- **Besonderheiten:** Grosster PASCAL-Campus, starke IB-Ergebnisse
-- **Website:** [pascal.ac.cy](https://www.pascal.ac.cy/)
+Für **2026–2027** beginnt die [verpflichtende Vorschule](https://www.moec.gov.cy/dde/en/infoserv_preprimary_general_information.html) mit **4 Jahren und 4 Monaten vor dem 1. September**. Jüngere Kinder, die vor dem 1. September mindestens drei Jahre alt sind, können sich bewerben, je nach freien Plätzen und Auswahlkriterien. Das Ministerium sagt, die [öffentliche Vorschule ist kostenlos](https://www.moec.gov.cy/dde/en/preprimary_fees.html), während Gemeinde-Vorschulen ihre Gebühren selbst festlegen.
 
-### American Academy Nicosia
+## Was ist mit Universitäten?
 
-- **Lehrplan:** Britisch (IGCSE, A-Levels)
-- **Alter:** 3–18
-- **Gebuhren:** 5.500–10.000/Jahr (Anmeldung 250)
-- **Website:** [aan.ac.cy](https://www.aan.ac.cy/)
+Nutzen Sie die [Seite der Abteilung für Hochschulbildung zu den Institutionen](https://highereducation.ac.cy/en/dae/ekpaideftiko-systima), um Hochschulen zu finden. Prüfen Sie dann Zulassung, Sprache, Akkreditierung und Gebühren des jeweiligen Studiengangs. Übertragen Sie das Schulgebührenbeispiel nicht auf ein Studium und gehen Sie nicht davon aus, dass die Staatsangehörigkeit allein jeden Studiengang einer staatlichen Universität kostenlos macht.
 
-### GC School of Careers
+## Häufige Fragen
 
-- **Lehrplan:** Britisch
-- **Alter:** 3–18
-- **Gebuhren:** 5.000–9.000/Jahr
-- **Besonderheiten:** Gegrundet 1973, mehrere Standorte in Strovolos, Fussballakademie
-- **Website:** [gcsc.ac.cy](https://gcsc.ac.cy/)
+### Was kosten internationale Schulen auf Zypern?
 
-### International School of Nicosia (ISN)
+Fordern Sie die Gebührenordnung der jeweiligen Schule, des Campus, der Stufe und des Jahres an. Ein Beispiel mit Datum: Die PASCAL Lefkosia Secondary School nennt für 2026–2027 Schulgeld von 9.300 € in Year 1, zuzüglich weiterer Kosten und Ausnahmen. Das ist keine landesweite Preisspanne.
 
-- **Lehrplan:** International (Unterricht auf Englisch)
-- **Alter:** 3–18
-- **Gebuhren:** 8.000–14.000/Jahr
-- **Website:** [isnschool-cy.ac](https://www.isnschool-cy.ac/)
+### Welche Schulen gibt es für Expat-Kinder in Limassol?
 
-## Welche internationalen Schulen gibt es in Paphos?
+Das Verzeichnis des Ministeriums für weiterführende Schulen im Bezirk Limassol nennt Island, SP Triada (Trinity), Foley's, Heritage, Grammar School, PASCAL, Morfosis und Pupils of Pythagoras. Das sind Verzeichniseinträge, keine Bestätigung eines freien Platzes oder des passenden Programms für Ihr Kind.
 
-### International School of Paphos (ISOP)
+### Wann sollte ich mich für Schulen auf Zypern bewerben?
 
-- **Lehrplan:** Britisch (IGCSE, A-Levels)
-- **Alter:** 3–18
-- **Gebuhren:** 5.000–12.000/Jahr
-- **Besonderheiten:** Teil des Globeducate-Netzwerks, internationaler Schulerschaft
-- **Website:** [paphosinternationalschool.com](https://www.paphosinternationalschool.com/)
-
-### Morfosis Private School (Filiale Paphos)
-
-- **Lehrplan:** Russisch + zypriotisch
-- **Alter:** 6–18
-- **Gebuhren:** 6.500–10.500/Jahr
-- **Adresse:** 4 Tetidos Street, Paphos
-
-## Welche internationalen Schulen gibt es in Larnaka?
-
-### American Academy Larnaca
-
-- **Lehrplan:** Britisch (IGCSE, A-Levels)
-- **Alter:** 3–18
-- **Gebuhren:** 5.000–10.000/Jahr
-- **Website:** [academy.ac.cy](https://www.academy.ac.cy/)
-
-### PASCAL English School Larnaca
-
-- **Lehrplan:** Britisch
-- **Alter:** 3–18
-- **Gebuhren:** 7.000–12.000/Jahr
-- **Besonderheiten:** Dritter Standort im PASCAL-Netzwerk
-- **Website:** [pascal.ac.cy](https://www.pascal.ac.cy/)
-
-## Was sollten Expats über öffentliche Schulen wissen?
-
-Offentliche [Schulen auf Zypern](/de/life/schools-education-cyprus/) sind **kostenlos** und **gesetzlich verpflichtet**, Expat-Kinder aufzunehmen.
-
-**Vorteile:**
-- Vollig kostenlos (einschliesslich Lehrbucher)
-- Kostenlose Griechischkurse fur auslandische Kinder (Programm «Geia Hara»)
-- 4 Griechischstunden pro Woche als Zweitsprache
-- Integration und Weg zur Staatsburgerschaft
-
-**Zu beachten:**
-- Unterricht auf **Griechisch** — die Anpassung dauert in der Regel 6–12 Monate
-- Englisch wird ab der 1. Klasse als Fremdsprache unterrichtet
-- Kinder passen sich schneller an als Erwachsene — die meisten sprechen nach einem Jahr fliessend
-
-## Wie hoch sind die Schulgebühren?
-
-| Schultyp | Jahresgebuhren (EUR) | Beispiele |
-|----------|---------------------|-----------|
-| Offentlich | Kostenlos | Alle staatlichen Schulen |
-| Russisch | 3.000–10.500 | Morfosis, Pupils of Pythagoras |
-| Britisch privat | 4.000–14.000 | Foley's, Grammar, Heritage, American Academy |
-| IB-Schulen | 8.000–19.000 | Island School, Trinity, PASCAL, AISC |
-
-**Zusatzliche Kosten** (nicht im Schulgeld enthalten):
-- Anmeldung: 100–500
-- Schuluniform: 200–500
-- Transport: 1.000–3.000/Jahr
-- Lehrbucher: 200–600 (bei einigen Schulen inklusive)
-- IGCSE/A-Level-Prufungsgebuhren: 50–150 pro Fach
-- Ausserschulische Aktivitaten: 500–2.000/Jahr
-
-## Wie läuft die Einschreibung?
-
-### Erforderliche Dokumente
-
-1. **Reisepass** (Kopie des Kinderpasses)
-2. **Aufenthaltserlaubnis** (oder laufender Antrag)
-3. **Schulzeugnisse** der vorherigen Schule (ubersetzt, mit Apostille)
-4. **Arztliches Attest** (Impfnachweis)
-5. **Passfotos**
-
-### Zeitplan
-
-- Bewerbungen: **Januar bis Mai** (fur das folgende Schuljahr)
-- Beliebte Schulen haben moglicherweise eine **Warteliste** — fruh bewerben
-- Einige Schulen nehmen auch wahrend des Schuljahres auf, wenn Platze frei sind
-
-### Aufnahmetests
-
-- Die meisten Schulen fuhren **Tests in Englisch und Mathematik** durch
-- The English School (Nikosia) hat eine Aufnahmeprufung im Wettbewerb
-- IB-Schulen fuhren moglicherweise auch Interviews durch
-
-## Was gibt es für Kindergärten und Vorschulen?
-
-- **Offentlich:** kostenlos ab 4 Jahren und 8 Monaten
-- **Privat:** 3.000 bis 8.000/Jahr, ab 2–3 Jahren
-- Viele Privatschulen haben **eigene Kindergarten** (Foley's, Grammar, Trinity, PASCAL)
-- Montessori-Programme: Island School, eigenstandige Montessori-Zentren
-
-## Welche Universitäten gibt es?
-
-Fur Familien mit langfristigen Planen ist es nutzlich, die Hochschulmoglichkeiten zu kennen:
-
-| Universitat | Typ | Stadt | Sprache |
-|-------------|-----|-------|---------|
-| University of Cyprus (UCY) | Offentlich | Nikosia | Griechisch/Englisch |
-| Cyprus University of Technology (CUT) | Offentlich | Limassol | Griechisch/Englisch |
-| European University Cyprus | Privat | Nikosia | Englisch |
-| Frederick University | Privat | Nikosia/Limassol | Englisch |
-| University of Nicosia (UNIC) | Privat | Nikosia | Englisch |
-| Neapolis University | Privat | Paphos | Englisch |
-
-Studiengebuhren an Privatuniversitaten: 6.000–12.000/Jahr. Offentliche Universitaten sind fur EU-Burger kostenlos.
-
-## Welche praktischen Tipps gibt es?
-
-1. **Beginnen Sie 6–12 Monate im Voraus mit der Suche** — Platze an Top-Schulen sind begrenzt
-2. **Besuchen Sie Tage der offenen Tur** — die meisten Schulen bieten sie von November bis Februar an
-3. **Fordern Sie eine Einschreibungsbestatigung an** — Sie benotigen sie fur die Aufenthaltserlaubnis Ihres Kindes
-4. **Erwagen Sie eine offentliche Schule** — kostenlos, kostenloser Griechischunterricht, und fordert die Integration
-5. **IB vs. A-Levels:** IB wird fur die Hochschulzulassung in Europa und Nordamerika breiter anerkannt; A-Levels sind der Standard fur Grossbritannien
-6. **Fragen Sie nach Geschwisterrabatten** — fast alle Schulen bieten Rabatte fur das 2. und 3. Kind
-7. **Prufen Sie Transportmoglichkeiten** — nicht alle Schulen bieten einen Busservice an
-
----
-
-Die Schulwahl ist eine der wichtigsten Entscheidungen beim Umzug mit Kindern. Wir empfehlen, 3–4 Schulen personlich zu besuchen und mit anderen Expat-Eltern zu sprechen, bevor Sie sich entscheiden. Die genannten Preise gelten fur das Schuljahr 2025/2026 und konnen sich andern — uberprufen Sie immer die Schulwebseiten.
-
-
----
-
-Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
-
-Weiterführende Informationen: [Privatschulen](/de/life/schools-cyprus-comparison/) · [Lebenshaltungskosten](/de/life/lebenshaltungskosten-zypern-leitfaden/) · [Paphos-Guide](/de/life/paphos-stadtteile-guide-2026/).
-
----
-
-## Quellen
-
-- [Ministry of Education](https://www.moec.gov.cy/en/schools_info.html) — gov.cy
-- [Private Primary Schools](https://www.moec.gov.cy/dde/en/private_primary.html) — gov.cy
-- [Private Secondary Schools](https://www.moec.gov.cy/dme/en/index.html) — gov.cy
+Fragen Sie jede Privatschule nach aktuellen Aufnahmeterminen, Aufnahmeverfahren und freien Plätzen. Die Anmeldung an öffentlichen Grundschulen findet normalerweise im Januar statt, die Termine werden jährlich bekannt gegeben; für Umzug und Wechsel gelten eigene Bedingungen. Übertragen Sie die Frist einer Privatschule nicht auf alle Anbieter.

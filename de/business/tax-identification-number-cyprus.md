@@ -1,9 +1,9 @@
 ---
 slug: "tax-identification-number-cyprus"
 title: "Steuernummer (TIN) auf Zypern: Beantragung"
-description: "Steuernummer (TIN) auf Zypern erhalten: Registrierung auf dem Tax-Department-Portal, Formular TIC, Fristen und Tipps für Angestellte."
+description: "Zyprische Steuernummer (TIN) über Tax For All: wer sich registrieren muss, welche Unterlagen nötig sind und wie Sie Zugang zu einer bestehenden TIN erhalten."
 date: 2026-02-22
-updated: 2026-04-09
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -14,147 +14,125 @@ tags:
   - Ratgeber
 draft: false
 translationKey: "nalogoviy-nomer-tin-kipr"
+howtoSchema:
+  name: "So beantragen Sie eine zyprische Steuernummer"
+  description: "Prüfen Sie, ob Sie schon eine TIN haben, bereiten Sie die Unterlagen Ihrer Kategorie vor und beantragen Sie die Nummer elektronisch über Tax For All."
+  steps:
+    - name: "Nach einer bestehenden Nummer suchen"
+      text: "Bitten Sie Ihren Arbeitgeber, das offizielle Prüfwerkzeug zu nutzen, rufen Sie 17700 an oder melden Sie sich über CY Login an. Wenn Sie schon eine TIN haben, nutzen Sie das Verfahren für den Zugang zu einer bestehenden Nummer, statt eine zweite Nummer zu beantragen."
+    - name: "Die passenden Unterlagen vorbereiten"
+      text: "Nutzen Sie die Checkliste des Tax Department für die Registrierung natürlicher Personen, passend zu Ihrer Kategorie von Ausweis- oder Aufenthaltsdokument und zum Grund der Registrierung. Die nötigen Nachweise unterscheiden sich für Personen mit Aufenthaltstitel, mit laufendem Antrag auf einen Titel oder ohne ein solches Dokument."
+    - name: "Über Tax For All beantragen"
+      text: "Erstellen Sie ein TFA-Konto oder nutzen Sie Ihr bestehendes. Ohne TIN wählen Sie Register as a new taxpayer; mit bestehender TIN wählen Sie Apply for access to a tax identification number (TIN). Senden Sie die verlangten Angaben und Belege elektronisch ein."
+    - name: "Bestätigung aufbewahren und Zugang zur Steuererklärung prüfen"
+      text: "Das Tax Department teilt mit, dass es die TIN per E-Mail schickt, sobald die Registrierung abgeschlossen ist. Bewahren Sie die Bestätigung auf und prüfen Sie die getrennten Anforderungen des Systems für Ihre Steuererklärung."
 faqSchema:
-  - question: "Wie bekomme ich eine Steuernummer (TIN) auf Zypern?"
-    answer: "Online über das Tax Portal (taxportal.mof.gov.cy): Registrierung als natürliche Person, Formular TIC ausfüllen, Reisepass und Aufenthaltsnachweis hochladen. Bearbeitungszeit: 1–5 Werktage. Der Arbeitgeber kann die Registrierung auch für Sie übernehmen. Ohne TIN keine Steuererklärung, keine Abzüge, oft kein Bankkonto."
-  - question: "Brauche ich als Deutscher eine zyprische Steuernummer?"
-    answer: "Ja, wenn Sie auf Zypern arbeiten, selbstständig sind oder steuerlich ansässig werden. Die TIN ist nötig für: Steuererklärung (TD1), Steuerabzüge (TD59), Non-Dom-Status-Nachweis, Bankkontoeröffnung. Auch wenn Ihr Einkommen unter dem Freibetrag (€22.000) liegt — die TIN wird für viele Verwaltungsvorgänge benötigt."
+  - question: "Kann ich eine zyprische TIN online beantragen?"
+    answer: "Ja. Das Tax Department erklärt, dass Erstanträge für das Tax Registry nur elektronisch über Tax For All (TFA) eingereicht werden können. Erstellen Sie ein TFA-Konto oder nutzen Sie Ihr bestehendes und wählen Sie Register as a new taxpayer, wenn Sie noch keine TIN haben."
+  - question: "Wie lange dauert die TIN-Registrierung?"
+    answer: "Die offizielle Registrierungs-FAQ sagt, dass die TIN per E-Mail verschickt wird, wenn die Registrierung abgeschlossen ist; sie verspricht keine feste Bearbeitungszeit am selben Tag oder von ein bis drei Wochen. Die getrennt veröffentlichte Frist von ein bis drei Werktagen betrifft die automatische TAXISnet-Registrierung nach Abschluss der Registrierung im Tax Registry, mit Ausnahmen."
+  - question: "Was soll ich tun, wenn ich schon eine TIN habe?"
+    answer: "Nutzen Sie in TFA die Option Apply for access to a tax identification number (TIN), statt eine weitere Nummer zu beantragen. Die offizielle FAQ beschreibt außerdem die automatische Verknüpfung einer bestehenden TIN bei der Anmeldung über CY Login, die Prüfung durch den Arbeitgeber und telefonische Hilfe unter 17700."
 ---
-> **Kurzantwort:** Die zyprische Steuernummer (TIC) beantragen Sie beim Tax Department. Bearbeitung: 1-2 Wochen. Erforderlich für Arbeit, Bankkonto und Immobilienkauf.
+> **Kurzantwort:** Beantragen Sie die Erstregistrierung im Tax Registry über **Tax For All (TFA)**. Prüfen Sie, ob Sie schon eine Nummer haben, und nutzen Sie die offizielle Dokumentenliste für Ihre Situation. Die Vergabe der TIN und der Zugang zu einem System für die Steuererklärung sind getrennte Schritte.
 
-Die Steuernummer (TIN) ist das erste Dokument, das jeder benötigt, der auf Zypern arbeitet oder ein Geschäft betreibt. Ohne sie können Sie keine Steuererklärung abgeben, keine Steuervergünstigungen in Anspruch nehmen und bei manchen Banken kein Konto eröffnen.
+Das Tax Department verwendet **TIN/TIC** für die Steuernummer. Seine aktuellen Anweisungen beschreiben kein „Tax Information Certificate“ als allgemeines Formular für die Erstregistrierung. Die unten genannten Primärquellen wurden am **3. Oktober 2026** geprüft.
 
-> **Offizielle Quellen:**
-> - [Tax Department Portal](https://taxportal.mof.gov.cy/) — Online-Portal des Tax Department
-> - [Tax Department — Registration](https://www.gov.cy/mof/en/) — Registrierung von Steuerzahlern
+## Wer muss sich registrieren?
 
-## Was ist die zyprische Steuernummer (TIN)?
+Nach [Section 5A des Assessment and Collection Law](https://cylaw.org/nomoi/enop/non-ind/1978_1_4/full.html) muss sich eine natürliche Person zur Registrierung und für eine TIN melden, wenn sie:
 
-**TIN (Tax Identification Number)** — eine eindeutige Steuernummer, die vom Tax Department of Cyprus vergeben wird. Format: Ziffern + Buchstabe (z.B. 12345678A).
+- in Zypern steuerlich ansässig und **25 Jahre oder älter** ist; **oder**
+- Einkünfte im Sinne von Section 5 des Einkommensteuergesetzes bezieht.
 
-Verwechseln Sie nicht:
+Das Gesetz erlaubt einer noch nicht registrierten Person, die **in den Steuerjahren 2026 und 2027 keine erfassten Einkünfte** hat, die Meldung bis zum **31. Dezember 2027**. Diese Übergangsregel ist keine allgemeine Verlängerung für alle, die eine Beschäftigung beginnen oder Einkünfte beziehen.
 
-| Dokument | Was ist es | Wer stellt es aus |
-|----------|-----------|-------------------|
-| **TIN** | Steuernummer | Tax Department |
-| **Social Insurance No.** | Sozialversicherungsnummer | Social Insurance Services |
-| **ARC** | Aufenthaltsnummer (gelber Zettel) | Migration Department |
+Registrierungs- und Abgabepflichten folgen unterschiedlichen Kriterien. Die übliche altersbezogene Regel zur Abgabe der Steuererklärung gilt zum Beispiel für ansässige Personen von **25 bis 70** Jahren, während die Registrierung nach Section 5A mit **25 oder älter** formuliert ist. Zu beachten sind außerdem einkommensbezogene Pflichten und gültige Befreiungen von der Abgabe. Nutzen Sie den [Leitfaden zur Steuererklärung](/de/business/tax-return-filing-cyprus/) für Ihr Steuerjahr und Ihre Kategorie.
 
-## Wer braucht eine TIN?
+Eine TIN begründet weder steuerliche Ansässigkeit noch den Non-Dom-Status. Prüfen Sie alle [Bedingungen für Ansässigkeit und Domizil](/de/business/non-dom-status-cyprus-60-day-rule/), statt ein Kästchen bei der Registrierung oder einen Aufenthalt von 60 Tagen allein für ausreichend zu halten.
 
-- **Angestellte** — für die Berechnung der Einkommensteuer
-- **Selbstständige** — Pflicht bei der Registrierung
-- **Geschäftsführer von Unternehmen** — bei der Gründung eines zyprischen Unternehmens
-- **Besucher** — wenn Sie planen, steuerlich ansässig zu werden (60-Tage-Regel oder 183-Tage-Regel)
+## Welches Portal sollte ich nutzen?
 
-## Wie erhalte ich eine TIN?
+Die [aktuellen Anweisungen des Tax Department zur Registrierung natürlicher Personen](https://www.gov.cy/mof-tax/en/documents/registration-and-cancellation-from-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin/registration-in-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin-individuals/) besagen, dass Anträge **nur elektronisch über [Tax For All](https://taxforall.mof.gov.cy/)** eingereicht werden können.
 
-### Für Angestellte (BCS, Spouse Employment)
+Erstellen Sie ein TFA-Konto, wenn Sie keines haben. Die offizielle Seite verlinkt Anleitungen zur Kontoerstellung und zu CY Login. Nach der Anmeldung:
 
-**Früher** hat der Arbeitgeber den Mitarbeiter automatisch registriert. **Seit 2025** haben sich die Regeln geändert — Mitarbeiter registrieren sich selbstständig über das Portal.
+- Ohne TIN wählen Sie **Register as a new taxpayer**.
+- Mit einer TIN wählen Sie **Apply for access to a tax identification number (TIN)**.
 
-**Schritte:**
+Nutzen Sie die verlinkte Benutzeranleitung der Behörde für **Privatpersonen** oder **Selbstständige**, je nach Antrag. Füllen Sie die verlangten Felder passend zu Ihren Ausweisdokumenten aus und fügen Sie die Nachweise Ihrer Kategorie bei. Behandeln Sie das alte Tax Portal für Zahlungen oder die TAXISnet-Registrierung nicht als Erstantrag für die TIN.
 
-1. Besuchen Sie das [Tax Portal](https://taxportal.mof.gov.cy/)
-2. Erstellen Sie ein Konto (E-Mail + Passwort)
-3. Füllen Sie das **Formular TIC (Tax Information Certificate)** aus
-4. Geben Sie an: Name, Geburtsdatum, Staatsangehörigkeit, Adresse auf Zypern, Arbeitgeberdaten
-5. Fügen Sie eine Kopie des Reisepasses und der Aufenthaltsgenehmigung bei
-6. Senden Sie den Antrag ab
+## Welche Unterlagen sollte ich vorbereiten?
 
-**Bearbeitungszeit:** normalerweise 1-3 Wochen. Die TIN wird per E-Mail zugestellt.
+Die aktuelle Seite zur Registrierung natürlicher Personen unterscheidet diese Fälle:
 
-### Für Selbstständige
+| Kategorie des Antragstellers | Veröffentlichter Identitätsnachweis |
+|---|---|
+| Inhaber eines zyprischen Personalausweises | Beide Seiten des Ausweises |
+| EU-Bürger mit der entsprechenden Anmeldebescheinigung für Unionsbürger | Alle Seiten dieser Bescheinigung |
+| Drittstaatsangehöriger mit Aufenthaltstitel | Alle Seiten des Titels |
+| Antragsteller, der auf die entsprechende Bescheinigung oder den Titel wartet | Zahlungsnachweis für den Antrag sowie die jeweils geltenden Unterlagen aus Kategorie 4 der offiziellen Checkliste |
 
-Die TIN-Registrierung ist Teil des Prozesses zur Anmeldung der Selbstständigkeit:
+Für Personen ohne die genannte zyprische Bescheinigung oder den Titel nennt Kategorie 4 eine ausländische Steuernummernbescheinigung, einen ausländischen Personalausweis **oder** eine Bescheinigung der ausländischen Sozialversicherungsnummer, jeweils mit allen hochgeladenen Seiten. Verlangt werden außerdem ein **aktuelles Foto**, ein Schreiben mit dem Grund der Steuerregistrierung und Belege für diesen Grund. Antragsteller mit laufendem Aufenthaltsantrag sollen die Frage nach dem genannten zyprischen Personalausweis/der ARC mit **Nein** beantworten; folgen Sie dem Wortlaut für Ihren Fall.
 
-1. Füllen Sie das Formular TIC auf dem [Tax Portal](https://taxportal.mof.gov.cy/) aus
-2. Geben Sie die Art der Tätigkeit an
-3. Die TIN wird **vor Beginn** der Geschäftstätigkeit benötigt
+Die Seite nennt zusätzliche Belege für Beschäftigung, Immobiliengeschäfte, ausländische Direktoren und den 60-Tage-Weg zur Ansässigkeit. Für Beschäftigung nennt sie ein Arbeitgeberschreiben mit den Beschäftigungsbedingungen, einen Arbeitsvertrag oder eine ERGANI-Einstellungsmeldung mit dem Status **Submitted** und sagt, dass die Sozialversicherungsnummer anzugeben ist. Im Laufe der Prüfung können weitere Angaben verlangt werden.
 
-### Persönlich im Büro des Tax Department
+Lesen Sie vor dem Antrag die vollständige Checkliste; dort ist nicht festgelegt, dass ein Reisepass plus ein beliebiges Mietdokument immer ausreicht. Die Seite enthält gesonderte Anweisungen für Sonderfälle wie Verstorbene und eingetragene Handelsnamen.
 
-Wenn das Portal nicht funktioniert oder es dringend ist:
+Einige Einträge der Checkliste verweisen noch auf **abgestempelte** Verträge. Die [Hinweise des Tax Department zur Stempelsteuer](https://www.gov.cy/mof-tax/documents/chartosima/) bestätigen die Abschaffung zum **1. Januar 2026**, wobei die früheren Regeln für Dokumente gelten, die bis zum **31. Dezember 2025** von mindestens einer Partei unterzeichnet wurden. Prüfen Sie das Datum des Dokuments und die geltenden Nachweisanforderungen.
 
-**Limassol:** Tax Office, Spyrou Araouzou (Zentrum)
-**Nikosia:** Finanzamt, Michael Karaoli
-**Paphos:** Tax Office am Kennedy Square
+## Wie sieht die Nummer aus und wie erhalte ich sie?
 
-Bringen Sie mit:
-- Reisepass (Original)
-- Kopie der Aufenthaltsgenehmigung (Pink Slip)
-- Versorgungsrechnung (Adressnachweis)
+Die [offizielle Registrierungs-FAQ](https://www.gov.cy/mof-tax/en/documents/registration-and-cancellation-from-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin/frequently-asked-questions-about-registration-in-the-tax-registry/) sagt, dass das Tax Department nach Abschluss der Registrierung eine **E-Mail mit der TIN** schickt.
 
-## Was steht im Formular TIC?
+Für Registrierungen nach März 2023 beschreibt die FAQ **acht Ziffern plus ein Prüfzeichen**, beginnend mit **6**. Die Nummer wird zufällig erzeugt und nicht aus einer persönlichen Kennnummer abgeleitet. Früher Registrierte behalten ihre bisherigen Nummern.
 
-**TIC (Tax Information Certificate)** — das Hauptformular für die Registrierung.
+Die FAQ verspricht keine feste Bearbeitungszeit für die Erstregistrierung. Bewahren Sie Ihren Antrag und den Schriftverkehr auf; fragen Sie die Behörde nach einem laufenden Antrag, bevor Sie eine weitere Nummer beantragen.
 
-### Was ist anzugeben
+## Was tun, wenn ich meine bestehende TIN nicht finde?
 
-- **Personal details**: Name in lateinischer Schrift wie im Reisepass
-- **Tax residency**: Geben Sie Zypern an, wenn Sie 183+ Tage im Jahr dort leben (oder 60 Tage nach Non-dom-Regel)
-- **Employment**: Arbeitgeberdaten (Firmenname, TIC des Arbeitgebers)
-- **Foreign income**: falls Einkommen im Ausland vorhanden — angeben
+Die Registrierungs-FAQ nennt diese Möglichkeiten:
 
-### Häufige Fehler
+- Bitten Sie Ihren Arbeitgeber, sie mit dem Prüfwerkzeug im Tax Portal zu bestätigen.
+- Rufen Sie **17700** an.
+- Melden Sie sich über **CY Login** an: Eine bestehende TIN wird automatisch verknüpft; gibt es keine TIN, ist ein Antrag auf Vergabe nötig.
 
-- **Falsche Namensschreibweise** — verwenden Sie die **lateinische Schreibweise** wie im Reisepass
-- **Keine Adresse auf Zypern angegeben** — die Versorgungsrechnung muss auf Ihren Namen oder den Ihres Vermieters lauten
-- **Ausländisches Einkommen vergessen** — dies führt zu Problemen bei der Steuererklärung
+Bei Unsicherheit über Angaben zur TAXISnet-Registrierung nennen die [TAXISnet-Hinweise](https://www.gov.cy/mof-tax/documents/eggrafi-sto-taxisnet/) **taxisnet@mof.gov.cy** als Support-Kontakt. Nutzen Sie den offiziellen Hilfeweg für das jeweilige System.
 
-## Wie aktualisiere ich meine Adresse?
+## Gibt mir die TIN-Registrierung auch Zugang zu TAXISnet?
 
-Bei einem Umzug innerhalb Zyperns aktualisieren Sie die Adresse beim Tax Department:
+Die TAXISnet-Hinweise besagen, dass neue Steuerpflichtige, die über TFA registriert wurden, in der Regel **ein bis drei Werktage nach Abschluss der Registrierung im Tax Registry** automatisch in TAXISnet registriert werden. Ausgenommen sind die Kategorien **92 und 93**, die nur für Immobilienzwecke registriert sind, und **99**, eine Kategorie nicht identifizierter Steuerpflichtiger.
 
-- **Online**: über das [Tax Portal](https://taxportal.mof.gov.cy/)
-- **Persönlich**: im Büro des Tax Department
-- **Per Post**: Brief an Ihr zuständiges Tax Office
+Personen, die ihre TIN vor TFA erhalten haben und kein TAXISnet-Konto besitzen, müssen sich für diesen Dienst selbst registrieren. Die Angabe von ein bis drei Tagen betrifft den späteren TAXISnet-Zugang und nicht die Zeit bis zur Vergabe der ursprünglichen TIN. Im [Leitfaden zur Steuererklärung](/de/business/tax-return-filing-cyprus/) steht, welches System Ihre Erklärung bearbeitet.
 
-Aktualisieren Sie die Adresse auch bei der Sozialversicherung — das ist ein **separates** System.
+## Wie aktualisiere ich meine Daten?
 
-## Warum brauchen Banken meine TIN?
+Section 5A verpflichtet registrierte Personen, Änderungen der Angaben im Tax Registry, darunter Post- und E-Mail-Adresse, innerhalb von **60 Tagen** nach der Änderung in der vom Commissioner festgelegten Form und Weise zu melden. Nutzen Sie die aktuellen Anweisungen der Behörde und bitten Sie um Hilfe, wenn Sie auf das jeweilige Konto nicht zugreifen können.
 
-Banken verlangen die TIN bei:
-- Kontoeröffnung
-- Jährlicher Datenaktualisierung (KYC/CDD)
-- Kreditbeantragung
-
-Wenn Sie noch keine TIN haben — kann die Bank die **Empfangsbestätigung** des Antrags akzeptieren.
+Bewahren Sie Ausweisdokumente, Anträge und Bestätigungsnachrichten sicher auf. Fragen Sie vor der Eröffnung eines Bankkontos die Bank, welche Nachweise zu Steueransässigkeit und Identität sie verlangt; dieser Leitfaden legt keine einheitliche Regel zur TIN oder zur Antragsbestätigung für alle Banken fest.
 
 ## Häufige Fragen
 
-**Muss mein Arbeitgeber mich registrieren oder mache ich das selbst?**
-Seit 2025 registrieren sich Mitarbeiter **selbstständig** über das Portal. Der Arbeitgeber kann helfen, aber die Verantwortung liegt bei Ihnen.
+### Kann ich eine zyprische TIN online beantragen?
 
-**Ich bin mit einer Besuchergenehmigung hier, brauche ich eine TIN?**
-Wenn Sie Einkommen erzielen (auch aus dem Ausland) und steuerlich in Zypern ansässig sind — ja, Sie brauchen eine.
+Ja. Das Tax Department erklärt, dass Erstanträge für das Tax Registry nur elektronisch über Tax For All (TFA) eingereicht werden können. Erstellen Sie ein TFA-Konto oder nutzen Sie Ihr bestehendes und wählen Sie Register as a new taxpayer, wenn Sie noch keine TIN haben.
 
-**Wie finde ich meine TIN, wenn ich sie vergessen habe?**
-Schreiben Sie eine E-Mail an Ihr zuständiges Tax Office oder prüfen Sie im [Tax Portal](https://taxportal.mof.gov.cy/) — die TIN ist im persönlichen Bereich sichtbar.
+### Wie lange dauert die TIN-Registrierung?
 
-**Ich bin noch kein Einwohner und habe keine Steuer-ID — wie zahle ich die Kfz-Steuer?**
-Die Kfz-Steuer (Road Tax) kann ohne TIN bezahlt werden — sie ist an das Kennzeichen gebunden, nicht an die TIN.
+Die offizielle Registrierungs-FAQ sagt, dass die TIN per E-Mail verschickt wird, wenn die Registrierung abgeschlossen ist; sie verspricht keine feste Bearbeitungszeit am selben Tag oder von ein bis drei Wochen. Die getrennt veröffentlichte Frist von ein bis drei Werktagen betrifft die automatische TAXISnet-Registrierung nach Abschluss der Registrierung im Tax Registry, mit Ausnahmen.
 
----
+### Was soll ich tun, wenn ich schon eine TIN habe?
 
-Die TIN ist der Ausgangspunkt aller Steuerangelegenheiten auf Zypern. Besorgen Sie sie sofort nach Arbeitsbeginn — schieben Sie es nicht auf.
+Nutzen Sie in TFA die Option Apply for access to a tax identification number (TIN), statt eine weitere Nummer zu beantragen. Die offizielle FAQ beschreibt außerdem die automatische Verknüpfung einer bestehenden TIN bei der Anmeldung über CY Login, die Prüfung durch den Arbeitgeber und telefonische Hilfe unter 17700.
 
-Weiterführende Informationen: [Steuererklärung einreichen](/de/business/tax-return-filing-cyprus/) · [Steuern auf Zypern](/de/business/taxes-cyprus-gesy-deductions/) · [Sozialversicherung](/de/business/social-insurance-cyprus-pension/).
+## Quellen und verwandte Leitfäden
 
-
-## Worauf sollte ich achten?
-
-Wichtige Punkte, die oft übersehen werden:
-
-1. **Fristen einhalten** — die meisten Behörden haben strenge Abgabefristen. Eine verpasste Frist bedeutet erneute Einreichung mit zusätzlichen Kosten. Aktuelle Fristen: [Tax Portal](https://taxportal.mof.gov.cy/) oder lokales Tax Office
-2. **Dokumentenübersetzung** — alle nicht-englischen Dokumente benötigen eine beglaubigte Übersetzung ins Griechische oder Englische. Kosten: €20–50 pro Seite je nach Komplexität
-3. **Digitale Kopien** — scannen Sie alle eingereichten Unterlagen und Quittungen. Bei Verlust eines Originals dauert die Ersatzbeschaffung 2–4 Wochen
-4. **Fachberatung** — bei komplexen Fällen (mehrere Einkommensquellen, ausländische Vermögenswerte) wenden Sie sich an einen zertifizierten Steuerberater. Register lizenzierter Buchhalter: [ICPAC](https://www.icpac.org.cy/)
-5. **Daten aktualisieren** — bei Adressänderung, Arbeitgeberwechsel oder Änderung des Familienstands: Tax Department und Social Insurance Services innerhalb von 30 Tagen informieren
-
----
-
-## Quellen
-
-- [Tax Department Portal](https://taxportal.mof.gov.cy/) — gov.cy
-- [Tax Department — Registration](https://www.gov.cy/mof/en/) — gov.cy
+- [Tax Department — Registrierung natürlicher Personen im Tax Registry](https://www.gov.cy/mof-tax/en/documents/registration-and-cancellation-from-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin/registration-in-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin-individuals/).
+- [Tax Department — Registrierungs-FAQ](https://www.gov.cy/mof-tax/en/documents/registration-and-cancellation-from-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin/frequently-asked-questions-about-registration-in-the-tax-registry/).
+- [Assessment and Collection Law — Sections 5 und 5A](https://cylaw.org/nomoi/enop/non-ind/1978_1_4/full.html).
+- [Tax Department — TAXISnet-Registrierung](https://www.gov.cy/mof-tax/documents/eggrafi-sto-taxisnet/).
+- [Tax Department — Übergang bei der Stempelsteuer](https://www.gov.cy/mof-tax/documents/chartosima/).
+- [Steuererklärung](/de/business/tax-return-filing-cyprus/).
+- [Steuern und Abzüge](/de/business/taxes-cyprus-gesy-deductions/).
+- [Non-Dom und steuerliche Ansässigkeit](/de/business/non-dom-status-cyprus-60-day-rule/).
+- [Selbstständigkeit](/de/business/self-employed-cyprus-guide/).

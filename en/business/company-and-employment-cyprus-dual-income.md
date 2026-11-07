@@ -73,7 +73,7 @@ The applied employee rate is **8.8% of insurable earnings**. In 2026, the employ
 
 For self-employment, the **16.6%** contribution is ordinarily based on the applicable **occupational insurable earnings**, with an application procedure for assessment on actual earnings. It is not automatically 16.6% of whatever side-income figure you choose to declare. See the [self-employment guide](/en/business/self-employed-cyprus-guide/) for the current registration, contribution and other fund conditions.
 
-Ask Social Insurance Services how the relevant ceiling and any adjustment or refund procedure apply to your actual combination and contribution periods. This guide does not promise an automatic year-end refund or that every employer component is non-refundable.
+Ask Social Insurance Services how the relevant ceiling and any adjustment or refund procedure apply to your actual combination and contribution periods.
 
 ## Does a small side project make a company worthwhile?
 

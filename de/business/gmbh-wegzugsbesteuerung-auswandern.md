@@ -3,7 +3,7 @@ slug: "gmbh-wegzugsbesteuerung-auswandern"
 title: "Wegzugssteuer GmbH: Zypern & §6 AStG"
 description: "Wegzugsbesteuerung § 6 AStG für GmbH-Gesellschafter: Ratenzahlung in 7 Jahren, DBA Zypern, Rückkehrregelung und Gestaltung. Stand 2026."
 date: 2026-03-11
-updated: 2026-03-11
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -20,7 +20,7 @@ faqSchema:
   - question: "Gilt die Wegzugsbesteuerung auch für eine UG (haftungsbeschraenkt)?"
     answer: "Ja. Die UG ist eine Form der GmbH. Jede Kapitalgesellschaft mit einer Beteiligung von mindestens 1% in den letzten 5 Jahren faellt unter Paragraph 6 AStG."
   - question: "Was passiert, wenn ich innerhalb von 7 Jahren nach Deutschland zurückkehre?"
-    answer: "Die Steuer wird auf Antrag rueckwirkend aufgehoben (Paragraph 6 Abs. 3 AStG) — vorausgesetzt, Sie haben die Anteile nicht veraeussert und keine übermaessigen Gewinnausschuettungen vorgenommen (max. 25% des Wegzugswerts)."
+    answer: "Der Steueranspruch entfällt (Paragraph 6 Abs. 3 AStG), wenn die Abwesenheit nur vorübergehend war, Sie die Anteile nicht veräußert haben und keine Gewinnausschüttungen von mehr als 25% des Wegzugswerts erfolgt sind. Das Finanzamt kann die 7 Jahre auf Antrag um höchstens 5 Jahre verlängern."
   - question: "Schuetzt das DBA Deutschland-Zypern vor der Wegzugsbesteuerung?"
     answer: "Nein. Die Wegzugsbesteuerung greift noch waehrend Ihrer deutschen Ansaessigkeit — das DBA ist nicht anwendbar, da Sie zum Zeitpunkt der Besteuerung noch in Deutschland steuerpflichtig sind."
   - question: "Wie wird der Wert meiner GmbH-Anteile ermittelt?"
@@ -32,7 +32,8 @@ Wer als GmbH-Gesellschafter nach Zypern auswandert, muss sich mit der Wegzugsbes
 
 > **Offizielle Quellen:**
 > - [§ 6 AStG — Einzelnorm](https://www.gesetze-im-internet.de/astg/__6.html) — Gesetzestext
-> - [BMF-Schreiben zur Wegzugsbesteuerung (2025)](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2025-04-22-Wegzugsbesteuerung.html) — Anwendungserlass
+> - [§ 21 AStG — Anwendungsvorschriften](https://www.gesetze-im-internet.de/astg/__21.html) — Altfälle (Wegzug vor 2022)
+> - [BMF-Schreiben vom 22. April 2025 zu § 6 AStG a. F.](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2025-04-22-Wegzugsbesteuerung.html) — Verwaltungsanweisung für Altfälle
 > - [DBA Deutschland–Zypern](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA.html) — Abkommenstext
 
 ## Was ist die Wegzugsbesteuerung?
@@ -51,7 +52,7 @@ Die Wegzugsbesteuerung wird ausgelöst, wenn:
 
 ### Was wird besteuert?
 
-Besteuert wird der **fiktive Veräußerungsgewinn**: Verkehrswert der Anteile am Tag des Wegzugs minus Anschaffungskosten. Der Gewinn unterliegt der regulären Einkommensteuer nach dem Teileinkünfteverfahren (§ 3 Nr. 40 EStG) — nur **60 %** des Gewinns sind steuerpflichtig, bei einem Spitzensteuersatz von 42 % (ab €66.760, 2026) bzw. 45 % (Reichensteuersatz ab €277.826) ergibt das eine effektive Belastung von **ca. 25–27 %** auf den Wertzuwachs.
+Besteuert wird der **fiktive Veräußerungsgewinn**: Verkehrswert der Anteile am Tag des Wegzugs minus Anschaffungskosten. Der Gewinn unterliegt der regulären Einkommensteuer nach dem Teileinkünfteverfahren (§ 3 Nr. 40 EStG) — nur **60 %** des Gewinns sind steuerpflichtig, bei einem Spitzensteuersatz von 42 % (ab €69.879 zu versteuerndem Einkommen, Tarif 2026) bzw. 45 % (Reichensteuersatz ab €277.826) zuzüglich 5,5 % Solidaritätszuschlag ergibt das eine effektive Belastung von **ca. 26,6–28,5 %** auf den Wertzuwachs ([§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), [§ 4 SolzG 1995](https://www.gesetze-im-internet.de/solzg_1995/__4.html)).
 
 **Rechenbeispiel:**
 
@@ -61,7 +62,7 @@ Besteuert wird der **fiktive Veräußerungsgewinn**: Verkehrswert der Anteile am
 | Anschaffungskosten | €25.000 |
 | Fiktiver Gewinn | €475.000 |
 | Steuerpflichtiger Anteil (60 %) | €285.000 |
-| Einkommensteuer (ca. 42 % + Soli) | **ca. €126.000** |
+| Einkommensteuer nach Tarif 2026 + 5,5 % Soli (Einzelveranlagung, keine weiteren Einkünfte) | **ca. €114.800** |
 
 ## Was hat sich 2022 bei der Wegzugsbesteuerung geändert?
 
@@ -79,23 +80,27 @@ Mit dem ATAD-Umsetzungsgesetz vom 25. Juni 2021 (in Kraft seit 1. Januar 2022) w
 - Stattdessen: Ratenzahlung in **7 gleichen Jahresraten** (§ 6 Abs. 4 AStG n.F.)
 - Ratenzahlung auf Antrag, in der Regel nur **gegen Sicherheitsleistung**
 - Die Raten sind **zinslos**
+- Die erste Rate ist innerhalb eines Monats nach Bekanntgabe des Steuerbescheids fällig, die übrigen jeweils am 31. Juli der Folgejahre
+- Die restliche Steuer wird sofort fällig, u. a. wenn Sie die Anteile veräußern oder übertragen oder Gewinnausschüttungen von mehr als 25 % des Wegzugswerts erfolgen
+- Jährlich bis 31. Juli müssen Sie Ihre Anschrift mitteilen und bestätigen, dass Ihnen die Anteile weiterhin gehören (§ 6 Abs. 5 AStG)
 - Keine Unterscheidung mehr zwischen EU/EWR und Drittstaaten
 
-> **Hinweis:** Für Altfälle (Wegzug vor 01.01.2022) mit bestehender EU-Stundung gilt grundsätzlich weiterhin das alte Recht (§ 21 Abs. 3 AStG). **Aber:** Seit August 2023 können auch bei Altfällen erhebliche Gewinnausschüttungen zum Widerruf der Stundung führen.
+> **Hinweis:** Für Altfälle (Wegzug vor 01.01.2022) mit bestehender EU-Stundung gilt grundsätzlich weiterhin das alte Recht (§ 21 Abs. 3 AStG). **Aber:** Gewinnausschüttungen nach dem 16. August 2023, die mehr als ein Viertel des Wegzugswerts betragen, führen auch bei Altfällen zum Widerruf der Stundung (§ 21 Abs. 3 AStG).
 
 ## Kann ich die Wegzugsbesteuerung widerrufen?
 
-Die Steuer kann **rückwirkend entfallen**, wenn Sie innerhalb von **7 Jahren** nach dem Wegzug wieder unbeschränkt steuerpflichtig in Deutschland werden (§ 6 Abs. 3 AStG) — vorausgesetzt:
+Die Steuer **entfällt**, wenn Ihre Abwesenheit **nur vorübergehend** war und Sie innerhalb von **7 Jahren** nach dem Wegzug wieder unbeschränkt steuerpflichtig in Deutschland werden (§ 6 Abs. 3 AStG) — vorausgesetzt:
 
 - Die Anteile wurden zwischenzeitlich **nicht veräußert oder übertragen**
 - Es fanden keine Gewinnausschüttungen statt, deren Wert insgesamt **mehr als 25 %** des Wertes am Wegzugstag beträgt
 - Kein Übergang der Anteile auf ein Betriebsvermögen
+- Das deutsche Besteuerungsrecht an einem Veräußerungsgewinn wird mindestens im früheren Umfang wieder begründet
 
-> **Wichtig:** Die 7-Jahres-Frist ist eine harte Grenze. Wer nach 7 Jahren und 1 Tag zurückkehrt, hat keinen Anspruch auf Rückabwicklung.
+> **Wichtig:** Das Finanzamt kann die 7-Jahres-Frist auf Antrag um **höchstens 5 Jahre** verlängern, wenn die Rückkehrabsicht fortbesteht. Ohne Verlängerung lässt eine Rückkehr nach mehr als 7 Jahren die Steuer nicht entfallen.
 
 ## Wie wirkt das DBA auf die Wegzugsbesteuerung?
 
-Das DBA Deutschland–Zypern (Neufassung vom 18. Februar 2011, Änderungsprotokoll vom 19. Februar 2021) regelt die Aufteilung der Besteuerungsrechte. Bei der Wegzugsbesteuerung gibt es eine besondere Konstellation:
+Das DBA Deutschland–Zypern (Neufassung vom 18. Februar 2011, Änderungsprotokoll unterzeichnet am 19. Februar 2021, [BT-Drucksache 19/28657](https://dserver.bundestag.de/btd/19/286/1928657.pdf)) regelt die Aufteilung der Besteuerungsrechte. Bei der Wegzugsbesteuerung gibt es eine besondere Konstellation:
 
 - Das DBA weist Veräußerungsgewinne aus Anteilen grundsätzlich dem **Ansässigkeitsstaat** zu
 - Die Wegzugsbesteuerung besteuert aber einen **fiktiven** Gewinn noch während der deutschen Ansässigkeit
@@ -118,7 +123,7 @@ Der Verkehrswert am Wegzugstag bestimmt die Steuerlast. Maßnahmen:
 
 ### 2. Beteiligung unter 1 % senken
 
-Wenn Sie Ihre Beteiligung rechtzeitig unter 1 % senken (z.B. durch Anteilsübertragung an Familienmitglieder oder Treuhänder), greift § 6 AStG nicht. **Aber:** Das Finanzamt prüft, ob die Übertragung wirtschaftlich substanziell ist — reine Gestaltungsmodelle werden als Missbrauch gewertet (§ 42 AO).
+Wenn Sie Ihre Beteiligung rechtzeitig unter 1 % senken (z.B. durch Anteilsübertragung an Familienmitglieder oder Treuhänder), greift § 6 AStG nicht. Wegen der 5-Jahres-Rückschau in § 17 Abs. 1 EStG hilft eine Absenkung kurz vor dem Wegzug nicht: Verbliebene Anteile zählen weiter, wenn Sie in den letzten 5 Jahren zu irgendeinem Zeitpunkt mindestens 1 % gehalten haben. **Außerdem:** Das Finanzamt prüft, ob die Übertragung wirtschaftlich substanziell ist — reine Gestaltungsmodelle werden als Missbrauch gewertet (§ 42 AO).
 
 ### 3. Holdingstruktur
 
@@ -174,7 +179,7 @@ Die Wegzugsbesteuerung ist seit 2022 für alle GmbH-Gesellschafter relevant — 
 
 ---
 
-Die Wegzugsbesteuerung ist kein Grund, nicht auszuwandern — aber ein Grund, es richtig zu planen. Die Steuerersparnis auf Zypern (15 % KSt + 0 % SDC auf Dividenden mit Non-Dom vs. ~47 % Gesamtbelastung in Deutschland) überwiegt langfristig die einmalige Wegzugssteuer bei weitem.
+Die Wegzugsbesteuerung ist kein Grund, nicht auszuwandern — aber ein Grund, es richtig zu planen. Die Steuerersparnis auf Zypern (15 % KSt ab 2026 + 0 % SDC auf Dividenden mit Non-Dom vs. Körperschaftsteuer, Gewerbesteuer und 26,375 % Abgeltungsteuer inkl. Soli auf Dividenden in Deutschland) überwiegt langfristig die einmalige Wegzugssteuer bei weitem.
 
 ## Häufig gestellte Fragen (FAQ)
 
@@ -185,7 +190,7 @@ Nein. Seit 2022 können Sie auf Antrag in 7 gleichen Jahresraten zahlen (§ 6 Ab
 Ja. Die UG ist eine Form der GmbH. Jede Kapitalgesellschaft mit einer Beteiligung von mindestens 1 % in den letzten 5 Jahren fällt unter § 6 AStG.
 
 **Was passiert, wenn ich innerhalb von 7 Jahren nach Deutschland zurückkehre?**
-Die Steuer wird auf Antrag rückwirkend aufgehoben (§ 6 Abs. 3 AStG) — vorausgesetzt, Sie haben die Anteile nicht veräußert und keine übermäßigen Gewinnausschüttungen vorgenommen (max. 25 % des Wegzugswerts).
+Der Steueranspruch entfällt (§ 6 Abs. 3 AStG), wenn die Abwesenheit nur vorübergehend war, Sie die Anteile nicht veräußert haben und keine Gewinnausschüttungen von mehr als 25 % des Wegzugswerts erfolgt sind. Das Finanzamt kann die 7 Jahre auf Antrag um höchstens 5 Jahre verlängern.
 
 **Schützt das DBA Deutschland-Zypern vor der Wegzugsbesteuerung?**
 Nein. Die Wegzugsbesteuerung greift noch während Ihrer deutschen Ansässigkeit — das DBA ist nicht anwendbar, da Sie zum Zeitpunkt der Besteuerung noch in Deutschland steuerpflichtig sind.
@@ -198,3 +203,7 @@ Das Finanzamt verwendet den Verkehrswert (gemeiner Wert) am Tag des Wegzugs. Met
 ## Quellen
 
 - [Steuerabteilung — Finanzministerium](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [§ 6 AStG](https://www.gesetze-im-internet.de/astg/__6.html) und [§ 21 AStG](https://www.gesetze-im-internet.de/astg/__21.html) — Wegzugsbesteuerung, Raten, Rückkehrregelung, Altfälle; geprüft am 07.11.2026
+- [§ 17 EStG](https://www.gesetze-im-internet.de/estg/__17.html), [§ 3 EStG (Nr. 40)](https://www.gesetze-im-internet.de/estg/__3.html), [§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), [§ 32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html) — 1-%-Schwelle, Teileinkünfteverfahren, Tarif 2026, Abgeltungsteuer 25 %; geprüft am 07.11.2026
+- [§ 4 SolzG 1995](https://www.gesetze-im-internet.de/solzg_1995/__4.html) — Solidaritätszuschlag 5,5 %; geprüft am 07.11.2026
+- [Zyprische Steuerbehörde — Steuerreform 2026](https://www.gov.cy/mof-tax/en/documents/forologiki-metarrythmisi-2026/) — 15 % Körperschaftsteuer ab 1. Januar 2026, Non-Dom-Status bleibt; geprüft am 07.11.2026

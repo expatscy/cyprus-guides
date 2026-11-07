@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Nomad Stones: Zyperns Legenden, Armbänder und eine Produktidee"
+title: "Nomad Stones: Zyperns Legenden und handgemachte Armbänder"
 description: "Andrey Chepurko über Nomad Stones: Natursteinarmbänder, Legenden aus Zypern und Geschichten per QR-Code für Besucher und Menschen, die auf der Insel leben."
 slug: "nomad-stones-cyprus-legends-andrey-chepurko"
 date: 2024-10-02

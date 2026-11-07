@@ -3,7 +3,7 @@ slug: "property-taxes-cyprus-vat-cgt"
 title: "Property Taxes in Cyprus 2026: 5% VAT, CGT"
 description: "Complete guide to Cyprus property taxes: reduced 5% VAT vs 19%, capital gains tax (CGT), transfer fees, individual vs company ownership."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Property"
 author: "Expats Cyprus"
 tags:
@@ -23,7 +23,7 @@ faqSchema:
   - question: "Is there stamp duty on property in Cyprus?"
     answer: "Stamp duty was repealed from 1 January 2026 by Law 239(I)/2025. Documents signed by any party before that date remain subject to the former rules."
   - question: "How much is Capital Gains Tax on property in Cyprus?"
-    answer: "Capital Gains Tax (CGT) in Cyprus is 20% on the profit from selling property. Lifetime exemptions apply: €30,000 for any sale, €150,000 for a qualifying primary residence (five years own occupation, or ten for subsequent residence disposals; land up to 1,500 m²; sale less than one year after occupation ends), and €50,000 for agricultural land where the seller’s main occupation is farming. Gifts between spouses, gifts to children, and inheritance transfers are exempt."
+    answer: "Capital Gains Tax (CGT) in Cyprus is 20% on the profit from selling property. Lifetime exemptions apply: €30,000 for any sale, €150,000 for a qualifying primary residence (five years own occupation, or ten for subsequent residence disposals; land up to 1,500 m²; sale less than one year after occupation ends), and €50,000 for agricultural land where the seller’s main occupation is farming. Gifts between spouses, gifts between relatives up to the third degree, and inheritance transfers are exempt (Capital Gains Tax Law 52/1980, [CyLaw](https://www.cylaw.org/nomoi/enop/non-ind/1980_1_52/full.html), checked 2026-11-07)."
   - question: "What are property transfer fees in Cyprus?"
     answer: "Transfer fees are paid at the Land Registry on a progressive scale: 3% on the first €85,000, 5% on €85,001-€170,000, and 8% above €170,000. Where VAT was not charged, the ordinary 50% discount applies, except where the seller acquired the property through specified foreclosure procedures. VAT charged on the same property transaction exempts transfer fees."
 ---
@@ -69,7 +69,7 @@ Since June 2023, a new scheme applies (Law 42(I)/2023). The following are the or
 Where planning permission was obtained or the planning application was submitted **by 31 October 2023**, the transitional old rules may apply:
 
 - 5% on the first **200 m²** with no area or value caps
-- The **15 June 2026** filing deadline applies where the building permit was issued by **31 December 2024**
+- The **15 June 2026** filing deadline applies where the building permit (a separate, later permit than the planning permission above) was issued by **31 December 2024**
 - Under section 63, the Commissioner may examine qualifying declarations until **31 December 2026** where planning-authority delays prevented timely completion. Confirm that your project qualifies for this extension with the Tax Department.
 
 ### What Happens If You Buy at 5% and Start Renting?

@@ -90,7 +90,7 @@ The visitor procedure requires an **MVIS8 application**, the relevant supporting
 
 Biometric photo/fingerprints and signature are collected using the receipt and valid travel document, including at renewal. For children **under six**, only the photo is captured. First registration in the Aliens' Register is carried out where no previous registration exists.
 
-Published fees are **EUR 70 for issuance or renewal**, plus **EUR 70 for first Aliens' Registry registration where applicable**. The published examination estimate is **usually before four months**, provided supporting information/documents are sufficient.
+Published fees are **EUR 70 for issuance or renewal**, plus **EUR 70 for first Aliens' Register registration where applicable**. The published examination estimate is **usually before four months**, provided supporting information/documents are sufficient.
 
 The ordinary first visitor permit is **one year**, subject to passport validity: if necessary it ends **three months before the passport expires**. Religious and marriage-to-Cypriot visitor categories have different stated durations. Renewal requires continued eligibility.
 

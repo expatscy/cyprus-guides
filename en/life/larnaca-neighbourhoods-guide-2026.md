@@ -3,7 +3,7 @@ slug: "larnaca-neighbourhoods-guide-2026"
 title: "Larnaca Guide 2026: Neighbourhoods & Prices"
 description: "Neighbourhood guide to Larnaca: cheapest coastal city in Cyprus. Rent, airport, British community along Dhekelia Road. Real prices 2026, GBP equivalents."
 date: 2026-04-09
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -18,20 +18,20 @@ draft: false
 translationKey: "larnaca-city-guide-2026"
 faqSchema:
   - question: "How much is rent in Larnaca in 2026?"
-    answer: "One-bedroom: from 500 GBP 430 (Kiti/Aradippou) to 1,000 GBP 860 (Finikoudes). Two-bedroom: from 700 GBP 600 (Kiti) to 2,500 GBP 2,150 (Finikoudes premium). Larnaca is 20-25% cheaper than Limassol and roughly on par with Paphos. Sources: Investropa, Numbeo, dom.com.cy."
+    answer: "One-bedroom: from €500 (≈£430) (Kiti/Aradippou) to €1,000 (≈£860) (Finikoudes). Two-bedroom: from €700 (≈£600) (Kiti) to €2,500 (≈£2,150) (Finikoudes premium). Larnaca is 20-25% cheaper than Limassol and roughly on par with Paphos. Sources: Investropa, Numbeo, dom.com.cy."
   - question: "Why should British expats consider Larnaca?"
-    answer: "Larnaca is the cheapest coastal city in Cyprus. The main international airport (LCA) is 10 minutes from the centre -- 51 airlines, 91 destinations including direct flights to 14+ UK cities. Established British community along Dhekelia Road near the Sovereign Base Area. Rents are 20-25% cheaper than Limassol. A quieter alternative to both Limassol and Paphos with authentic Cypriot character."
+    answer: "Larnaca is the cheapest coastal city in Cyprus. The main international airport (LCA) is 10 minutes from the centre -- with direct flights to many UK airports. Established British community along Dhekelia Road near the Sovereign Base Area. Rents are 20-25% cheaper than Limassol. A quieter alternative to both Limassol and Paphos with authentic Cypriot character."
   - question: "Where do British expats live in Larnaca?"
-    answer: "The main British area is Dhekelia Road, the eastern coastal corridor near the Dhekelia Sovereign Base Area (700-900 for a one-bed, GBP 600-775). Oroklini is also popular with British families (600-800, GBP 515-690). Both have established English-speaking communities. The British registered population in the Larnaca district is roughly 6,700."
+    answer: "The main British area is Dhekelia Road, the eastern coastal corridor near the Dhekelia Sovereign Base Area (€700-900 for a one-bed, ≈£600-775). Oroklini is also popular with British families (€600-800, ≈£515-690). Both have established English-speaking communities. The British registered population in the Larnaca district is roughly 6,700."
   - question: "How does Larnaca compare to Paphos for British expats?"
-    answer: "Larnaca: main international airport (LCA, 51 airlines, 91 routes), 10 min from centre. More urban feel, authentic Cypriot atmosphere, strong Arab community. Paphos: own airport (PFO, 14 UK cities, fewer routes overall), largest British community on Cyprus (25,000), more established English-language infrastructure, Akamas nature. Rents are similar. Larnaca suits those who value airport access and lower-key living; Paphos suits those who want a large ready-made British community."
+    answer: "Larnaca: main international airport (LCA), 10 min from centre. More urban feel, authentic Cypriot atmosphere, strong Arab community. Paphos: own airport (PFO, UK flights, fewer routes overall), largest British community on Cyprus (25,000), more established English-language infrastructure, Akamas nature. Rents are similar. Larnaca suits those who value airport access and lower-key living; Paphos suits those who want a large ready-made British community."
   - question: "Which neighbourhood in Larnaca is best for families?"
-    answer: "Oroklini (600-800 for a one-bed, GBP 515-690): quiet suburb, 33 nationalities, 10 min from the centre. Kamares (800-1,200, GBP 690-1,030): Metropolis Mall, cinema, schools. Aradippou (500-700, GBP 430-600): most affordable, PASCAL school. All three are family-friendly, require a car, and offer significantly lower rents than coastal neighbourhoods."
+    answer: "Oroklini (€600-800 for a one-bed, ≈£515-690): quiet suburb, 33 nationalities, 10 min from the centre. Kamares (€800-1,200, ≈£690-1,030): Metropolis Mall, cinema, schools. Aradippou (€500-700, ≈£430-600): most affordable, PASCAL school. All three are family-friendly, require a car, and offer significantly lower rents than coastal neighbourhoods."
 ---
-> **Short answer:** The best Larnaca neighbourhoods for expats are Finikoudes (walkable, beach), Kamares (quiet, families), and Dhekelia Road (affordable, suburban). Rent is EUR 550-1,000/month for a 1-2 bed flat.
+> **Short answer:** The best Larnaca neighbourhoods for expats are Finikoudes (walkable, beach), Kamares (quiet, families), and Dhekelia Road (affordable, suburban). A one-bed flat rents for EUR 500-1,000/month in most areas (more at the port and marina).
 
 
-Larnaca is the **cheapest coastal city in Cyprus** and the gateway to the island: Larnaca International Airport (LCA) is 10 minutes from the centre and handles **8.7 million passengers a year** (2024 record). If you are flying in from the UK, this is almost certainly where you land -- and for many British expats, it is where they stay.
+Larnaca is the **cheapest coastal city in Cyprus** and the gateway to the island: Larnaca International Airport (LCA) is 10 minutes from the centre and is the busiest airport in Cyprus. If you are flying in from the UK, this is almost certainly where you land -- and for many British expats, it is where they stay.
 
 Larnaca does not have Limassol's tech scene or Paphos's established British retirement community. What it offers instead: **rents 20-25% lower than Limassol**, an airport on your doorstep, an authentic Cypriot atmosphere without the traffic and tourist congestion, the Salt Lake with its flamingos, and a pace of life that suits those who moved to the Mediterranean to actually slow down.
 
@@ -69,7 +69,7 @@ Average rent per sqm: **EUR 19-22** vs Limassol **EUR 25-30+**. Larnaca is **20-
 
 > **UK pension check:** The full UK State Pension (2025/26: GBP 221.20/week = ~GBP 960/month = ~EUR 1,115/month) covers rent in most Larnaca neighbourhoods. In Kiti or Aradippou, it covers rent with EUR 400-600 left over for other expenses. Even in central Finikoudes, a couple with two full State Pensions (~GBP 1,920/month, ~EUR 2,230) can live comfortably. Larnaca is one of the few coastal cities in the EU where the UK State Pension alone is genuinely enough. For detailed retirement budgets, see our [retiring in Cyprus guide](/en/life/retiring-in-cyprus-guide/).
 
-> **Compared with Paphos:** Rents are broadly similar (Paphos one-bed: EUR 600-1,200). The difference is not price but lifestyle. Larnaca gives you the main international airport, a more urban feel, and authentic Cypriot character. Paphos gives you the largest established British community on the island (25,000), direct flights to 14 UK cities from its own airport, and the Akamas Peninsula. If airport access and lower-key living matter more, Larnaca wins. If a ready-made British social infrastructure matters more, Paphos wins. See our [Paphos neighbourhood guide](/en/life/paphos-neighbourhoods-guide-2026/) for a direct comparison.
+> **Compared with Paphos:** Rents are broadly similar (Paphos one-bed: EUR 600-1,200). The difference is not price but lifestyle. Larnaca gives you the main international airport, a more urban feel, and authentic Cypriot character. Paphos gives you the largest established British community on the island (25,000), direct flights to many UK airports from its own airport, and the Akamas Peninsula. If airport access and lower-key living matter more, Larnaca wins. If a ready-made British social infrastructure matters more, Paphos wins. See our [Paphos neighbourhood guide](/en/life/paphos-neighbourhoods-guide-2026/) for a direct comparison.
 
 ---
 
@@ -176,18 +176,15 @@ This is the single biggest practical advantage of living in Larnaca. LCA is not 
 
 | Metric | Data |
 |--------|------|
-| Passengers (2024) | **8.7 million** (record, +6% year-on-year) |
 | Growth H1 2025 | +19% vs 2024 |
-| Airlines | 51 |
-| Destinations | 91 (38 countries) |
 | Top routes | London (~1.4M), Athens (~1.4M), Tel Aviv (~1M) |
 | Top markets | UK, Greece, Israel, Poland, Germany = 64% |
 
 Source: [FlightConnections](https://www.flightconnections.com/flights-from-larnaca-lca), [Cyprus Mail](https://cyprus-mail.com/2025/01/10/cyprus-airports-hit-record-2024-traffic-with-7-8-million-passengers)
 
-**What this means for British expats:** Direct flights to multiple UK cities (London Heathrow, Gatwick, Stansted, Luton, Manchester, Birmingham, Edinburgh, and more depending on season). From Larnaca, you are at the airport in 10 minutes. From Limassol, the same airport takes 45-60 minutes. From Paphos, you use PFO airport -- which has fewer airlines (28 vs 51) and fewer destinations (49 vs 91). If you fly back to the UK regularly -- visiting family, managing property, medical appointments -- living near LCA saves hours every trip.
+**What this means for British expats:** Direct flights to multiple UK cities (London Heathrow, Gatwick, Stansted, Luton, Manchester, Birmingham, Edinburgh, and more depending on season). From Larnaca, you are at the airport in 10 minutes. From Limassol, the same airport takes 45-60 minutes. From Paphos, you use PFO airport -- which has fewer airlines and destinations. If you fly back to the UK regularly -- visiting family, managing property, medical appointments -- living near LCA saves hours every trip.
 
-> **Paphos comparison:** Paphos Airport (PFO) has direct flights to 14 UK cities and is growing, but LCA handles nearly **3x the traffic** and has almost **twice the destinations**. For connections beyond the UK (Europe, Middle East, Africa), LCA has far more options. If you only ever fly to the UK, PFO is fine. If you fly anywhere else, LCA is significantly better.
+> **Paphos comparison:** Paphos Airport (PFO) has direct flights to many UK airports and is growing, but LCA handles far more traffic and destinations. For connections beyond the UK (Europe, Middle East, Africa), LCA has far more options. If you only ever fly to the UK, PFO is fine. If you fly anywhere else, LCA is significantly better.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 slug: "greek-language-exam-citizenship"
-title: "Griechischprüfung für Zyperns Einbürgerung"
-description: "So bestehen Sie die Griechisch-Prüfung für die Einbürgerung: Niveaus A2 und B1, wo und wann ablegen, wie vorbereiten, was gefragt wird."
+title: "Griechischprüfung Zypern Einbürgerung: A2 und B1"
+description: "Welches Griechisch-Niveau brauchen Sie für die zyprische Einbürgerung? A2 oder B1, wo Sie die Prüfung ablegen, was sie kostet und wann die Anmeldung läuft."
 date: 2026-01-24
-updated: 2026-04-09
+updated: 2026-11-07
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -16,204 +16,116 @@ draft: false
 translationKey: "grecheskiy-yazyk-ekzamen-grazhdanstvo"
 faqSchema:
   - question: "Welches Griechisch-Niveau brauche ich für die zyprische Staatsbürgerschaft?"
-    answer: "Mindestens B1 (Ελληνομάθεια) — mittleres Niveau. Die Prüfung wird jährlich im Mai vom Bildungsministerium durchgeführt. Teile: Leseverständnis, Schreiben, Hörverständnis, Sprechen. Vorbereitungszeit: 1–2 Jahre ab Null. Tipp: KEPE-Kurse (staatlich, kostenlos) + Privatlehrer für Prüfungsvorbereitung."
+    answer: "Die Standard-Einbürgerung nach Formular M127 verlangt B1, vorbehaltlich der Ausnahme für eine qualifizierende griechischsprachige Ausbildung. Für geeignete hochqualifizierte Antragsteller entspricht A2 vier früheren qualifizierenden Aufenthaltsjahren und B1 drei Jahren, vor dem gesonderten letzten Zeitraum von zwölf Monaten. Weitere Aufenthalts- und Beschäftigungsbedingungen gelten weiterhin."
+  - question: "Wo kann ich die Griechischprüfung auf Zypern ablegen?"
+    answer: "Das Innenministerium akzeptiert das Zertifikat des Zentrums für griechische Sprache über den Prüfungsdienst des zyprischen Bildungsministeriums und das Zertifikat der School of Modern Greek der Universität Zypern. Maßgeblich ist die aktuelle Zypern-Ankündigung des jeweiligen Anbieters; ein Termin nur in Griechenland ist kein Prüfungstermin auf Zypern."
+  - question: "Was kostet die Ellinomatheia-Prüfung?"
+    answer: "Die Gebühren hängen vom Anbieter und vom Termin ab. Die Mitteilung des zyprischen Bildungsministeriums für Mai 2026 nannte 90 EUR für A2 oder B1. Die Universität Zypern nennt derzeit 90 EUR für jede unabhängige Zertifikatsprüfung A2 oder B1; die Gebühren für Abschlussprüfungen von Kursen sind in der Kursgebühr enthalten. Prüfen Sie den nächsten Termin, bevor Sie zahlen."
 ---
-> **Kurzantwort:** Fuer die Einbürgerung: Griechisch-Pruefung B1 (Ellinomatheia) bestehen. Pruefungen im Mai und November. Vorbereitung: 6-12 Monate.
 
-Für den Erwerb der zyprischen Staatsbürgerschaft durch Einbürgerung ist eine Griechisch-Prüfung erforderlich. Hier die Details.
+Bei der **Einbürgerung nach Formular M127** hängt das Griechisch-Niveau vom jeweiligen Weg ab. Für den Standardweg gilt B1; A2 ist nicht die allgemeine Anforderung. Wer die genannte Ausnahme für die Ausbildung erfüllt, muss nicht unbedingt eine Prüfung ablegen.
 
-> 📚 **Kompletter Lernleitfaden:** [Griechisch lernen auf Zypern](/de/life/learning-greek-language-cyprus/) — Kurse, Materialien, Lehrkräfte, alle Ressourcen
+## Welche Anforderungen gibt es?
 
-> **Offizielle Quellen:**
-> - [Anforderungen zur Einbürgerung](https://www.gov.cy/moi/en/information-regarding-the-application-for-obtaining-cypriot-citizenship-by-naturalization/) — Griechisch-Niveau B1
-> - [Formular M127](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/) — Antrag auf Staatsbürgerschaft
-> - [Ministry of Education](https://www.moec.gov.cy/en/) — Bildungsministerium (Prüfungen)
+Die [Hinweise des Innenministeriums zu M127](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/) und das [geltende Staatsangehörigkeitsgesetz, Abschnitt 111B](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html), unterscheiden drei Fälle:
 
-## Welche Anforderungen gelten?
+| Weg | Griechisch-Anforderung | Frühere qualifizierende Aufenthaltszeit, vor den gesonderten letzten zwölf Monaten |
+|-----|------------------------|-------------------------------------------------------------------------------------|
+| Standard M127 | **B1**, vorbehaltlich der Ausnahme für die Ausbildung | Sieben Jahre innerhalb der vorangegangenen zehn Jahre |
+| Geeigneter hochqualifizierter Antragsteller | **A2** | Vier Jahre innerhalb dieses früheren Zehnjahreszeitraums |
+| Geeigneter hochqualifizierter Antragsteller | **B1** oder die qualifizierende Ausnahme für die Ausbildung | Drei Jahre innerhalb dieses früheren Zehnjahreszeitraums |
 
-### Niveau
+Diese Zahlen ersetzen die übrigen Voraussetzungen nicht. Der Weg für Hochqualifizierte verlangt eine qualifizierende Beschäftigung in einem Unternehmen und die geltenden Kriterien für Beschäftigte; das Ministerium verlangt außerdem mindestens zwei Jahre qualifizierende Beschäftigung in einem Unternehmen vor dem Antrag. Der letzte Aufenthaltszeitraum von zwölf Monaten wird gesondert gezählt; das Gesetz erlaubt Abwesenheiten von bis zu 90 Tagen.
 
-Für die Staatsbürgerschaft wird Niveau **A2** oder **B1** benötigt:
+Prüfen Sie alle Bedingungen im [Leitfaden zur Standard-Einbürgerung](/de/immigration/zypern-staatsbuergerschaft-einbuergerung/) oder im [Leitfaden zum Weg für Hochqualifizierte](/de/immigration/cyprus-citizenship-naturalization/), bevor Sie ein Prüfungsniveau wählen.
 
-- **A2** — Grundstufe
-- **B1** — Mittelstufe (Intermediate)
+## Welche Ausnahmen gibt es?
 
-### Welches Niveau wählen
+Die genannte Ausnahme beim Sprachnachweis betrifft ein **anerkanntes griechischsprachiges Abitur bzw. Schulabschlusszeugnis** oder einen **griechischsprachigen akademischen Abschluss**. Eine Kursbescheinigung, bloßer Schulbesuch oder ein Abschluss im Fach Griechisch erfüllt diese Bedingungen für sich allein nicht.
 
-Aus der Praxis:
+Das M127-Zertifikat über politische und soziale Kenntnisse ist eine eigene Anforderung; es ist nicht das Griechisch-Zertifikat. Die erforderlichen Nachweise nennt die [M127-Checkliste](https://www.gov.cy/media/sites/21/2025/10/List-of-Supporting-Documents-Application-M127-EN.pdf).
 
-- A2 — reicht für die meisten Fälle
-- B1 — wenn Sie ein höheres Niveau nachweisen möchten
-
-> **Für Deutsche:** Anders als der deutsche Einbürgerungstest (33 Fragen, Multiple-Choice auf Deutsch), verlangt Zypern den Nachweis tatsächlicher Griechischkenntnisse in Lesen, Schreiben, Hören und Sprechen. Beginnen Sie rechtzeitig mit der Vorbereitung, bevor Sie die [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/) beantragen.
+Andere Einbürgerungswege müssen gesondert geprüft werden. So nennt zum Beispiel die Checkliste **M125** (Ehegatten und eingetragene Partner) vom Juni 2025 den Griechischtest von M127 nicht. Wenden Sie die M127-Prüfungsregel nicht auf jeden Einbürgerungsantrag an.
 
 ## Wo kann ich die Prüfung ablegen?
 
-### Prüfungsmöglichkeiten
+Das Innenministerium nennt zwei Anbieter, deren Sprachzertifikate akzeptiert werden:
 
-**1. Einheitliche Griechisch-Prüfung (Ελληνομάθεια)**
+1. **Zentrum für griechische Sprache** über den Prüfungsdienst des zyprischen Bildungsministeriums
+2. **School of Modern Greek der Universität Zypern**
 
-- Findet im **Mai** statt
-- Organisiert vom Zentrum für griechische Sprache (Griechenland)
-- Wird für die Staatsbürgerschaft anerkannt
+Eine gewöhnliche Sprachkurs- oder Teilnahmebescheinigung ist nicht automatisch das geforderte Sprachzertifikat. Die Universität teilt mit, dass ihre Abschlussprüfungen der Kurse und ihre unabhängigen Zertifikatsprüfungen zu denselben offiziellen Sprachzertifikaten führen; für die unabhängige Prüfung ist kein Kursbesuch nötig.
 
-**2. Prüfung der Universität Zypern**
+### Zentrum für griechische Sprache / Prüfungsdienst Zypern
 
-- Findet im **Dezember–Januar** statt
-- Organisiert von der University of Cyprus
-- Wird ebenfalls anerkannt
+Für den jeweiligen Termin nutzen Sie die [Ankündigungen des zyprischen Prüfungsdienstes](https://enimerosi.moec.gov.cy/mdv/ypp19692) und die [Zertifizierungsnachrichten des Zentrums](https://www.greek-language.gr/certification/news/index.html).
 
-### Anmeldung
+Die **Mitteilung des zyprischen Ministeriums vom 28. Januar 2026 für Mai 2026** legte die schriftliche Prüfung A2 auf den 17. Mai und B1 auf den 30. Mai, bei **90 EUR pro Niveau**. Sie stellte ausdrücklich fest, dass diese örtlichen Termine vom allgemeinen Kalender des Zentrums abwichen. Das sind Angaben zu einem vergangenen Termin, kein Versprechen für die nächsten Termine oder Gebühren auf Zypern.
 
-- Frühzeitig (mehrere Monate im Voraus)
-- Online auf den Websites der Organisatoren
-- Begrenzte Plätze
+Die Ankündigung des Zentrums vom **31. August 2026** besagt, dass die Oktober-Runde 2026 **nur in Griechenland** stattfindet, für A2 für berufliche Zwecke und für B1. Sie belegt keine zweite Prüfungsrunde auf Zypern im November.
+
+### Universität Zypern: nächste Runde im Januar 2027
+
+Die [aktuellen Zertifizierungsinformationen der Universität, Stand 31. August 2026](https://www.ucy.ac.cy/mogr/greek-language-certification-exams/general-information/?lang=en), nennen:
+
+- **Termin:** Nikosia, **11.–29. Januar 2027**; einzelne Daten, Uhrzeiten und der Ort werden nach Ende der Anmeldung per E-Mail mitgeteilt
+- **Anmeldung:** von **2. November 2026, 09:00 Uhr Zypern-Zeit** bis **30. November, 23:59 Uhr**, oder bis die Plätze vergeben sind, je nachdem, was früher eintritt
+- **Gebühr für die unabhängige Prüfung:** **90 EUR für A2** und **90 EUR für B1**, nicht erstattbar
+- **Gültige Anmeldung:** korrekt und vollständig ausgefülltes Online-Formular innerhalb der Frist und der Platzzahl sowie erfolgreiche Zahlung über JCC
+
+Der allgemeine Zeitplan der Seite erwähnt Januar und September; den tatsächlichen Zeitraum entnehmen Sie der Terminankündigung mit Datum. Die Gebühren für Abschlussprüfungen der Kurse sind in der Kursgebühr enthalten; verwechseln Sie den Kurspreis also nicht mit der Gebühr für die unabhängige Zertifikatsprüfung.
 
 ## Wie ist die Prüfung aufgebaut?
 
-### Teile
+Die [offiziellen A2- und B1-Beispiele des Zentrums](https://www.greek-language.gr/certification/node/12.html) umfassen vier Teile:
 
-Umfasst in der Regel:
+1. **Leseverständnis**
+2. **Hörverständnis**
+3. **Schriftliche Produktion**
+4. **Mündliche Produktion**
 
-1. **Lesen** (Reading) — Textverständnis
-2. **Schreiben** (Writing) — Textproduktion
-3. **Hörverstehen** (Listening) — Verständnis beim Hören
-4. **Sprechen** (Speaking) — mündlicher Teil
-
-### Themen
-
-- Alltagssituationen
-- Allgemeine Themen (Familie, Arbeit, Stadt)
-- Kultur Zyperns und Griechenlands
+Die Seite mit den Beispielen enthält schriftliche Aufgaben, Hörtexte und Beispiele für die mündliche Prüfung. Üben Sie mit den Beispielen für Ihr Niveau und lesen Sie die aktuellen Prüfungsordnungen und Hinweise des gewählten Anbieters.
 
 ## Wie bereite ich mich vor?
 
-### Kurse
+- Klären Sie zuerst Ihren Einbürgerungsweg und das akzeptierte Niveau.
+- Arbeiten Sie die offiziellen Beispiele für alle vier Fertigkeiten durch, auch Sprechen und Hören.
+- Wählen Sie Unterricht und Lernplan passend zu Ihrem jetzigen Niveau und Ihrer verfügbaren Zeit.
+- Planen Sie um die veröffentlichte Anmeldefrist und bewahren Sie Anmelde- und Zahlungsbestätigungen auf.
+- Kurse und Materialien finden Sie im [Leitfaden zum Griechischlernen](/de/life/learning-greek-language-cyprus/).
 
-**LEEKE** — Griechisch-Sprachschulen bei den Gemeinden:
+Eine feste Zahl von Lernmonaten garantiert das Bestehen nicht.
 
-- Kostenlos oder günstig
-- In jeder Stadt verfügbar
-- Verschiedene Niveaus
-- Aktuelle Informationen im Griechisch-Chat (Link unten)
+## Wie erhalte ich Ergebnis und Zertifikat?
 
-**Private Schulen und Nachhilfelehrer:**
+Die Universität veröffentlicht die Ergebnisse **innerhalb von zwei Monaten bei unabhängigen Zertifikatsprüfungen** und **innerhalb eines Monats bei den Abschlussprüfungen ihrer Kursteilnehmer**. Individuelle ausführliche Ergebnisse und Hinweise zur Abholung oder Zustellung des Zertifikats schickt sie per E-Mail. Die Zertifikate werden nach der Bekanntgabe der Ergebnisse ausgestellt.
 
-- Individueller Ansatz
-- Teurer
-- Lehrer finden Sie in der Telegram-Gruppe [Cyprus Greek Language and Culture](https://t.me/cylang)
-- Dort bieten auch Lehrer ihre Dienste an
+Zur Abholung gibt es drei Möglichkeiten: Termin in den Räumen der School, Abholung durch eine bevollmächtigte Person nach der vorgeschriebenen schriftlichen Mitteilung oder schriftlicher Antrag auf Postversand, wobei der Empfänger das Porto zahlt. Folgen Sie den Hinweisen der Universität für die gewählte Möglichkeit.
 
-### Telegram-Community
+Beim Zentrum für griechische Sprache gilt die Ergebnis- und Zertifikatsankündigung des jeweiligen Termins; übertragen Sie den Zeitplan der Universität nicht darauf. Die Ergebnisse vom Mai 2026 kündigte das Zentrum für den **31. Juli 2026, 12:00 Uhr** an; diese frühere Ankündigung sagt nichts über den Ergebnistermin der nächsten Runde.
 
-Der wichtigste Chat für Griechisch-Lernende in Zypern:
+Legen Sie dem M127-Antrag den passenden Sprachnachweis oder Ausbildungsnachweis bei, wie es die Checkliste verlangt. Eine bestandene Sprachprüfung belegt nicht, dass alle Einbürgerungsbedingungen erfüllt sind.
 
-**[@cylang](https://t.me/cylang)** — 7.500+ Mitglieder
+## Häufige Fragen
 
-Was dort zu finden ist:
+### Welches Griechisch-Niveau brauche ich für die zyprische Staatsbürgerschaft?
 
-- Empfehlungen für Kurse und Nachhilfelehrer
-- Informationen zu Prüfungsterminen
-- Erfahrungen von Prüfungsabsolventen
-- Links zu Lernmaterialien
+Die Standard-Einbürgerung nach Formular M127 verlangt B1, vorbehaltlich der Ausnahme für eine qualifizierende griechischsprachige Ausbildung. Für geeignete hochqualifizierte Antragsteller entspricht A2 vier früheren qualifizierenden Aufenthaltsjahren und B1 drei Jahren, vor dem gesonderten letzten Zeitraum von zwölf Monaten. Weitere Aufenthalts- und Beschäftigungsbedingungen gelten weiterhin.
 
-### Selbststudium
+### Wo kann ich die Griechischprüfung auf Zypern ablegen?
 
-- Lehrbücher (empfohlen wird die Reihe „Κλικ")
-- YouTube-Kanäle auf Griechisch
+Das Innenministerium akzeptiert das Zertifikat des Zentrums für griechische Sprache über den Prüfungsdienst des zyprischen Bildungsministeriums und das Zertifikat der School of Modern Greek der Universität Zypern. Maßgeblich ist die aktuelle Zypern-Ankündigung des jeweiligen Anbieters; ein Termin nur in Griechenland ist kein Prüfungstermin auf Zypern.
 
-### Zu Duolingo
+### Was kostet die Ellinomatheia-Prüfung?
 
-**Wichtig:** Duolingo wird für Griechisch **nicht empfohlen** als ernsthafte Vorbereitung.
+Die Gebühren hängen vom Anbieter und vom Termin ab. Die Mitteilung des zyprischen Bildungsministeriums für Mai 2026 nannte 90 EUR für A2 oder B1. Die Universität Zypern nennt derzeit 90 EUR für jede unabhängige Zertifikatsprüfung A2 oder B1; die Gebühren für Abschlussprüfungen von Kursen sind in der Kursgebühr enthalten. Prüfen Sie den nächsten Termin, bevor Sie zahlen.
 
-Der Griechisch-Kurs auf Duolingo:
+## Quellen und verwandte Leitfäden
 
-- Ist veraltet und wird schlecht gepflegt
-- Enthält viele Fehler in den Übungen
-- Wird nicht an aktuelle Anforderungen angepasst
-
-**Alternative für Fortgeschrittene:**
-
-Eine Fan-Gruppe ehemaliger Nutzer hat hochwertige Materialien zusammengestellt:
-[duome.eu/tips/en/el](https://duome.eu/tips/en/el) — Grammatik, Tabellen, Erklärungen
-
-Das ist kein Ersatz für Kurse, aber ein nützliches Nachschlagewerk zur Grammatik.
-
-### Zeitaufwand
-
-Für A2 von Null:
-
-- **6–12 Monate** regelmäßiges Lernen
-- Abhängig von Intensität und Begabung
-
-## Wann und wie erhalte ich die Ergebnisse?
-
-### Wann kommen sie
-
-- **Mehrere Monate** nach der Prüfung
-- Per Post oder online
-
-### Zertifikat
-
-Nach bestandener Prüfung — ein **Zertifikat**, das dem Antrag auf Staatsbürgerschaft beigelegt wird.
-
-## Wer ist von der Prüfung befreit?
-
-### Wer befreit ist
-
-- Absolventen einer **griechischen Schule** (6 Jahre Schulbesuch)
-- Inhaber eines **Diploms** in griechischer Sprache
-- Bestimmte andere Kategorien
-
-### Kinder
-
-Wenn das Kind eine griechische Schule besucht hat — entfällt die Prüfung.
-
-## Was gilt für Fast-Track-Bewerber?
-
-### Gibt es Unterschiede
-
-Für Fast-Track über BCS ist die Prüfung **ebenfalls erforderlich**:
-
-- Dieselben Anforderungen
-- A2 oder B1
-
-## Welche praktischen Tipps gibt es?
-
-1. **Beginnen Sie frühzeitig** — 1–2 Jahre vor der Antragstellung
-2. **Melden Sie sich früh zur Prüfung an** — Plätze sind begrenzt
-3. **Üben Sie das Sprechen** — viele scheitern am Speaking-Teil
-4. **Schauen Sie zyprisches Fernsehen** — gewöhnen Sie sich an den Akzent
-5. **Suchen Sie eine Lerngruppe** — gemeinsam lernt es sich leichter
-6. **Verlängerung frühzeitig einleiten** — Unterlagen 2 Monate vor Ablauf des Status einreichen. Ein abgelaufener Status verkompliziert das Verfahren erheblich
-7. **Online-Termine buchen** — Terminvereinbarung über [Ariadne Portal](https://eforms.eservices.cypress.gov.cy/) spart 2–3 Stunden Wartezeit
-8. **Dokumentenmappe führen** — alle Anträge, Quittungen und Korrespondenz in einem Ordner aufbewahren. Bei Nachforderungen sparen Sie Zeit
-9. **Anforderungen vorab prüfen** — die Dokumentenliste kann je nach Antragstyp variieren. Vorab anrufen oder auf [gov.cy](https://www.gov.cy/) prüfen
-
-## Was sollte ich noch lesen?
-
-- [Griechisch lernen auf Zypern](/de/life/learning-greek-language-cyprus/) — Kurse, Materialien, Lehrkräfte, alle Ressourcen
-- [Staatsbürgerschaft Zyperns](/de/immigration/cyprus-citizenship-naturalization/) — Standard-Einbürgerung (7+ Jahre)
-- [Aufenthaltserlaubnis in Zypern](/de/immigration/residence-permit-cyprus-guide/) — alle Aufenthaltstypen erklärt
-- [Wehrdienst in Zypern](/de/immigration/military-service-cyprus-children/) — Wehrpflicht für männliche Staatsbürger
-
----
-
-Die griechische Sprache ist eine Pflichtanforderung für die Staatsbürgerschaft. Beginnen Sie rechtzeitig mit der Vorbereitung, um die Antragstellung nicht zu verzögern.
-
-
-## Welche wichtigen Hinweise gibt es?
-
-- **Nicht überziehen** — der Aufenthalt mit abgelaufenem Visum ist ein Verstoß gegen das Einwanderungsrecht. Erstverstoß: Verwarnung. Wiederholte Verstöße können zur Abschiebung führen
-- **Ein- und Ausreisen dokumentieren** — für bestimmte Statustypen (183-Tage-Regel, 60-Tage-Regel) ist die Anzahl der Tage in Zypern entscheidend
-- **Arbeitgeberwechsel** — bei Jobwechsel: Migration Department informieren und neue Arbeitserlaubnis beantragen. Arbeit beim neuen Arbeitgeber ohne Meldung = Verstoß
-- **Familienänderungen** — Geburt, Heirat, Scheidung — all das wirkt sich auf den Aufenthaltsstatus aus und muss dokumentiert werden
-- **Krankenversicherung** — für die meisten Aufenthaltstitel ist eine Krankenversicherung Pflicht. GeSY deckt Registrierte ab, aber bei der Antragstellung kann eine private Police erforderlich sein
-
----
-
-## Quellen
-
-- [Naturalization Requirements](https://www.gov.cy/moi/en/information-regarding-the-application-for-obtaining-cypriot-citizenship-by-naturalization/) — gov.cy
-- [Form M127](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/) — gov.cy
-- [Ministry of Education](https://www.moec.gov.cy/en/) — gov.cy
+- [M127 — Einbürgerungsbedingungen](https://www.gov.cy/moi/en/documents/acquisition-of-cypriot-citizenship-by-naturalization-due-to-years-of-residence-form-m127/)
+- [Geltendes Staatsangehörigkeitsgesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_141/full.html)
+- [Prüfungsdienst Zypern — Mitteilung für Mai 2026](https://enimerosi.moec.gov.cy/archeia/1/ypp19692a)
+- [Universität Zypern — Zertifizierungsinformationen](https://www.ucy.ac.cy/mogr/greek-language-certification-exams/general-information/?lang=en)
+- [Zentrum für griechische Sprache — Zertifizierungsnachrichten](https://www.greek-language.gr/certification/news/index.html)
+- [Zentrum für griechische Sprache — offizielle Beispiele](https://www.greek-language.gr/certification/node/12.html)
+- [Griechisch lernen auf Zypern](/de/life/learning-greek-language-cyprus/)

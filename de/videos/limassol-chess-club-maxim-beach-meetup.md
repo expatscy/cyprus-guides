@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Schachclub in Limassol: Maxims Strandtreffen zum Spielen und Reden"
+title: "Schachclub in Limassol: Maxims Strandtreffen zum Spielen"
 description: "Maxim über seinen informellen Schachclub in Limassol: Spiele am Meer, Einsteiger, verschiedene Sprachen und Begegnungen durch ein gemeinsames Hobby."
 slug: "limassol-chess-club-maxim-beach-meetup"
 date: 2024-06-20

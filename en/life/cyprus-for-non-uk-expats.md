@@ -1,9 +1,9 @@
 ---
 slug: "cyprus-for-non-uk-expats"
-title: "Cyprus for US, Canadian & Australian Expats"
-description: "Cyprus expat guide for Americans, Canadians, Australians. Tax, healthcare, banking, pensions — what's different when you're not British."
+title: "Cyprus for US, Canadian, Australian & South African Expats"
+description: "Cyprus expat guide for Americans, Canadians, Australians and South Africans. Tax, healthcare, banking, pensions — what's different when you're not British."
 date: 2026-03-11
-updated: 2026-03-11
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -90,7 +90,7 @@ There is no S1 form equivalent for Canadians.
 Australia taxes based on residency. If you cease to be an Australian tax resident, you generally stop paying Australian income tax on foreign income. However:
 
 - **ATO obligations** — you must notify the ATO of your change of residency. Certain Australian-source income (rent from Australian property, dividends from Australian shares) remains taxable in Australia.
-- **Australia–Cyprus Tax Treaty** — check the [ATO Treaty list](https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/in-detail/thin-capitalisation/country-by-country-reporting/exchange-partners). As of early 2026, there is no comprehensive Double Taxation Agreement between Australia and Cyprus. This means you could face double taxation on certain income streams. Seek specialist advice.
+- **Australia–Cyprus Tax Treaty** — check the [Australian Treasury list of income tax treaties](https://treasury.gov.au/tax-treaties/income-tax-treaties) (checked 2026-11-07; Cyprus is not on it). As of early 2026, there is no comprehensive Double Taxation Agreement between Australia and Cyprus. This means you could face double taxation on certain income streams. Seek specialist advice.
 - **Superannuation** — you generally cannot access superannuation early just because you moved overseas. Standard preservation rules apply (age 60 for most people). There are limited "departing Australia superannuation payment" provisions for temporary visa holders, but these do not apply to Australian citizens.
 - **Medicare** — Australia has reciprocal healthcare agreements with some countries (UK, Ireland, New Zealand, several EU states), but [Cyprus is not currently on the list](https://www.servicesaustralia.gov.au/reciprocal-health-care-agreements). You will need GESY eligibility or private insurance.
 

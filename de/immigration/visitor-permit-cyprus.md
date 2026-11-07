@@ -1,7 +1,7 @@
 ---
 slug: "visitor-permit-cyprus"
 title: "Besuchervisum Zypern: Voraussetzungen"
-description: "Besuchererlaubnis Zypern: Einkommen je Kategorie, Unterlagen für Erstantrag und Verlaengerung, zehnjaehrige Bankgarantie, Arbeitsverbot, Gesundheitsversorgung und Reisen."
+description: "Besuchererlaubnis Zypern: Einkommen je Kategorie, Unterlagen für Erstantrag und Verlängerung, zehnjährige Bankgarantie, Arbeitsverbot, Gesundheit und Reisen."
 date: 2026-01-24
 updated: 2026-10-21
 category: "Einwanderung"

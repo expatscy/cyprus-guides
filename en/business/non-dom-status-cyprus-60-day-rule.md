@@ -3,7 +3,7 @@ slug: "non-dom-status-cyprus-60-day-rule"
 title: "Cyprus Non-Dom Status: 60-Day Rule & SDC"
 description: "Non-domiciled status in Cyprus: what it provides, how to obtain it, the 60-day rule for tax residency, and exemption from SDC on dividends and interest."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -76,7 +76,7 @@ The standard rule: you become a **tax resident of Cyprus** if you spend **more t
 3. Have a **permanent home** in Cyprus (owned or rented)
 4. **Carry on business or be employed** in Cyprus, and/or **hold an office in a Cyprus tax-resident entity**
 
-All four conditions must hold: at least 60 days in Cyprus; no more than 183 days in another country; business, employment or an office in a Cyprus tax-resident entity; and a permanent Cyprus home owned or rented. The business/employment/office must not terminate during that tax year. From 2026, being tax resident elsewhere is no longer an exclusion.
+All four conditions must hold. The business, employment or office must not terminate during that tax year. From 2026, being tax resident elsewhere is no longer an exclusion.
 
 > **Tax-year distinction:** The official **2025 return guide** requires that a person using the 60-day rule is not tax resident in another country. The **current 2026 legislation** removes that exclusion. Use the rule for the year being assessed. If two countries treat you as resident, check the applicable treaty and its residence provisions; domestic qualification alone does not settle treaty residence. [Income Tax Law, section 2](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html).
 
@@ -120,7 +120,7 @@ The TD38 declaration goes to the district tax office where your file is maintain
 No. Income tax on salary is paid **the same way**. Non-dom only exempts you from **SDC** (on dividends and passive interest; rental SDC is abolished for everyone from 2026).
 
 **What happens after 17 years?**
-Eligible individuals without a Cyprus domicile of origin who become deemed domiciled may elect alternative lump-sum SDC with Tax Commissioner approval: €250,000 paid upfront for each five-year period, by the end of the month following approval. An application is due by 30 June of the first year. Up to two periods are allowed (€500,000 for ten years). The election is irrevocable for each five-year period; paid amounts are non-refundable and cannot be offset against other tax liabilities or credits, and foreign-tax credit is unavailable against this charge. If payment is late, the alternative method does not apply. This is an alternative SDC charge. The current application instructions require submission through **TFA Inbox**. [Official application instructions](https://www.gov.cy/media/sites/167/2026/06/Application-Extension-of-Non-Dom.pdf). [SDC law, §3Δ](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html>).
+Eligible individuals without a Cyprus domicile of origin who become deemed domiciled may elect alternative lump-sum SDC with Tax Commissioner approval: €250,000 paid upfront for each five-year period, by the end of the month following approval. An application is due by 30 June of the first year. Up to two periods are allowed (€500,000 for ten years). The election is irrevocable for each five-year period; paid amounts are non-refundable and cannot be offset against other tax liabilities or credits, and foreign-tax credit is unavailable against this charge. If payment is late, the alternative method does not apply. This is an alternative SDC charge. The current application instructions require submission through **TFA Inbox**. [Official application instructions](https://www.gov.cy/media/sites/167/2026/06/Application-Extension-of-Non-Dom.pdf). [SDC law, §3D](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html>).
 
 **Are there any catches?**
 Cyprus tax residents must report **worldwide income** as required by the applicable return and filing rules. Non-dom does not remove reporting obligations. Check the filing obligation for the relevant tax year.

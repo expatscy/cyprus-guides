@@ -1,9 +1,9 @@
 ---
 slug: "leaving-russia-tax-residency"
 title: "Ausreise aus Russland: Steuern, Abmeldungen, Checkliste"
-description: "Was beim Umzug von Russland nach Zypern zu tun ist: steuerliche Ansässigkeit, 30-%-Satz, Wehrerfassung, Vollmachten, Rente, Verwaltung von Immobilien. Checkliste."
+description: "Umzug von Russland nach Zypern: steuerliche Ansässigkeit, 30-%-Satz, Wehrerfassung, Vollmachten, Rente und Immobilien. Mit Checkliste zum Abhaken."
 date: 2026-03-11
-updated: 2026-03-11
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -16,11 +16,11 @@ draft: false
 translationKey: "leaving-russia-tax-residency"
 faqSchema:
   - question: "Wann werde ich in Russland steuerlich nicht mehr ansässig?"
-    answer: "Wenn Sie sich in einem Kalenderjahr weniger als 183 Tage in Russland aufhalten. Alle Tage werden zusammengezählt (sie müssen nicht aufeinanderfolgen). Anreisetag und Abreisetag zählen mit."
+    answer: "Wenn Sie sich innerhalb von 12 aufeinanderfolgenden Monaten weniger als 183 Tage in Russland aufhalten (Art. 207 Abs. 2 Steuergesetzbuch). Alle Tage werden zusammengezählt (sie müssen nicht aufeinanderfolgen); Anreisetag und Abreisetag zählen mit. Den Status für einen Steuerzeitraum stellt die Steuerbehörde zum Ende des Kalenderjahres fest."
   - question: "Welcher Einkommensteuersatz (NDFL) gilt für Nichtansässige?"
-    answer: "30 % auf die meisten Einkünfte (Gehalt, Miete, Zinsen). Dividenden: 15 %. Seit 2025 gilt beim Verkauf von Immobilien nach einer Mindesthaltedauer (5 Jahre) eine NDFL-Befreiung."
+    answer: "30 % auf die meisten Einkünfte (Gehalt, Miete, Zinsen). Dividenden: 15 %. Einkünfte aus dem Verkauf von Immobilien sind nach der Mindesthaltedauer von der NDFL befreit (Art. 217.1 Steuergesetzbuch; 5 Jahre, in Einzelfällen 3); wird die Frist nicht eingehalten, gelten 30 % auf den gesamten Betrag, ohne Abzüge."
   - question: "Muss ich mich aus der Wehrerfassung abmelden?"
-    answer: "Gesetzlich ja, wenn Sie für mehr als 6 Monate ausreisen. Die Geldbuße bei unterlassener Abmeldung beträgt bis zu 30.000 Rubel. Der Antrag kann beim Wehrersatzamt oder über Gosuslugi gestellt werden."
+    answer: "Ja, bei einer Ausreise für längere Zeit. Die Fristgrenze und das Verfahren stehen in Art. 10 des Gesetzes „Über die Wehrpflicht und den Wehrdienst“; prüfen Sie die aktuelle Fassung. Die Höhe der Geldbuße hängt vom jeweiligen Absatz des Art. 21.5 des Ordnungswidrigkeitengesetzbuchs ab. Der Antrag kann beim Wehrersatzamt oder über Gosuslugi gestellt werden."
   - question: "Kann ich eine Vollmacht ausstellen, wenn ich schon im Ausland bin?"
     answer: "Ja, über das russische Konsulat auf Zypern (Nikosia). Eine konsularische Vollmacht ist einer notariellen gleichgestellt. Kosten: 30-80 Euro, Termin mit 2-4 Wochen Vorlauf."
   - question: "Muss ich das Innenministerium (MVD) über eine zyprische Aufenthaltserlaubnis informieren?"
@@ -66,15 +66,15 @@ Sie haben Russland am 1. Juli 2025 verlassen und sind nicht mehr zurückgekehrt:
 | Gehalt von einem russischen Arbeitgeber | 13 % (bis 5 Mio. ₽/Jahr), 15 % (darüber) | 30 % |
 | Dividenden russischer Unternehmen | 13 % / 15 % | 15 % |
 | Verkauf von Immobilien (Besitzdauer unter 5 Jahren) | 13 % / 15 % auf den Gewinn | 30 % auf den gesamten Verkaufspreis |
-| Verkauf von Immobilien (Besitzdauer über 5 Jahre) | Nicht steuerpflichtig | 30 % auf den gesamten Verkaufspreis (seit 2025 — siehe unten) |
+| Verkauf von Immobilien (Besitzdauer über 5 Jahre) | Nicht steuerpflichtig | Nicht steuerpflichtig, wenn die Mindesthaltedauer eingehalten ist (Art. 217.1 Steuergesetzbuch) |
 | Mieteinnahmen | 13 % / 15 % | 30 % |
 | Zinsen auf Einlagen | 13 % / 15 % (mit steuerfreiem Mindestbetrag) | 30 % |
 
-### Wichtige Änderungen seit 2025 (Bundesgesetz Nr. 389 vom 31.07.2023)
+### Verkauf von Immobilien: Befreiung nach Haltedauer
 
-Seit dem 1. Januar 2025 können Nichtansässige beim Verkauf von Immobilien in Russland eine **NDFL-Befreiung** erhalten, wenn die Mindesthaltedauer eingehalten wird (5 Jahre, in Einzelfällen 3 Jahre) — wie Ansässige. Das ist eine bedeutende Erleichterung, die es früher nicht gab.
+Einkünfte aus dem Verkauf von Immobilien in Russland sind nach der Mindesthaltedauer (5 Jahre, in Einzelfällen 3) von der NDFL befreit — Art. 217.1 Steuergesetzbuch. Wird die Frist nicht eingehalten, zahlt ein Nichtansässiger 30 % auf den gesamten Betrag: Vermögensabzüge stehen ihm nicht zu.
 
-> **Wichtig:** Das Gesetz ist bereits in Kraft, aber die Anwendungspraxis bildet sich erst heraus. Fragen Sie einen Steuerberater.
+> **Wichtig:** Wie Frist und Voraussetzungen in Ihrem Fall für Nichtansässige gelten, klären Sie mit einem Steuerberater.
 
 ### Abzüge
 
@@ -104,13 +104,13 @@ Der Arbeitgeber ist Steueragent und behält die NDFL selbst ein. Der Satz hängt
 - Sie müssen den Arbeitgeber über die Änderung Ihres steuerlichen Status informieren
 - Behält der Arbeitgeber für einen Nichtansässigen weiterhin 13 % ein, ist das sein Risiko, die Nachforderung kommt aber auf Sie zu
 
-> **Wichtig:** Seit 2024 gelten Einkünfte aus der Fernarbeit für russische Unternehmen vom Ausland aus als Einkünfte aus russischen Quellen (Bundesgesetz Nr. 389). Das bedeutet: Russland darf diese Einkünfte auch dann besteuern, wenn Sie nichtansässig sind. Der Satz beträgt 13/15 % (wenn der Arbeitsvertrag mit einer russischen Organisation oder ihrer Betriebsstätte besteht), aber mit zusätzlichen Bedingungen. Die Lage ist kompliziert — lassen Sie sich unbedingt von einem Spezialisten beraten.
+> **Wichtig:** Einkünfte aus Fernarbeit für ein russisches Unternehmen vom Ausland aus sind eine eigene schwierige Frage: Vom tatsächlichen Arbeitsort hängt ab, ob die Einkünfte als Einkünfte aus russischen Quellen gelten (Art. 208 Steuergesetzbuch). Werden sie als Einkünfte eines Nichtansässigen besteuert, beträgt der Satz 30 % (Art. 224). Lassen Sie sich unbedingt von einem Spezialisten beraten.
 
 ## Wie lässt sich die Wehrerfassung beim Umzug klären?
 
 ### Pflicht bei der Ausreise
 
-Nach Art. 10 des Gesetzes „Über die Wehrpflicht und den Wehrdienst“ müssen Bürger, die Russland **für mehr als 6 Monate** verlassen, sich beim Wehrersatzamt **aus der Wehrerfassung abmelden**.
+Nach Art. 10 des Gesetzes „Über die Wehrpflicht und den Wehrdienst“ müssen Bürger, die Russland **für längere Zeit** verlassen, sich beim Wehrersatzamt **aus der Wehrerfassung abmelden**. Die Fristgrenze steht im Artikel selbst — prüfen Sie sie in der aktuellen Fassung.
 
 ### In der Praxis
 
@@ -120,7 +120,7 @@ Nach Art. 10 des Gesetzes „Über die Wehrpflicht und den Wehrdienst“ müssen
 
 ### Folgen der unterlassenen Abmeldung
 
-- Geldbuße nach Art. 21.5 des Ordnungswidrigkeitengesetzbuchs: 500–3.000 ₽ (seit 2023 für einzelne Tatbestände auf 10.000–30.000 ₽ erhöht)
+- Geldbuße nach Art. 21.5 des Ordnungswidrigkeitengesetzbuchs; die Höhe hängt vom jeweiligen Absatz ab — prüfen Sie die aktuelle Fassung
 - Theoretisch ein Grund für eine Fahndung im Rahmen von Mobilmachungsmaßnahmen
 - Die praktische Anwendung hängt von der Situation und vom Alter ab
 
@@ -179,8 +179,8 @@ Wenn Sie als Nichtansässiger eine Wohnung in Russland vermieten:
 
 Wenn Sie als Nichtansässiger Immobilien verkaufen:
 
-- **Besitzdauer unter 5 Jahren (oder 3 Jahren in Einzelfällen):** NDFL 30 % auf den gesamten Verkaufspreis (nicht auf den Gewinn — der Abzug der Anschaffungskosten gilt für Nichtansässige formal nicht, auch wenn 2025 eine Befreiung nach Haltedauer eingeführt wurde)
-- **Besitzdauer über 5 Jahre:** seit 2025 NDFL-Befreiung (wie für Ansässige)
+- **Besitzdauer unter der Mindestfrist (5 Jahre, in Einzelfällen 3):** NDFL 30 % auf den gesamten Verkaufspreis (nicht auf den Gewinn — der Abzug der Anschaffungskosten steht Nichtansässigen nicht zu)
+- **Nach der Mindesthaltedauer:** Einkünfte sind von der NDFL befreit (Art. 217.1 Steuergesetzbuch)
 - Ein privater Käufer ist **KEIN** Steueragent. Sie reichen 3-NDFL selbst ein und zahlen die Steuer
 
 > **Wichtig:** Stellen Sie bei einem Verkauf über eine Vertrauensperson sicher, dass die Vollmacht ausdrücklich das Recht zum Verkauf des konkreten Objekts mit Katasternummer und Adresse enthält.
@@ -214,7 +214,7 @@ Wenn Sie als Nichtansässiger Immobilien verkaufen:
 
 - [ ] Ein Konto bei einer **nicht sanktionierten Bank** eröffnen (Raiffeisenbank, UniCredit, OTP) — das ist Ihr Kanal für SWIFT-Überweisungen
 - [ ] Die Hauptmittel auf dieses Konto überweisen
-- [ ] **Daueraufträge und Autozahlungen** bei sanktionierten Banken (Sber, VTB, Alfa) abschalten — im Ausland funktionieren sie nicht
+- [ ] **Automatische Zahlungen** bei sanktionierten Banken (Sber, VTB, Alfa) abschalten — im Ausland funktionieren sie nicht
 - [ ] Eine **Kontovollmacht** ausstellen, falls die Vertrauensperson Zugriff braucht
 - [ ] Kontoauszüge aller Banken der letzten 2–3 Jahre herunterladen — sie sind für das KYC auf Zypern nützlich
 
@@ -238,7 +238,7 @@ Wenn Sie als Nichtansässiger Immobilien verkaufen:
 ### Eigentum
 
 - [ ] Einen **Verwalter** für die Immobilie bestimmen (wenn Sie vermieten)
-- [ ] **Nebenkosten** bezahlen und Autozahlungen einrichten
+- [ ] **Nebenkosten** bezahlen und automatische Zahlungen einrichten
 - [ ] Eine **Versicherung** für das Eigentum abschließen
 
 ## Wann ist welcher Schritt bei der Ausreise aus Russland fällig?
@@ -266,13 +266,13 @@ Wenn Sie als Nichtansässiger Immobilien verkaufen:
 ## Häufig gestellte Fragen
 
 **Wann werde ich in Russland steuerlich nicht mehr ansässig?**
-Wenn Sie sich in einem Kalenderjahr weniger als 183 Tage in Russland aufhalten. Alle Tage werden zusammengezählt (sie müssen nicht aufeinanderfolgen). Anreisetag und Abreisetag zählen mit.
+Wenn Sie sich innerhalb von 12 aufeinanderfolgenden Monaten weniger als 183 Tage in Russland aufhalten (Art. 207 Abs. 2 Steuergesetzbuch). Alle Tage werden zusammengezählt (sie müssen nicht aufeinanderfolgen); Anreisetag und Abreisetag zählen mit. Den Status für einen Steuerzeitraum stellt die Steuerbehörde zum Ende des Kalenderjahres fest.
 
 **Welcher NDFL-Satz gilt für Nichtansässige?**
-30 % auf die meisten Einkünfte (Gehalt, Miete, Zinsen). Dividenden: 15 %. Seit 2025 gilt beim Verkauf von Immobilien nach einer Mindesthaltedauer (5 Jahre) eine NDFL-Befreiung.
+30 % auf die meisten Einkünfte (Gehalt, Miete, Zinsen). Dividenden: 15 %. Einkünfte aus dem Verkauf von Immobilien sind nach der Mindesthaltedauer von der NDFL befreit (Art. 217.1 Steuergesetzbuch; 5 Jahre, in Einzelfällen 3); wird die Frist nicht eingehalten, gelten 30 % auf den gesamten Betrag, ohne Abzüge.
 
 **Muss ich mich aus der Wehrerfassung abmelden?**
-Gesetzlich ja, wenn Sie für mehr als 6 Monate ausreisen. Die Geldbuße bei unterlassener Abmeldung beträgt bis zu 30.000 Rubel. Der Antrag kann beim Wehrersatzamt oder über Gosuslugi gestellt werden.
+Ja, bei einer Ausreise für längere Zeit. Die Fristgrenze und das Verfahren stehen in Art. 10 des Gesetzes „Über die Wehrpflicht und den Wehrdienst“; prüfen Sie die aktuelle Fassung. Die Höhe der Geldbuße hängt vom jeweiligen Absatz des Art. 21.5 des Ordnungswidrigkeitengesetzbuchs ab. Der Antrag kann beim Wehrersatzamt oder über Gosuslugi gestellt werden.
 
 **Kann ich eine Vollmacht ausstellen, wenn ich schon im Ausland bin?**
 Ja, über das russische Konsulat auf Zypern (Nikosia). Eine konsularische Vollmacht ist einer notariellen gleichgestellt. Kosten: €30–80, Termin mit 2–4 Wochen Vorlauf.
@@ -295,4 +295,4 @@ Der Wegzug aus Russland ist ein Projekt, das Vorbereitung erfordert. Je mehr Fra
 
 ## Quellen
 
-- [Allgemeines Gesundheitssystem (GeSY)](https://www.gesy.org.cy/sites/Sites/en-US/default.aspx) — GeSY
+- [Russische Steuerbehörde: steuerlicher Status einer natürlichen Person](https://www.nalog.gov.ru/rn77/fl/interest/dual_nationality/status/) — Art. 207 Abs. 2 Steuergesetzbuch, geprüft am 2026-11-07

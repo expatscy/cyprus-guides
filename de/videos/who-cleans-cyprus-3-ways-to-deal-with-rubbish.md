@@ -1,7 +1,7 @@
 ---
 type: "videos"
 title: "Wer räumt Zypern auf? 3 Wege, mit Müll umzugehen"
-description: "Eine freiwillige Strandreinigung in Limassol, E-Mails an die Gemeinde wegen eines Müllhaufens in Nikosia und ein Müllplatz, für €20 von Hand geräumt. Drei Wege, mit Müll auf Zypern umzugehen."
+description: "Strandreinigung in Limassol, E-Mails an die Gemeinde wegen eines Müllhaufens in Nikosia und ein für €20 von Hand geräumter Müllplatz. Drei Wege mit Müll."
 slug: "who-cleans-cyprus-3-ways-to-deal-with-rubbish"
 date: "2026-10-18"
 author: "Katerina Bletsch"

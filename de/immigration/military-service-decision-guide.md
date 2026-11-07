@@ -1,9 +1,9 @@
 ---
 slug: "military-service-decision-guide"
 title: "Wehrdienst in Zypern: Ratgeber für Familien"
-description: "Die zypriotische Staatsbürgerschaft für Söhne kann Wehrdienst bedeuten. Der Ratgeber erklärt, wann sich eine Einbürgerung lohnt, welche Zeitpunkte möglich sind, wie der doppelte Dienst in Israel und Zypern aussieht und was das für die Familie heißt."
+description: "Die zypriotische Staatsbürgerschaft kann für Söhne Wehrdienst bedeuten. So planen Sie den Zeitpunkt und verstehen den doppelten Dienst in Israel und Zypern."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -16,18 +16,18 @@ draft: false
 translationKey: "military-service-decision-guide"
 faqSchema:
   - question: "Befreit der Dienst in der israelischen Armee (IDF) vom Wehrdienst in Zypern?"
-    answer: "Nein. Zwischen Israel und Zypern gibt es kein Gegenseitigkeitsabkommen. Ein zypriotischer Staatsbürger, der in der IDF gedient hat, schuldet in Zypern trotzdem den vollen Dienst (14 Monate, bzw. 6 Monate für Eingebürgerte über 26). In der Praxis ist für Personen mit nachgewiesenem Dienst in einer ausländischen Armee ein verkürzter Dienst von 3-6 Monaten möglich."
+    answer: "Nicht automatisch. Ein Abkommen zwischen Israel und Zypern gibt es nicht, aber das zypriotische Gesetz sieht selbst eine Befreiung vor (Nationalgardegesetz, Art. 23(1)(ι)). Wer nicht zypriotischer Abstammung ist und vor der Einbürgerung den Militärdienst in seinem Herkunftsland ohne Freikauf abgeleistet hat, kann beim Rekrutierungsbüro die Befreiung vom Grundwehrdienst beantragen. Vom Reservedienst befreit sie nicht. Ob Israel als Herkunftsland gilt, entscheidet das Büro im Einzelfall. IDF-Dienst, der erst nach der Einbürgerung endet, zählt nicht."
   - question: "Wann ist der beste Zeitpunkt für die zypriotische Staatsbürgerschaft, wenn wir einen Sohn haben?"
-    answer: "Zeitstrategie: Ist der Sohn bei der Einbürgerung über 26, gilt ein verkürzter Dienst (6 Monate). Ist er unter 18, gilt der volle Dienst (14 Monate). Viele israelische Familien schieben die Einbürgerung auf, bis die Söhne die IDF und ihr Studium abgeschlossen haben."
+    answer: "Zeitstrategie: Bei Einbürgerung nach 26 sind es 3 Monate Dienst, zwischen 18 und 26 sind es 6 Monate, vor 18 sind es 14 Monate. Jeweils kommen 2 Monate dazu, wenn er nicht innerhalb der gesetzlichen Frist einrückt. Viele israelische Familien schieben die Einbürgerung auf, bis die Söhne die IDF und ihr Studium abgeschlossen haben."
   - question: "Was passiert, wenn ein israelisch-zypriotischer Sohn den Dienst in Zypern nicht antritt?"
-    answer: "Das Nichtantreten ist eine Straftat. Bei der Einreise nach Zypern droht ein Haftbefehl, dazu Geldstrafen und möglicherweise bis zu 3 Jahre Haft. In der Praxis wird nicht verfolgt, wer nie nach Zypern einreist, aber er kann den zypriotischen Pass nicht verlängern und keine staatlichen Leistungen in Anspruch nehmen."
+    answer: "Wer einer rechtmäßigen Einberufung ohne triftigen Grund nicht folgt, macht sich strafbar: bis zu 3 Jahre Haft, eine Geldstrafe bis 6.000 € oder beides (Nationalgardegesetz, Art. 67). Ein einberufener Wehrpflichtiger darf Zypern ohne Sondergenehmigung des Ministers nicht verlassen (Art. 70)."
 ---
 > **Kurz gesagt:** Die zypriotische Staatsbürgerschaft bringt für Söhne Wehrpflicht mit sich. Frühe Planung und eine gute Wahl des Zeitpunkts können eine doppelte Verpflichtung gegenüber der IDF vermeiden.
 
-Für israelische Familien, die nach Zypern gezogen sind, wird die Frage der zypriotischen Staatsbürgerschaft kompliziert, sobald es Söhne gibt. Der Grund: **Ein männlicher zypriotischer Staatsbürger ist wehrpflichtig**. Anders als bei der IDF kann man sich nicht einfach „freistellen“ lassen. Und entgegen einer verbreiteten Annahme befreit der Dienst in der IDF **nicht** vom Dienst in Zypern. Dieser Ratgeber hilft Ihnen, eine fundierte Entscheidung zu treffen.
+Für israelische Familien, die nach Zypern gezogen sind, wird die Frage der zypriotischen Staatsbürgerschaft kompliziert, sobald es Söhne gibt. Der Grund: **Ein männlicher zypriotischer Staatsbürger ist wehrpflichtig**. Anders als bei der IDF kann man sich nicht einfach „freistellen“ lassen. Und entgegen einer verbreiteten Annahme befreit der Dienst in der IDF **nicht automatisch** vom Dienst in Zypern. Dieser Ratgeber hilft Ihnen, eine fundierte Entscheidung zu treffen.
 
 > **Offizielle Quellen:**
-> - [Gesetz über die Nationalgarde 2011](https://www.gov.cy/mod/en/) — Ν. 19(I)/2011, Dienstpflicht
+> - [Gesetz über die Nationalgarde 2011](https://www.cylaw.org/nomoi/enop/non-ind/2011_1_19/full.html) — Ν. 19(I)/2011, Dienstpflicht
 > - [Verteidigungsministerium](https://www.gov.cy/mod/en/) — Ministry of Defence
 > - [Migrationsbehörde](https://www.gov.cy/mip-md/en/) — Staatsbürgerschaft und Einbürgerung
 
@@ -35,7 +35,7 @@ Für israelische Familien, die nach Zypern gezogen sind, wird die Frage der zypr
 
 ### Das Dilemma
 
-Zypern bietet einen Weg zur Einbürgerung nach **5-7 Jahren Aufenthalt** (oder schneller über BCS). Die Vorteile der zypriotischen Staatsbürgerschaft liegen auf der Hand:
+Zypern bietet einen Weg zur Einbürgerung nach **8 Jahren Aufenthalt** auf dem Standardweg (7 anrechenbare Jahre plus die letzten 12 Monate) oder nach **4–5 Jahren** auf dem beschleunigten Weg für hochqualifizierte Beschäftigte. Die Vorteile der zypriotischen Staatsbürgerschaft liegen auf der Hand:
 
 - **EU-Pass** — Freizügigkeit, Arbeit und Studium in 27 Ländern
 - **Wahlrecht** und bürgerschaftliche Teilhabe
@@ -48,7 +48,7 @@ Wenn Sie aber **Söhne** haben, bringt die Staatsbürgerschaft die Pflicht zum W
 
 | Situation | Dienstpflicht |
 |-----|-----------|
-| Sohn erhält die Staatsbürgerschaft **vor dem 18. Lebensjahr** | Muss mit 18 dienen |
+| Sohn erhält die Staatsbürgerschaft **vor dem 18. Lebensjahr** | 14 Monate, wenn er direkt nach der Schule oder binnen eines Jahres nach Erwerb der Staatsbürgerschaft einrückt (sonst 16) |
 | Sohn erhält die Staatsbürgerschaft **mit 18-26** | Muss dienen (6 Monate) |
 | Sohn erhält die Staatsbürgerschaft **nach dem 26. Lebensjahr** | Verkürzter Dienst (3 Monate) |
 | **Töchter** | **Nicht** dienstpflichtig — Zypern zieht keine Frauen ein |
@@ -60,8 +60,9 @@ Wenn Sie aber **Söhne** haben, bringt die Staatsbürgerschaft die Pflicht zum W
 | Kategorie | Dienstdauer |
 |---------|----------|
 | Staatsbürger von Geburt | **14 Monate** |
-| Eingebürgert, 18-26 Jahre | **6 Monate** (8 bei Aufschub) |
-| Eingebürgert, über 26 | **3 Monate** (5 bei Aufschub) |
+| Eingebürgert, vor 18 | **14 Monate** (16 bei verspätetem Einrücken) |
+| Eingebürgert, 18-26 Jahre | **6 Monate** (8, wenn er nicht binnen 2 Jahren nach der Einbürgerung einrückt) |
+| Eingebürgert, über 26 | **3 Monate** (5, wenn er nicht binnen 2 Jahren nach der Einbürgerung einrückt) |
 
 ### Die IDF zum Vergleich
 
@@ -73,7 +74,7 @@ Wenn Sie aber **Söhne** haben, bringt die Staatsbürgerschaft die Pflicht zum W
 
 ### Die wesentlichen Unterschiede
 
-- **Keine Reserve in Zypern** — nach dem regulären Dienst sind Sie fertig (es gibt eine theoretische Bereitschaftspflicht, aber es wird niemand einberufen)
+- **Reserve** — nach dem regulären Dienst bleiben Sie laut Gesetz Reservist; wie oft Reservisten einberufen werden, erfahren Sie beim Rekrutierungsbüro
 - **Keine Kampfeinsätze** — Zypern schickt keine Soldaten in Einsätze
 - **Grundausbildung** — routinemäßiger Dienst, nichts Besonderes. Keine „Eliteeinheiten“
 - **Der Dienst ist kürzer** — selbst 14 Monate für einen Staatsbürger von Geburt sind weniger als die Hälfte der IDF-Dienstzeit
@@ -82,7 +83,7 @@ Wenn Sie aber **Söhne** haben, bringt die Staatsbürgerschaft die Pflicht zum W
 
 ### Die Wahrheit, die viele nicht kennen
 
-Der Dienst in der IDF befreit **nicht** vom Dienst in der zypriotischen Armee, und umgekehrt. Zypern erkennt die doppelte Staatsbürgerschaft an, aber auf seinem Staatsgebiet sind Sie in erster Linie Zypriot.
+Der Dienst in der IDF befreit **nicht automatisch**. Nach Art. 23(1)(ι) kann, wer nicht zypriotischer Abstammung ist und **vor** der Einbürgerung ohne Freikauf den Militärdienst in seinem Herkunftsland abgeleistet hat, die Befreiung vom Grundwehrdienst beantragen (nicht vom Reservedienst). Dienst, der nach der Einbürgerung endet, zählt nicht. Zypern erkennt die doppelte Staatsbürgerschaft an, aber auf seinem Staatsgebiet sind Sie in erster Linie Zypriot.
 
 ### Das Szenario
 
@@ -93,7 +94,7 @@ Ein Sohn mit israelisch-zypriotischer Staatsbürgerschaft kann in **zwei Armeen*
 
 ### Praktische Lösungen
 
-- **Reihenfolge**: zuerst in der IDF dienen (Israel setzt strenger durch), dann in Zypern
+- **Reihenfolge**: IDF-Dienst, der vor der zypriotischen Einbürgerung abgeschlossen ist, kann nach Art. 23(1)(ι) befreien (der Reservedienst bleibt); Dienst danach nicht
 - **Zeitplan**: Dienst in der IDF mit 18-20 und in Zypern mit 21-22 (nur relevant, wenn die Person Zypriot von Geburt ist)
 - **Rechtsberatung**: Sie müssen einen Anwalt **in beiden Ländern** konsultieren, um alles abzustimmen
 
@@ -105,8 +106,8 @@ Ein Sohn mit israelisch-zypriotischer Staatsbürgerschaft kann in **zwei Armeen*
 
 | Parameter | Details |
 |-------|-------|
-| **Alter, ab dem die Pflicht endet** | 26 (für verkürzten Dienst) oder später |
-| **Vorteil** | Kein Dienst, oder nur 3 Monate, wenn er die Staatsbürgerschaft nach 26 erhält |
+| **Was sich mit 26 ändert** | Die Pflicht endet nicht; Einbürgerung nach 26 = 3 Monate |
+| **Vorteil** | 3 Monate bei Einbürgerung nach 26 (5 bei verspätetem Einrücken); ganz ohne Dienst nur mit einer Befreiung nach Art. 23 |
 | **Nachteil** | Der Sohn hat bis 26+ keinen EU-Pass und muss Aufenthaltstitel verlängern |
 | **Geeignet für** | Heranwachsende Söhne (14+), die noch keine Staatsbürger sind |
 
@@ -143,10 +144,10 @@ Ein Sohn mit israelisch-zypriotischer Staatsbürgerschaft kann in **zwei Armeen*
 
 **Die Möglichkeiten:**
 
-1. **Die Staatsbürgerschaft auch für den Sohn beantragen** → er muss mit 18 dienen (6 Monate als Eingebürgerter). Vorteil: ein EU-Pass vor der Universität = EU-Studiengebühren in ganz Europa.
+1. **Die Staatsbürgerschaft auch für den Sohn beantragen** → er muss mit 18 dienen (14 Monate, weil er die Staatsbürgerschaft vor 18 erhält; 16, wenn er nicht direkt nach der Schule oder binnen eines Jahres einrückt). Vorteil: ein EU-Pass vor der Universität = EU-Studiengebühren in ganz Europa.
 2. **Die Einbürgerung aufschieben** → der Sohn bleibt auf einem Aufenthaltstitel (als Angehöriger). Er beantragt die Staatsbürgerschaft nach 26 → nur 3 Monate Dienst. Nachteil: „internationale“ Studiengebühren an EU-Universitäten.
 
-**Empfehlung:** Plant der Sohn ein Studium in Europa, ist ein EU-Pass 6 Monate Dienst wert. Der Unterschied bei den Studiengebühren kann über 3–4 Studienjahre €30,000–80,000 erreichen. Zum Vergleich der Bildungskosten: [Lebenshaltungskosten — Zypern vs. Israel](/de/life/lebenshaltungskosten-zypern-vs-deutschland/).
+**Empfehlung:** Plant der Sohn ein Studium in Europa, ist ein EU-Pass 14 Monate Dienst wert. Der Unterschied bei den Studiengebühren kann über 3–4 Studienjahre 30.000–80.000 € erreichen. Zum Vergleich der Bildungskosten: [Lebenshaltungskosten — Zypern vs. Israel](/de/life/lebenshaltungskosten-zypern-vs-deutschland/).
 
 ### Szenario 2: Familie mit einem 8-jährigen Sohn
 
@@ -154,10 +155,10 @@ Ein Sohn mit israelisch-zypriotischer Staatsbürgerschaft kann in **zwei Armeen*
 
 **Die Möglichkeiten:**
 
-1. **Staatsbürgerschaft jetzt** → der Sohn ist Staatsbürger von Geburt (hinsichtlich des Dienstes — 14 Monate). Aber: Er ist eingebürgert, nicht in Zypern geboren, also **6 Monate** (verkürzter Dienst für Eingebürgerte).
+1. **Staatsbürgerschaft jetzt** → er erwirbt die Staatsbürgerschaft vor 18, also gilt der verkürzte Dienst von **14 Monaten** (Art. 21(1)(β)(ix)), nicht 6; 16, wenn er nicht direkt nach der Schule oder binnen eines Jahres nach dem Erwerb einrückt.
 2. **Warten** → Staatsbürgerschaft mit 20+ = 6 Monate, oder mit 26+ = 3 Monate.
 
-**Empfehlung:** Mit 8 sind es noch 10 Jahre bis zur Einberufung. Wenn die Familie bleiben will, bringt eine frühe Einbürgerung langfristige Vorteile (Schule, Freizügigkeit, Zugehörigkeit). 6 Monate verkürzter Dienst sind vertretbar.
+**Empfehlung:** Mit 8 sind es noch 10 Jahre bis zur Einberufung. Wenn die Familie bleiben will, bringt eine frühe Einbürgerung langfristige Vorteile (Schule, Freizügigkeit, Zugehörigkeit). 14 Monate Dienst sind der Preis, den man abwägen muss.
 
 ### Szenario 3: Familie nur mit Töchtern
 
@@ -208,7 +209,7 @@ Kinder über 18 stellen den Antrag **selbstständig**. Sie müssen die Vorausset
 
 | Grund | Möglich? | Hinweise |
 |------|---------|-------|
-| Studium im Ausland | Ja (in der Regel) | Aufschub für die Dauer des Studiums |
+| Studium im Ausland | Nur anerkannte Sekundarschule | Kein allgemeiner Aufschub für ein Hochschulstudium |
 | Studium in Zypern | Nein | Kein Grund |
 | Medizinische Gründe | Ja | Militärärztliche Untersuchung |
 | Religiöse Gründe | Nein | Keine religiöse Befreiung (anders als bei der IDF) |
@@ -240,7 +241,7 @@ Eine vollständige Befreiung wird nur aus **medizinischen Gründen** (medizinisc
 
 ---
 
-Die Wehrpflicht in Zypern ist kein Grund, auf die EU-Staatsbürgerschaft zu verzichten — aber ein ausgezeichneter Grund, **den Zeitpunkt zu planen**. 6 Monate in der zypriotischen Armee für einen EU-Pass fürs Leben — für die meisten Familien ist das ein guter Tausch. Die Entscheidung ist aber persönlich und hängt vom Alter der Söhne und den Plänen der Familie ab.
+Die Wehrpflicht in Zypern ist kein Grund, auf die EU-Staatsbürgerschaft zu verzichten — aber ein ausgezeichneter Grund, **den Zeitpunkt zu planen**. 3 bis 14 Monate in der zypriotischen Armee, je nach Alter bei der Einbürgerung, für einen EU-Pass fürs Leben — für die meisten Familien ist das ein guter Tausch. Die Entscheidung ist aber persönlich und hängt vom Alter der Söhne und den Plänen der Familie ab.
 
 **Weiterführende Lektüre:**
 - [Wehrdienst in Zypern — Ratgeber für neue Staatsbürger](/de/immigration/military-service-cyprus-children/) — alle Details
@@ -259,3 +260,6 @@ Haben Sie eine Frage? Fragen Sie in unserer Community: [Telegram](https://t.me/e
 ## Quellen
 
 - [Amt für Personenstandswesen und Migration](https://www.gov.cy/mip-md/en/) — gov.cy
+- [Nationalgardegesetz 19(I)/2011, konsolidierte Fassung (Art. 21, 23, 24, 67, 70)](https://www.cylaw.org/nomoi/enop/non-ind/2011_1_19/full.html) — cylaw.org
+- [Nationalgarde: verkürzter Dienst](https://www.gov.cy/army/meiomeni-thiteia/) — gov.cy
+- [Nationalgarde: Befreiungen und Aufschub](https://www.gov.cy/army/apallages-anavoles-krisi-somatikis-ikanotitas/) — gov.cy

@@ -1,9 +1,9 @@
 ---
 slug: "banks-cyprus-comparison"
 title: "Banken auf Zypern: BoC, Eurobank & Alpha"
-description: "Bank of Cyprus, Eurobank und Alpha Bank Cyprus im Vergleich: dokumentierte Kontomerkmale, produktspezifische Gebühren, Eröffnungsbedingungen und Einlagensicherung."
+description: "Bank of Cyprus, Eurobank und Alpha Bank Cyprus im Vergleich: dokumentierte Kontomerkmale, Gebühren, Eröffnungsbedingungen und Einlagensicherung."
 date: 2026-01-24
-updated: 2026-10-21
+updated: 2026-11-07
 category: "Geschäft"
 author: "Expats Cyprus"
 tags:
@@ -14,7 +14,7 @@ draft: false
 translationKey: "banki-kipr-otkrytie-scheta-boc-hellenic"
 faqSchema:
   - question: "Welche zyprischen Banken vergleicht dieser Ratgeber?"
-    answer: "Dieser Ratgeber vergleicht veröffentlichte Informationen von Bank of Cyprus, Eurobank Limited und Alpha Bank Cyprus. Laut Eurobanks Integrations-FAQ wurde die rechtliche Fusion im September 2025 abgeschlossen. Alphas Seite zu ex-AstroBank beschreibt die Umstellung der Kundensysteme und -services als laufend. Prüfen Sie die Anweisungen für Ihr konkretes Konto."
+    answer: "Dieser Ratgeber vergleicht veröffentlichte Informationen von Bank of Cyprus, Eurobank Limited und Alpha Bank Cyprus. Laut Eurobanks Integrations-FAQ wurde die rechtliche Fusion im September 2025 abgeschlossen. Alpha Bank gab am 3. November 2025 den Abschluss der Übernahme der Aktiva und Passiva der AstroBank bekannt; Alphas Seite zu ex-AstroBank behandelt die Umstellung der Kundensysteme und -services. Prüfen Sie die Anweisungen für Ihr konkretes Konto."
   - question: "Verlangen zyprische Banken monatliche Gebühren?"
     answer: "Die Gebühren hängen vom Produkt ab. Eurobanks Basic Account nennt EUR 2 pro Monat und bis zu EUR 12 pro Kalenderjahr für bestimmte Zusatzleistungen, mit anteiliger Obergrenze für im Laufe des Jahres eröffnete Konten; andere Leistungen können ohne diese Obergrenze berechnet werden. Bank of Cyprus wirbt für ihr App-Eröffnungsangebot mit kostenloser Kontoführung, mit Ausnahmen für International Customers. Keines der Beispiele legt die Gebühren für jedes Konto fest."
   - question: "Gibt es Online-Banking auf Zypern?"
@@ -27,7 +27,7 @@ Vergleichen Sie das Konto, das Sie tatsächlich eröffnen und nutzen können, st
 
 Eurobanks [Integrations-FAQ](https://www.eurobank.com.cy/en-us/faq/integration/common-customers) besagt, dass die **rechtliche Fusion im September 2025 abgeschlossen** wurde. Die aktuellen Kontoseiten verwenden **Eurobank Limited / Eurobank Ltd**. Ältere Verweise auf Hellenic oder Eurobank Cyprus sollten Sie mit den Anweisungen des heutigen Instituts und für das konkrete Konto abgleichen.
 
-Die [Informationsseite zu ex-AstroBank](https://www.alphabank.com.cy/en/astrobank) von Alpha Bank Cyprus beschreibt die Umstellung der ex-AstroBank-Kunden auf Alphas Systeme und Services als **laufend**, mit produktabhängigen Änderungen und möglichen Handlungsschritten für Kunden. Ziehen Sie diese Seite und die dort verlinkten FAQs für Ihre Produkte heran.
+Die [Informationsseite zu ex-AstroBank](https://www.alphabank.com.cy/en/astrobank) von Alpha Bank Cyprus behandelt die Umstellung der ex-AstroBank-Kunden auf Alphas Systeme und Services, mit produktabhängigen Änderungen und möglichen Handlungsschritten für Kunden. Alpha Bank [gab am 3. November 2025 bekannt](https://www.alpha.gr/-/media/AlphaGr/Files/Group/Corporate-Announcements/2025/20251103-etairiki-anakoinosi-en.pdf), die Übernahme von im Wesentlichen allen Aktiva und Passiva der AstroBank abgeschlossen zu haben. Den aktuellen Stand für Ihre Produkte entnehmen Sie dieser Seite und den dort verlinkten FAQs (geprüft am 2026-11-07).
 
 ## Wie vergleichen sich die veröffentlichten Angebote?
 

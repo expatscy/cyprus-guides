@@ -1,7 +1,7 @@
 ---
 type: "videos"
 title: "Solomou: مركز حدائق قرب نيقوسيا"
-description: "جولة في Solomou Garden Centre قرب نيقوسيا: نباتات وأصص وتصريف وتوصيل وإعادة زراعة مجانًا، وشجرة جهنمية (bougainvillea) بطول ثلاثة أمتار لشرفة عاصفة. مع نصائح العناية بها."
+description: "جولة في Solomou Garden Centre قرب نيقوسيا: نباتات وأصص وتصريف وتوصيل وإعادة زراعة مجانًا، وشجرة جهنمية بطول ثلاثة أمتار لشرفة عاصفة."
 slug: "solomou-garden-centre-nicosia-plants-cyprus"
 date: "2026-05-24"
 author: "Katerina Bletsch"

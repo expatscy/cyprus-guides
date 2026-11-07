@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Leben auf Zypern: Hitze, Wohnen und andere Nachteile aus Leonids Sicht"
+title: "Leben auf Zypern: Hitze, Wohnen und andere Nachteile"
 description: "Ein offenes, humorvolles Gespräch über das Leben auf Zypern: Sommerhitze, Inselreisen, Gehwege und Wohnen, mit Katerinas Antworten und Einschränkungen."
 slug: "living-in-cyprus-drawbacks-leonid-conversation"
 date: 2024-06-14

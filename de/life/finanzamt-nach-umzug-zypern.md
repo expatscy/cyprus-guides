@@ -3,7 +3,7 @@ slug: "finanzamt-nach-umzug-zypern"
 title: "Umzug nach Zypern: Finanzamt & Checkliste"
 description: "Abmeldung Deutschland, Finanzamt informieren, letzte Steuererklärung, GKV, Kindergeld, Riester — Checkliste beim Umzug nach Zypern 2026."
 date: 2026-03-11
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -26,7 +26,7 @@ faqSchema:
   - question: "Wird meine DRV-Rente auch auf Zypern gezahlt?"
     answer: "Ja, weltweit. Melden Sie die neue Adresse der DRV und legen Sie jaehrlich eine Lebensbescheinigung vor."
 ---
-> **Kurzantwort:** Nach dem Umzug: deutsche Steuerresidenz abmelden, zyprische TIN beantragen, ersten TD59 einreichen. Non-Dom-Status spart Dividenden- und Zinssteuer.
+> **Kurzantwort:** Nach dem Umzug: deutsche Steuerresidenz abmelden und zyprische TIN beantragen.
 
 Der Umzug nach Zypern ist beschlossen, die Wohnung gefunden, der Flug gebucht. Doch die bürokratische Seite in Deutschland wird oft unterschätzt. Ohne saubere Abmeldung und Klärung mit dem Finanzamt riskieren Sie doppelte Steuerpflicht, Nachzahlungen und böse Überraschungen bei Kindergeld und Riester. Hier ist die vollständige Checkliste.
 
@@ -87,7 +87,7 @@ Wer Deutschland verlässt und keinen Wohnsitz im Inland behält, ist **verpflich
 |---|---|---|
 | **Voraussetzung** | Wohnsitz oder gewöhnlicher Aufenthalt in Deutschland | Kein Wohnsitz, kein gewöhnlicher Aufenthalt |
 | **Besteuerungsumfang** | **Welteinkommen** | Nur **inländische Einkünfte** (§ 49 EStG) |
-| **Grundfreibetrag** | Ja (€11.784 / 2025) | Nein (es sei denn Antrag nach § 1 Abs. 3 EStG) |
+| **Grundfreibetrag** | Ja (€12.348 ab VZ 2026, [§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), geprüft 2026-11-07) | Nein (es sei denn Antrag nach § 1 Abs. 3 EStG) |
 | **Splitting-Tarif** | Ja (Ehegatten) | Nein |
 | **Sonderausgaben/Werbungskosten** | Voll abzugsfähig | Stark eingeschränkt |
 
@@ -159,8 +159,8 @@ Die gesetzliche Rente wird **weltweit ausgezahlt** — auch auf Zypern. Sie müs
 
 Auch nach dem Wegzug können Sie **freiwillig** in die Deutsche Rentenversicherung einzahlen (§ 7 SGB VI):
 
-- Mindestbeitrag: **€96,72/Monat** (2025)
-- Höchstbeitrag: **€1.404,30/Monat** (2025)
+- Mindestbeitrag: **€112,16/Monat** (seit 1.1.2026, [DRV](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260209-freiwillige-beitraege-rente-erhoehen), geprüft 2026-11-07)
+- Höchstbeitrag: **€1.571,70/Monat** (seit 1.1.2026)
 - Zuständig: Deutsche Rentenversicherung Bund
 - Vorteil: höhere Rentenansprüche, Wartezeiten erfüllen
 
@@ -180,7 +180,7 @@ Melden Sie den Umzug unmittelbar der Familienkasse und lassen Sie den Anspruch u
 
 ### Kindergeld auf Zypern
 
-Zypern zahlt ein **Child Benefit** — deutlich niedriger als in Deutschland (kein pauschaler €250/Kind/Monat), aber abhängig vom Familieneinkommen. Beantragung beim [Department of Social Inclusion](https://www.gov.cy/mlsi/en/).
+Zypern zahlt ein **Child Benefit**, dessen Höhe vom Familieneinkommen abhängt. Beantragung beim [Department of Social Inclusion](https://www.gov.cy/mlsi/en/).
 
 ## Was passiert mit Riester und Rürup?
 
@@ -190,7 +190,7 @@ Bei Wegzug in ein EU-Land: **keine Rückzahlung der Zulagen** erforderlich, sola
 
 **Wenn Sie die Beitragspflicht aufgeben** (kein deutscher Rentenversicherungsbeitrag mehr): Die Förderung wird **ruhend gestellt** — keine neuen Zulagen, aber auch keine Rückzahlung des Bestands. Erst bei Auszahlung wird nachgelagert besteuert.
 
-> **Wichtig:** Bei Wegzug in ein Nicht-EU-Land müssten Zulagen zurückgezahlt werden. Zypern ist EU — die Zulagen bleiben erhalten.
+> **Wichtig:** Bei Wegzug in ein Nicht-EU-Land müssten Zulagen zurückgezahlt werden. Zypern ist EU — die Zulagen bleiben unter den oben genannten Voraussetzungen erhalten; Details klärt Ihr Anbieter.
 
 ### Rürup/Basis-Rente
 
@@ -225,7 +225,7 @@ Bearbeitungszeit: variiert, in der Regel **2–6 Wochen**.
 ## Was steht auf der Checkliste?
 
 - [ ] Steuerberater konsultieren (3 Monate vorher)
-- [ ] Krankenversicherung kündigen/Anwartschaft klären
+- [ ] Krankenversicherung: Zuständigkeit klären (nicht vorschnell kündigen), ggf. Anwartschaft prüfen
 - [ ] Familienkasse informieren (Kindergeld)
 - [ ] Riester/Rürup-Anbieter kontaktieren
 - [ ] DRV-Kontenklärung beantragen

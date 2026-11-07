@@ -1,9 +1,9 @@
 ---
 slug: "money-transfer-lebanon-cyprus"
 title: "Transferring Money from Lebanon to Cyprus"
-description: "How to transfer money from Lebanon to Cyprus: Lebanese banking restrictions, SWIFT, fresh money vs. old deposits, crypto, intermediary accounts and AML requirements."
+description: "How to transfer money from Lebanon to Cyprus: banking restrictions, SWIFT, fresh money vs old deposits, crypto, intermediary accounts and AML rules."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -17,13 +17,13 @@ draft: false
 translationKey: "money-transfer-lebanon-cyprus"
 faqSchema:
   - question: "Can I transfer my old deposits from Lebanon?"
-    answer: "Not in practice. Old deposits (from before October 2019) are heavily restricted. Withdrawals are possible only in Lebanese pounds and at an exchange rate below the market rate. Fresh Money accounts are the only ones that can be transferred freely."
+    answer: "Only partially. Foreign-currency deposits from before the crisis are repaid gradually, in limited amounts, under exceptional Banque du Liban circulars (Basic Circulars 158 and 166, both amended many times). Fresh Money accounts are the only ones that can be transferred freely."
   - question: "How much cash can I bring into Cyprus?"
-    answer: "Up to €10,000 without a declaration. Anything above that requires a customs declaration (form S1). Failing to declare exposes you to confiscation and a fine."
+    answer: "Under €10,000 without a declaration. €10,000 or more must be declared in writing to Cyprus Customs when you arrive (the Cash Declaration form). If you do not declare, the cash is seized and you face up to 3 years in prison or a fine of up to €100,000."
   - question: "Do Cypriot banks refuse money from Lebanon?"
     answer: "Not automatically, but they ask for detailed documents on the source of funds (AML). Prepare bank statements, employment or sale contracts, and any correspondence with your Lebanese bank."
   - question: "Is crypto a practical solution?"
-    answer: "Possible but risky: fees at every stage (3-6% in total), and some Cypriot banks refuse deposits from crypto exchanges. Check Alpha Bank Cyprus's current policy after the transfer of AstroBank's operations."
+    answer: "Possible but risky: there are fees at every stage, and some Cypriot banks refuse deposits from crypto exchanges. Ask your bank about its current policy before you transfer."
 ---
 > **In short:** money can be moved from Lebanon to Cyprus via SWIFT, crypto and intermediary accounts, subject to AML restrictions.
 
@@ -32,7 +32,9 @@ Transferring money from Lebanon to Cyprus has become one of the most complicated
 > **Official sources:**
 > - [Banque du Liban — circulars](https://www.bdl.gov.lb/) — official restrictions and circulars
 > - [Central Bank of Cyprus](https://www.centralbank.cy/) — anti-money-laundering rules
-> - [Capital Controls Law](https://www.legallaw.ul.edu.lb/) — Law 237/2024
+> - [Banque du Liban — Basic Circulars 158, 166 and 169](https://www.bdl.gov.lb/basiccirculars.php) — repayment of foreign-currency deposits (checked 2026-11-07)
+> - [Lebanese Law No. 42 of 24 November 2015](https://sic.gov.lb/sites/default/files/laws-regulations/Law%2042%20En.pdf) — declaring cash carried across the border (checked 2026-11-07)
+> - [Cyprus Customs — cash control](https://www.mof.gov.cy/mof/customs/customs.nsf/All/AC17588A160C442BC2258725003108F9?OpenDocument) — declaring €10,000 or more (checked 2026-11-07)
 > - ⚠️ The Lebanese banking situation changes constantly — check the latest circulars before taking any step
 
 ## What is the current situation in Lebanon?
@@ -41,10 +43,8 @@ Transferring money from Lebanon to Cyprus has become one of the most complicated
 
 Since October 2019, Lebanese banks have imposed increasingly tight limits on withdrawals and transfers:
 
-- Dollar deposits are **effectively frozen** — withdrawals are possible only in Lebanese pounds at a rate far below the market rate
-- Losses in the banking sector are estimated at more than **$70 billion** (IMF estimates)
-- No restructuring plan has been approved as of 2026
-- The Capital Controls Law (April 2024) gave a legal framework to restrictions that had previously been informal
+- Dollar deposits from before the crisis are **effectively frozen** — banks repay them only gradually, in limited amounts, under exceptional BDL circulars (Basic Circular 158 of June 2021 and Basic Circular 166 of February 2024, last amended on 3 November 2026)
+- Amendments to the Bank Resolution Law were approved in 2026; the Financial Stabilization and Deposits Recovery Law, which deals with repaying deposits, was still a draft in September 2026 ([IMF, 18 September 2026](https://www.imf.org/en/news/articles/2026/09/18/pr26297-lebanon-imf-staff-concludes-visit-to-lebanon))
 
 ### "Fresh" money vs. old deposits
 
@@ -53,7 +53,7 @@ This distinction underlies everything:
 | Type | Definition | Transferability |
 |------|------------|-----------------|
 | **Fresh Money** | Money deposited after October 2019 in foreign currency, in cash or by external transfer | Fully free to withdraw and transfer |
-| **Old deposits (Lollars)** | Money that was in the bank before October 2019 | Heavily restricted — withdrawal in Lebanese pounds only, at the Sayrafa platform rate |
+| **Old deposits (Lollars)** | Money that was in the bank before October 2019 | Heavily restricted — repaid only gradually, in limited amounts, under BDL Basic Circulars 158 and 166 |
 | **Lebanese pound accounts** | Deposits in Lebanese pounds | Can be withdrawn, but at a very low value |
 
 **The golden rule:** if your money is "Fresh", you have options. If it is an old deposit, options are very limited.
@@ -65,33 +65,31 @@ This distinction underlies everything:
 **Current situation:**
 - Lebanese banks **do carry out SWIFT transfers** from Fresh Money accounts
 - The large banks (Byblos, Audi, Fransabank, BLOM) have international correspondents
-- Fees: usually $20–50 per transfer
-- Time: 2–5 business days
 
 **Possible problems:**
 - Some Cypriot banks may ask extra questions about the source of money arriving from Lebanon
 - **Bank of Cyprus (BoC)** and **Eurobank Limited** (formerly Hellenic Bank) have strict AML procedures — prepare your documents in advance
-- Large transfers (over €15,000) call for notifying the receiving bank beforehand
+- For a large transfer, tell the receiving bank in advance
 
 ### 2. Cash — taking it out and bringing it in
 
 **From Lebanon:**
-- There is no clear official limit on taking cash out (Lebanese law does not expressly forbid it)
-- In practice: Beirut airport does not systematically search for small amounts
-- **Large amounts** call for caution — don't risk sums you can't justify
+- Lebanese law requires a written declaration to Lebanese Customs if you carry more than USD 15,000 (or the equivalent in another currency) into or out of the country; for cash leaving Lebanon, a disclosure to Customs may be enough (Law No. 42/2015, Article 2)
+- Customs may search you and seize cash that was not declared or was declared falsely (Article 3)
+- **Large amounts** need caution — don't carry sums you can't justify
 
 **Entering Cyprus (EU rules):**
-- Up to **€10,000**: no declaration
-- Over **€10,000**: you must declare to customs (form S1)
-- Failure to declare = **possible confiscation** + a fine
+- Under **€10,000**: no declaration
+- **€10,000 or more**: you must declare it in writing to the customs officer when you arrive (Cash Declaration form)
+- Failure to declare: the cash is **seized**, and you face up to 3 years in prison or a fine of up to €100,000 (Law 63(I)/2022 and Regulation (EU) 2018/1672)
 
 **Depositing cash in a Cypriot bank:**
 
 ⚠️ Be careful:
-- Depositing large amounts in cash triggers anti-money-laundering alerts
+- Depositing large amounts in cash triggers the bank's anti-money-laundering alerts
 - The bank **will ask** where the cash came from
 - Prepare: the customs declaration receipt, proof of the source of income/sale/inheritance
-- Don't deposit more than €5,000–8,000 at once without arranging it with the branch manager first
+- Arrange a large cash deposit with your branch in advance
 
 ### 3. Intermediary accounts in third countries
 
@@ -103,7 +101,7 @@ Many Lebanese use accounts in other countries as a bridge:
 - Transfers from Jordan to Cyprus by SWIFT work normally
 
 **UAE (Dubai):**
-- Harder to open an account without UAE residency
+- Opening an account is harder without UAE residency
 - But if you already have an account, it is an effective channel
 - Banks: Emirates NBD and Mashreq accept transfers from Lebanon (Fresh Money)
 
@@ -124,9 +122,9 @@ Many Lebanese use accounts in other countries as a bridge:
 
 **Risks:**
 - **Price volatility** — especially with Bitcoin (USDT is more stable)
-- **Fees** at every stage: buying (1–3%), network transfer ($1–20), selling (0.1–0.5%), withdrawal ($5–25)
-- Cypriot banks **may refuse** deposits from crypto exchanges — especially BoC
-- **Alpha Bank Cyprus**: check the current policy after the transfer of AstroBank's operations
+- **Fees** at every stage: buying, network transfer, selling and withdrawal
+- Cypriot banks **may refuse** deposits from crypto exchanges
+- Policies differ between banks — ask yours before you transfer
 
 **For large amounts (over €50,000):**
 - Prepare a complete file: original source of funds → proof of purchase → chain of transactions
@@ -173,7 +171,7 @@ Cypriot banks are bound by EU anti-money-laundering rules (AMLD). When you recei
 3. **Many small transfers** to stay under thresholds — this is called "structuring" and is a money-laundering indicator
 4. **Using other people's names** — creates tax and legal problems
 5. **Not disclosing** that the money comes from Lebanon — transparency is always better
-6. **Ignoring the customs declaration** when bringing in more than €10,000 in cash
+6. **Ignoring the customs declaration** when bringing in €10,000 or more in cash
 
 ## What specialist help is available?
 
@@ -182,8 +180,6 @@ Cypriot banks are bound by EU anti-money-laundering rules (AMLD). When you recei
 - **Cypriot accountants** (Big 4 or local firms): they know the AML requirements and how to present your file
 - **Lebanese-Cypriot lawyers**: specialists in cross-border dealings
 - **Financial advisers**: help structure transfers legally
-
-**Cost of a consultation:** usually €150–500 for the first session — but it saves you from mistakes that could cost thousands of euros.
 
 ## Practical tips
 
@@ -198,7 +194,7 @@ Cypriot banks are bound by EU anti-money-laundering rules (AMLD). When you recei
 
 **Read also:**
 - [The Lebanese crisis and moving to Cyprus](/en/life/lebanon-crisis-moving-cyprus/) — the complete guide
-- [Cost of living: Cyprus vs. Lebanon](/en/life/cost-of-living-cyprus-vs-uk/) — a detailed comparison
+- [Cost of living: Cyprus vs. the UK](/en/life/cost-of-living-cyprus-vs-uk/) — a detailed comparison
 - [Arab businesses in Cyprus](/en/business/arab-business-opportunities-cyprus/) — business opportunities
 - [Opening a bank account: comparing banks](/en/business/banks-cyprus-comparison/) — which bank suits you
 - [Money transfers: SWIFT and crypto](/en/business/money-transfer-cyprus-swift-crypto/) — other methods
@@ -208,16 +204,16 @@ Cypriot banks are bound by EU anti-money-laundering rules (AMLD). When you recei
 ## Frequently asked questions (FAQ)
 
 **Can I transfer my old deposits from Lebanon?**
-Not in practice. Old deposits (from before October 2019) are heavily restricted. Withdrawals are possible only in Lebanese pounds and at an exchange rate below the market rate. Fresh Money accounts are the only ones that can be transferred freely.
+Only partially. Foreign-currency deposits from before the crisis are repaid gradually, in limited amounts, under exceptional Banque du Liban circulars (Basic Circulars 158 and 166, both amended many times). Fresh Money accounts are the only ones that can be transferred freely.
 
 **How much cash can I bring into Cyprus?**
-Up to €10,000 without a declaration. Anything above that requires a customs declaration (form S1). Failing to declare exposes you to confiscation and a fine.
+Under €10,000 without a declaration. €10,000 or more must be declared in writing to Cyprus Customs when you arrive (the Cash Declaration form). If you do not declare, the cash is seized and you face up to 3 years in prison or a fine of up to €100,000.
 
 **Do Cypriot banks refuse money from Lebanon?**
 Not automatically, but they ask for detailed documents on the source of funds (AML). Prepare bank statements, employment or sale contracts, and any correspondence with your Lebanese bank.
 
 **Is crypto a practical solution?**
-Possible but risky: fees at every stage (3–6% in total), and some Cypriot banks refuse deposits from crypto exchanges. Check Alpha Bank Cyprus's current policy after the transfer of AstroBank's operations.
+Possible but risky: there are fees at every stage, and some Cypriot banks refuse deposits from crypto exchanges. Ask your bank about its current policy before you transfer.
 
 Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
@@ -226,3 +222,9 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 ## Sources
 
 - [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [Cyprus Customs — incoming/outgoing cash control](https://www.mof.gov.cy/mof/customs/customs.nsf/All/AC17588A160C442BC2258725003108F9?OpenDocument) — gov.cy, checked 2026-11-07
+- [Regulation (EU) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj/eng) — EUR-Lex
+- [Banque du Liban — Basic Circulars](https://www.bdl.gov.lb/basiccirculars.php) — checked 2026-11-07
+- [Lebanese Law No. 42/2015 on declaring cross-border transport of cash](https://sic.gov.lb/sites/default/files/laws-regulations/Law%2042%20En.pdf) — Special Investigation Commission, checked 2026-11-07
+- [IMF staff statement on Lebanon, 18 September 2026](https://www.imf.org/en/news/articles/2026/09/18/pr26297-lebanon-imf-staff-concludes-visit-to-lebanon) — checked 2026-11-07
+- [Central Bank of Cyprus — register of credit institutions](https://www.centralbank.cy/en/licensing-supervision/banks/register-of-credit-institutions-operating-in-cyprus) — checked 2026-11-07

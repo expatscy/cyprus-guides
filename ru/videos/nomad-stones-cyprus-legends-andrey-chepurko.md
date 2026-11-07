@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Nomad Stones: легенды Кипра, браслеты и продукт Андрея Чепурко"
+title: "Nomad Stones: легенды Кипра и браслеты Андрея Чепурко"
 description: "Андрей Чепурко о Nomad Stones: браслеты из натуральных камней, легенды Кипра и истории по QR-коду для туристов и тех, кто живёт на острове."
 slug: "nomad-stones-cyprus-legends-andrey-chepurko"
 date: 2024-10-02

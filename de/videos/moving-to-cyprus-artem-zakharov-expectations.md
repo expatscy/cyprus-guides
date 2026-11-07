@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Auswandern nach Zypern: Artem Zakharov über Erwartungen und Alltag"
+title: "Auswandern nach Zypern: Artem Zakharov über Erwartungen"
 description: "Artem Zakharov vergleicht Moskau, Tel Aviv und Zypern: veränderte Erwartungen, positive Überraschungen auf der Insel und ein weiterer Umzug wegen der Arbeit."
 slug: "moving-to-cyprus-artem-zakharov-expectations"
 date: 2024-09-28

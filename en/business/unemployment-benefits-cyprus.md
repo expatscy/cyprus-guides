@@ -3,7 +3,7 @@ slug: "unemployment-benefits-cyprus"
 title: "Cyprus Unemployment Benefits: Eligibility"
 description: "Unemployment benefits in Cyprus for expats: eligibility conditions, payment amounts, duration, and how to apply. What to do if you lose your job."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -55,8 +55,6 @@ The weekly amount has **basic and supplementary components**, calculated using t
 
 Dependant increases attach to the basic component and have their own conditions, including rules concerning a spouse's earnings or benefits and overlapping claims. Request a calculation for your actual record and dependants rather than applying a simple percentage to your latest gross salary. [Fourth Schedule, Part II and section 62](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
 
-This guide does not promise a universal monthly maximum or use a salary-based example as an entitlement estimate.
-
 ## How long do payments last?
 
 The statutory maximum is **156 benefit days per period of interruption of employment**, not an automatic allowance for every calendar year. **Sundays and other designated days do not count as unemployment days** under section 31. [Sections 31–32](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
@@ -72,7 +70,7 @@ After exhausting entitlement, the ordinary requalification rule requires **at le
 3. Follow the application instructions for the evidence needed in your circumstances, and retain submission confirmations.
 4. Keep your Public Employment Service registration active throughout unemployment. Confirm any continuing reporting or register-signing requirements with Social Insurance Services: its [FAQ](https://www.mlsi.gov.cy/mlsi/sid/sidv2.nsf/All/4FFC18708B61EC9DC2257A30001FD764) describes signing at intervals determined by the district office.
 
-The official benefit-service contact is **unemployment@sid.mlsi.gov.cy**, with telephone **1450**. Ask about the applicable claim deadline and the effect of any delay promptly; this guide does not establish a seven-day deadline or guarantee backdated payment.
+The official benefit-service contact is **unemployment@sid.mlsi.gov.cy**, with telephone **1450**. Ask about the applicable claim deadline and the effect of any delay promptly.
 
 The published guide says benefit payments are made by transfer to the beneficiary's bank account. Confirm the account evidence required by the current application.
 

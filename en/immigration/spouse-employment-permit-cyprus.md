@@ -22,7 +22,7 @@ faqSchema:
   - question: "Can a spouse start their own business in Cyprus?"
     answer: "The CFI spouse employment category does not give access to self-employment. A company incorporation or salary to yourself should not be treated as permission for the proposed activity. Have the duties, employer and appropriate immigration route checked; spouses under other categories, including qualifying long-term-resident or ICT family rules, have different rights."
 ---
-> **Short answer:** Check the actual family category, employment permission and wage rules. For a qualifying spouse/civil-union partner of a CFI employee, the published policy allows paid employment subject to the single-permit conditions and excludes self-employment. It does not establish a universal EUR 1,000 salary or four-to-six-week processing promise.
+> **Short answer:** Check the actual family category, employment permission and wage rules. For a qualifying spouse/civil-union partner of an employee of a company of foreign interests (CFI, often called "BCS" in expat communities), the published policy allows paid employment subject to the single-permit conditions and excludes self-employment. It does not establish a universal EUR 1,000 salary or four-to-six-week processing promise.
 
 The primary sources below were checked on **3 October 2026**. This guide concerns the family-reunification employment route associated with companies of foreign interests; use the current checklist for your application type.
 

@@ -1,7 +1,7 @@
 ---
 slug: "spouse-employment-kipr-rabota-suprugov"
 title: "Spouse Employment: работа супругов BCS"
-description: "Spouse Employment для супругов сотрудников CFI на Кипре: кто подходит, правила по зарплате, документы на подачу, продление, запрет самозанятости и условия для гражданства."
+description: "Spouse Employment для супругов сотрудников CFI на Кипре: кто подходит, правила по зарплате, документы, продление, запрет самозанятости и гражданство."
 date: 2026-01-24
 updated: 2026-10-21
 category: "Иммиграция"

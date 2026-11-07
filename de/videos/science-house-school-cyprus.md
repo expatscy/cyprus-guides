@@ -1,13 +1,12 @@
 ---
 type: videos
-title: "Science House Zypern: Schule der Zukunft"
-description: "Überblick über die innovative Schule Science House auf Zypern. Moderner Bildungsansatz, MINT-Programme und kreative Entwicklung von Kindern."
+title: "Science House Limassol: Wissenschaftszentrum für Kinder"
+description: "Science House in Limassol: Wissenschaftszentrum für Kinder mit naturwissenschaftlichen, medizinischen und kreativen Aktivitäten. Video und Betreiberangaben."
 date: 2024-12-15
-updated: 2026-03-14
+updated: 2026-11-07
 youtube_id: "2rI17ANUBik"
-duration: "PT28M00S"
+duration: "PT11M29S"
 upload_date: "2024-12-15"
-view_count: 4200
 tags:
   - Bildung
   - Familie
@@ -21,60 +20,36 @@ author: "Expats Cyprus"
 translationKey: "science-house-shkola-kipr"
 
 topics_mentioned:
-  - "Innovative Bildung"
-  - "MINT-Programme auf Zypern"
-  - "Alternative Schulen"
+  - "Naturwissenschaftliche Aktivitäten"
+  - "Wissenschaftsclubs auf Zypern"
+  - "Wissenschaftszentren für Kinder"
   - "Kreative Entwicklung von Kindern"
   - "Science House"
 
 faqs:
   - question: "Was ist Science House?"
-    answer: "Science House ist ein Bildungsprojekt auf Zypern mit einem innovativen Lernansatz. Der Schwerpunkt liegt auf MINT (Mathematik, Informatik, Naturwissenschaften, Technik) und kreativer Entwicklung."
-  - question: "Wie unterscheidet sich Science House von normalen Schulen?"
-    answer: "Projektbasierter Lernansatz, moderne Methoden, kleine Klassen, individueller Ansatz für jedes Kind, Integration von Technologie in den Bildungsprozess."
-  - question: "Fuer welches Alter ist Science House geeignet?"
-    answer: "Das Projekt arbeitet mit Kindern verschiedener Altersgruppen. Konkrete Informationen zu Programmen und Altersgruppen erfahren Sie am besten direkt beim Anbieter."
+    answer: "Der Betreiber beschreibt Science House als Wissenschaftszentrum für Kinder in Limassol mit naturwissenschaftlichen, medizinischen und kreativen Clubs."
+  - question: "Welche Aktivitäten bietet Science House?"
+    answer: "Die veröffentlichten Programme umfassen naturwissenschaftliche Experimente, medizinische Workshops und kreative Aktivitäten. Das sind Beschreibungen des Betreibers, keine Garantie für Lernergebnisse."
+  - question: "Für welches Alter ist Science House geeignet?"
+    answer: "Die Altersgruppen hängen vom Programm ab. Prüfen Sie vor der Buchung die aktuellen Programmdaten des Betreibers; ein einheitlicher Altersbereich für alle Aktivitäten ist hier nicht belegt."
 faqSchema:
-  - question: "Welche Alternativen zu deutschen Schulen gibt es für Auswandererkinder auf Zypern?"
-    answer: "Auf Zypern gibt es vier Schultypen: griechische Staatsschulen (kostenlos, Unterricht auf Griechisch), russische Privatschulen (3.000-6.000 EUR/Jahr), englische Privatschulen (6.000-15.000 EUR/Jahr) und internationale IB-Schulen (10.000-20.000 EUR/Jahr). Science House bietet als Alternative projektbasiertes Lernen mit MINT-Fokus. Eine deutsche Schule existiert auf Zypern nicht — die meisten deutschen Familien waehlen englischsprachige oder IB-Schulen."
-  - question: "Wird ein deutscher Schulabschluss auf Zypern anerkannt — und umgekehrt?"
-    answer: "Deutsche Schulabschluesse werden auf Zypern anerkannt (EU-Regelung). Umgekehrt: Das International Baccalaureate (IB) und britische A-Levels werden in Deutschland als Hochschulzugang akzeptiert. Griechische Apolytirio wird mit Einschraenkungen anerkannt. Wichtig: Bei Rueckkehr nach Deutschland auf die Fachanerkennung beim jeweiligen Bundesland achten."
-  - question: "Was ist MINT-Bildung und warum ist sie für Kinder auf Zypern relevant?"
-    answer: "MINT steht für Mathematik, Informatik, Naturwissenschaften, Technik (englisch: STEM). Science House auf Zypern setzt auf projektbasiertes Lernen in diesen Bereichen, ergaenzt durch Soft Skills wie Teamarbeit und kritisches Denken. Relevant für Zypern: Die IT-Branche waechst stark (Limassol als Tech-Hub), und MINT-Absolventen haben gute Berufsaussichten vor Ort."
+  - question: "Was ist Science House?"
+    answer: "Der Betreiber beschreibt Science House als Wissenschaftszentrum für Kinder in Limassol mit naturwissenschaftlichen, medizinischen und kreativen Clubs."
+  - question: "Welche Aktivitäten bietet Science House?"
+    answer: "Die veröffentlichten Programme umfassen naturwissenschaftliche Experimente, medizinische Workshops und kreative Aktivitäten. Das sind Beschreibungen des Betreibers, keine Garantie für Lernergebnisse."
+  - question: "Für welches Alter ist Science House geeignet?"
+    answer: "Die Altersgruppen hängen vom Programm ab. Prüfen Sie vor der Buchung die aktuellen Programmdaten des Betreibers; ein einheitlicher Altersbereich für alle Aktivitäten ist hier nicht belegt."
 ---
 
-> **Haftungsausschluss:** Die Meinungen und Erfahrungen in diesem Video stammen von den Podcast-Gaesten und spiegeln nicht unbedingt die Position des Kanalautors wider.
+> **Haftungsausschluss:** Die Meinungen und Erfahrungen in diesem Video stammen von den Podcast-Gästen und spiegeln nicht unbedingt die Position des Kanalautors wider.
 
-## Science House: Ein neuer Blick auf Bildung auf Zypern
+## Science House auf Zypern
 
-In dieser Folge lernen wir das innovative Bildungsprojekt Science House kennen.
+Das verlinkte Video stellt Science House vor. Aktuelle Programminformationen finden Sie auf der [offiziellen Website](https://sciencehousecy.com/en/): Dort wird es als Wissenschaftszentrum für Kinder in Limassol mit naturwissenschaftlichen, medizinischen und kreativen Clubs beschrieben.
 
-### Was ist Science House
+Der Betreiber nennt Experimente, medizinische Workshops und kreative Aktivitäten. Fragen Sie, welches Programm zu Ihrem Kind passt, und klären Sie vor der Buchung direkt die aktuelle Altersgruppe, Termine und Gebühren. Diese Seite belegt weder eine Schulakkreditierung noch eine Standardgruppengröße.
 
-Science House ist nicht nur eine Schule, sondern eine ganze Bildungsphilosophie. Hier lernen Kinder durch:
+Weitere Möglichkeiten finden Sie in unseren Leitfäden: [internationale Schulen](/de/life/internationale-schulen-zypern-ueberblick/) und [Schulvergleich](/de/life/schools-cyprus-comparison/).
 
-- Projektarbeit
-- Experimente und Forschung
-- Kreative Aufgaben
-- Teamarbeit
-
-### Besonderheiten des Programms
-
-- **MINT-Bildung** -- Mathematik, Informatik, Naturwissenschaften, Technik
-- **Kritisches Denken** -- wir lehren zu denken, nicht auswendig zu lernen
-- **Soft Skills** -- Kommunikation, Fuehrung, emotionale Intelligenz
-- **Individueller Ansatz** -- jedes Kind ist einzigartig
-
-### Warum das wichtig ist
-
-Die moderne Welt erfordert neue Faehigkeiten. Traditionelle Bildung bereitet Kinder nicht immer auf reale Herausforderungen vor. Science House bietet eine Alternative.
-
-### Fuer wen es geeignet ist
-
-- Eltern, die nach modernen Bildungsmethoden suchen
-- Kinder mit unkonventionellem Denken
-- Familien, die einen kreativen Ansatz schaetzen
-
-**Sehen Sie sich das Video an**, um mehr über das Projekt zu erfahren und Erfahrungsberichte von Eltern zu hoeren!
-
-Weiterführende Informationen: [Privatschulen](/de/life/schools-cyprus-comparison/) · [Schulen auf Zypern](/de/life/schools-education-cyprus/) · [internationale Schulen](/de/life/internationale-schulen-zypern-ueberblick/).
+**Sehen Sie sich das Video an**, um die Vorstellung von Science House zu sehen; für Buchungsentscheidungen nutzen Sie die aktuellen Angaben des Betreibers.

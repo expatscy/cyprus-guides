@@ -29,10 +29,9 @@ Before retiring in Cyprus, check your residence route, pension tax treatment, he
 > **For UK retirees:** Check the residence route that applies to your circumstances before moving. Eligible recipients can receive the UK State Pension in Cyprus with annual increases. Under the UK–Cyprus tax treaty, ordinary UK State Pension and private pension income is generally taxed in the treaty residence country. UK government-service pensions are normally taxed only in the UK, except where the recipient is both resident in and a national of Cyprus; the old transitional election ended in 2024. If eligible for a UK-issued S1, register it for UK-funded [GESY healthcare](/en/life/healthcare-cyprus-gesy/) access. For any pension transfer, obtain advice on the specific scheme and tax consequences before changing it.
 
 > **Official sources:**
-> - [Tax Department — Foreign Pensions](https://www.gov.cy/mof/en/) — pension taxation rules
+> - [Ministry of Finance](https://www.gov.cy/mof/en/) — tax department and treaty information
 > - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — visas and residence permits
 > - [GESY — Healthcare System](https://www.gesy.org.cy/en-us/home-en) — registration and coverage
-> - [Double Tax Agreements](https://www.gov.cy/mof/en/) — list of treaty countries
 
 ## Which residence route should I check?
 
@@ -150,7 +149,7 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 
 ## Sources
 
-- [Tax Department — Foreign Pensions](https://www.gov.cy/mof/en/) — gov.cy
+- [Ministry of Finance](https://www.gov.cy/mof/en/) — gov.cy
 - [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
 - [GESY — Healthcare System](https://www.gesy.org.cy/en-us/home-en) — GeSY
 

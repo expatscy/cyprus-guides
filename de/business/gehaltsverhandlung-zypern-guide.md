@@ -1,9 +1,9 @@
 ---
 slug: "gehaltsverhandlung-zypern-guide"
 title: "Gehalt verhandeln auf Zypern: Leitfaden"
-description: "So verhandeln Sie Ihr Gehalt in Zypern — Markt-Benchmarks, Gesamtverguetung berechnen, Verhandlungstaktiken und Antworten auf typische Arbeitgeber-Einwaende."
+description: "Jobangebote auf Zypern vergleichen: Jahresbrutto, bedingtes 13. Gehalt, Benefits, Urlaub und Steuerschätzung – so bereiten Sie die Verhandlung vor."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -15,163 +15,120 @@ draft: false
 translationKey: "salary-negotiation-cyprus"
 faqSchema:
   - question: "Wie hoch ist das durchschnittliche Gehalt für Expats in Zypern?"
-    answer: "Haengt stark von der Branche ab. IT: Junior EUR 1.500-2.500, Mid EUR 2.500-4.000, Senior EUR 4.000-6.000+. Finanzen: EUR 2.000-5.000. Marketing: EUR 1.500-3.000. BCS-Unternehmen zahlen typischerweise 20-30% mehr."
+    answer: "Vergleichen Sie aktuelle Angebote für denselben Beruf, dieselbe Seniorität, denselben Standort und dieselbe Vertragsart. Ein Durchschnitt für die ganze Wirtschaft oder eine undatierte Spanne für einen Jobtitel sagt nichts über das Marktgehalt eines Expats. Notieren Sie, ob jede Zahl brutto oder netto ist und ob Zusatzgehälter oder Boni enthalten sind."
   - question: "Muss ich das 13. Gehalt bei der Gehaltsangabe einrechnen?"
-    answer: "Ja. Das 13. Gehalt ist in Zypern Standard. Rechnen Sie: Basis x 13 + Benefits-Wert / 12. Das ist Ihre ehrliche Zahl — und sie liegt hoeher als das reine Monatsgehalt."
+    answer: "Rechnen Sie es ein, wenn Sie tatsächlich Anspruch darauf haben, und weisen Sie es getrennt aus. Die zyprische Arbeitsbeziehungsabteilung (Department of Labour Relations) sagt, dass private Arbeitgeber nicht generell zu einem 13. oder 14. Gehalt verpflichtet sind. Die Zahlung ist aber Pflicht, wenn ein Tarifvertrag, ein persönlicher Vertrag oder eine bestehende Firmenpraxis sie vorsieht."
   - question: "Wann ist der beste Zeitpunkt für Gehaltsverhandlungen?"
-    answer: "Zwischen Angebot und Zusage — hier haben Sie den groessten Hebel. Verhandeln Sie nie vor Abschluss aller Bewerbungsrunden."
+    answer: "Klären Sie Budget und Erwartungen früh genug, um die Stelle zu beurteilen. Ein schriftliches Angebot liefert konkrete Bedingungen, über die Sie vor der Zusage verhandeln können. In einem bestehenden Job bereiten Sie das Gespräch rund um einen Review-Termin, erweiterte Aufgaben oder dokumentierte Ergebnisse vor. Einen allgemein besten Zeitpunkt gibt es nicht."
   - question: "Wie viel über meinem Zielgehalt sollte ich fordern?"
-    answer: "Fordern Sie 10-20% über Ihrem tatsaechlichen Ziel. Das gibt Verhandlungsspielraum, sodass der Arbeitgeber 'nachgeben' kann und Sie trotzdem bei Ihrem Wunsch landen."
-  - question: "Sollte ich als Deutsche/r in Zypern anders verhandeln als in Deutschland?"
-    answer: "Ihr strukturierter, datenbasierter Ansatz funktioniert gut. Aber: Zypriotische Unternehmen sind weniger formell. Beziehungspflege ist wichtig neben den Sachargumenten. Der Mix aus deutscher Gruendlichkeit und zypriotischer Beziehungsorientierung ist ideal."
+    answer: "Wählen Sie eine Anfangsforderung, die durch vergleichbare Angebote, die Rolle und Ihre Ergebnisse gestützt ist. Legen Sie Ihr eigenes akzeptables Minimum privat fest. Ein fester Prozentsatz über dem Ziel garantiert keine Einigung. Nennen Sie eine Spanne nur, wenn auch ihre Untergrenze für Sie akzeptabel wäre."
+  - question: "Kann ich auch etwas anderes als das Grundgehalt verhandeln?"
+    answer: "Sie können zusätzlichen Urlaub, Remote-Arbeit, Weiterbildung, einen Sign-on-Bonus, Ausrüstung oder Umzugshilfe vorschlagen. Klären Sie mit dem Arbeitgeber, ob das möglich ist und unter welchen Bedingungen, und halten Sie vereinbarte Punkte schriftlich fest. Ein Vorschlag ist noch kein Anspruch."
 ---
-> **Kurzantwort:** Durchschnittsgehalt auf Zypern: 1.800-2.500 EUR/Monat. IT-Gehaelter: 2.500-5.000 EUR. Immer Netto nach GESY und Social Insurance verhandeln.
+> **Kurzantwort:** Vergleichen Sie Angebote anhand des **Jahresbruttos in bar** und prüfen Sie dann Ihre eigenen Abzüge und Benefits. Rechnen Sie ein 13. Gehalt nur ein, wenn es für Sie gilt. Trennen Sie Arbeitgeberkosten, bezahlten Urlaub und freiwillige Boni, damit nichts doppelt zählt.
 
-Deutsche gehen Gehaltsverhandlungen typischerweise sehr strukturiert an: Sachargumente, Marktdaten, klare Forderung. Das ist in Zypern ein Vorteil. Zypriotische und internationale Arbeitgeber schaetzen Professionalitaet. Was in Deutschland funktioniert, funktioniert auch hier — mit kleinen Anpassungen.
+## Wie finde ich einen brauchbaren Gehalts-Benchmark?
 
-Dieser Leitfaden zeigt, wie Sie auf dem zypriotischen Arbeitsmarkt effektiv verhandeln — ob beim neuen Arbeitgeber oder bei der Gehaltsanpassung.
+Sammeln Sie datierte Stellenanzeigen, Angebote von Recruitern und vergleichbare schriftliche Angebote für denselben Beruf, dieselbe Seniorität, dieselben Aufgaben, dieselbe Stadt und dieselbe Arbeitsform. Notieren Sie, wie viele Datenpunkte Sie haben und von wann sie sind. Gehaltsportale mit selbst gemeldeten Zahlen sind nur zusätzliche Hinweise. Prüfen Sie dort Stichprobe, Währung und Definition der Vergütung, bevor Sie vergleichen.
 
-## Wie hoch sind die Gehälter auf Zypern?
+Fragen Sie, ob eine genannte Zahl monatlich oder jährlich, brutto oder netto ist und ob sie ein 13. oder 14. Gehalt, Boni oder Benefits enthält. Gehen Sie nicht davon aus, dass ein Titel wie „Senior“ in jeder Firma dasselbe bedeutet.
 
-Bevor Sie verhandeln, brauchen Sie Daten. Typische Bruttogehaelter (2026):
+Die Einwanderungs- oder Recruiting-Kategorie einer Firma ist kein Beleg für einen festen Gehaltsaufschlag. Die Bezeichnung des Arbeitgebers begründet auch keinen Anspruch auf eine Einkommensteuerbefreiung. Prüfen Sie Ihre eigene Situation anhand der [Befreiungen für Arbeitseinkommen im geltenden Einkommensteuergesetz](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) und des [Steuerleitfadens](/de/business/taxes-cyprus-gesy-deductions/).
 
-### IT-Sektor
+## Ist das 13. Gehalt garantiert?
 
-| Position | Gehalt (EUR/Monat, brutto) |
-|----------|----------------------------|
-| Junior Developer | EUR 1.500 - 2.500 |
-| Middle Developer | EUR 2.500 - 4.000 |
-| Senior Developer | EUR 4.000 - 6.000+ |
-| Tech Lead / Architect | EUR 5.000 - 8.000+ |
+Die [offizielle Antwort der Arbeitsbeziehungsabteilung](https://www.mlsi.gov.cy/mlsi/dlr/dlr.nsf/All/D884920734AE50B8C22586870039FD16), geprüft am **3. Oktober 2026**, lautet: Es gibt **keine allgemeine gesetzliche Regelung, die private Arbeitgeber zu einem 13. oder 14. Gehalt verpflichtet**.
 
-### Andere Branchen
+Es muss aber gezahlt werden, wenn es vorgesehen ist durch:
 
-| Branche | Spanne (EUR/Monat) |
-|---------|---------------------|
-| Finanzen / Buchhaltung | EUR 2.000 - 5.000 |
-| Marketing | EUR 1.500 - 3.000 |
-| Administration / Büro | EUR 1.000 - 1.500 |
+- einen geltenden Tarifvertrag,
+- einen persönlichen Vertrag oder Arbeitsvertrag,
+- eine bestehende Firmenpraxis.
 
-**Wo pruefen:** [levels.fyi](https://www.levels.fyi/), [Glassdoor Cyprus](https://www.glassdoor.com/), [CareersInCyprus](https://www.careersincyprus.com/)
-
-### BCS vs Nicht-BCS
-
-BCS-Unternehmen (Business Consulting Services) zahlen typischerweise **20-30% über** dem Standard. Dazu kommen Steuervorteile (50% oder 20% Befreiung auf Einkommen). EUR 4.000 bei einem BCS-Unternehmen mit 50%-Befreiung bringt netto deutlich mehr als EUR 5.000 ohne Befreiung.
-
-### Vergleich mit Deutschland
-
-Die absoluten Zahlen sind niedriger als in Deutschland. Aber: kein Solidaritaetszuschlag, keine Kirchensteuer, Einkommensteuer erst ab EUR 22.000, und bei Non-Dom-Status null Prozent Verteidigungsbeitrag (SDC). Rechnen Sie Netto-zu-Netto, nicht Brutto-zu-Brutto.
+Nach Angaben der Abteilung kann eine feste Zahlungspraxis auch ohne schriftliche Vereinbarung eine Pflicht begründen. Arbeitgeber müssen Mitarbeitende schriftlich über die Leistung informieren, wenn sie gewährt wird. Fragen Sie, welche Bedingungen für Ihr Angebot gelten: Höhe, Zahlungstermin und Behandlung bei Eintritt oder Austritt im Lauf des Jahres. Gehen Sie nicht davon aus, dass jede Zusatzzahlung ein volles Monatsgehalt ist.
 
 ## Wie berechne ich die Gesamtvergütung?
 
-Wenn jemand fragt: "Was verdienen Sie aktuell?" — antworten die meisten mit dem Monatsgehalt. Das ist ein Fehler.
+Nutzen Sie getrennte Zeilen für:
 
-Ihre Gesamtverguetung umfasst:
+| Bestandteil | So vergleichen Sie ihn |
+|---|---|
+| Jahresbrutto Grundgehalt in bar | Monatsbrutto × Anzahl der Grundgehalts-Zahlungen |
+| Vertraglich garantierte Zusatzzahlungen | Tatsächlich garantierte Zahlungen addieren, die nicht schon im Grundgehalt stecken |
+| Variabler Bonus | Bedingungen nennen; Zielwert getrennt von garantiertem Geld halten |
+| Benefits | Leistung benennen und Ihren eigenen Wert dafür ansetzen; nicht als Gehalt darstellen |
+| Arbeitgeberbeiträge | Arbeitgeberkosten getrennt von Ihrem Brutto und Netto halten |
+| Ihre Abzüge | Einkommensteuer und Beiträge für Ihre Situation schätzen |
 
-- **Basis x 13** (13. Gehalt ist Standard in Zypern)
-- **Urlaubswert** (20-21 Tage = ca. 1 Monat)
-- **Arbeitgeber-Sozialversicherung** (8,8%)
-- **GESY-Beitrag** (2,65%)
-- **Private Krankenversicherung** (falls vorhanden)
-- **Weiterbildung, Equipment, Essenszuschuss**
+**Beispiel:** 3.500 EUR Monatsbrutto, zwölfmal gezahlt, ergeben **42.000 EUR Jahresbrutto Grundgehalt**. Wenn der Vertrag zusätzlich ein volles Gehalt von 3.500 EUR garantiert, beträgt das Jahresbrutto in bar **45.500 EUR**. Auf zwölf Monate umgerechnet sind das **3.791,67 EUR**, auf Cent gerundet. Das ist ein angenommenes Angebot, kein landesweiter Gehalts-Benchmark und keine Nettoberechnung.
 
-**Beispiel:** EUR 3.500/Monat Basis bedeutet tatsaechlich:
-- Jaehrlich: EUR 3.500 x 13 = EUR 45.500
-- Monatlicher Gegenwert mit Benefits: ca. EUR 4.200-4.500
+Bezahlter Urlaub in einem bereits bezahlten Arbeitsjahr darf nicht noch einmal als zusätzliches Monatsgehalt addiert werden. Der [offizielle Service zum bezahlten Urlaub](https://www.gov.cy/en/service/31545/) nennt: Wer **48 Wochen innerhalb eines Jahres** gearbeitet hat, hat Anspruch auf **vier Wochen bezahlten Jahresurlaub**, das sind **20 Arbeitstage bei einer Fünftagewoche** oder **24 bei einer Sechstagewoche**. Bezahlt wird vom Arbeitgeber oder vom Central Holiday Fund. Prüfen Sie Ihren Anspruch und die Vertragsbedingungen. Ein besseres Angebot kann zusätzlichen Urlaub enthalten.
 
-Antworten Sie: *"Mein Gesamtpaket liegt bei ca. EUR 4.300 monatlich inklusive Basis, 13. Gehalt und Benefits. Fuer die richtige Rolle schaue ich auf den Bereich EUR 4.500-5.200."*
+Für eine Nettoschätzung brauchen Sie das gültige Steuerjahr, das steuerpflichtige Einkommen, persönliche Freibeträge und die Beitragsbemessungsgrundlagen. Die Gehaltsabrechnung eines Arbeitgebers kann beim Vergleich helfen. Dasselbe Brutto ergibt aber nicht für jeden Beschäftigten dasselbe Netto.
 
-## Wie antworte ich auf die Gehaltsfrage?
+## Wie spreche ich über das Gehalt?
 
-### Frueh im Prozess gefragt
+Fragen Sie nach Budget und Gesamtpaket, während Sie klären, ob die Stelle passt. Sie können sagen:
 
-Nennen Sie keine einzelne Zahl:
+> „Welche Jahresbrutto-Spanne ist für die Rolle vorgesehen, und welche Boni oder zusätzlichen Gehaltszahlungen sind enthalten?“
 
-> "Mein aktuelles Gesamtpaket liegt bei ca. EUR X inklusive Basis, Benefits und Beitraege. Fuer die passende Position bin ich offen für den Bereich EUR X-Y."
+Wenn man Sie nach Ihren Erwartungen fragt, trennen Sie Ihr gewünschtes Paket von Ihrer aktuellen Vergütung. Sie müssen Ihr aktuelles Gehalt nicht aufblasen, indem Sie Arbeitgeberkosten addieren oder Benefits einen erfundenen Wert geben.
 
-### Wenn nach einer konkreten Zahl gedraengt wird
+> „Für diesen Aufgabenbereich suche ich ein Jahresbrutto-Grundgehalt von EUR X–Y. Ich möchte außerdem Bonus, Urlaub und Remote-Regeln verstehen.“
 
-Umlenken:
-
-> "Ich wuerde gerne zuerst den vollen Umfang der Rolle verstehen. Welches Budget ist für diese Position vorgesehen?"
-
-### Die goldene Regel
-
-**Nie eine einzelne Zahl — immer eine Spanne.** Die Untergrenze Ihrer Spanne = Ihr eigentliches Ziel.
+Das sind Beispielsätze. Wählen Sie eine Spanne, deren Untergrenze für Sie akzeptabel ist, und erklären Sie, welche Annahmen sie enthält. Sie können auch eine klare Einzelforderung nennen, wenn sie Ihre Position besser ausdrückt.
 
 ## Wann sollte ich verhandeln?
 
-- **Zwischen Angebot und Zusage** — Ihr groesster Hebel. Das Unternehmen hat investiert und will nicht von vorne anfangen.
-- **Nie vor Abschluss der Interviews** — ohne Auswahl kein Hebel.
-- **Beim Jahresgespraech** — Daten im Voraus vorbereiten.
-- **Bei Scope Creep** — neue Aufgaben ohne Gehaltsanpassung = Verhandlungsanlass.
+Sprechen Sie das Budget früh genug an, um Missverständnisse zu vermeiden, und prüfen Sie dann die konkreten Bedingungen, bevor Sie ein schriftliches Angebot annehmen. In einem bestehenden Job bereiten Sie sich rund um den vereinbarten Review-Prozess, erweiterte Aufgaben oder dokumentierte Ergebnisse vor.
 
-## Wie verhandle ich Schritt für Schritt?
+Bauen Sie eine kurze Argumentation mit Ihren tatsächlichen Ergebnissen auf. Erklären Sie Aufgabenbereich, Belege und die gewünschte Anpassung. Erfinden Sie keine Erfolge und gehen Sie nicht davon aus, dass eine Verhandlungstaktik Ihnen sicher Einfluss verschafft.
 
-1. **Marktdaten recherchieren** — Glassdoor, levels.fyi, LinkedIn Salary, Netzwerk befragen
-2. **Gesamtverguetung berechnen** — siehe Formel oben
-3. **Wertportfolio vorbereiten** — 3-5 konkrete Erfolge mit Zahlen (*"Deployment-Zeit um 40% reduziert"*, *"Kundenportfolio von EUR 2 Mio. betreut"*)
-4. **10-20% über dem Ziel fordern** — Verhandlungsspielraum lassen
-5. **Zahl nennen, dann schweigen** — Stille ist maechtig. Wer nach einer Zahl zuerst spricht, gibt nach.
-6. **Bei Nein zur Basis** — Urlaub, Remote-Tage, Weiterbildungsbudget, Sign-on-Bonus, Equipment verhandeln
+1. Vergleichbare Angebote sammeln und die Aufgaben der Rolle festlegen.
+2. Das Jahrespaket ohne Doppelzählung berechnen.
+3. Wunschergebnis, akzeptables Minimum und Alternativen festlegen.
+4. Eine begründete Forderung stellen und Zeit für die Antwort lassen.
+5. Machbare Alternativen besprechen und jede Einigung dokumentieren.
 
-## Wie reagiere ich auf typische Einwände?
+Eine höhere Anfangsforderung kann Raum für Gespräche lassen. Es gibt aber keinen belegten allgemeinen Prozentsatz, der eine Verhandlung erfolgreich macht. Halten Sie Ihre Grenzen privat und versprechen Sie keine Zugeständnisse, bevor Sie die Reaktion kennen.
 
-| Sie sagen | Sie antworten |
-|-----------|---------------|
-| "Das Budget gibt das nicht her" | "Verstehe ich. Welche Bedingungen oder welcher Zeitrahmen wuerden das ermoeglichen?" |
-| "Reden wir in 6 Monaten nochmal" | "Gerne. Koennen wir konkrete Kriterien und einen Ueberprfungstermin schriftlich festhalten?" |
-| "Alle auf diesem Level bekommen dasselbe" | "Ich respektiere die Struktur. Mein Beitrag bei [Projekt] hat [konkretes Ergebnis] gebracht. Waere eine Senior-/Spezialisten-Anpassung möglich?" |
-| "Sie haben gerade erst angefangen" | "Verstaendlich. Ab welchem Meilenstein waeren Sie offen für ein Kompensationsgespraech?" |
+## Wie reagiere ich auf Einwände?
 
-## Was gilt für B2B und Freiberufler?
+| Antwort des Arbeitgebers | Mögliche Erwiderung |
+|---|---|
+| „Das Budget gibt das nicht her.“ | „Welche Teile des Pakets können sich ändern, und welche Freigabe braucht eine Gehaltsanpassung?“ |
+| „Reden wir in sechs Monaten noch einmal.“ | „Können wir den Review-Termin und messbare Kriterien schriftlich festhalten?“ |
+| „Alle auf diesem Level bekommen dasselbe.“ | „Könnten wir prüfen, ob meine Aufgaben zu diesem Level passen?“ |
+| „Sie haben gerade erst angefangen.“ | „Welche Ergebnisse möchten Sie sehen, bevor Sie die Vergütung überprüfen?“ |
 
-Als Auftragnehmer (B2B / Selbststaendig) gilt eine andere Rechnung:
+Das sind Vorschläge, keine Aussagen darüber, wie sich jeder zyprische Arbeitgeber verhält. Ein Review-Versprechen ist keine garantierte Erhöhung. Klären Sie, was tatsächlich zugesagt wird.
 
-**B2B-Rate = Angestelltengehalt x 1,3-1,5**
+## Wie vergleiche ich Selbstständigkeit und Anstellung?
 
-Das deckt: Sozialversicherung (16,6% für Selbststaendige), GESY (4%), Urlaub (selbst finanziert), Buchhaltung, Verwaltungskosten.
+Berechnen Sie einen Honorarsatz aus der tatsächlichen Konstellation und nicht, indem Sie ein Angestelltengehalt mit einem pauschalen Faktor multiplizieren. Schätzen Sie abrechenbare Tage, unbezahlte Zeit, Steuern und Beiträge, Versicherung, Ausrüstung, Verwaltung, Zahlungsrisiko und Ihr gewünschtes Einkommen. Eine Firma und ein selbstständiger Einzelunternehmer können unterschiedliche Pflichten haben.
 
-### Was bei B2B verhandeln
+Prüfen Sie Ihre [Aufenthalts- und Arbeitserlaubnis](/de/business/working-cyprus-job-search/) und die [Bedingungen der Registrierung als Selbstständiger](/de/business/self-employed-cyprus-guide/), bevor Sie davon ausgehen, dass Sie die vorgeschlagene Struktur nutzen können.
 
-- **Rate** — stunden- oder monatsbasiert
-- **Zahlungsziel** — NET-15 besser als NET-30
-- **Urlaub** — unbezahlt, aber vertraglich abgesichert
-- **Kuendigungsfrist** — mindestens 30 Tage
-- **Exklusivitaet** — vermeiden, wenn die Rate es nicht rechtfertigt
-- **IP-Rechte** — eigene Tools und Vorarbeiten muessen Ihnen gehoeren
-- **Wettbewerbsverbot** — eng gefasst fordern (bestimmte Branche, begrenzte Region, kurze Laufzeit)
+Verhandeln Sie Honorar, Rechnungsstellung und Zahlungsfristen, Liefergegenstände, Auslagen, Kündigung, Haftung, Exklusivität und die Rechte an bereits vorhandenen Tools. Lassen Sie den konkreten Vertrag von einem Anwalt prüfen, auch Wettbewerbsklauseln und die tatsächliche Art der Zusammenarbeit. Vertraglich vereinbarte freie Zeit eines Auftragnehmers ist nicht dasselbe wie der gesetzliche bezahlte Urlaub eines Angestellten.
 
-## Warum spielt die Wegzugsbesteuerung eine Rolle?
+## Häufige Fragen
 
-Wenn Sie aus Deutschland nach Zypern umziehen und Unternehmensanteile halten, beachten Sie die Wegzugsbesteuerung (§ 6 AStG). Die fiktiven Veraeusserungsgewinne werden in Deutschland besteuert. In der EU gibt es eine Stundungsmoeglich. Beruecksichtigen Sie dies bei Ihrer Gehaltsverhandlung: Wenn die Wegzugssteuer faellig wird, brauchen Sie ggf. ein hoeheres Startgehalt oder einen Sign-on-Bonus als Puffer. Details zum Thema: [DBA und Wegzugsbesteuerung](/de/business/dba-deutschland-zypern).
+### Wie hoch ist das durchschnittliche Gehalt für Expats in Zypern?
 
-## FAQ
+Vergleichen Sie aktuelle Angebote für denselben Beruf, dieselbe Seniorität, denselben Standort und dieselbe Vertragsart. Ein Durchschnitt für die ganze Wirtschaft oder eine undatierte Spanne für einen Jobtitel sagt nichts über das Marktgehalt eines Expats. Notieren Sie, ob jede Zahl brutto oder netto ist und ob Zusatzgehälter oder Boni enthalten sind.
 
-**Wie hoch ist das durchschnittliche Gehalt für Expats in Zypern?**
-Haengt stark von der Branche ab. IT: Junior EUR 1.500-2.500, Mid EUR 2.500-4.000, Senior EUR 4.000-6.000+. Finanzen: EUR 2.000-5.000. Marketing: EUR 1.500-3.000. BCS-Unternehmen zahlen typischerweise 20-30% mehr.
+### Muss ich das 13. Gehalt bei der Gehaltsangabe einrechnen?
 
-**Muss ich das 13. Gehalt bei der Gehaltsangabe einrechnen?**
-Ja. Das 13. Gehalt ist in Zypern Standard. Rechnen Sie: Basis x 13 + Benefits-Wert / 12. Das ist Ihre ehrliche Zahl — und sie liegt hoeher als das reine Monatsgehalt.
+Rechnen Sie es ein, wenn Sie tatsächlich Anspruch darauf haben, und weisen Sie es getrennt aus. Die zyprische Arbeitsbeziehungsabteilung (Department of Labour Relations) sagt, dass private Arbeitgeber nicht generell zu einem 13. oder 14. Gehalt verpflichtet sind. Die Zahlung ist aber Pflicht, wenn ein Tarifvertrag, ein persönlicher Vertrag oder eine bestehende Firmenpraxis sie vorsieht.
 
-**Wann ist der beste Zeitpunkt für Gehaltsverhandlungen?**
-Zwischen Angebot und Zusage — hier haben Sie den groessten Hebel. Verhandeln Sie nie vor Abschluss aller Bewerbungsrunden.
+### Wann ist der beste Zeitpunkt für Gehaltsverhandlungen?
 
-**Wie viel über meinem Zielgehalt sollte ich fordern?**
-Fordern Sie 10-20% über Ihrem tatsaechlichen Ziel. Das gibt Verhandlungsspielraum, sodass der Arbeitgeber "nachgeben" kann und Sie trotzdem bei Ihrem Wunsch landen.
+Klären Sie Budget und Erwartungen früh genug, um die Stelle zu beurteilen. Ein schriftliches Angebot liefert konkrete Bedingungen, über die Sie vor der Zusage verhandeln können. In einem bestehenden Job bereiten Sie das Gespräch rund um einen Review-Termin, erweiterte Aufgaben oder dokumentierte Ergebnisse vor. Einen allgemein besten Zeitpunkt gibt es nicht.
 
-**Sollte ich als Deutsche/r in Zypern anders verhandeln als in Deutschland?**
-Ihr strukturierter, datenbasierter Ansatz funktioniert gut. Aber: Zypriotische Unternehmen sind weniger formell. Beziehungspflege ist wichtig neben den Sachargumenten. Der Mix aus deutscher Gruendlichkeit und zypriotischer Beziehungsorientierung ist ideal.
+### Wie viel über meinem Zielgehalt sollte ich fordern?
 
----
+Wählen Sie eine Anfangsforderung, die durch vergleichbare Angebote, die Rolle und Ihre Ergebnisse gestützt ist. Legen Sie Ihr eigenes akzeptables Minimum privat fest. Ein fester Prozentsatz über dem Ziel garantiert keine Einigung. Nennen Sie eine Spanne nur, wenn auch ihre Untergrenze für Sie akzeptabel wäre.
 
-Nicht zu verhandeln kostet echtes Geld. EUR 500/Monat auf dem Tisch gelassen = EUR 6.500/Jahr (mit 13. Gehalt). In 3 Jahren: EUR 19.500. Bereiten Sie Ihre Daten vor, kennen Sie Ihre Zahl, und fordern Sie, was Sie wert sind.
+### Kann ich auch etwas anderes als das Grundgehalt verhandeln?
 
-Lesen Sie auch: [Arbeiten auf Zypern — Jobsuche und Gehälter](/de/business/working-cyprus-job-search/) | [Sozialversicherung auf Zypern](/de/business/social-insurance-cyprus-pension/)
-
----
-
-## Quellen
-
-- [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
-- [Registrar of Companies](https://www.companies.gov.cy/en/) — gov.cy
+Sie können zusätzlichen Urlaub, Remote-Arbeit, Weiterbildung, einen Sign-on-Bonus, Ausrüstung oder Umzugshilfe vorschlagen. Klären Sie mit dem Arbeitgeber, ob das möglich ist und unter welchen Bedingungen, und halten Sie vereinbarte Punkte schriftlich fest. Ein Vorschlag ist noch kein Anspruch.

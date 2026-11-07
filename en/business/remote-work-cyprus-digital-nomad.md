@@ -3,7 +3,7 @@ slug: "remote-work-cyprus-digital-nomad"
 title: "Remote Work in Cyprus 2026: Digital Nomad"
 description: "Plan remote work in Cyprus: digital-nomad and EU residence conditions, 2026 tax residency, insurance, address-specific internet checks and budgeting."
 date: 2026-04-09
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -87,9 +87,19 @@ The digital-nomad information page contains an older qualification about not bei
 
 ### Taxable income and non-dom status
 
-Under the ordinary **2026 personal income-tax schedule**, the first **EUR 22,000 of taxable income** is taxed at 0%, followed by bands at 20%, 25%, 30% and 35%. The threshold concerns taxable income after applicable adjustments, not a blanket exemption for gross salary or foreign receipts. Residents are assessed under the law's worldwide-income provisions, subject to applicable exemptions and treaty treatment; non-residents can also have taxable Cyprus-source income.
+The ordinary **2026 personal income-tax bands** ([Tax Department, Tax Reform 2026 FAQ for individuals, question 5](https://www.gov.cy/media/sites/167/2026/05/FAQs-110526.pdf), checked 2026-11-07) are:
 
-For example, **EUR 42,000 of taxable income** produces EUR 4,500 ordinary income tax: EUR 10,000 at 20% plus EUR 10,000 at 25%. This illustration excludes contributions and assumes that EUR 42,000 is already the taxable amount, rather than a gross salary requiring deductions.
+| Taxable income | Rate |
+|---|---|
+| EUR 0–22,000 | 0% |
+| EUR 22,001–32,000 | 20% |
+| EUR 32,001–42,000 | 25% |
+| EUR 42,001–72,000 | 30% |
+| From EUR 72,001 | 35% |
+
+The EUR 22,000 threshold concerns taxable income after applicable adjustments, not a blanket exemption for gross salary or foreign receipts. Residents are assessed under the law's worldwide-income provisions, subject to applicable exemptions and treaty treatment; non-residents can also have taxable Cyprus-source income.
+
+For example, **EUR 42,000 of taxable income** produces EUR 4,500 ordinary income tax: EUR 22,000 at 0%, EUR 10,000 at 20% (EUR 2,000) and EUR 10,000 at 25% (EUR 2,500). This illustration excludes contributions and assumes that EUR 42,000 is already the taxable amount, rather than a gross salary requiring deductions.
 
 [Non-dom status](/en/business/non-dom-status-cyprus-60-day-rule/) concerns the [SDC Law's domicile rules](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html). Domicile of origin and the statutory exceptions matter; an individual resident in Cyprus for at least **17 of the preceding 20 tax years** is deemed domiciled for these purposes. Do not infer eligibility merely from being a new arrival.
 

@@ -3,7 +3,7 @@ slug: "money-transfer-russia-cyprus"
 title: "העברת כסף מרוסיה לקפריסין: דרכים"
 description: "כיצד להעביר כספים מרוסיה לקפריסין אחרי הסנקציות: דרך מדינות שלישיות, מטבע קריפטוגרפי, מזומן. לרכישת נדלן ולצרכים יומיומיים."
 date: 2026-01-24
-updated: 2026-04-09
+updated: 2026-11-07
 category: "עסקים"
 author: "Expats Cyprus"
 tags:
@@ -204,24 +204,12 @@ translationKey: "perevod-deneg-iz-rossii-na-kipr"
 4. **אל תמהרו** — עדיף יותר זמן אך בטוח יותר
 5. **התייעצו** — המצב משתנה
 
-
-**Practical warning:** Every transfer through a third country leaves a paper trail. Banks in Kazakhstan, Armenia, and Georgia are increasingly scrutinizing transfers from Russian accounts. Maintain clean documentation at every step: employment contracts, tax returns, property sale agreements. If a bank asks where the money came from, you need to answer within 10 business days or the transfer may be frozen.
-
 ---
 
 העברת כספים מרוסיה — נושא מורכב ומשתנה כל הזמן. מומלץ להתייעץ עם מומחים ולעקוב אחר מידע עדכני.
 
 למידע נוסף: [העברת כספים לקפריסין](/he/business/money-transfer-cyprus-swift-crypto/) · [בנקאות בקפריסין](/he/life/banking-cyprus-guide-2026/) · [פתיחת חשבון בנק](/he/business/bank-account-cyprus-foreigners/).
 
-
-## מה ההבדל בין דרכי ההעברה השונות?
-
-| שיטה | עמלה | זמן | סיכון AML | מתאים ל |
-|------|------|-----|-----------|--------|
-| מדינה שלישית | 3-5% | 2-5 ימי עבודה | נמוך (אם מתועד) | סכומים גדולים |
-| שירותי תשלום | 2.5-10% | 1-3 ימי עבודה | נמוך | סכומים בינוניים |
-| קריפטו P2P | 1-5% | שעות-ימים | בינוני-גבוה | מי שמכיר את התחום |
-| מזומן | 0% | מיידי | גבוה מעל EUR 10,000 | סכומים קטנים |
 
 ## איך פותחים חשבון במדינה שלישית להעברת כספים?
 

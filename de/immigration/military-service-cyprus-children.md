@@ -1,9 +1,9 @@
 ---
 slug: "military-service-cyprus-children"
-title: "Wehrdienst auf Zypern: Pflicht & Aufschub"
-description: "Wehrdienst in Zypern: Wer muss dienen, wie lange dauert der Dienst und welche Aufschübe gelten für Eingebürgerte? Hinweise zur Familienplanung mit Söhnen."
+title: "Wehrdienst auf Zypern: neue Staatsbürger und Söhne"
+description: "Wehrpflicht auf Zypern für neue Staatsbürger und Söhne: Altersregeln, verkürzter Dienst, Aufschub für Schule und Gesundheit, Befreiung bei Wohnsitz im Ausland."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -13,180 +13,112 @@ tags:
 draft: false
 translationKey: "army-service-kipr-deti-grazhdan"
 faqSchema:
-  - question: "Muss mein Sohn auf Zypern zum Militär, wenn wir die Staatsbürgerschaft bekommen?"
-    answer: "Ja — bei Erwerb der zyprischen Staatsbürgerschaft besteht Wehrpflicht für Männer (18–50 Jahre). Eingebürgerte Bürger: 6 Monate Dienst (unter 26 Jahre) oder 3 Monate (über 26). Geborene Zyprioten: 14 Monate. Aufschub möglich für Studenten. Doppelte Staatsbürgerschaft schützt NICHT vor der Wehrpflicht."
+  - question: "Müssen Söhne von Eingebürgerten auf Zypern Wehrdienst leisten?"
+    answer: "Männliche zypriotische Staatsbürger fallen unter das Nationalgardegesetz, mit den dort geregelten Befreiungen und Aufschüben. Die Dauer des verkürzten Dienstes hängt davon ab, in welchem Alter die Person die Staatsbürgerschaft erworben hat, ob die Eltern zypriotischer Abstammung sind und ob die Bedingungen für das Einrücken erfüllt sind. Gehen Sie nicht davon aus, dass jedem Sohn eingebürgerter Eltern sechs oder drei Monate zustehen."
+  - question: "Kann man den Wehrdienst auf Zypern aufschieben?"
+    answer: "Ja, aber nur in den gesetzlich genannten Fällen: Schüler anerkannter Sekundarschulen, bestimmte Ausbildungen in Krankenpflege oder Koch- und Konditorhandwerk auf Zypern, gesundheitliche Gründe und weitere aufgeführte Umstände. Eine gewöhnliche Zulassung an einer Universität auf Zypern oder im Ausland bringt keinen allgemeinen Aufschub bis 27. Holen Sie die Genehmigung ein, bevor Sie sich auf einen Aufschub verlassen."
+  - question: "Ab welchem Alter ist der Wehrdienst auf Zypern Pflicht?"
+    answer: "Die gewöhnliche Pflicht gilt vom 1. Januar des Jahres, in dem ein Mann 18 wird, bis zum 31. Dezember des Jahres, in dem er 50 wird. Zum Grundwehrdienst kann man nur bis 45 einberufen werden; im Notfall und für bestimmte Reservisten gilt die Pflicht länger. Männliche Staatsbürger reichen ihre militärischen Personaldaten in dem Jahr ein, in dem sie 16 werden."
 ---
-> **Kurzantwort:** Maennliche zyprische Staatsbuerger sind wehrdienstpflichtig (14 Monate). Betrifft auch Kinder von Eingebuergerten ab 18 Jahren.
+> **Kurzantwort:** Die Wehrpflicht auf Zypern gilt für männliche Staatsbürger, auch für Eingebürgerte, mit den gesetzlichen Befreiungen und Aufschüben. Die gewöhnliche Pflicht beginnt am **1. Januar des Jahres, in dem man 18 wird**, nicht erst am Geburtstag. Verkürzten Dienst gibt es nur, wenn die Bedingungen zu Alter, Abstammung der Eltern und Einrücken erfüllt sind.
 
-Beim Erwerb der zyprischen Staatsbürgerschaft ist es wichtig zu wissen: Für Männer besteht eine **Wehrpflicht**. Dies ist im **Nationalgarde-Gesetz von 2011** (Ν. 19(I)/2011) geregelt. Hier die Details.
-
-> **Offizielle Quellen:**
-> - [Ministry of Defence](https://www.gov.cy/mod/en/) — Verteidigungsministerium Zyperns
-> - [National Guard](https://www.gov.cy/mod/en/) — Nationalgarde
+Dieser Ratgeber stützt sich auf das [geltende Nationalgardegesetz 19(I)/2011](https://www.cylaw.org/nomoi/enop/non-ind/2011_1_19/full.html) und die [Hinweise der Nationalgarde](https://www.gov.cy/army/sychnes-erotiseis/), geprüft am 3. Oktober 2026. Lassen Sie den militärischen Status Ihres Sohnes vom zuständigen Rekrutierungsbüro feststellen, bevor Sie Studium, Reisen oder einen Einbürgerungsantrag planen.
 
 ## Wer muss Wehrdienst leisten?
 
-### Pflicht
+Artikel 18 gilt für **männliche zypriotische Staatsbürger** und auch für Männer, bei denen ein Elternteil zypriotischer Abstammung ist, selbst wenn sie keine zypriotischen Staatsbürger geworden sind. Eine Ausnahme ist die Übergangsregel in Artikel 77(2). Sie betrifft Nicht-Staatsbürger mit zypriotischer Abstammung über die Mutter aus bereits einberufenen Jahrgängen, die nach dem alten Gesetz keine Dienstpflicht hatten; sie schützt nicht mehr, wenn sie die zypriotische Staatsbürgerschaft erwerben. Wo die Pflicht aus der Abstammung folgt, beseitigt eine Aufenthaltserlaubnis oder ein später gestellter Einbürgerungsantrag sie nicht.
 
-**Alle männlichen zyprischen Staatsbürger** sind zum Militärdienst verpflichtet:
+Die gewöhnliche Pflicht gilt **vom 1. Januar des Jahres, in dem die Person 18 wird, bis zum 31. Dezember des Jahres, in dem sie 50 wird**. Artikel 20 begrenzt die Einberufung zum Grundwehrdienst gesondert auf 45 Jahre. Artikel 18 und 22 erlauben im Notfall und für bestimmte Reservisten eine Verlängerung über die gewöhnliche Altersgrenze hinaus.
 
-- Einberufungsalter — ab **18 Jahren**
-- Der Dienst ist **Pflicht**
-- Betrifft auch diejenigen, die die Staatsbürgerschaft **durch Einbürgerung** erhalten haben
+Das Gesetz kennt Verfahren für Kriegsdienstverweigerer aus Gewissensgründen mit alternativem Militär- oder Sozialdienst sowie Kategorien für Befreiung und Aufschub. Wehrpflicht heißt nicht, dass jeder denselben Dienst in derselben Dauer leistet.
 
-### Dienstzeit
+### Registrierung
 
-**Für geborene Staatsbürger:**
-- Standarddauer: **14 Monate**
+Nach Artikel 27 muss jeder männliche Staatsbürger **in dem Jahr, in dem er 16 wird**, eine Erklärung mit seinen militärischen Personaldaten einreichen. Laut FAQ der Nationalgarde geht das online über gov.cy. Wer die Staatsbürgerschaft später erwirbt, fragt beim Rekrutierungsbüro, wie Registrierung und Einberufung im eigenen Fall ablaufen.
 
-**Für eingebürgerte Staatsbürger (verkürzte Dienstzeit):**
-- Alter 18–26: **6 Monate** (8 bei Aufschub)
-- Über 26: **3 Monate** (5 bei Aufschub)
+## Wie lange dauert der Dienst?
 
-Die Dauer ändert sich gelegentlich — informieren Sie sich bei der Nationalgarde über den aktuellen Stand.
+Die [Dienstseite der Nationalgarde](https://www.gov.cy/army/thiteia/) nennt **14 Monate für Wehrpflichtige mit vollem Dienst**. Die [Seite zum verkürzten Dienst](https://www.gov.cy/army/meiomeni-thiteia/) erklärt, dass nach der Verkürzung des vollen Dienstes auf 14 Monate praktisch die sechs- und dreimonatigen verkürzten Kategorien bleiben.
 
-> **Für Deutsche:** Deutschland hat die Wehrpflicht 2011 ausgesetzt, in Zypern ist sie jedoch aktiv. Wer die zyprische Staatsbürgerschaft für die Familie plant, muss dies bedenken. Das Doppelbesteuerungsabkommen (DBA) zwischen Deutschland und Zypern betrifft die Steuerpflicht — die Wehrpflicht ist davon unabhängig.
+Für Eingebürgerte gelten nach Artikel 21 diese Bedingungen:
 
-## Was passiert nach der Schule?
+| Erwerb der Staatsbürgerschaft | Gesetzliche Kategorie und Bedingungen |
+|---|---|
+| Vor dem 18. Geburtstag, Eltern nicht zypriotischer Abstammung | Artikel 21(1)(b)(ix): 14 Monate, wenn er direkt nach dem Abschluss einer anerkannten Sekundarschule oder binnen eines Jahres nach dem Erwerb der Staatsbürgerschaft einrückt; sonst kommen zwei Monate dazu |
+| Einbürgerung nach dem 18. und bis zum 26. Geburtstag, Eltern nicht zypriotischer Abstammung | Artikel 21(1)(c)(iv): sechs Monate, wenn er binnen zwei Jahren nach der Einbürgerung einrückt; sonst kommen zwei Monate dazu |
+| Einbürgerung nach dem 26. Geburtstag, Eltern nicht zypriotischer Abstammung | Artikel 21(1)(d)(ii): drei Monate, wenn er binnen zwei Jahren nach der Einbürgerung einrückt; sonst kommen zwei Monate dazu |
 
-### Typischer Weg
+Diese Bedingungen hängen davon ab, **wann die Person selbst die Staatsbürgerschaft erwirbt und welcher Abstammung die Eltern sind**. Es gibt keinen pauschalen Anspruch auf sechs oder drei Monate für alle Söhne eingebürgerter Eltern. Die zwei zusätzlichen Monate entstehen, wenn die Frist für das Einrücken verpasst wird, nicht bei jedem rechtmäßigen Aufschub.
 
-Die meisten Zyprioten:
+Verkürzten Dienst gibt es auf Antrag und nach Entscheidung. Artikel 21(6) schränkt ihn für bestimmte Offiziers-, Unteroffiziers- und Spezialfunktionen ein, mit Ausnahmen. Andere Kategorien des verkürzten Dienstes, etwa für dauerhaft im Ausland Lebende, die nach Zypern zurückkehren, haben eigene Bedingungen; welche Kategorie gilt, sagt Ihnen das Rekrutierungsbüro.
 
-1. Beenden die **Schule**
-2. Leisten **Wehrdienst**
-3. Beginnen dann das **Studium**
+Der letzte Satz zu Eingebürgerten auf der Seite zum verkürzten Dienst ist unvollständig. Die vollständigen Bedingungen für drei Monate oben stammen aus Artikel 21(1)(d)(ii) des geltenden Gesetzes.
 
-### Aufgeschobenes Studium
+## Welche Aufschübe gibt es?
 
-Viele beginnen das Studium **vor dem Wehrdienst**, aber:
+### Schule und Studium
 
-- Dienen vor Studienbeginn
-- Oder nehmen ein Urlaubssemester
+Artikel 24 gewährt Schülern **anerkannter Sekundarschulen auf Zypern oder im Ausland** einen Aufschub bis zum Abschluss des Grundkurses oder bis zum Abbruch des Schulbesuchs. Die Hinweise der Nationalgarde beschreiben jährliche Schulaufschübe und wie Schule und Schüler die Unterlagen einreichen.
 
-## Welche Aufschübe sind möglich?
+Einen **allgemeinen Aufschub für ein Studium bis 27 gibt es nicht**, weder auf Zypern noch im Ausland. Die FAQ der Nationalgarde nennt konkrete Ausnahmen: Studierende, die **Krankenpflege an einer zypriotischen Hochschule** studieren oder dafür ausgewählt sind, oder **Koch- und Konditorhandwerk an einer zypriotischen Fach- oder Hochschule**. Nach Artikel 24 kann der Minister für diese Gruppen eine Höchstzahl und Auswahlkriterien festlegen. Ein Studium an militärischen Einrichtungen ist eine weitere eigene Kategorie. Die Liste ist nicht vollständig: Artikel 75 sieht außerdem einen vom Minister genehmigten Aufschub für ein Studium für eine bestimmte Gruppe früher vorübergehend entlassener Wehrpflichtiger vor, die neu als tauglich eingestuft wurden.
 
-### Studium in Zypern
+Eine Zulassung an der Universität ersetzt keinen militärischen Aufschub. Lassen Sie sich Ihren militärischen Status schriftlich bestätigen, bevor Sie mit der Universität einen Studienbeginn vereinbaren.
 
-Ein Studium an einer zyprischen Universität ist **kein** Grund für einen Aufschub:
+### Gesundheitliche Gründe
 
-> „Anwälte haben bestätigt, dass ein Hochschulstudium in Zypern keinen Grund für einen Aufschub vom Wehrdienst darstellt. Nur aus gesundheitlichen Gründen."
+Über die Tauglichkeit entscheiden die zuständigen ärztlichen Ausschüsse. Nach Artikel 24 und den [medizinischen Hinweisen der Nationalgarde](https://www.gov.cy/army/apallages-anavoles-krisi-somatikis-ikanotitas/) kann eine vorübergehende Dienstunfähigkeit zu Gesundheitsaufschüben von insgesamt **bis zu zwei Jahren** führen, gewährt für ein Jahr, sechs Monate oder drei Monate.
 
-### Gesundheit
+Eine Einstufung **I/5** kann je nach Befund zu einer vorübergehenden oder dauerhaften Entlassung wegen Untauglichkeit führen. Eine vorübergehende Entlassung ist keine dauerhafte Befreiung: Laut FAQ wird man bis 40 jährlich neu untersucht.
 
-Ein Aufschub oder eine Befreiung ist aus **medizinischen Gründen** möglich.
+### Weitere Gründe
 
-### Studium im Ausland
+Artikel 24 nennt weitere Kategorien, darunter ein Bruder, der gerade dient oder gleichzeitig einberufen ist (unter den genannten Bedingungen), Krankenhausaufenthalt, bestimmte Umzüge der Familie ins Ausland, bestimmte religiöse oder öffentliche Ämter und besondere familiäre oder finanzielle Umstände. Jede Kategorie hat eigene Bedingungen und eine eigene Dauer. Es stimmt nicht, dass nur gesundheitliche Gründe zählen.
 
-Bei einem Studium an einer Universität im Ausland sind Aufschübe möglich, aber dies muss im Einzelfall geklärt werden.
+Stellen Sie den Antrag beim zuständigen Rekrutierungsbüro oder beim Verteidigungsministerium, wie in den Hinweisen beschrieben. Über Gesundheitsaufschübe entscheiden die ärztlichen Ausschüsse. Verlassen Sie sich nicht auf einen Grund allein, ohne die entsprechende Entscheidung.
 
-## Was gilt für eingebürgerte Kinder?
+## Befreit ein anderer Pass oder ein Wohnsitz im Ausland?
 
-### Unter 18 Jahren
+**Eine andere Staatsangehörigkeit allein befreit nicht pauschal.** Artikel 23 nennt bestimmte Befreiungen, darunter für dauerhaft im Ausland Lebende und für bestimmte Fälle von bereits abgeleistetem Dienst in einer ausländischen Armee.
 
-Wenn der Sohn die Staatsbürgerschaft **vor dem 18. Lebensjahr** erhält:
+So erfasst Artikel 23(1)(i) Personen, die **nicht zypriotischer Abstammung** sind und **vor der Einbürgerung den Militärdienst in ihrem Herkunftsland ohne Freikauf abgeleistet haben**. Nach Artikel 23(2) befreit sie das **nicht** vom Reservedienst. Für andere Fälle von Auslandsdienst gelten andere Bedingungen zu Staatsangehörigkeit, Wohnsitz im Ausland und Dienst.
 
-- Registrierung als Staatsbürger
-- Einberufung **nach dem 18. Geburtstag**
+Der Status als dauerhaft im Ausland Lebender ist in Artikel 2 genau definiert, einschließlich der Berechnung von zehn Jahren Wohnsitz, der Anfangsdaten und der Ausschlüsse. Einfach wegzuziehen oder Besuche zu vermeiden reicht nicht. Die [offiziellen Hinweise zur Befreiung](https://www.gov.cy/army/apallages-anavoles-krisi-somatikis-ikanotitas/) verlangen einen Antrag mit Nachweisen; üblich ist für diese Kategorie eine Wohnsitzbescheinigung einer zypriotischen Botschaft oder eines Konsulats.
 
-### Ab 18 Jahren
+Nach Artikel 25 muss man dem Rekrutierungsbüro **binnen eines Monats schriftlich** melden, wenn der Grund für eine Befreiung oder einen Aufschub wegfällt. Im Notfall können Befreiungen und Aufschübe ausgesetzt oder unterbrochen werden.
 
-Die Situation ist komplizierter. Aus Erfahrungsberichten:
+## Was passiert bei Nichterscheinen oder bei Reisen?
 
-> „Was, wenn das Kind 18 wird, noch zur Schule geht und der Passantrag noch nicht bearbeitet ist — kann man eine Besuchererlaubnis beantragen? Die Eltern haben über Fast-Track erhalten."
+Nach Artikel 67 ist es strafbar, einer rechtmäßigen Einberufung oder einem Dienstbefehl **ohne triftigen Grund** nicht zu folgen. Bei einer Verurteilung drohen höchstens **drei Jahre Haft, eine Geldstrafe von 6.000 € oder beides**. Die Straftat knüpft an den Befehl und dessen Nichtbefolgung an; die bloße Einreise nach Zypern ist nach dem Gesetz kein Auslöser.
 
-Optionen:
+Artikel 70 verbietet einem einberufenen Wehrpflichtigen die Ausreise ohne Sondergenehmigung des Ministers. Der Minister kann außerdem einem Staatsbürger ab 16 die Ausreise verbieten, wenn er annimmt, dass sie der Umgehung der Wehrpflicht dient. Prüfen Sie vor der Reise, ob Sie eine Ausreisegenehmigung brauchen.
 
-- Vor dem Erwerb der Staatsbürgerschaft eine **Besuchererlaubnis** beantragen
-- Die Staatsbürgerschaft bringt die Wehrpflicht mit sich
+Laut FAQ der Nationalgarde ist eine erteilte Ausreisegenehmigung **30 Tage ab Ausstellung** nutzbar. Wer den Dienst abgeleistet hat, aber unter 26 ist, kann statt mit einer Ausreisegenehmigung mit dem vorgesehenen Reservisten-Reisedokument oder einer **Bescheinigung über den militärischen Status Typ B** reisen.
 
-### Antragsformular
+## Wie plant eine Familie die Staatsbürgerschaft?
 
-Für volljährige Kinder eingebürgerter Eltern:
+Prüfen Sie das Alter des Sohnes, die Abstammung der Eltern, Datum und rechtlichen Weg des Erwerbs der Staatsbürgerschaft, die Aufenthaltsgeschichte, bereits erhaltene Einberufungen und genehmigte Befreiungen oder Aufschübe. Bewahren Sie die Einbürgerungsurkunde und die Korrespondenz mit den Militärbehörden auf.
 
-- Formular **M127** wird verwendet (wie für Erwachsene)
-- Gebühr: **500 €** (Standard-Einbürgerung) — die Fast-Track-Gebühr von 5.000 € gilt nur, wenn der Antragsteller eigenständig die BCS-Voraussetzungen erfüllt (berechtigtes Unternehmen, Gehalt ab 2.500 €)
-- Klären Sie dies bei der [Migrationsbehörde](https://www.gov.cy/mip-md/en/)
+Ein Passantrag und der Erwerb der Staatsbürgerschaft sind zwei verschiedene Vorgänge. Das Aufenthaltsrecht während eines laufenden Antrags folgt eigenen Regeln; eine Besuchererlaubnis ist keine sichere Lösung für jedes erwachsene Kind.
 
-## Wie beeinflusst doppelte Staatsbürgerschaft den Wehrdienst?
+Die Voraussetzungen der Einbürgerung hängen vom Weg und von den Umständen ab. Wohnsitzdauer, Anspruch und Gebühren finden Sie im [Leitfaden zur regulären Einbürgerung](/de/immigration/zypern-staatsbuergerschaft-einbuergerung/) oder zum [Weg für Hochqualifizierte](/de/immigration/cyprus-citizenship-naturalization/). Wenden Sie nicht auf jeden Fall dasselbe Formular für erwachsene Kinder, dieselbe Gehaltsschwelle oder eine Gebührentabelle für den Wehrdienst an.
 
-### Wenn eine andere Staatsbürgerschaft besteht
+Für Fragen zu Ihrem eigenen Fall nutzen Sie die [Kontakte der Rekrutierungsbüros in der FAQ der Nationalgarde](https://www.gov.cy/army/sychnes-erotiseis/). Holen Sie rechtlichen Rat ein, wenn der Fall kompliziert ist oder eine Pflicht noch offen ist.
 
-Der Besitz einer anderen Staatsbürgerschaft (deutsch oder sonstig) **befreit nicht** vom Wehrdienst in der zyprischen Armee:
+## Häufige Fragen
 
-- Zypern erkennt die **doppelte Staatsbürgerschaft** an
-- Betrachtet Sie auf eigenem Territorium aber als **Zyprioten**
-- Die Wehrpflicht **gilt**
+### Müssen Söhne von Eingebürgerten auf Zypern Wehrdienst leisten?
 
-### Ausreise vor der Einberufung
+Männliche zypriotische Staatsbürger fallen unter das Nationalgardegesetz, mit den dort geregelten Befreiungen und Aufschüben. Die Dauer des verkürzten Dienstes hängt davon ab, in welchem Alter die Person die Staatsbürgerschaft erworben hat, ob die Eltern zypriotischer Abstammung sind und ob die Bedingungen für das Einrücken erfüllt sind. Gehen Sie nicht davon aus, dass jedem Sohn eingebürgerter Eltern sechs oder drei Monate zustehen.
 
-Theoretisch kann man nach Erhalt der Staatsbürgerschaft nicht nach Zypern einreisen, bis der Wehrdienst abgeleistet ist, aber:
+### Kann man den Wehrdienst auf Zypern aufschieben?
 
-- Das schafft **rechtliche Probleme**
-- Kann die **Bürgerrechte** und die Freizügigkeit nach **Protokoll 4 der Europäischen Menschenrechtskonvention** beeinträchtigen
-- Eine Anwaltsberatung ist erforderlich
+Ja, aber nur in den gesetzlich genannten Fällen: Schüler anerkannter Sekundarschulen, bestimmte Ausbildungen in Krankenpflege oder Koch- und Konditorhandwerk auf Zypern, gesundheitliche Gründe und weitere aufgeführte Umstände. Eine gewöhnliche Zulassung an einer Universität auf Zypern oder im Ausland bringt keinen allgemeinen Aufschub bis 27. Holen Sie die Genehmigung ein, bevor Sie sich auf einen Aufschub verlassen.
 
-## Welche praktischen Überlegungen sind wichtig?
+### Ab welchem Alter ist der Wehrdienst auf Zypern Pflicht?
 
-### Planung
-
-Wenn Sie einen Sohn haben:
-
-1. **Berücksichtigen Sie die Fristen** — wann er die Staatsbürgerschaft erhält
-2. **Alter** — ist er 18 zum Zeitpunkt des Erwerbs
-3. **Besprechen Sie es mit einem Anwalt** — vor der Antragstellung
-
-### Alternativen
-
-Manche Familien:
-
-- Verschieben die **Beantragung der Staatsbürgerschaft** für den Sohn
-- Beantragen für den Sohn einen **anderen Aufenthaltstyp** (keine Staatsbürgerschaft)
-- Warten, bis der Sohn das **Studium im Ausland** abgeschlossen hat
-
-## Welche Gesetzesänderungen gab es?
-
-### Mögliche Reformen
-
-Die Wehrpflichtgesetze werden regelmäßig diskutiert:
-
-- Mögliche Verkürzung der Dienstzeit
-- Mögliche Änderungen für Eingebürgerte
-- Verfolgen Sie die Nachrichten
-
-## Was sollte ich noch lesen?
-
-- [Staatsbürgerschaft Zyperns](/de/immigration/cyprus-citizenship-naturalization/) — der vollständige Einbürgerungsprozess
-- [Aufenthaltserlaubnis in Zypern](/de/immigration/residence-permit-cyprus-guide/) — alle Aufenthaltstypen erklärt
-- [Besuchererlaubnis](/de/immigration/visitor-permit-cyprus/) — eine Alternative zur Staatsbürgerschaft für Söhne
-- [Griechisch-Prüfung](/de/immigration/greek-language-exam-citizenship/) — Pflichtvoraussetzung für die Staatsbürgerschaft
-- [Auswandern nach Zypern](/de/immigration/auswandern-nach-zypern-leitfaden/) — Leitfaden für den Umzug
-
----
-
-Die Wehrpflicht ist ein wichtiger Faktor bei der Planung der Staatsbürgerschaft für Familien mit Söhnen. Wir empfehlen eine Anwaltsberatung vor der Entscheidung über die Antragstellung.
-
-
-## Wie lange dauert es und was kostet es?
-
-Ungefähre Parameter (aktuelle Daten auf [gov.cy](https://www.gov.cy/) prüfen):
-
-| Parameter | Wert |
-|-----------|------|
-| Bearbeitungszeit | 1–3 Monate (Standard), bis zu 6 Monate (komplexe Fälle) |
-| Verwaltungsgebühr | €40–100 je nach Antragstyp |
-| Verlängerung | 1–2 Monate vor Ablauf des aktuellen Status einreichen |
-
-**Was den Prozess beschleunigt:**
-
-1. **Vollständige Unterlagen** — unvollständige Anträge werden zur Nachbesserung zurückgeschickt, was 2–4 Wochen zusätzlich bedeutet
-2. **Frühzeitig Termin buchen** — Online-Buchung über das [Ariadne Portal](https://eforms.eservices.cyprus.gov.cy/) spart stundenlange Wartezeiten beim Migration Department
-3. **Apostille und Übersetzung** — vorab vorbereiten, idealerweise noch vor der Ankunft in Zypern. Details: [Dokumente und Apostille](/de/documents/apostille-documents-cyprus/)
-4. **Antrag verfolgen** — nach Einreichung die Fallnummer (case number) erfragen, um den Bearbeitungsstand über das Portal oder telefonisch zu verfolgen
-
----
+Die gewöhnliche Pflicht gilt vom 1. Januar des Jahres, in dem ein Mann 18 wird, bis zum 31. Dezember des Jahres, in dem er 50 wird. Zum Grundwehrdienst kann man nur bis 45 einberufen werden; im Notfall und für bestimmte Reservisten gilt die Pflicht länger. Männliche Staatsbürger reichen ihre militärischen Personaldaten in dem Jahr ein, in dem sie 16 werden.
 
 ## Quellen
 
-- [Ministry of Defence](https://www.gov.cy/mod/en/) — gov.cy
-- [Deputy Ministry of Migration](https://www.gov.cy/mip-md/en/) — gov.cy
+- [Geltendes Nationalgardegesetz 19(I)/2011](https://www.cylaw.org/nomoi/enop/non-ind/2011_1_19/full.html): Artikel 18–24, 27, 67 und 70.
+- [Nationalgarde: Dienst](https://www.gov.cy/army/thiteia/), [verkürzter Dienst](https://www.gov.cy/army/meiomeni-thiteia/), [Befreiungen, Aufschübe und ärztliche Beurteilung](https://www.gov.cy/army/apallages-anavoles-krisi-somatikis-ikanotitas/), [FAQ und Kontakte](https://www.gov.cy/army/sychnes-erotiseis/).

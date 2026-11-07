@@ -1,7 +1,7 @@
 ---
 slug: "best-neighborhoods-limassol"
 title: "Limassol: Stadtteile für Expats (2026)"
-description: "Stadtteile von Limassol vergleichen: geprüfte Adressen von Schulen und Orientierungspunkten, GESY-Anspruch und praktische Checks zu Verkehr, Lärm und Mietvertrag."
+description: "Stadtteile von Limassol vergleichen: geprüfte Adressen von Schulen und Orientierungspunkten, GESY-Anspruch und Checks zu Verkehr, Lärm und Mietvertrag."
 date: 2024-02-20
 updated: 2026-10-21
 image: "/images/blog/limassol-districts.jpg"

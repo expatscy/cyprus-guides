@@ -3,7 +3,7 @@ slug: "first-90-days-cyprus-reality"
 title: "First 90 Days in Cyprus: Week-by-Week"
 description: "Moving to Cyprus? Week-by-week guide to your first 90 days: bureaucracy, emotional stages, checklists, and tips from expats who've done it."
 date: 2026-03-11
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -21,7 +21,7 @@ faqSchema:
   - question: "Do I need a car in Cyprus?"
     answer: "Almost certainly. There is no metro, no rail network, and bus routes are limited. Bolt/taxis work for the first weeks, but most expats buy or rent a car within the first month."
   - question: "How long does the residence permit process take?"
-    answer: "Migration Department appointment timing varies by permit type and district. After submission, card timing also varies, but you receive a receipt as temporary proof immediately."
+    answer: "EU citizens apply for the MEU1 registration certificate within four months of entry; the Migration Department decides within one month of a complete application and posts the certificate. For non-EU permits, timing varies by permit type and district. You receive a receipt for your application when you submit it."
   - question: "What is the biggest surprise for new expats?"
     answer: "The siesta (everything closes 13:00-16:00), the noise (construction from 7am), and how long bureaucratic processes take. Budget 2-3x the time you expect for everything."
 ---
@@ -41,7 +41,7 @@ Your first two weeks are about survival logistics. You are jet-lagged or road-we
 - **Siesta is real.** Most small shops, pharmacies, and government offices close between 13:00 and 16:00 (sometimes 15:00–17:00 depending on the season). Supermarkets and chain stores stay open, but local businesses do not. Plan errands for morning.
 - **Sunday is dead.** Almost everything is closed except restaurants and petrol stations. Even some supermarkets close by 14:00 on Sundays. This is not "reduced hours" — it is closed.
 - **Left-hand driving** (if you are coming from the US, Canada, or continental Europe). Cyprus drives on the left, British-style. Roundabouts, road signs, and lane discipline will feel unfamiliar. Rental cars have right-hand-drive steering.
-- **Noise.** Construction starts at 7:00am (legally). Dogs bark. Neighbours socialise loudly on balconies well past midnight. Cyprus is not a quiet country.
+- **Noise.** Construction often starts at 7:00am. Dogs bark. Neighbours socialise loudly on balconies well past midnight. Cyprus is not a quiet country.
 - **Water.** Tap water is safe in most cities but tastes heavily of chlorine. Most expats switch to bottled or filtered water immediately. Budget €15–20/month for 19-litre bottles from delivery services.
 
 ### Week 1–2 checklist
@@ -49,7 +49,7 @@ Your first two weeks are about survival logistics. You are jet-lagged or road-we
 - [ ] Find temporary housing (Airbnb, short-term rental) — give yourself at least 2–4 weeks before signing a long lease
 - [ ] Get a local SIM card — Cyta, Epic, or PrimeTel. You need a passport. Buy at a physical store, not a kiosk, for proper activation. Expect €10–15 for a prepaid SIM with data.
 - [ ] Open a basic bank account — Bank of Cyprus and Eurobank Limited (formerly Hellenic Bank) are the main options. Bring your passport, proof of address (even a hotel booking may work temporarily), and proof of income or employment. Expect the process to take 1–3 weeks due to KYC compliance checks. See our [bank account guide](/en/business/bank-account-cyprus-foreigners/).
-- [ ] Register for an ARC (Alien Registration Certificate) appointment through the [Migration Department](https://www.gov.cy/mip-md/en/) — wait times vary depending on your permit type and the office location
+- [ ] Start your residence registration with the [Migration Department](https://www.gov.cy/mip-md/en/): EU citizens apply for the MEU1 registration certificate within four months of entry; non-EU citizens apply for the residence permit that matches their route. Whether you need an appointment, and how long you wait, depends on the permit type and the office
 - [ ] Download Bolt and/or FreeNow for transport if you do not have a car yet
 - [ ] Find a supermarket and a laiki (farmers' market) near you
 
@@ -61,15 +61,15 @@ This is the phase where excitement meets paperwork. You need to start converting
 
 ### Key bureaucratic tasks
 
-**TIN (Tax Identification Number):** Apply at the [Tax Department](https://www.gov.cy/mof/en/). You need a passport copy, proof of address, and your employment contract or company registration. Processing takes 1–3 weeks. You cannot open some bank accounts or sign certain contracts without a TIN.
+**TIN (Tax Identification Number):** Applications go [online only, through the Tax For All (TFA) portal](https://www.gov.cy/mof-tax/en/documents/registration-and-cancellation-from-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin/registration-in-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin-individuals/) of the Tax Department: create a TFA account (or sign in with CY Login) and choose "Register as a new taxpayer". Attach your passport or ID, your MEU1 certificate or residence permit (or proof that you paid for the application), a recent photo, a letter explaining why you are registering, and, if you are employed, your employment contract or an employer letter. The Tax Department emails you the TIN once registration is complete.
 
-**ARC / Residence Permit:** Your appointment was (hopefully) booked in Week 1. The actual appointment involves biometrics, document submission, and a fee (€40–70 depending on permit type). After the appointment, expect 4–8 weeks for the physical card. You will receive a receipt that serves as temporary proof of application.
+**Residence registration:** Your application was (hopefully) started in Week 1. For EU citizens the [MEU1 registration certificate](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/) costs €20; your photo is taken when you submit, the decision comes within one month of a complete application, and the certificate is posted to you. Not applying can mean a fine of up to €2,500. For non-EU citizens, fees, biometrics and card timing depend on the permit type; check the Migration Department page for your route. Keep the receipt you get when you submit.
 
 **Bank account (continued):** If you started the process in Week 1, this is when compliance checks finish and your account actually becomes usable. Be patient — Cypriot banks are thorough with KYC (Know Your Customer) requirements, especially for non-EU nationals.
 
-**Driving licence:** If you hold a UK licence, you can drive in Cyprus for up to 6 months. After that, you must exchange it. EU licence holders can use theirs indefinitely. US, Canadian, and Australian licences require an exchange or a new Cyprus test — see our [driving licence guide](/en/life/driving-license-cyprus/).
+**Driving licence:** Licences issued by an EU country are recognised in Cyprus ([Directive 2006/126/EC, Article 2](https://eur-lex.europa.eu/eli/dir/2006/126/oj)). For licences from outside the EU, including the UK since Brexit, how long you can drive on them and whether you can exchange without a test depends on the issuing country: check with the [Road Transport Department](https://www.gov.cy/mtcw-rtd/en/) and see our [driving licence guide](/en/life/driving-license-cyprus/).
 
-**Utility connections:** Electricity (EAC), water (local water board), and internet (Cyta, PrimeTel, Cablenet, Epic). Expect deposits: €150–300 for electricity, €100–200 for water. Internet installation takes 3–10 business days. See our [utilities guide](/en/life/utilities-cyprus/).
+**Utility connections:** Electricity (EAC), water (local water board), and internet (Cyta, PrimeTel, Cablenet, Epic). The [EAC deposit](https://www.eac.com.cy/EN/RegulatedActivities/Supply/Pages/chargesforservices.aspx) for a home you rent is €200 for Cypriot and EU citizens and €350 for non-EU citizens; owners pay €75 on the first bill. Water deposits are set by the local water board. Internet installation takes 3–10 business days. See our [utilities guide](/en/life/utilities-cyprus/).
 
 ### Emotional state: frustration is normal
 
@@ -137,7 +137,7 @@ The dip in Phase 2 is where people give up. If you push through to Phase 3, it a
 These are the most frequently cited regrets and surprises from English-speaking expat communities:
 
 - **Bring more documents than you think you need.** Apostilled birth certificates, marriage certificates, university degrees — you will need originals for various applications. Getting these from abroad after you move is slow and expensive.
-- **Utility deposits are steep.** Budget €500–800 for electricity, water, and internet deposits combined. This is separate from your rent deposit.
+- **Utility deposits add up.** The EAC electricity deposit alone is €200 (EU) or €350 (non-EU) for tenants, and water and internet providers may ask for their own. This is separate from your rent deposit.
 - **The healthcare system works, but differently.** GESY is free at point of use (for eligible residents), but the GP gatekeeping model is different from what Americans or Canadians are used to. See our [GESY guide](/en/life/healthcare-cyprus-gesy/).
 - **Summer is genuinely brutal.** July and August are 38–42°C. Air conditioning is not optional — it is a survival necessity. Budget for summer electricity bills that are 2–3x winter levels.
 - **Water shortages happen.** Cyprus has periodic water supply restrictions in summer, particularly in rural areas. Keep reserves.
@@ -150,19 +150,19 @@ These are the most frequently cited regrets and surprises from English-speaking 
 | Week 1 | Temporary accommodation booked | ☐ |
 | Week 1 | Local SIM card activated | ☐ |
 | Week 1 | Bank account application started | ☐ |
-| Week 1–2 | ARC/residence permit appointment booked | ☐ |
+| Week 1–2 | MEU1/residence permit application started | ☐ |
 | Week 2 | Neighbourhood research (visit 2–3 areas) | ☐ |
 | Week 3 | TIN application submitted | ☐ |
 | Week 3–4 | Long-term housing lease signed | ☐ |
 | Week 4 | Utilities connected (EAC, water, internet) | ☐ |
-| Week 4 | ARC appointment attended | ☐ |
+| Week 4 | MEU1/residence permit application submitted | ☐ |
 | Month 2 | Bank account fully operational | ☐ |
 | Month 2 | GESY GP registered (if eligible) | ☐ |
 | Month 2 | Joined 2+ social groups/communities | ☐ |
 | Month 2 | Driving licence exchange started (if needed) | ☐ |
 | Month 3 | TIN received | ☐ |
 | Month 3 | Regular social routine established | ☐ |
-| Month 3 | ARC card received (or receipt in hand) | ☐ |
+| Month 3 | MEU1 certificate or residence permit received (or receipt in hand) | ☐ |
 
 ---
 
@@ -175,7 +175,7 @@ At least €5,000–8,000 per person for deposits (rent, utilities), first month
 Almost certainly. There is no metro, no rail network, and bus routes are limited. Bolt/taxis work for the first weeks, but most expats buy or rent a car within the first month.
 
 **How long does the residence permit process take?**
-Migration Department appointment timing varies by district and permit route. After the appointment, physical-card timing also varies. You receive a receipt as temporary proof immediately.
+EU citizens apply for the MEU1 registration certificate within four months of entry; the Migration Department decides within one month of a complete application and posts the certificate. For non-EU permits, timing varies by permit type and district. You receive a receipt for your application when you submit it.
 
 **What is the biggest surprise for new expats?**
 The siesta (everything closes 13:00–16:00), the noise (construction from 7am), and how long bureaucratic processes take. Budget 2–3x the time you expect for everything.
@@ -202,4 +202,8 @@ Have a question? Ask in our community: [Telegram](https://t.me/expatscy) | [Face
 
 - [gov.cy](https://www.gov.cy/) — gov.cy
 - [Migration Department](https://www.gov.cy/mip-md/en/) — gov.cy
-- [Tax Department](https://www.gov.cy/mof/en/) — gov.cy
+- [MEU1 registration certificate: 4-month deadline, €20 fee, decision within one month](https://www.gov.cy/mip-md/en/documents/e-u-e-e-a-citizens-and-family-members-2/e-u-e-e-a-citizens-family-member/registration-of-e-u-citizens-and-members-of-their-families-who-are-also-e-u-e-e-a-citizens-meu1/) — Migration Department, checked 2026-11-07
+- [TIN registration for individuals through Tax For All](https://www.gov.cy/mof-tax/en/documents/registration-and-cancellation-from-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin/registration-in-the-national-tax-registry-issuance-of-a-tax-identification-number-tic-tin-individuals/) — Tax Department, checked 2026-11-07
+- [EAC customer deposits](https://www.eac.com.cy/EN/RegulatedActivities/Supply/Pages/chargesforservices.aspx) — Electricity Authority of Cyprus, checked 2026-11-07
+- [Directive 2006/126/EC on driving licences, Article 2](https://eur-lex.europa.eu/eli/dir/2006/126/oj) — EUR-Lex, checked 2026-11-07
+- [Road Transport Department](https://www.gov.cy/mtcw-rtd/en/) — gov.cy, checked 2026-11-07

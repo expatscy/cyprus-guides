@@ -63,6 +63,7 @@ GOV.UK currently lists:
 
 GOV.UK also says some documents must be certified by a UK public official first, and that birth, death, marriage, civil-partnership and adoption certificates, ACRO police certificates, DBS certificates, fingerprint certificates, and some other documents are not eligible for e-Apostille.
 All UK timing estimates can take longer if, for example, a signature needs verification.
+
 ## What Documents Usually Need Apostille?
 
 ### Marriage Certificate
@@ -110,7 +111,7 @@ Regulation (EU) 2016/1191 abolishes apostille requirements for covered public do
 
 This is not a blanket exemption for every document, and it does not govern recognition of the document’s legal effect. Ask the receiving authority to explain how the exemption applies to your document.
 
-## Translation In Cyprus
+## Translation Requirements
 
 Check language requirements before commissioning a translation.
 
@@ -140,8 +141,6 @@ For private documents in a language the apostille authority does not understand,
 8. Re-check validity windows for police certificates and civil-status documents before submission.
 
 ---
-
-Verify the receiving authority’s checklist and any exemption first, obtain an apostille where required, then arrange the accepted translation.
 
 **Related guides:**
 - [Residence Permit Guide](/en/immigration/residence-permit-cyprus-guide/) — documents needed for RP application

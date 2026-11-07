@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Greek B1 exam in Cyprus: a campus walk before and after the test"
+title: "Greek B1 exam in Cyprus: a campus walk before and after"
 description: "Katerina’s personal experience of a Greek B1 exam in Cyprus: finding the classroom, walking around campus and reflecting on learning Greek for everyday life."
 slug: "greek-b1-exam-cyprus-campus-walk"
 date: 2026-07-26

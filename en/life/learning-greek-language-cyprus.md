@@ -1,9 +1,9 @@
 ---
 slug: "learning-greek-language-cyprus"
 title: "Learn Greek in Cyprus: Courses & Exams"
-description: "Greek courses in Cyprus, published fees, citizenship language requirements and official study resources."
+description: "Greek courses in Cyprus: published fees, the language requirements for citizenship and official study resources to prepare for the exams."
 date: 2026-01-26
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -28,7 +28,7 @@ Choose a course around your goal: everyday communication, a particular exam, or 
 
 ## What state Greek language courses exist?
 
-The Ministry of Education's [Adult Education Centres](https://www.moec.gov.cy/epimorfotika/xenes_glosses.html) list **Greek for non-Greek-speaking adults**. Do not assume that every location runs every level.
+The Ministry of Education's [Adult Education Centres](https://www.moec.gov.cy/epimorfotika/xenes_glosses.html) list **Greek for non-Greek-speaking adults**. Not every location runs every level.
 
 The [published registration and fee page](https://www.moec.gov.cy/epimorfotika/engrafes_didaktra.html), checked on **3 October 2026**, states:
 
@@ -43,17 +43,17 @@ Use the official page for your intake, location and any discount documents.
 
 The [School of Modern Greek course page](https://www.ucy.ac.cy/mogr/courses-applications/courses-applications/) lists levels from A1 to C2 and publishes each programme's teaching and examination arrangements.
 
-**Dated example: Spring Intensive Programme 2027, as published on 3 October 2026.** Classes are scheduled for **11 January–9 April 2027**, with **156 teaching hours**, Monday–Thursday **18:00–21:00**. The listed levels have in-person or online options.
+**Dated example: Spring Intensive Programme 2027, as published on 3 October 2026 (the application window has since closed; check the provider page for the next intake).** Classes are scheduled for **11 January–9 April 2027**, with **156 teaching hours**, Monday–Thursday **18:00–21:00**. The listed levels have in-person or online options.
 
 | Item | Published terms for this programme |
 | --- | --- |
 | Registration | €25 per level, non-refundable |
 | Tuition | €500 per level, non-refundable |
 | Books | €27–30 |
-| Application deadline | 7 October 2026, 10:00 Cyprus time, or earlier if places fill |
+| Application deadline | 7 October 2026, 10:00 Cyprus time (closed) |
 | Final exams | 12–16 April 2027, in person, including for online students |
 
-The provider schedules tuition payment for **19–23 October 2026** after the diagnostic examination. Attendance is compulsory: more than six absences removes eligibility for the final exam and certificate. Online attendance requires a computer and an active camera and microphone. A class runs only when the required **15–22 registered, fee-paying students** are reached; priority follows completed registration and payment.
+For this intake, tuition payment was scheduled for **19–23 October 2026** after the diagnostic examination. Attendance is compulsory: more than six absences removes eligibility for the final exam and certificate. Online attendance requires a computer and an active camera and microphone. A class runs only when the required **15–22 registered, fee-paying students** are reached; priority follows completed registration and payment.
 
 These are this programme's terms, not a general price or timetable for every university course. Recheck the provider page before applying.
 
@@ -70,7 +70,7 @@ For residence applications, consult the requirements of your specific permit cat
 
 ## Where are exam dates and sample papers published?
 
-The [Centre for the Greek Language announcements](https://www.greek-language.gr/certification/news/index.html) publish examination and registration dates. Check the round and examination centre; dates are not a universal May or December–January timetable. For example, the announced October 2026 round was restricted to centres in Greece and specified A2 professional and B1 exams.
+The [Centre for the Greek Language announcements](https://www.greek-language.gr/certification/news/index.html) publish examination and registration dates. Check the round and examination centre. For example, the announced October 2026 round was restricted to centres in Greece and specified A2 professional and B1 exams.
 
 The Centre's [official sample-paper collection](https://www.greek-language.gr/certification/node/12.html) includes A2 and B1 reading, writing, listening and speaking tasks, with audio resources and oral-examination videos. Use the samples for your intended level.
 
@@ -80,7 +80,7 @@ For University of Cyprus courses and their final exams, use the [programme sched
 
 The M127 guidance requires sufficient knowledge of the **basic elements of contemporary political and social reality in Cyprus**. The published proof is a certificate showing **at least 60%** in the Ministry of Education Examination Service's assessment.
 
-Use the [Examination Service](https://www.moec.gov.cy/ypexams/) for the relevant announcement and registration instructions. Check the announced round rather than treating 16 December as an annual registration rule.
+Use the [Examination Service](https://www.moec.gov.cy/ypexams/) for the relevant announcement and registration instructions. Registration dates are set for each announced round.
 
 ## What self-study resources are available?
 

@@ -3,26 +3,28 @@ slug: "zypern-vs-malta-vs-portugal-vergleich"
 title: "Zypern, Malta oder Portugal: Vergleich 2026"
 description: "Wo lebt es sich besser: Zypern, Malta oder Portugal? Steuervergleich, Lebenshaltungskosten, Aufenthaltsrecht, Gesundheit und Klima für Auswanderer."
 date: 2026-02-22
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags: [Vergleich, Malta, Portugal, Steuern, Auswandern, für-Expats]
 draft: false
 translationKey: "sravnenie-kipr-malta-portugaliya"
 faqSchema:
-  - question: "Was ist steuerlich besser: Zypern, Malta oder Portugal?"
-    answer: "Für Unternehmer: Zypern (15% KSt + 0% Dividenden mit Non-Dom = ~15% Gesamtbelastung). Malta: 35% KSt, aber mit Rückerstattungssystem effektiv 5% — komplexer. Portugal: NHR-Regime (2024 stark eingeschränkt). Für Rentner: Zypern 5% Pauschalsteuer auf ausländische Renten, Portugal NHR eingestellt, Malta 15% Flat Tax."
-  - question: "Wo sind die Lebenshaltungskosten niedriger: Zypern oder Malta?"
-    answer: "Ähnlich, aber Zypern ist bei Mieten und Essen leicht günstiger (außer Limassol). Malta: kleiner, dichter besiedelt, Mieten in Valletta/Sliema vergleichbar mit Limassol. Portugal (Lissabon): günstiger als Limassol, aber Algarve auf ähnlichem Niveau. Budget für Paar: Zypern €1.500–2.500, Malta €1.600–2.500, Portugal €1.400–2.200."
+  - question: "Wo sind die Steuern niedriger: Zypern, Malta oder Portugal?"
+    answer: "Zypern: 15% Körperschaftsteuer ab 2026, mit SDC-Befreiung für Non-doms. Malta: 35%, aber Erstattung auf 5%. Portugal: Das ursprüngliche NHR ist beendet; die normale Einkommensteuer ist progressiv bis 48%."
+  - question: "Wo lebt es sich am günstigsten: Zypern, Malta oder Portugal?"
+    answer: "Portugal ist insgesamt am günstigsten (etwa 16% unter Zypern, Numbeo Februar 2026); Malta und Zypern liegen auf ähnlichem Niveau. Miete einer 1-Zimmer-Wohnung im Zentrum: Zypern 843 EUR, Malta 1.010 EUR, Portugal 900 EUR."
+  - question: "Wo ist das Klima am besten: Zypern, Malta oder Portugal?"
+    answer: "Zypern ist am heißesten und sonnigsten (Sommer 35–40°C). Malta ist ein Kompromiss (30–35°C, im Sommer feucht). Portugal hat das mildeste Klima (Einfluss des Atlantiks)."
 ---
-> **Kurzantwort:** Zypern bietet die niedrigsten Steuern (Non-Dom), Malta die beste EU-Anbindung, Portugal das hoechste Kulturangebot. Zypern gewinnt bei Kosten und Klima.
+> **Kurzantwort:** Zypern punktet bei Steuern (15% Körperschaftsteuer, Non-dom), Malta beim Schengen-Zugang, Portugal bei Kosten, Klima und Sicherheit.
 
 Zypern, Malta und Portugal sind die drei beliebtesten Ziele im Mittelmeerraum für die Auswanderung nach Europa. Alle drei bieten warmes Klima, vorteilhafte Steuersysteme und einen Weg zur EU-Aufenthaltsgenehmigung. Doch die Unterschiede sind erheblich — besonders bei Steuern und Unternehmensstruktur, den Kernthemen für deutsche Auswanderer.
 
 > **Datenquellen:**
-> - [PwC Cyprus Tax Facts 2025](https://taxsummaries.pwc.com/cyprus) — Besteuerung Zypern
+> - [PwC Cyprus Tax Summaries](https://taxsummaries.pwc.com/cyprus) — Besteuerung Zypern
 > - [Numbeo Cost of Living](https://www.numbeo.com/cost-of-living/) — Lebenshaltungskosten
-> - [Global Peace Index 2025](https://www.visionofhumanity.org/maps/) — Sicherheit
+> - [Global Peace Index 2026](https://www.visionofhumanity.org/wp-content/uploads/2026/06/Global-Peace-Index-2026-Report.pdf) — Sicherheitsranking
 > - [Residency Malta Agency](https://residencymalta.gov.mt/) — Aufenthaltsrecht Malta
 > - [Portugal Golden Visa](https://getgoldenvisa.com/portugal-golden-visa-program) — Goldenes Visum Portugal
 
@@ -42,10 +44,10 @@ Zypern, Malta und Portugal sind die drei beliebtesten Ziele im Mittelmeerraum f�
 | **Durchschn. Nettolohn** | €1.695 | €1.585 | €1.128 |
 | **Gesundheitswesen** | GeSY (universell seit 2019) | NHS (kostenlos für Residenten) | SNS (universell) |
 | **Gesundheitsranking** | Platz 29 (HAQ: 24) | Platz 18 | Top 20 |
-| **Sicherheit (GPI 2025)** | Mittel-hoch | Hoch | Top 7 weltweit |
+| **Sicherheit (GPI 2026)** | Platz 80 | Nicht in der GPI-2026-Tabelle | Platz 7 |
 | **Sommerklima** | 35–40°C, trocken | 30–35°C, feucht | 25–35°C |
 | **Englisch verbreitet** | Ja, weit | Ja, weit | Begrenzt (Lissabon, Porto) |
-| **Weg zur Staatsbürgerschaft** | 8 Jahre | 5 Jahre | 5–10 Jahre (steigend) |
+| **Weg zur Staatsbürgerschaft** | 8 Jahre (7 + letzte 12 Monate) | 5 Jahre | 7 Jahre (EU/CPLP) oder 10 Jahre (andere) |
 | **Internet** | 50–100 Mbit/s | 100+ Mbit/s | 100+ Mbit/s |
 
 ## Wo zahle ich am wenigsten Steuern?
@@ -60,7 +62,7 @@ Zypern, Malta und Portugal sind die drei beliebtesten Ziele im Mittelmeerraum f�
 
 ### Persönliche Besteuerung und Non-dom-Regime
 
-**Zypern (Non-dom):** Nicht-domizilierte Einwohner zahlen keine Sonderverteidigungssteuer (SDC): Dividenden 0% SDC, Bankzinsen 0%. Die 60-Tage-Regel erlaubt Steuerresidenz mit nur 60 Tagen Aufenthalt (statt 183), wenn ein Geschäft oder Arbeitsverhältnis besteht. Die ersten €22.000 Einkommen sind steuerfrei (2026). **Für Deutsche besonders relevant:** Kein Progressionsvorbehalt auf zyprische Einkünfte bei korrekter Wohnsitzverlagerung.
+**Zypern (Non-dom):** Nicht-domizilierte Einwohner zahlen keine Sonderverteidigungssteuer (SDC) auf Dividenden und Bankzinsen. Der SDC-Satz von 5% auf Dividenden ab 2026 gilt für zypriotische Steuerresidenten mit Domizil. Die 60-Tage-Regel erlaubt Steuerresidenz mit nur 60 Tagen Aufenthalt (statt 183), wenn ein Geschäft oder Arbeitsverhältnis besteht. Die ersten €22.000 Einkommen sind steuerfrei (2026). **Für Deutsche besonders relevant:** Kein Progressionsvorbehalt auf zyprische Einkünfte bei korrekter Wohnsitzverlagerung.
 
 **Malta (Remittance-Basis):** Einkommen, das nicht nach Malta überwiesen wird, bleibt steuerfrei. Mindeststeuer auf überwiesenes Einkommen: 15% (€15.000/Jahr Mindestbetrag). Ideal für Personen mit Auslandseinkommen, die in Malta leben, aber Gelder im Ausland belassen.
 
@@ -99,7 +101,7 @@ Numbeo-Daten (Februar 2026):
 
 **Malta (MPRP):** Immobilienkauf ab €375K (oder Miete ab €14K/Jahr) + Verwaltungsgebühr €60K + Regierungsbeitrag €37K + NGO-Spende €2K. Vermögen von €500K erforderlich (€150K finanziell). Schengen: ja. Bearbeitung: 12–18 Monate.
 
-**Portugal:** Immobilienweg **geschlossen** seit Oktober 2023. Investmentfonds ab €500K bleiben. Bearbeitung: 10–12 Monate (AIMA-Rückstau). Schengen: ja. Staatsbürgerschaft: 5 Jahre (Verlängerung auf 7–10 geplant).
+**Portugal:** Immobilienweg **geschlossen** seit Oktober 2023. Investmentfonds ab €500K bleiben. Bearbeitung: 10–12 Monate (AIMA-Rückstau). Schengen: ja. Staatsbürgerschaft: 7 Jahre für EU/CPLP-Staatsangehörige und 10 Jahre für die meisten anderen nach dem Staatsangehörigkeitsgesetz 2026.
 
 ### Visa für digitale Nomaden
 
@@ -107,7 +109,7 @@ Numbeo-Daten (Februar 2026):
 |--|--------|-------|---------------|
 | Mindesteinkommen | €3.500/Monat | €3.500/Monat (€42K/Jahr) | €3.680/Monat |
 | Dauer | 1 Jahr + 2 Verlängerungen | 1 Jahr + Verlängerungen | 1 Jahr + bis zu 4 Verlängerungen |
-| Steuer | 0% erstes Jahr | 0% erstes Jahr, 10% danach | Nach PIT-Sätzen (oder IFICI) |
+| Steuer | Allgemeine zypriotische Regeln zur Steuerresidenz; kein offizieller Pauschalsatz für digitale Nomaden | Die Besteuerung in Malta hängt von Wohnsitz und Überweisung der Einkünfte ab | Normale Einkommensteuersätze oder IFICI, falls berechtigt |
 | Familie | +20% Ehepartner, +15% Kind | Eingeschlossen | +50% Ehepartner, +30% Kind |
 
 ## Wo ist das Gesundheitswesen am besten?
@@ -124,7 +126,6 @@ Numbeo-Daten (Februar 2026):
 |--|--------|-------|----------|
 | Sommer | 35–40°C, trocken | 30–35°C, feucht | 25–35°C (Süden heißer) |
 | Winter | 10–17°C, regnerisch | 10–15°C, windig | 8–15°C, regnerisch (Norden) |
-| Sonnentage/Jahr | 340+ | 300+ | 250–300 |
 | Wassertemp. (Sommer) | 26–28°C | 24–26°C | 18–22°C (Atlantik) |
 | Badesaison | April–November | Mai–Oktober | Juni–September |
 
@@ -132,11 +133,11 @@ Numbeo-Daten (Februar 2026):
 
 ## Wo ist es am sichersten?
 
-**Portugal** — Top 7 im Global Peace Index 2025. Eines der sichersten Länder der Welt.
+**Portugal** liegt im Global Peace Index 2026 auf Platz 7, eines der sichersten Länder der Welt.
 
-**Malta** — Niedrige Kriminalität, vereinzelte Kleinkriminalität in Touristengebieten. Sicher für Familien.
+**Malta** steht nicht in der GPI-2026-Tabelle. Die Kriminalität ist niedrig, aber in Touristengebieten kommt Kleinkriminalität vor.
 
-**Zypern** — Generell sicher (Numbeo Crime Index: 32 für Nikosia). Sehr niedrige Gewaltkriminalität. Hauptrisiken: Immobilienbetrug, rücksichtsloses Autofahren.
+**Zypern** liegt im Global Peace Index 2026 auf Platz 80. Es ist im Allgemeinen sicher (Numbeo Crime Index: 32 für Nikosia), mit niedriger Gewaltkriminalität. Hauptrisiken: Immobilienbetrug, rücksichtsloses Autofahren.
 
 ## Wo komme ich sprachlich am besten zurecht?
 
@@ -154,9 +155,9 @@ Numbeo-Daten (Februar 2026):
 | 2-Zi.-Wohnung (Zentrum) | €150–200K | €250–350K | €120–180K |
 | Haus mit Grundstück | €250–500K | €400–700K | €150–350K |
 | Preisentwicklung (2024) | +8–12% | +5–8% | +6–10% |
-| Grunderwerbsteuer | 0% (abgeschafft 2026) | 5% | 6–8% (IMT) |
+| Stempelsteuer / Übertragungsgebühren | Stempelsteuer 0%; Übertragungsgebühren können anfallen | 5% | 6–8% (IMT) |
 
-**Portugal** hat die günstigsten Immobilien. **Malta** ist am teuersten (begrenztes Land). **Zypern** liegt in der Mitte mit raschem Wachstum in Küstenstädten. **Hinweis für Investoren**: Zypern hat die Stempelsteuer 2026 abgeschafft — 0% Kaufnebenkosten.
+**Portugal** hat die günstigsten Immobilien. **Malta** ist am teuersten (begrenztes Land). **Zypern** liegt in der Mitte mit raschem Wachstum in Küstenstädten.
 
 ## Wer sollte wohin?
 
@@ -178,8 +179,8 @@ Numbeo-Daten (Februar 2026):
 - Ein kleineres Budget haben (günstigste der drei)
 - STEM-Fachkraft sind (IFICI bietet 20% Pauschale)
 - Mildes Klima ohne extreme Hitze bevorzugen
-- Sicherheit priorisieren (Top 7 weltweit)
-- EU-Staatsbürgerschaft in 5 Jahren anstreben
+- Sicherheit priorisieren (Platz 7 im GPI 2026)
+- Einen Weg zur Staatsbürgerschaft in 7 Jahren (EU/CPLP) oder 10 Jahren (die meisten anderen) wollen
 - Kultur, Architektur und Küche schätzen
 - Die Algarve als Ruhestandsziel im Blick haben
 
@@ -189,7 +190,7 @@ Alle drei Länder sind hervorragende Optionen für die Auswanderung. Der entsche
 
 - **Zypern** — Ausgewogenheit: moderate Steuern, heißes Klima, englischsprachig, schnelle Aufenthaltserlaubnis
 - **Malta** — Steueroptimierung: 5% effektive Körperschaftsteuer, Schengen, kompaktes Inselleben
-- **Portugal** — Erschwinglichkeit: niedrigste Kosten, mildestes Klima, höchste Sicherheit, aber NHR ist beendet
+- **Portugal** — Erschwinglichkeit: niedrigste Kosten, mildestes Klima, Platz 7 im GPI 2026, aber NHR ist beendet
 
 Für die meisten deutschen Auswanderer mit Unternehmen oder IT-Einkommen bietet **Zypern** das beste Gesamtpaket: 15% Körperschaftsteuer, [Non-dom-Status](/de/business/non-dom-status-cyprus-60-day-rule/), englischsprachiges Umfeld und ein unkompliziertes Aufenthaltsverfahren. Paphos hat zudem eine etablierte deutsche Gemeinde.
 
@@ -197,7 +198,7 @@ Für die meisten deutschen Auswanderer mit Unternehmen oder IT-Einkommen bietet 
 
 ---
 
-*Daten aktuell Stand Februar 2026. Steuersätze und Visumsanforderungen können sich ändern — aktuelle Informationen auf den offiziellen Websites prüfen.*
+*Daten zu Steuern, GPI und portugiesischer Staatsangehörigkeit geprüft am 12.07.2026. Numbeo-Kosten sind weiterhin Stand Februar 2026. Steuersätze und Visumsanforderungen können sich ändern — aktuelle Informationen auf den offiziellen Websites prüfen.*
 
 
 ---
@@ -210,6 +211,14 @@ Weiterführende Informationen: [Auswandern nach Zypern](/de/immigration/auswande
 
 ## Quellen
 
-- [PwC Cyprus Tax Facts 2025](https://taxsummaries.pwc.com/cyprus) — PwC
+- [PwC Cyprus Tax Summaries](https://taxsummaries.pwc.com/cyprus) — Steuersätze Zypern, geprüft im Mai 2026
+- [PwC Cyprus Tax Reform](https://www.pwc.com.cy/en/services/tax-legal-services/tax-advisory-services/the-cyprus-tax-reform.html) — Steuerreform Zypern 2026
+- [KPMG: Cyprus tax reform legislation](https://kpmg.com/us/en/taxnewsflash/news/2026/01/tnf-cyprus-tax-reform-legislation-enacted-and-effective-january-1-2026.html) — Gegenprüfung Körperschaftsteuer 2026
+- [Global Peace Index 2026 Report](https://www.visionofhumanity.org/wp-content/uploads/2026/06/Global-Peace-Index-2026-Report.pdf) — GPI-Sicherheitsranking
+- [Justizministerium Portugal: Staatsangehörigkeitsgesetz](https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio) — Fristen der Einbürgerung 2026
+- [Numbeo Cost of Living](https://www.numbeo.com/cost-of-living/) — Lebenshaltungskosten, Februar 2026
+- [Malta Tax and Customs Administration: Steuersätze 2026](https://mtca.gov.mt/personal-tax/tax-rates/tax-ratesindividuals/2026) — Sätze für Privatpersonen, geprüft am 07.11.2026
+- [Residency Malta Agency](https://residencymalta.gov.mt/) — Aufenthaltsprogramme Malta
+- [Portugal Golden Visa](https://getgoldenvisa.com/portugal-golden-visa-program) — Überblick Goldenes Visum Portugal
 
 [SDC law, §§2–3](<https://www.cylaw.org/nomoi/enop/non-ind/2002_1_117/full.html>).

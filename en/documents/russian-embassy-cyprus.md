@@ -3,7 +3,7 @@ slug: "russian-embassy-cyprus"
 title: "Russian Embassy in Cyprus: Services Guide"
 description: "Russian consulate in Nicosia: passport renewal, consular registration, power of attorney, police clearance, appointments."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Documents"
 author: "Expats Cyprus"
 translationKey: "possolstvo-rossii-na-kipre-uslugi-dokumenty"

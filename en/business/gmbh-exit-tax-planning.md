@@ -3,7 +3,7 @@ slug: "gmbh-exit-tax-planning"
 title: "German GmbH Exit Tax: Moving to Cyprus & §6 AStG"
 description: "Exit tax under § 6 AStG for GmbH shareholders: 7-year instalments, the Germany-Cyprus tax treaty, the return rule and planning options. As of 2026."
 date: 2026-03-11
-updated: 2026-03-11
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -20,7 +20,7 @@ faqSchema:
   - question: "Does the exit tax also apply to a UG (haftungsbeschränkt)?"
     answer: "Yes. The UG is a form of GmbH. Any corporation in which you held at least 1% at any time in the last 5 years falls under Section 6 AStG."
   - question: "What happens if I return to Germany within 7 years?"
-    answer: "On application, the tax is cancelled retroactively (Section 6(3) AStG), provided you have not sold the shares and have not taken excessive profit distributions (max. 25% of the value at departure)."
+    answer: "The tax claim lapses (Section 6(3) AStG) if your absence was only temporary and you have not sold the shares and have not taken profit distributions worth more than 25% of the value at departure. The tax office can extend the 7 years by up to 5 years on application."
   - question: "Does the Germany-Cyprus tax treaty protect against the exit tax?"
     answer: "No. The exit tax applies while you are still German-resident. The treaty does not apply, because at the time of taxation you are still liable to tax in Germany."
   - question: "How is the value of my GmbH shares determined?"
@@ -32,7 +32,8 @@ If you are a GmbH shareholder moving to Cyprus, you have to deal with the exit t
 
 > **Official sources:**
 > - [§ 6 AStG — individual provision](https://www.gesetze-im-internet.de/astg/__6.html) — statutory text
-> - [BMF circular on exit taxation (2025)](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2025-04-22-Wegzugsbesteuerung.html) — administrative guidance
+> - [§ 21 AStG — transitional rules](https://www.gesetze-im-internet.de/astg/__21.html) — old cases (departure before 2022)
+> - [BMF circular of 22 April 2025 on § 6 AStG, old version](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2025-04-22-Wegzugsbesteuerung.html) — administrative guidance for old cases
 > - [Germany–Cyprus tax treaty](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Zypern/2011-11-07-Zypern-Abkommen-DBA.html) — treaty text
 
 ## What is the exit tax?
@@ -51,7 +52,7 @@ The exit tax is triggered if:
 
 ### What is taxed?
 
-The **notional capital gain** is taxed: market value of the shares on the day of departure minus acquisition cost. The gain is subject to regular income tax under the partial income method (§ 3 No. 40 EStG): only **60%** of the gain is taxable. With a top rate of 42% (from €66,760, 2026) or 45% (the "rich tax" rate from €277,826), the effective burden is **about 25–27%** of the increase in value.
+The **notional capital gain** is taxed: market value of the shares on the day of departure minus acquisition cost. The gain is subject to regular income tax under the partial income method (§ 3 No. 40 EStG): only **60%** of the gain is taxable. With a top rate of 42% (from €69,879 of taxable income, 2026 tariff) or 45% (the "rich tax" rate from €277,826), plus the 5.5% solidarity surcharge, the effective burden is **about 26.6–28.5%** of the increase in value ([§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), [§ 4 SolzG 1995](https://www.gesetze-im-internet.de/solzg_1995/__4.html)).
 
 **Worked example:**
 
@@ -61,7 +62,7 @@ The **notional capital gain** is taxed: market value of the shares on the day of
 | Acquisition cost | €25,000 |
 | Notional gain | €475,000 |
 | Taxable portion (60%) | €285,000 |
-| Income tax (approx. 42% + solidarity surcharge) | **approx. €126,000** |
+| Income tax at the 2026 tariff + 5.5% solidarity surcharge (single filer, no other income) | **approx. €114,800** |
 
 ## What changed in 2022?
 
@@ -79,23 +80,27 @@ With the ATAD Implementation Act of 25 June 2021 (in force since 1 January 2022)
 - Instead: payment in **7 equal annual instalments** (§ 6(4) AStG, new version)
 - Instalments on application, as a rule **only against security**
 - The instalments are **interest-free**
+- The first instalment is due within one month of the tax assessment, the others on 31 July of each following year
+- The outstanding tax becomes due at once if, among other things, you sell or transfer the shares or take distributions worth more than 25% of the departure value
+- Every year by 31 July you must confirm your address and that you still hold the shares (§ 6(5) AStG)
 - No more distinction between EU/EEA and third countries
 
-> **Note:** For old cases (departure before 01.01.2022) with an existing EU deferral, the old law generally still applies (§ 21(3) AStG). **But:** since August 2023, substantial profit distributions can lead to revocation of the deferral even in old cases.
+> **Note:** For old cases (departure before 01.01.2022) with an existing EU deferral, the old law generally still applies (§ 21(3) AStG). **But:** profit distributions made after 16 August 2023 that exceed a quarter of the departure value lead to revocation of the deferral even in old cases (§ 21(3) AStG).
 
 ## Can the exit tax be reversed?
 
-The tax can **lapse retroactively** if you become fully tax-liable in Germany again within **7 years** of leaving (§ 6(3) AStG), provided that:
+The tax **lapses** if your absence was **only temporary** and you become fully tax-liable in Germany again within **7 years** of leaving (§ 6(3) AStG), provided that:
 
 - The shares have **not been sold or transferred** in the meantime
 - No profit distributions were made whose total value exceeds **25%** of the value on the day of departure
 - The shares did not pass into business assets
+- Germany's right to tax a sale of the shares is restored at least to the extent it existed when you left
 
-> **Important:** The 7-year period is a hard limit. If you return after 7 years and 1 day, you have no right to reversal.
+> **Important:** On application, the tax office can extend the 7-year period by **up to 5 years** if you still intend to return. Without an extension, a return after 7 years does not cancel the tax.
 
 ## How does the tax treaty affect the exit tax?
 
-The Germany–Cyprus tax treaty (new version of 18 February 2011, amending protocol of 19 February 2021) allocates taxing rights. For the exit tax there is a special situation:
+The Germany–Cyprus tax treaty (new version of 18 February 2011, amending protocol signed on 19 February 2021, [Bundestag printed paper 19/28657](https://dserver.bundestag.de/btd/19/286/1928657.pdf)) allocates taxing rights. For the exit tax there is a special situation:
 
 - The treaty generally allocates capital gains on shares to the **state of residence**
 - The exit tax, however, taxes a **notional** gain while you are still German-resident
@@ -118,7 +123,7 @@ The market value on the day of departure determines the tax. Measures:
 
 ### 2. Reduce the shareholding below 1%
 
-If you reduce your shareholding below 1% in time (e.g. by transferring shares to family members or a trustee), § 6 AStG does not apply. **But:** the tax office checks whether the transfer has real economic substance. Purely tax-driven arrangements are treated as abuse (§ 42 AO).
+If you reduce your shareholding below 1% in time (e.g. by transferring shares to family members or a trustee), § 6 AStG does not apply. Because of the 5-year lookback in § 17(1) EStG, a reduction shortly before departure does not help: shares you keep still count if you held at least 1% at any time in the last 5 years. **Also:** the tax office checks whether the transfer has real economic substance. Purely tax-driven arrangements are treated as abuse (§ 42 AO).
 
 ### 3. Holding structure
 
@@ -174,7 +179,7 @@ Since 2022 the exit tax is relevant for every GmbH shareholder, including when m
 
 ---
 
-The exit tax is not a reason not to emigrate, but it is a reason to plan it properly. The tax saving in Cyprus (15% corporate tax + 0% SDC on dividends with non-dom status vs. a total burden of about 47% in Germany) outweighs the one-off exit tax by a wide margin in the long run.
+The exit tax is not a reason not to emigrate, but it is a reason to plan it properly. The tax saving in Cyprus (15% corporate tax from 2026 + 0% SDC on dividends with non-dom status vs. corporate tax, trade tax and 26.375% tax on dividends in Germany) outweighs the one-off exit tax by a wide margin in the long run.
 
 ## Frequently asked questions (FAQ)
 
@@ -185,7 +190,7 @@ No. Since 2022 you can apply to pay in 7 equal annual instalments (§ 6(4) AStG)
 Yes. The UG is a form of GmbH. Any corporation in which you held at least 1% at any time in the last 5 years falls under § 6 AStG.
 
 **What happens if I return to Germany within 7 years?**
-On application, the tax is cancelled retroactively (§ 6(3) AStG), provided you have not sold the shares and have not taken excessive profit distributions (max. 25% of the value at departure).
+The tax claim lapses (§ 6(3) AStG) if your absence was only temporary and you have not sold the shares and have not taken profit distributions worth more than 25% of the value at departure. The tax office can extend the 7 years by up to 5 years on application.
 
 **Does the Germany-Cyprus tax treaty protect against the exit tax?**
 No. The exit tax applies while you are still German-resident. The treaty does not apply, because at the time of taxation you are still liable to tax in Germany.
@@ -198,3 +203,7 @@ The tax office uses the market value (gemeiner Wert) on the day of departure. Me
 ## Sources
 
 - [Tax Department — Ministry of Finance](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) — gov.cy
+- [§ 6 AStG](https://www.gesetze-im-internet.de/astg/__6.html) and [§ 21 AStG](https://www.gesetze-im-internet.de/astg/__21.html) — exit tax, instalments, return rule, old cases; checked 2026-11-07
+- [§ 17 EStG](https://www.gesetze-im-internet.de/estg/__17.html), [§ 3 EStG (No. 40)](https://www.gesetze-im-internet.de/estg/__3.html), [§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), [§ 32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html) — 1% threshold, 60% taxable portion, 2026 tariff, 25% flat tax on dividends; checked 2026-11-07
+- [§ 4 SolzG 1995](https://www.gesetze-im-internet.de/solzg_1995/__4.html) — 5.5% solidarity surcharge; checked 2026-11-07
+- [Cyprus Tax Department — Tax Reform 2026](https://www.gov.cy/mof-tax/en/documents/forologiki-metarrythmisi-2026/) — 15% corporate tax from 1 January 2026, non-dom status retained; checked 2026-11-07

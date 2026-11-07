@@ -1,7 +1,7 @@
 ---
 slug: "temporary-protection-ukrainians"
 title: "Vorübergehender Schutz in Zypern"
-description: "Vorübergehender Schutz in Zypern: Anspruch, berichtigte EU-Verlängerung, aktuelle zyprische Verlängerungsanweisungen, bedingte Rechte und anrechenbarer Aufenthalt."
+description: "Vorübergehender Schutz in Zypern: Anspruch, berichtigte EU-Verlängerung, aktuelle zyprische Anweisungen, bedingte Rechte und anrechenbarer Aufenthalt."
 date: 2026-01-24
 updated: 2026-10-21
 category: "Einwanderung"

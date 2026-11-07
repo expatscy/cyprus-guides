@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Chess club in Limassol: Maxim’s beach meetups for conversation and play"
+title: "Chess club in Limassol: Maxim’s beach meetups"
 description: "Meet Maxim, who started an informal chess club in Limassol. Beach games, beginners, different languages and the idea of bringing people together through chess."
 slug: "limassol-chess-club-maxim-beach-meetup"
 date: 2024-06-20

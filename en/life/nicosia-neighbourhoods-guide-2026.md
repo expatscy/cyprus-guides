@@ -3,7 +3,7 @@ slug: "nicosia-neighbourhoods-guide-2026"
 title: "Nicosia Guide 2026: Neighbourhoods & Prices"
 description: "Neighbourhood guide to Nicosia: the cheapest capital in the EU. Rent, schools, the UN Buffer Zone. For students, diplomats, budget-conscious expats."
 date: 2026-04-09
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Life"
 author: "Expats Cyprus"
 tags:
@@ -25,12 +25,12 @@ faqSchema:
   - question: "Where do expats live in Nicosia?"
     answer: "Diplomats and IT professionals tend to choose Engomi (embassies, Wargaming HQ, UNIC campus). Families gravitate to Strovolos (home to the English School, the most prestigious on the island). Students prefer the Old City or Kaimakli (cheapest rents). Budget-conscious expats head to Lakatamia or Latsia (from 500 EUR). Sources: Investropa, Numbeo 2026."
 ---
-> **Short answer:** The best Nicosia neighbourhoods for expats are Engomi (embassy area, international schools), Strovolos (affordable, central), and the Old City (cultural, walkable). Rent is EUR 550-900/month for a 1-2 bed flat.
+> **Short answer:** The best Nicosia neighbourhoods for expats are Engomi (embassy area, international schools), Strovolos (affordable, central), and the Old City (cultural, walkable). Rent is EUR 380-1,100/month for a 1-bed flat and EUR 550-1,550 for a 2-bed, depending on the neighbourhood.
 
 
-Nicosia is the **only EU capital without a coast** and the **last divided capital in the world**. That sounds bleak on paper, but in practice it is usually cheaper than coastal Limassol, home to the island's best schools, three universities, all 47+ embassies, and an Old City with atmosphere that the resort towns simply cannot match.
+Nicosia is the island's **inland capital**, 40-50 minutes by car from the nearest beach, and the **last divided capital in the world**. That sounds bleak on paper, but in practice it is usually cheaper than coastal Limassol, home to the island's best schools, three universities, all 47+ embassies, and an Old City with atmosphere that the resort towns simply cannot match.
 
-If you are coming from the UK, the savings are dramatic. A one-bedroom flat in central Nicosia costs roughly **GBP 595** -- less than half what you would pay in London, and cheaper than Manchester, Birmingham, or Bristol. If you do not need to be near the sea, Nicosia offers a quality of life that is hard to beat on a British salary or pension.
+If you are coming from the UK, the savings are dramatic. A one-bedroom flat in central Nicosia costs roughly **GBP 596** -- less than half what you would pay in London, and cheaper than Manchester, Birmingham, or Bristol. If you do not need to be near the sea, Nicosia offers a quality of life that is hard to beat on a British salary or pension.
 
 > **Data sources:**
 > - [Numbeo Nicosia, March 2026](https://www.numbeo.com/cost-of-living/in/Nicosia) -- rent, prices
@@ -58,7 +58,7 @@ If you are coming from the UK, the savings are dramatic. A one-bedroom flat in c
 | **Kaimakli** | 380-550 | 550-750 | Cheapest, gentrifying |
 | **Anthoupoli** | 450-600 | 600-800 | Quiet, furthest out |
 
-City average: one-bed in the centre **EUR 693** (~GBP 596), outside the centre **EUR 594** (~GBP 511) (Numbeo). For comparison: Limassol centre **EUR 1,292** -- that is a **40% difference**.
+City average: one-bed in the centre **EUR 693** (~GBP 596), outside the centre **EUR 594** (~GBP 511) (Numbeo). For comparison: Limassol centre **EUR 1,292** -- that is a **46% difference**.
 
 **London comparison:** A one-bed flat in zone 2-3 London runs GBP 1,500-2,000/month. Central Nicosia at GBP 596 is roughly **60-70% cheaper**. Even the priciest neighbourhood here (Engomi at GBP 645-945) costs less than a one-bed in most London boroughs. If you are relocating from London on a remote salary, Nicosia is where your money goes furthest in Cyprus -- and possibly in the EU.
 
@@ -174,7 +174,7 @@ If you work in government affairs, diplomacy, international organisations, NGOs,
 
 IT salaries: **EUR 45,000-70,000** per year (roughly GBP 38,700-60,200).
 
-> **UK salary comparison:** A senior developer in Nicosia earns EUR 55,000-70,000, compared to GBP 65,000-90,000 in London. The headline is lower, but after accounting for rent (60-70% cheaper), no council tax, lower groceries, and Cyprus's favourable tax regime for new arrivals (50% income tax exemption for non-domiciled residents earning over EUR 55,000), the net purchasing power is often comparable or better. If you are working remotely on a UK salary, the arithmetic is even more favourable.
+> **UK salary comparison:** A senior developer in Nicosia earns EUR 55,000-70,000, compared to GBP 65,000-90,000 in London. The headline is lower, but after accounting for rent (60-70% cheaper), no council tax, lower groceries, and Cyprus's favourable tax regime for new arrivals (50% of employment income is tax-exempt for up to 17 years for people who take their first job in Cyprus after at least 15 years of living elsewhere, in any year that pay exceeds EUR 55,000), the net purchasing power is often comparable or better. If you are working remotely on a UK salary, the arithmetic is even more favourable.
 
 ---
 
@@ -245,7 +245,7 @@ According to [DOM.com.cy](https://dom.com.cy/en/live/blog/supermarkets-in-nicosi
 | Factor | Nicosia | Limassol | Paphos |
 |--------|---------|----------|--------|
 | Rent, 1-bed (centre) | **EUR 693** (~GBP 596) | EUR 1,292 (~GBP 1,111) | EUR 922 (~GBP 793) |
-| Cheaper than Limassol by | **40%** | -- | 15% |
+| Cheaper than Limassol by | **46%** | -- | 29% |
 | Beach | No (40-50 min drive) | Yes | Yes |
 | Summer heat | 37-40C (seriously hot) | 30-33C | 32-34C |
 | International schools | **4+** (incl. English School) | 3+ | 2-3 |
@@ -294,7 +294,7 @@ For expats, this means:
 
 ---
 
-*Rent and price examples use April 2026 source data. If you spot an inaccuracy, let us know via [Telegram](https://t.me/expatscy).*
+*Rent and price examples use Numbeo data (March 2026) and Investropa data (January 2026). If you spot an inaccuracy, let us know via [Telegram](https://t.me/expatscy).*
 
 **[Compare property prices across Nicosia on research.cy](https://research.cy/search/?district=nicosia)** -- developer listings, neighbourhood map, no agent fees.
 
@@ -305,3 +305,4 @@ For more on living in Cyprus, see our [cost of living guide](/en/life/cost-of-li
 ## Sources
 
 - [CYSTAT](https://www.cystat.gov.cy/) — gov.cy
+- [Income Tax Law 118(I)/2002, section 8(23A)](https://www.cylaw.org/nomoi/enop/non-ind/2002_1_118/full.html) — CyLaw, checked 2026-11-07

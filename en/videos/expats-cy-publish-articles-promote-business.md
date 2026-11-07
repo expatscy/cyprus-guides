@@ -46,7 +46,7 @@ People moving abroad need lawyers, translators, teachers, property specialists, 
 
 **Personal contributions and commercial placements have different terms.** See [business publishing](/for-business/) and [service directory](/articles/directory). To discuss a suitable format, [contact me](/en/contact/) with your country, city, services and website.
 
-If you publish expert articles on vc.ru, you can try a similar approach here: answer a potential client’s question, explain your process and show when your service is useful. A translator might explain how to prepare documents; a school might describe how it helps children adjust after relocation. State where you work and how readers can contact you.
+If you publish expert articles on vc.ru (a Russian-language business publishing platform), you can try a similar approach here: answer a potential client’s question, explain your process and show when your service is useful. A translator might explain how to prepare documents; a school might describe how it helps children adjust after relocation. State where you work and how readers can contact you.
 
 ## What the analytics in the video show
 

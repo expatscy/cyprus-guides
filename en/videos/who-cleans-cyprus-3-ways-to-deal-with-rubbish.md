@@ -1,7 +1,7 @@
 ---
 type: "videos"
 title: "Who cleans Cyprus? 3 ways to deal with rubbish"
-description: "A volunteer beach cleanup in Limassol, emails to the municipality about a rubbish pile in Nicosia, and a bin area cleaned by hand for €20. Three ways to deal with rubbish in Cyprus."
+description: "A volunteer beach cleanup in Limassol, emails to the municipality about a Nicosia rubbish pile, and a bin area cleaned by hand for €20: three ways to act."
 slug: "who-cleans-cyprus-3-ways-to-deal-with-rubbish"
 date: "2026-10-18"
 author: "Katerina Bletsch"

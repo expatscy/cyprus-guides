@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Griechischprüfung B1 auf Zypern: ein Rundgang vor und nach dem Test"
+title: "Griechisch B1 auf Zypern: Campus-Rundgang vor und nach Test"
 description: "Katerinas persönliche Erfahrung mit einer Griechischprüfung B1 auf Zypern: Raumsuche, Campus und Gedanken zum Griechischlernen für Prüfung und Alltag."
 slug: "greek-b1-exam-cyprus-campus-walk"
 date: 2026-07-26

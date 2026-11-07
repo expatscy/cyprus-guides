@@ -1,7 +1,7 @@
 ---
 type: "videos"
 title: "Tony Maysky: law, tax and AI in Cyprus"
-description: "Startup lawyer Tony Maysky (ex-Sumsub, co-founder of Point Legal) on contracts, Legal AI, Cyprus's zero tax on share gains and stock options, with the 2026 law explained."
+description: "Startup lawyer Tony Maysky (ex-Sumsub, Point Legal co-founder) on contracts, Legal AI, Cyprus's zero tax on share gains and stock options under the 2026 law."
 slug: "tony-maysky-law-tax-ai-cyprus"
 date: "2026-05-29"
 author: "Katerina Bletsch"
@@ -56,7 +56,7 @@ For Cyprus this isn't theory. According to Tony, English law works here and inve
 
 ## Cyprus for founders: what Tony says and what the law says
 
-Tony lived in Cyprus for about a year and a half. In his words, Cyprus used to be an offshore zone and no longer counts as one, because taxes here aren't zero as in the Cayman Islands. He then mentions several rates. We checked them against the 2026 law:
+In Tony's words, Cyprus used to be an offshore zone and no longer counts as one, because taxes here aren't zero as in the Cayman Islands. He then mentions several rates. We checked them against the 2026 law:
 
 | # | What Tony says | What the law says now |
 |---|---|---|

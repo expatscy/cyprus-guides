@@ -1,13 +1,12 @@
 ---
 type: videos
-title: "Waldbrände Zypern 2025: Reforest Network"
-description: "Waldbraende auf Zypern 2025: Ueberleben im Feuer und die Reforest-Network-Technologie. Sehen Sie das Interview über das Leben auf Zypern von Podcast Cyprus."
+title: "Waldbrände Zypern 2025: Überleben und Reforest Network"
+description: "Sergeys Bericht über die Waldbrände 2025 auf Zypern und das Reforest Network, mit datierten Satellitendaten, Projektinfos und der Notrufnummer 112."
 date: 2026-01-22
-updated: 2026-03-14
+updated: 2026-11-07
 youtube_id: "PaggOiKXMLE"
-duration: "PT21M00S"
+duration: "PT21M08S"
 upload_date: "2026-01-22"
-view_count: 0
 tags:
   - Waldbraende
   - Oekologie
@@ -29,67 +28,81 @@ translationKey: "pozhary-kipra-2025-vyzhivanie-v-ogne-i-tekhnologiya-reforest"
 
 topics_mentioned:
   - "Reforest Network"
-  - "Waldbraende auf Zypern"
+  - "Waldbrände auf Zypern"
   - "Troodos-Gebirge"
-  - "Forstbehoerde Zyperns"
-  - "Elektrizitaet auf Zypern"
+  - "Forstbehörde Zyperns"
+  - "Strom auf Zypern"
 
 faqs:
-  - question: "Was tun bei einem Waldbrand auf Zypern?"
-    answer: "Evakuieren Sie Ihre Familie, verfolgen Sie die Warnungen des Zivilschutzes. Notfallnummer: 112. Haben Sie einen Evakuierungsplan und halten Sie Ihre Dokumente bereit."
+  - question: "Welche Nummer wähle ich bei einem Brandnotfall auf Zypern?"
+    answer: "Die zyprische Feuerwehr gab am 8. Mai 2026 bekannt, dass alle Notrufe, die ihren Einsatz erfordern, darunter Brände und Rettungen, ausschließlich unter 112 erfolgen sollen. Das Interview ist ein persönlicher Bericht; es ist keine Anweisung, in Gefahr zu bleiben oder Polizeiabsperrungen zu überschreiten."
   - question: "Was ist Reforest Network?"
-    answer: "Reforest Network ist eine App, die Aufforstungsorganisationen, Freiwillige und Sponsoren verbindet, um die Waelder auf Zypern nach Braenden wiederherzustellen."
+    answer: "Das Projekt beschreibt eine digitale Plattform für Organisationen der Waldwiederherstellung, Freiwillige und Sponsoren. Die Website bietet eine Karte im Browser und beschreibt Demonstrationsdaten; das Update vom Januar 2026 nennt Nutzerregistrierung und native Apps unter den künftigen Prioritäten. Aktuelle Funktionen klären Sie direkt mit dem Projekt."
   - question: "Worum geht es in diesem Video?"
-    answer: "Waldbraende auf Zypern 2025: Ueberleben im Feuer und die Reforest-Network-Technologie. Interview über das Leben auf Zypern mit praktischen Tipps und echten Erfahrungen."
+    answer: "Der Herausgeber stellt Sergey vor, Entwickler von Handyspielen und Mitgründer von Reforest Network. Er spricht über seine persönliche Erfahrung mit den Bränden im Juli 2025, das Projekt und seine Kritik an Brandbekämpfung und Hilfe. Das Video wurde am 22. Januar 2026 hochgeladen und dauert 21 Minuten 8 Sekunden."
 faqSchema:
-  - question: "Wie haeufig sind Waldbraende auf Zypern und wie kann man sich als Auswanderer schuetzen?"
-    answer: "Waldbraende sind auf Zypern ein jaehrliches Risiko, besonders Juli-September bei Temperaturen über 40 Grad und starkem Wind. 2025 verbrannte das Feuer in der bergigen Region von Limassol über 10.000 Hektar Wald. Schutz: Evakuierungsplan erstellen, Dokumente griffbereit halten, Notrufnummer 112 speichern, Warnungen des Zivilschutzes verfolgen. Wer in Troodos oder ländlichen Gebieten lebt, sollte eine Feuerversicherung abschliessen."
-  - question: "Was ist das Reforest Network und wie koennen Einwohner Zyperns helfen?"
-    answer: "Reforest Network ist ein Technologie-Projekt eines in Zypern lebenden Entwicklers. Die App verbindet Aufforstungsorganisationen, Freiwillige und Sponsoren über eine 3D-Karte Zyperns. Man kann finanziell (Sponsoring) oder physisch (Baeume pflanzen) helfen. Das Projekt ist noch in Entwicklung, ein oeffentlicher Prototyp existiert bereits."
-  - question: "Zahlt die zyprische Regierung Entschaedigungen nach Waldbrand-Schaeden?"
-    answer: "Offiziell ja, aber viele Betroffene des Brandes 2025 hatten zum Zeitpunkt des Videos noch kein Geld erhalten. Versicherte erhielten Summen unter dem tatsaechlichen Hauswert. Tipp für Auswanderer: Immer eine eigene Feuerversicherung abschliessen und nicht auf staatliche Hilfe verlassen."
+  - question: "Welche Nummer wähle ich bei einem Brandnotfall auf Zypern?"
+    answer: "Die zyprische Feuerwehr gab am 8. Mai 2026 bekannt, dass alle Notrufe, die ihren Einsatz erfordern, darunter Brände und Rettungen, ausschließlich unter 112 erfolgen sollen. Das Interview ist ein persönlicher Bericht; es ist keine Anweisung, in Gefahr zu bleiben oder Polizeiabsperrungen zu überschreiten."
+  - question: "Was ist Reforest Network?"
+    answer: "Das Projekt beschreibt eine digitale Plattform für Organisationen der Waldwiederherstellung, Freiwillige und Sponsoren. Die Website bietet eine Karte im Browser und beschreibt Demonstrationsdaten; das Update vom Januar 2026 nennt Nutzerregistrierung und native Apps unter den künftigen Prioritäten. Aktuelle Funktionen klären Sie direkt mit dem Projekt."
+  - question: "Worum geht es in diesem Video?"
+    answer: "Der Herausgeber stellt Sergey vor, Entwickler von Handyspielen und Mitgründer von Reforest Network. Er spricht über seine persönliche Erfahrung mit den Bränden im Juli 2025, das Projekt und seine Kritik an Brandbekämpfung und Hilfe. Das Video wurde am 22. Januar 2026 hochgeladen und dauert 21 Minuten 8 Sekunden."
 ---
 
-> **Haftungsausschluss:** Die Meinungen und Erfahrungen in diesem Video stammen von den Podcast-Gaesten und spiegeln nicht unbedingt die Position des Kanalautors wider.
+> **Persönlicher Bericht:** Die Erfahrungen und die Kritik des Gastes werden dem Interview zugeschrieben. Für Entscheidungen während eines Brandes gelten die offiziellen Notfallanweisungen.
 
-### Waldbraende auf Zypern 2025: Ueberleben im Feuer und die Reforest-Network-Technologie
+## Worum es im Interview geht
 
-In diesem Podcast besprechen wir die Waldbraende auf Zypern im Jahr 2025 und das Projekt Reforest Network, das auf die Wiederherstellung der Waelder abzielt. Unser Gast Sergey berichtet über seine Erfahrungen und wie er beschloss, bei der Waldwiederherstellung zu helfen.
+Die [Beschreibung des Herausgebers](https://www.youtube.com/watch?v=PaggOiKXMLE) stellt Sergey als Entwickler von Handyspielen und Mitgründer von Reforest Network vor. Er spricht über seine Erfahrung mit den Bränden im Juli 2025, über Probleme mit Kommunikation und Wasser und über seine Versuche, sein Haus zu schützen. Seine Schilderung von Polizeiabsperrungen und davon, in der Nähe des Feuers zu bleiben, beschreibt seine Erfahrung; in einem echten Notfall folgen Sie den Anweisungen der Behörden.
 
-### Einfuehrung
-Mein Name ist Katja, und heute ist Sergey unser Gast, der seit über 8 Jahren auf Zypern lebt. Sergey entwickelt Spiele, wurde aber letztes Jahr in die Geschichte des grossen Waldbrands verwickelt. In diesem Podcast erzaehlt er von seinen Erfahrungen und dem Projekt Reforest Network, das er zur Waldwiederherstellung gegruendet hat.
+Das Video wurde am **22. Januar 2026** hochgeladen und dauert **21 Minuten 8 Sekunden**. Die Hinweise auf den Brand beschreiben das frühere Ereignis, nicht die aktuelle Lage.
 
-### Sergeys Erfahrung waehrend des Feuers
-- **Ausmass des Brandes**: Eine erste Satellitenauswertung des [ERATOSTHENES Centre of Excellence](https://eratosthenes.org.cy/eratosthenes-new-satellite-data-reveal-the-extent-of-the-limassol-wildfire/) schätzte die verbrannte Fläche im Bezirk Limassol auf etwa 125 km²; zum Zeitpunkt der Aufnahme war das Feuer noch aktiv.
-- **Reaktion der Anwohner**: Viele Menschen verliessen ihre Haeuser, aber Sergey blieb, um seines zu verteidigen. Er evakuierte alle, die er konnte, und versuchte, durch Polizeisperren zu kommen.
-- **Schwierigkeiten**: Fehlende Kommunikation, Wasser und Strom schufen zusaetzliche Probleme. Sergey war mit Nachbarn in Kontakt, die geblieben waren, um ihre Haeuser zu schuetzen, aber die Verbindung war instabil.
+## Kapitel des Herausgebers
 
-### Das Projekt Reforest Network
-- **Projektziel**: Entwicklung einer App, die den Prozess der Waldwiederherstellung effizienter gestaltet.
-- **Hauptbeteiligte**: Aufforstungsorganisationen, Freiwillige und Sponsoren.
-- **Funktionalitaet**: Die App ist eine dreidimensionale Karte Zyperns, auf der alle Aufforstungsaktivitaeten markiert sind. Nutzer koennen sich einloggen und erfahren, wie sie helfen koennen, ob finanziell oder physisch.
-- **Entwicklung**: Das Projekt befindet sich in der Entwicklung, und es gibt bereits einen oeffentlichen Prototyp. Sergey sucht Sponsoren, und die Firma Mow unterstuetzt das Projekt bereits.
+- **01:11** — Sergeys Erfahrung und das Ausmaß des Brandes
+- **02:26** — Absperrungen, Kommunikation und Wasser
+- **04:37** — Die Plattformidee für Organisationen, Freiwillige und Sponsoren
+- **05:54** — Projektgeschichte vor und nach dem Brand
+- **06:50** — Eine Initiative zur Waldwiederherstellung, über die der Gast spricht
+- **07:56** — Prototyp, Karte und Sponsorengespräch
+- **09:21** — Transparenz bei Umweltprojekten
+- **10:59** — Der Bericht des Gastes über extreme Brandbedingungen
+- **12:03** — Früherkennung und Infrastruktur
+- **13:49** — Pumpen, Generatoren und Wasserstellen
+- **14:48** — Die Überlegungen des Gastes zu den Brandursachen
+- **16:43** — Kritik an staatlicher Hilfe
+- **17:23** — Der Bericht des Gastes über Zahlungsverzögerungen
+- **18:51** — Rollen von Gesellschaft und Staat
+- **20:38** — Schluss
 
-### Probleme bei der Waldwiederherstellung
-- **Mangelnde Transparenz**: Viele Organisationen, die Baeume pflanzen, liefern nicht genuegend Informationen über ihre Aktivitaeten. Das erschwert die Auswahl für Sponsoren.
-- **Brandschutzstreifen**: Bei starkem Wind und hohen Temperaturen sind Brandschutzstreifen unwirksam. Das Feuer kann große Entfernungen überspringen.
-- **Brandpraevention**: Es gibt Startups, die KI zur Fruehererkennung von Braenden einsetzen. Wichtig ist jedoch die schnelle Reaktion der Feuerwehr.
+## Datierte Belege zum Brand
 
-### Fragen an die Regierung
-- **Entschaedigungen**: Die Regierung versprach Entschaedigungen, aber viele Betroffene haben immer noch kein Geld erhalten. Versicherte erhielten weniger als den Hauswert.
-- **Unterstuetzung**: Trotz Kritik stellt die Forstbehoerde Setzlinge zum Pflanzen bereit und arbeitet an der Wiederherstellung des Oekosystems, zum Beispiel in den Asbestminen im Troodos-Gebirge.
+In einem Bericht vom **25. Juli 2025** schätzte das [ERATOSTHENES Centre of Excellence](https://eratosthenes.org.cy/eratosthenes-new-satellite-data-reveal-the-extent-of-the-limassol-wildfire/) die im Bezirk Limassol verbrannte Fläche auf etwa **125 km²**. Es nutzte PlanetScope-Aufnahmen vom **24. Juli 2025, 09:00 UTC**, und beschrieb den Brand ausdrücklich als noch aktiv. Das war eine erste, überarbeitbare Einschätzung und keine endgültige Flächenmessung.
 
-### Fazit
-Die Waldbraende auf Zypern 2025 waren eine ernste Pruefung für die lokale Gemeinschaft. Das Projekt Reforest Network, das von Sergey gegruendet wurde, zielt darauf ab, den Prozess der Waldwiederherstellung zu verbessern. Trotz Transparenzproblemen und ungenuegender Unterstuetzung durch die Regierung kann die aktive Beteiligung von Anwohnern und Unternehmen die Situation erheblich verbessern. Es ist wichtig, weiter an der Brandpraevention und der Wiederherstellung des Oekosystems zu arbeiten.
+## Reforest Network: Ziele und veröffentlichter Stand
 
+Die [Projektwebsite](https://reforest.network/) beschreibt eine digitale Plattform, die Organisationen der Waldwiederherstellung, Freiwillige und Öko-Sponsoren auf Zypern verbinden soll. Zu den erklärten Zielen gehören Zusammenarbeit und Transparenz; diese Beschreibungen belegen keine Ergebnisse der Wiederherstellung.
 
-### Nuetzliche Links
+Die Website bietet eine **Karte im Browser**. Der Demo-Bereich beschreibt echte Satellitenbilder und Höhendaten neben von Hand ergänzten Demonstrationsdaten, einschließlich fiktiver Waldbrände. Das [Update auf Version 0.6 vom Januar 2026](https://reforest.network/news/update-0-6-progress-features-vision/) berichtet über Änderungen bei Kartennavigation und Datenebenen und nennt Nutzerregistrierung, Bearbeitung von Organisationen und native iOS-/Android-Apps unter den künftigen Prioritäten. Klären Sie die neuesten Funktionen mit dem Projekt; die Demo ist kein offizieller Warndienst.
+
+Die Website nennt **Mellow** als ersten Sponsor. Das korrigiert den Namen „Mow“ in der Beschreibung des Herausgebers.
+
+## Hilfe und Notruf
+
+Der Gast spricht über Zahlungsverzögerungen und kritisiert die Reaktion. Das sind seine Schilderungen und keine unabhängig geprüften Feststellungen zu allen betroffenen Haushalten oder Versicherungsregulierungen. Die Regierung veröffentlichte am [30. Juli 2025 Erläuterungen zu den Unterstützungsmaßnahmen](https://www.gov.cy/ypourgiko-symvoulio/epexigiseis-gia-tis-apofaseis-tou-ypourgikou-symvouliou-gia-stirixi-ton-pligenton-apo-tin-pyrkagia-stin-eparchia-lemesou-30-iouliou-2025/). Eine angekündigte Maßnahme zeigt allein nicht, ob eine einzelne Zahlung eingegangen ist.
+
+Die [Mitteilung der zyprischen Feuerwehr vom 8. Mai 2026](https://www.gov.cy/dikaiosyni-kai-dimosia-taxi/anakoinosi-schetika-me-tis-kliseis-ektaktis-anagkis-pou-apaiteitai-i-antapokrisi-tis-pyrosvestikis-ypiresias/) sagt, dass alle Notrufe, die ihren Einsatz erfordern, darunter Brände und Rettungen, **ausschließlich unter 112** erfolgen sollen.
+
+Sehen Sie sich das Interview für die Erfahrung des Gastes und die Projektdiskussion an. Zur weiteren Planung siehe unseren [Sicherheitsratgeber](/de/life/sicherheit-zypern-kriminalitaet/) und den [Ratgeber zu Nebenkosten](/de/life/utilities-cyprus/).
+
+### Nützliche Links
 
 - [Alle Videos des Kanals](/de/videos/)
 - [Über uns](/de/about/)
+- [🔔 Kanal abonnieren](https://www.youtube.com/channel/UCGc9vkLbBMhIimSSaywxH9A?sub_confirmation=1)
 
 ---
 
-**Haben Sie noch Fragen?** Schreiben Sie in die Kommentare unter dem Video auf YouTube!
+Siehe auch: [Auswandern nach Zypern — vollständiger Leitfaden](/de/immigration/auswandern-nach-zypern-leitfaden/)
 
-Weiterführende Informationen: [Sicherheit auf Zypern](/de/life/sicherheit-zypern-kriminalitaet/) · [Auswandern nach Zypern](/de/immigration/auswandern-nach-zypern-leitfaden/) · [Limassol-Guide](/de/life/limassol-stadtteile-guide-2026/).
+**Fragen?** Schreiben Sie einen Kommentar unter das Video auf YouTube!

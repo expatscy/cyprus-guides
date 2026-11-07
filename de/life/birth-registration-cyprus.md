@@ -1,9 +1,9 @@
 ---
 slug: "birth-registration-cyprus"
-title: "Geburt auf Zypern: Anmeldung & Dokumente"
-description: "Was zu tun ist, wenn ein Kind auf Zypern geboren wird: Geburtsregistrierung, Staatsbürgerschaft des Kindes, Dokumente für Migration und Botschaft."
+title: "Geburt auf Zypern: Anmeldung und Staatsbürgerschaft"
+description: "Kind auf Zypern geboren? Geburtsanmeldung binnen 15 Tagen, Staatsbürgerschaft, Apostille, Mutterschaftsleistung und Gesundheitsversorgung (GeSY)."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -14,205 +14,95 @@ tags:
   - für-Expats
 draft: false
 translationKey: "rozhdenie-rebenka-kipr"
+howtoSchema:
+  name: "So melden Sie die Geburt eines Kindes auf Zypern an"
+  description: "Geburt auf Zypern anmelden und die Geburtsurkunde erhalten"
+  steps:
+    - name: "Geburtsanzeige besorgen"
+      text: "Der Arzt oder die Hebamme, die bei der Geburt anwesend waren, füllen die Geburtsanzeige aus und unterschreiben sie. Eine Kopie erhalten die Eltern."
+    - name: "Unterlagen für die Anmeldung vorbereiten"
+      text: "Bereiten Sie die Geburtsanzeige, Ausweise oder Pässe der Eltern, ggf. die Heiratsurkunde, den Aufenthaltstitel ausländischer Eltern und den ausgefüllten Antrag vor. Bei einem nichtehelichen Kind nennt das Ministerium eine gemeinsame Erklärung zur Anerkennung der Vaterschaft oder einen Gerichtsbeschluss."
+    - name: "Innerhalb von 15 Tagen anmelden"
+      text: "Die Anmeldung ist bei jedem District Administration Office möglich, unabhängig vom Geburtsort des Kindes. Jede Geburtsurkunde kostet €5. Bei verspäteter Anmeldung fallen zusätzliche Gebühren an."
 faqSchema:
-  - question: "Bekommt mein Kind die zyprische Staatsbürgerschaft, wenn es auf Zypern geboren wird?"
-    answer: "Nein — Zypern wendet das Abstammungsprinzip (ius sanguinis) an, nicht das Geburtsortprinzip. Ein Kind erhält die zyprische Staatsbürgerschaft nur, wenn mindestens ein Elternteil zyprischer Staatsbürger ist. Kinder deutscher Eltern erhalten automatisch die deutsche Staatsbürgerschaft — Anmeldung bei der deutschen Botschaft in Nikosia."
-  - question: "Welche Dokumente brauche ich nach der Geburt auf Zypern?"
-    answer: "1) Geburtsurkunde beim Civil Registry beantragen (innerhalb von 15 Tagen). 2) Bei der deutschen Botschaft Nikosia: Geburtsanzeige + Beantragung des deutschen Reisepasses. 3) Kindergeld: beim Familiengericht in Deutschland beantragen (Auslandskinder). 4) Kind beim zyprischen Migrationsministerium als Familienangehörigen registrieren."
----
-> **Kurzantwort:** Geburt innerhalb von 15 Tagen beim Civil Registry melden. EU-Kinder erhalten zyprische Geburtsurkunde, Staatsbürgerschaft nach Abstammung der Eltern.
-
-Die Geburt eines Kindes auf Zypern bringt eine Reihe bürokratischer Verfahren mit sich. Hier erfahren Sie die wichtigsten Schritte.
-
-> **Offizielle Quellen:**
-> - [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — Geburtenregistrierung
-> - [Birth Registration Form M121](https://mfa.gov.cy/consular-forms.html) — Registrierungsformular
-> - Konsularische Dienste — wenden Sie sich an die Botschaft Ihres Heimatlandes in Nikosia
-
-## Welche Staatsbürgerschaft erhält das Kind?
-
-### Grundprinzip
-
-Auf Zypern gilt das **Abstammungsprinzip** (jus sanguinis), nicht das Geburtsortsprinzip:
-
-- Das Kind erhält die zyprische Staatsbürgerschaft **nicht automatisch**
-- Die Staatsbürgerschaft richtet sich nach den **Eltern**
-
-### Wenn beide Eltern Ausländer sind
-
-Das Kind ist Staatsbürger des **Heimatlandes der Eltern**:
-
-- Unabhängig vom Geburtsort
-- Die Staatsbürgerschaft muss beim zuständigen Konsulat beantragt werden
-
-### Wenn ein Elternteil EU-/Zypern-Bürger ist
-
-- Das Kind kann die Staatsbürgerschaft dieses Elternteils erhalten
-- Die Regeln hängen vom jeweiligen Land ab
-
-## Wie registriere ich eine Geburt?
-
-### Auf Zypern
-
-Nach der Geburt stellt das Krankenhaus aus:
-
-- **Geburtsbescheinigung** (Birth Notification)
-- Damit gehen Sie zum **Civil Registry** (Standesamt)
-
-### Fristen
-
-Die Registrierung muss innerhalb von **15 Tagen** erfolgen.
-
-### Dokumente für die Registrierung
-
-- Bescheinigung aus dem Krankenhaus
-- Reisepässe der Eltern
-- Heiratsurkunde (falls vorhanden)
-- Aufenthaltsgenehmigung der Eltern
-
-### Geburtsurkunde
-
-Nach der Registrierung erhalten Sie eine **zyprische Geburtsurkunde**:
-
-- Auf Griechisch
-- Kann auf Englisch beantragt werden
-
-## Wie beantrage ich die Staatsbürgerschaft des Heimatlandes?
-
-### Wohin wenden
-
-An die **Botschaft Ihres Heimatlandes** in Nikosia oder das zuständige Konsulat.
-
-### Dokumente
-
-- Zypriotische Geburtsurkunde (mit Apostille)
-- Übersetzung in die Amtssprache Ihres Landes
-- Reisepässe der Eltern
-- Antrag
-
-### Reisepass für das Kind
-
-Nach der Beantragung der [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/):
-
-- Kann ein **Reisepass** ausgestellt werden
-- In der Botschaft auf Zypern
-
-## Braucht das Kind eine Aufenthaltsgenehmigung?
-
-### Wenn die Eltern eine Aufenthaltsgenehmigung haben
-
-Für das Kind muss eine **eigene Aufenthaltsgenehmigung** beantragt werden:
-
-- Als Angehöriger der Eltern
-- Wird zusammen mit der Verlängerung der Eltern oder separat eingereicht
-
-### Dokumente
-
-- Geburtsurkunde
-- Reisepass des Kindes (falls vorhanden)
-- Dokumente der Eltern
-
-## Welche Mutterschaftsleistungen stehen mir zu?
-
-### Wenn die Mutter auf Zypern gearbeitet hat
-
-Anspruch auf **Maternity Allowance** aus der Sozialversicherung:
-
-- Beitragsbedingungen: tatsächliche Grundversicherung von mindestens **0,50 Versicherungseinheiten**, mindestens **26 Wochen** seit Versicherungsbeginn und tatsächliche oder angerechnete Versicherung von mindestens **0,39 Einheiten** im maßgeblichen Beitragsjahr. Im ersten Halbjahr ist dies das vorletzte Kalenderjahr, im zweiten Halbjahr das vorherige Kalenderjahr. Die Halbjahre beginnen jeweils am ersten Montag im Januar und Juli.
-- **22 Wochen** bezahlter Urlaub für das 1. und 2. Kind; **26 Wochen** ab dem 3. Kind (seit März 2024, Gesetz N.14(I)/2024)
-- Leistung: **72%** des versicherten Einkommens im maßgeblichen Beitragsjahr. Nur der Grundanteil steigt auf **80% / 90% / 100%** bei einem / zwei / drei Unterhaltsberechtigten, wenn die Antragstellerin allein für den Haushalt aufkommt. [Offizielle Bedingungen für Mutterschaftsgeld](https://maternity-benefit.service.gov.cy/en/faq).
-
-### Wenn die Versicherungsbedingungen nicht erfüllt sind
-
-Ohne Erfüllung der Versicherungsbedingungen wird kein Mutterschaftsgeld gezahlt. Eine fehlende Beschäftigung allein schließt den Anspruch nicht aus: Versicherungsbeiträge und angerechnete Zeiten sind maßgeblich.
-
-## Wie ist die medizinische Versorgung bei der Geburt?
-
-### Entbindung
-
-- **Staatliche Krankenhäuser** — kostenlos mit GESY
-- **Privatkliniken** — kostenpflichtig oder über Versicherung
-
-### Nach der Geburt
-
-- Kinderarzt
-- Impfungen nach dem zypriotischen Impfkalender
-- Registrierung bei GESY (wenn Sie anspruchsberechtigt sind)
-
-## Welche Regeln gelten für den Namen des Kindes?
-
-### Regeln
-
-Auf Zypern gibt es keine strengen Namensbeschränkungen:
-
-- Sie können **jeden Namen** wählen
-- In der zypriotischen Geburtsurkunde — in lateinischer Schrift
-
-### Für Dokumente des Heimatlandes
-
-- Der Name wird übersetzt/transliteriert
-- Achten Sie auf **einheitliche** Schreibweise
-
-## Welche praktischen Tipps gibt es?
-
-1. **Registrieren Sie innerhalb von 15 Tagen** — nicht aufschieben
-2. **Lassen Sie die Geburtsurkunde apostillieren** — wird für das Heimatland benötigt
-3. **Beantragen Sie die Staatsbürgerschaft** — bei der Botschaft
-4. **Stellen Sie den Antrag auf Aufenthaltsgenehmigung für das Kind** — sofort nach der Geburt
-5. **Bewahren Sie alle Dokumente auf** — auch Krankenhausbescheinigungen
-
+  - question: "Bekommt ein auf Zypern geborenes Baby die zyprische Staatsbürgerschaft?"
+    answer: "Die Geburt auf Zypern allein verleiht nicht die zyprische Staatsbürgerschaft. Abschnitt 109 knüpft sie an einen zyprischen Elternteil, mit einer Ausnahme, wenn Einreise oder Aufenthalt eines Elternteils illegal waren, sofern der Ministerrat nicht anders entscheidet. Eine ausländische Staatsbürgerschaft richtet sich nach den Regeln des jeweiligen Landes."
+  - question: "Was kostet eine Geburt auf Zypern?"
+    answer: "Für abgedeckte stationäre Leistungen im Rahmen von GeSY gibt es keine Zuzahlung. Klären Sie vor der Geburt Anspruch, Vertragsanbieter und geplante Leistung. Fordern Sie für eine Privatklinik ein aufgeschlüsseltes Angebot und eine schriftliche Bestätigung der Versicherung an."
+  - question: "Wie melde ich eine Geburt auf Zypern an?"
+    answer: "Innerhalb von 15 Tagen bei einem beliebigen District Administration Office. Mitbringen: Geburtsanzeige, Ausweise oder Pässe der Eltern, ggf. Heiratsurkunde, Aufenthaltstitel ausländischer Eltern und ausgefüllter Antrag. Bei nichtehelicher Geburt ist die genannte Vaterschaftserklärung oder ein Gerichtsbeschluss nötig. Jede Urkunde kostet €5."
 ---
 
-Eine Geburt auf Zypern verleiht keine Staatsbürgerschaft, aber das Verfahren zur Dokumentenerstellung ist klar strukturiert. Das Wichtigste: Verzögern Sie die Registrierung nicht.
+Geburtsanmeldung, Staatsbürgerschaft und aufenthaltsrechtliche Regelungen müssen Sie getrennt prüfen. Beginnen Sie mit der Geburtsanmeldung auf Zypern und fragen Sie die zuständigen Behörden nach der Situation Ihres Kindes.
 
-Weiterführende Informationen: [Gesundheitswesen](/de/life/healthcare-cyprus-gesy/) · [GeSY vs. Privatversicherung](/de/life/gesy-vs-private-krankenversicherung-zypern/) · [Apostille](/de/documents/apostille-documents-cyprus/).
+## Wie funktioniert die Geburtsanmeldung?
 
+Nach dem [Verfahren des Innenministeriums für Geburten auf Zypern](https://www.gov.cy/moi/en/documents/birth-certificates-birth-in-cyprus/) muss jede Geburt auf Zypern **innerhalb von 15 Tagen** angemeldet werden. Sie können dies bei **jedem District Administration Office** tun, unabhängig davon, wo das Kind geboren wurde.
 
-## Was kostet eine Geburt auf Zypern?
+Der Arzt oder die Hebamme bei der Geburt füllt die Geburtsanzeige aus und unterschreibt sie. Ein Exemplar bleibt im Krankenhaus oder in der Klinik, eines geht an die District Administration und eines erhalten die Eltern. Bei einer Geburt außerhalb einer medizinischen Einrichtung reicht der Arzt oder die Hebamme das Formular ein. Waren beide nicht anwesend, tun dies die Eltern oder eine andere bevollmächtigte Person.
 
-| Typ | Oeffentlich (GeSY) | Privatklinik |
-|-----|-------------------|---------------|
-| Natuerliche Geburt | **Kostenlos** | EUR 3.000-5.000 |
-| Kaiserschnitt | **Kostenlos** | EUR 5.000-8.000 |
-| Zimmer (pro Nacht) | Inklusive | EUR 200-500 |
-| Neonatologe | Inklusive | EUR 500-1.000 |
+### Unterlagen
 
-Wichtige Privatkliniken: Ygia (Limassol), Mediterranean (Limassol), Apollonion (Nikosia), Aretaeio (Nikosia). Bei Privatversicherung: pruefen Sie die Mutterschaftsabdeckung sorgfaeltig -- viele Policen schliessen Geburten im ersten Jahr aus.
+Das Ministerium nennt:
 
-## Soll ich GeSY oder eine Privatklinik wählen?
+- Ärztliche Geburtsbescheinigung — das Formular der Geburtsanzeige.
+- Personalausweise oder Pässe der Eltern.
+- Heiratsurkunde der Eltern, falls vorhanden.
+- Bei einem nichtehelichen Kind eine gemeinsame Erklärung zur Anerkennung der Vaterschaft oder ein Gerichtsbeschluss.
+- Bei ausländischen Eltern ein Aufenthaltstitel.
+- Ausgefülltes Antragsformular.
 
-**GeSY (oeffentliches System):**
-- Kostenlos für alle Registrierten
-- Arzt wird zugewiesen, eingeschraenkte Wahl
-- Mehrbettzimmer (2-4 Personen)
-- Hohe medizinische Qualitaet
+### Gebühren und verspätete Anmeldung
 
-**Privatklinik:**
-- Arztwahl
-- Einzelzimmer
-- Komfortablere Bedingungen
-- Kosten: EUR 3.000-8.000 ohne Versicherung
+Jede Geburtsurkunde kostet **€5**. Bei Anmeldung nach 15 Tagen fällt ein **Zuschlag von €30** an. Nach drei Monaten beträgt der Zuschlag **€60**, dazu kommen eine zusätzliche eidesstattliche Erklärung und Zeugen. Die Urkunde wird nach der Geburtsanmeldung ausgestellt und ist bei jedem District Administration Office erhältlich.
 
-Viele Expats waehlen einen **privaten Gynaekologen für die Schwangerschaftsvorsorge** kombiniert mit **GeSY-Entbindung** (kostenlos). Das ist ein gaengiger und legaler Ansatz.
+Fragen Sie vor der Bestellung von Kopien im Amt nach Sprache und Schreibweise der Urkunde. Bewahren Sie Geburtsanzeige und Antragsunterlagen auf.
 
-## Welcher Impfplan gilt für Neugeborene?
+## Verleiht eine Geburt auf Zypern die Staatsbürgerschaft?
 
-Zypern folgt dem EU-Impfkalender (Gesundheitsministerium):
+Der Geburtsort allein begründet keine zyprische Staatsbürgerschaft. Nach [Abschnitt 109 des Civil Registry Law](https://www.cylaw.org/nomoi/enop/ind/2002_1_141/section-sc852d7c40-bca1-5785-16b3-2a04cd997a2c.html) ist eine Person, die am oder nach dem 16. August 1960 auf Zypern geboren wurde, Staatsbürger, wenn bei der Geburt ein Elternteil zyprischer Staatsbürger war. Der Abschnitt regelt auch den Fall eines verstorbenen Elternteils, der die Voraussetzungen erfüllte. Diese Regel gilt jedoch nicht, wenn Einreise oder Aufenthalt eines Elternteils auf Zypern illegal waren, sofern der Ministerrat nicht anders entscheidet. Fragen Sie das Civil Registry zu Fällen, die von dieser Ausnahme betroffen sind.
 
-| Alter | Impfung |
-|-------|---------|
-| Bei Geburt | BCG (falls indiziert), Hepatitis B |
-| 2 Monate | DTaP, IPV, Hib, Hepatitis B, PCV |
-| 4 Monate | DTaP, IPV, Hib, PCV |
-| 6 Monate | DTaP, Hepatitis B |
-| 12 Monate | MMR, PCV |
-| 18 Monate | DTaP, IPV, Hib |
+Für eine ausländische Staatsbürgerschaft prüfen Sie die Regeln des Landes jedes Elternteils. Gehen Sie nicht von automatischer Vererbung oder einer Pflicht zur Registrierung in der Botschaft aus:
 
-Impfungen sind kostenlos in oeffentlichen Gesundheitszentren. Privater Kinderarzt: EUR 30-50 pro Besuch plus Impfstoffkosten.
+- **Vereinigtes Königreich:** Bei Geburten im Ausland am oder nach dem 1. Juli 2006 setzt die automatische Staatsbürgerschaft einen britischen Elternteil voraus, der sie weitergeben konnte. Die Hinweise nennen auch eine Ausnahme, wenn der britische Vater und der Ehemann der Mutter verschiedene Personen sind. Prüfen Sie Ihren Fall und den passenden Pass- oder Staatsbürgerschaftsantrag im [Leitfaden der britischen Regierung](https://www.gov.uk/apply-citizenship-british-parent/born-on-or-after-1-july-2006).
+- **USA:** Ein amerikanischer Elternteil garantiert nicht in jedem Fall die Staatsbürgerschaft. Der Erwerb hängt von Abstammung und Aufenthalts- oder Anwesenheitsbedingungen ab. Ein [Consular Report of Birth Abroad](https://travel.state.gov/en/international-travel/living-abroad/birth.html) dokumentiert die bei der Geburt erworbene Staatsbürgerschaft, er verleiht sie nicht. Prüfen Sie die [Erwerbsregeln des State Department](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Acquisition-US-Citizenship-Child-Born-Abroad.html) und die Hinweise der Botschaft zum Antrag.
 
----
+Bei anderen Staatsangehörigkeiten fragen Sie die zuständige Konsularbehörde, welcher Nachweis der Staatsbürgerschaft und welcher Passantrag passen. Wenn Sie mehrere Staatsangehörigkeiten erwägen, prüfen Sie die Anforderungen jedes Landes.
+
+**M121 ist nicht das zyprische Formular zur Geburtsanmeldung.** Das Ministerium bezeichnet es als [konsularische Geburtsregistrierung für im Ausland geborene Personen](https://www.gov.cy/moi/en/documents/persons-born-abroad-consular-birth-certificate-form-m121/).
+
+## Brauche ich eine Apostille oder Übersetzung?
+
+Fragen Sie die empfangende Behörde, welche Urkunde, Beglaubigung und Übersetzung sie akzeptiert, bevor Sie dafür bezahlen. Eine Apostille ist nicht immer nötig. Nach der [Verordnung (EU) 2016/1191](https://www.gov.cy/mjpo/en/exemption-of-certain-public-documents-from-the-apostille-requirement-according-to-regulation-eu-2016-1191/) sind erfasste Geburtsurkunden, die von Behörden eines EU-Mitgliedstaats ausgestellt und Behörden eines anderen Mitgliedstaats vorgelegt werden, von Legalisation und Apostille befreit. Ein mehrsprachiges Formblatt, wenn vorhanden, wird dem Original beigefügt. Eine beglaubigte Übersetzung aus einem EU-Mitgliedstaat muss anerkannt werden.
+
+Für ein anderes Zielland oder Verfahren klären Sie dessen Regeln. Siehe den [Apostille-Leitfaden](/de/documents/apostille-documents-cyprus/) und holen Sie bei Bedarf ein Angebot für die Übersetzung ein. Achten Sie auf eine einheitliche Schreibweise der Namen in allen Dokumenten.
+
+## Welche aufenthaltsrechtlichen Schritte sind nötig?
+
+Fragen Sie das Migration Department, welche Registrierung oder welcher Aufenthaltsantrag zur Staatsbürgerschaft Ihres Kindes und zum Status Ihrer Familie passt. Klären Sie Frist, Unterlagen und ob ein Antrag mit Ihrer Verlängerung zusammen gestellt werden kann. Betrachten Sie die Geburtsurkunde nicht als Beweis, dass die aufenthaltsrechtlichen Schritte abgeschlossen sind.
+
+## Welche Mutterschaftsleistungen gibt es?
+
+Die [offizielle FAQ zur Mutterschaftsleistung](https://maternity-benefit.service.gov.cy/en/faq) nennt diese Versicherungsvoraussetzungen:
+
+- Tatsächliche Basisversicherung von mindestens **0,50 Versicherungseinheiten**, mit mindestens **26 Wochen** seit Versicherungsbeginn.
+- Tatsächliche oder angerechnete Versicherung von mindestens **0,39 Einheiten** im maßgeblichen Beitragsjahr. In der ersten Jahreshälfte ist das das vorletzte Kalenderjahr, in der zweiten das vorherige Kalenderjahr. Die Hälften beginnen am ersten Montag im Januar und im Juli.
+- Die Zahlung beträgt **72 %** des versicherten Einkommens im maßgeblichen Jahr, sowohl für den Basis- als auch für den Zusatzteil. Nur der Basisteil steigt auf **80 % / 90 % / 100 %** bei einem / zwei / drei Unterhaltsberechtigten, wenn die antragstellende Person die alleinige Versorgerin des Haushalts ist.
+
+Bei einer Geburt beträgt der Leistungszeitraum **22 aufeinanderfolgende Wochen**, beginnend in einer beliebigen Woche von der **neunten bis zur zweiten Woche vor der erwarteten Entbindungswoche**. Nach [Abschnitt 29 des Social Insurance Law](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html) kommen bei der dritten und jeder weiteren Geburt vier Wochen hinzu, für Mehrlingsgeburten gelten gesonderte Verlängerungen. Das sind Regeln für den Leistungszeitraum. Für die Zahlung laufen die Wochen von Montag bis Sonntag. Das Gesetz schließt Zahlungen für Zeiten aus, in denen der Arbeitgeber das volle Gehalt zahlt. Zahlt der Arbeitgeber teilweise, wird die Leistung so gekürzt, dass der Gesamtbetrag das volle Einkommen nicht übersteigt.
+
+Wer nicht angestellt ist, hat nicht allein deshalb keinen Anspruch: Beiträge und angerechnete Versicherungszeiten zählen. Bitten Sie die Social Insurance Services, Ihre Versicherungsdaten und Umstände zu prüfen.
+
+## Wie organisiere ich Gesundheitsversorgung und Impfungen?
+
+Für [berechtigte GeSY-Versicherte](/de/life/healthcare-cyprus-gesy/) gibt es bei abgedeckten stationären Leistungen **keine Zuzahlung**. Klären Sie vor der Geburt Krankenhaus, Vertragsleistung und Ihre Anmeldung. Für ambulante Schwangerschaftstermine gelten eigene Zugangs- und Gebührenregeln. Fordern Sie ein aufgeschlüsseltes privates Angebot für Entbindung, Zimmer und Versorgung des Neugeborenen an, dazu eine schriftliche Bestätigung der Versicherung für jede geplante Behandlung oder eine bereits bestehende Schwangerschaft.
+
+Fragen Sie nach der Geburt die HIO nach dem Anspruch und der Anmeldung Ihres Kindes und organisieren Sie die kinderärztliche Nachsorge. Nutzen Sie mit Ihrem Kinderarzt das [nationale Impfprogramm für Kinder und Jugendliche 2026](https://www.gov.cy/media/sites/24/2026/02/NATIONAL-VACCINATION-PROGRAM-FOR-CHILDREN-AND-ADOLESCENTS-2026.pdf) des Gesundheitsministeriums. Es enthält Zeitpläne je Impfstoff und risikobezogene Bedingungen, eine kurze Tabelle nach Alter kann diese Prüfung nicht ersetzen.
 
 ## Quellen
 
-- [Civil Registry](https://www.gov.cy/moi/en/ministry/departments/civil-registry-section/) — gov.cy
-- [Birth Registration Form M121](https://mfa.gov.cy/consular-forms.html) — gov.cy
+- [Innenministerium: Geburtsurkunden für Geburten auf Zypern](https://www.gov.cy/moi/en/documents/birth-certificates-birth-in-cyprus/).
+- [Civil Registry Law, Abschnitt 109](https://www.cylaw.org/nomoi/enop/ind/2002_1_141/section-sc852d7c40-bca1-5785-16b3-2a04cd997a2c.html).
+- [Offizielle FAQ zur Mutterschaftsleistung](https://maternity-benefit.service.gov.cy/en/faq) und [Social Insurance Law, Abschnitt 29](https://www.cylaw.org/nomoi/enop/non-ind/2010_1_59/full.html).
+- [HIO: Finanzierung und Zuzahlungen](https://www.gesy.org.cy/en-us/hiofinancing).
+- [Nationales Impfprogramm für Kinder, 2026](https://www.gov.cy/media/sites/24/2026/02/NATIONAL-VACCINATION-PROGRAM-FOR-CHILDREN-AND-ADOLESCENTS-2026.pdf).

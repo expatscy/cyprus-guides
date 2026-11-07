@@ -1,9 +1,9 @@
 ---
 slug: "eu-blue-card-cyprus"
 title: "EU Blue Card Zypern 2026: Anforderungen"
-description: "Blue Card Zypern: Anforderungen, Beantragung, Wechsel vom BCS, Vorteile gegenueber der Arbeitserlaubnis. Praktische Erfahrungen."
+description: "Blue Card Zypern: Anforderungen, Beantragung, Wechsel von der nationalen Erlaubnis (BCS), Unterschiede zur normalen Arbeitserlaubnis. Praktische Hinweise."
 date: 2026-01-24
-updated: 2026-07-12
+updated: 2026-11-07
 category: "Einwanderung"
 author: "Expats Cyprus"
 tags:
@@ -15,19 +15,23 @@ tags:
 draft: false
 translationKey: "blue-card-kipr-2025-2026"
 faqSchema:
-  - question: "Was ist der Unterschied zwischen EU Blue Card und BCS auf Zypern?"
-    answer: "Blue Card: EU-weit gültig, Mindestgehalt €43.632/Jahr, Hochschulabschluss erforderlich, nach 5 Jahren EU-Daueraufenthalt möglich. BCS: nur Zypern-spezifisch, kein Mindestgehalt festgelegt, branchenspezifisch (IT, Finanzen). Blue Card bietet Mobilität innerhalb der EU — nach 12 Monaten Wechsel in andere EU-Staaten möglich."
-  - question: "Können Deutsche eine EU Blue Card auf Zypern beantragen?"
-    answer: "Nein — EU-Bürger (Deutsche, Österreicher) benötigen keine Blue Card, da sie Freizügigkeit genießen. Die Blue Card richtet sich an Drittstaatsangehörige (Nicht-EU). EU-Bürger können direkt auf Zypern arbeiten — nur Yellow Slip (Anmeldebescheinigung) erforderlich."
+  - question: "Wie hoch ist das Mindestgehalt für die EU Blue Card auf Zypern?"
+    answer: "Das Mindest-Jahresbruttogehalt beträgt 43.632 €. Zypern lässt derzeit hochqualifizierte Arbeitnehmer in IKT, in der Pharmaindustrie nur für Forschungszwecke und in der Schifffahrt ohne Kapitäne und Besatzung zu. Das Gehalt allein reicht nicht aus."
+  - question: "Kann ich auf Zypern vom BCS zur EU Blue Card wechseln?"
+    answer: "Wer eine nationale Arbeitserlaubnis für hochqualifizierte Beschäftigung hat, kann eine Blue Card beantragen, wenn die Zulassungskriterien erfüllt sind. Das EU-System gilt in 25 Mitgliedstaaten, ohne Dänemark und Irland. Mobilität und Arbeitgeberwechsel sind an Bedingungen geknüpft."
+  - question: "Wie lange dauert die Bearbeitung der Blue Card auf Zypern?"
+    answer: "Ein vollständiger gewöhnlicher Antrag wird innerhalb von 90 Tagen geprüft, ein vollständiger Antrag auf Mobilität für langfristig Aufenthaltsberechtigte innerhalb von 30 Tagen. Fehlende Angaben oder Unterlagen verlängern oder unterbrechen die jeweilige Frist. Das sind Entscheidungsfristen, keine garantierten Termine oder Liefertermine für die Karte."
 ---
-> **Kurzantwort:** Die EU Blue Card erfordert einen Hochschulabschluss und ein Mindestgehalt von ca. 33.000 EUR/Jahr. Bearbeitung: 2-3 Monate.
+> **Kurzantwort:** Die Schwelle für die zyprische Blue Card liegt bei **43.632 € brutto pro Jahr**. Die Stelle muss in einen zugelassenen Sektor fallen und die Anforderungen an Qualifikation und Vertrag erfüllen. Für einen vollständigen gewöhnlichen Antrag gilt eine Entscheidungsfrist von 90 Tagen. Ob Sie sich einbürgern lassen können, hängt vom Arbeitgeber und den geltenden Einbürgerungsvoraussetzungen ab.
 
-Die EU Blue Card ist ein europäisches Programm für hochqualifizierte Fachkräfte. Seit 2025 stellt Zypern aktiv Blue Cards aus. Hier erfahren Sie, was das ist und für wen es sich eignet.
+Zypern nimmt seit dem **7. Juli 2025** Blue-Card-Anträge an. Zugelassen sind derzeit nur **IKT, Pharmaindustrie für Forschungszwecke und Schifffahrt ohne Kapitäne und Besatzung**. Das Mindest-Jahresbruttogehalt beträgt **43.632 €**. Außerdem brauchen Antragsteller eine passende berufliche Qualifikation und einen Vertrag oder ein verbindliches Angebot für mindestens **sechs Monate** sowie die übrigen gesetzlichen Voraussetzungen.
+
+Das Blue-Card-System gilt in **25 EU-Mitgliedstaaten**, ohne Dänemark und Irland. Mobilität und Arbeitgeberwechsel sind an Bedingungen geknüpft. Auf Zypern braucht ein Arbeitgeberwechsel einen Antrag: In den ersten 12 Monaten wird der Beginn der neuen Beschäftigung für 30 Tage ausgesetzt, danach darf die Arbeit mit der Antragstellung beginnen. Wer mit einer Blue Card bei einem Unternehmen arbeitet, das unter die Strategie der Regierung zur Anwerbung von Unternehmen fällt, kann unter allen Voraussetzungen den Einbürgerungsweg für hochqualifizierte Arbeitnehmer nutzen.
 
 > **Offizielle Quellen:**
-> - [Bekanntmachung zur EU Blue Card](https://www.gov.cy/mip-md/en/) — Annahme von Anträgen seit Juli 2025
-> - [Immigration Permits Categories](https://www.gov.cy/mip-md/en/) — Kategorien der Aufenthaltsgenehmigungen
-> - Mindestgehalt: **43.632 €/Jahr** (offizielle Angabe)
+> - [Ankündigung zum Start der EU Blue Card](https://www.gov.cy/en/migration/press-release-by-the-deputy-ministry-of-migration-and-international-protection-on-the-eu-blue-card/) — Anträge seit 7. Juli 2025
+> - [Regeln und FAQ zur Blue Card auf Zypern](https://www.gov.cy/mip-md/en/documents/eu-blue-card/) — Gehalt, Sektoren und Voraussetzungen
+> - Mindest-Jahresbruttogehalt: **43.632 €/Jahr**
 
 ## Was ist die EU Blue Card?
 
@@ -37,152 +41,146 @@ Die **EU Blue Card** ist eine einheitliche europäische Aufenthaltserlaubnis fü
 
 ### Vorteile
 
-- **Anerkennung in allen EU-Ländern**
-- Vereinfachter **Umzug in ein anderes EU-Land**
-- Weg zum **Daueraufenthalt**
-- Möglichkeit des **Arbeitgeberwechsels**
+- **Ein EU-System in 25 Mitgliedstaaten**, ohne Dänemark und Irland
+- Bedingte **Mobilität in ein anderes teilnehmendes EU-Land**
+- Aufenthaltszeiten können für den **langfristigen EU-Aufenthalt** zählen, vorbehaltlich dessen Voraussetzungen
+- **Arbeitgeberwechsel** nach den geltenden Verfahren
 
 ## Welche Anforderungen gelten?
 
 ### Gehalt
 
-Mindestgehalt: **43.632 EUR/Jahr** (ca. das 1,5-Fache des Durchschnittsgehalts in Zypern).
+Mindest-Jahresbruttogehalt: **43.632 EUR**. Prüfen Sie vor der Antragstellung die aktuelle offizielle Schwelle und die zugelassenen Sektoren.
 
-Diese Zahl wird regelmaessig aktualisiert — überpruefen Sie den aktuellen Schwellenwert vor der Antragstellung.
+Die Gehaltsschwelle ist ein gesetzliches Zulassungskriterium, aber nicht die einzige Anforderung.
 
 ### Bildung
 
-- **Hochschulabschluss** (Diplom)
-- **ODER** mindestens **5 Jahre** einschlägige Berufserfahrung
+- Ein anerkannter Hochschulabschluss einer anerkannten Einrichtung: mindestens drei Jahre Studium und das vorgeschriebene Niveau
+- Alternativ, für Leiter von IKT-Dienstleistungen (ISCO 133) und IKT-Fachkräfte (ISCO 25), mindestens drei Jahre einschlägige Berufserfahrung in den sieben Jahren vor dem Antrag
 
-Aus der Praxis:
-
-> „Trotz der Formulierung ‚Diplom ODER Berufserfahrung' wurde bei der Antragstellung beides geprüft. Die Interpretation ist eher: Diplom UND Berufserfahrung."
+Die Nachweise müssen sich auf die Arbeit im Vertrag oder Angebot beziehen.
 
 ### Arbeitsvertrag
 
-- Vertrag mit einem **zyprischen Arbeitgeber**
-- Muss mit **handschriftlichen Unterschriften** versehen sein (Stempelsteuer seit 1. Januar 2026 abgeschafft)
-- Mindestvertragslaufzeit: 1 Jahr
+- Ein Vertrag oder verbindliches Stellenangebot des konkreten zyprischen Arbeitgebers für eine hochqualifizierte Beschäftigung
+- Halten Sie sich an die aktuelle offizielle Checkliste für Form und Nachweise
+- Mindestlaufzeit: **sechs Monate**
 
 ## Wie läuft die Beantragung ab?
 
 ### Wo einreichen
 
-**Migrationsbehörde in Nikosia** (für den Wechsel vom BCS):
+Anträge werden bei der **Zentrale der Migrationsbehörde in Nikosia** eingereicht.
 
-- Nehmen Sie die Nummer **2XX**
-- Gehen Sie zum **linken Flügel**
-- Wartezeit — **lang**
+- Prüfen Sie vor dem Besuch die offiziellen Hinweise zur Terminvereinbarung
 
 ### Dokumente
 
-Aus der Erfahrung der Beantragung ohne Anwalt:
+Nutzen Sie die aktuelle [offizielle Blue-Card-Checkliste](https://www.gov.cy/mip-md/en/documents/application-for-eu-blue-card/). Die Anforderungen hängen vom Antragsweg und Ihrer Situation ab.
 
-1. **Arbeitsvertrag** mit handschriftlichen Unterschriften und Stempel
-2. **Diplom** (Apostille, Übersetzung, Legalisierung)
-3. **Arbeitszeugnisse** (Nachweis der Berufserfahrung)
-4. **Auszüge aus der Sozialversicherung** für alle Jahre in Zypern
-5. **Steuererklärung** aus TAXISnet für das Vorjahr
-6. **Krankenversicherung** (beim Wechsel vom BCS meist nicht erforderlich)
+1. Nachweis des qualifizierten Arbeitsvertrags oder Angebots
+2. Nachweis der einschlägigen beruflichen Qualifikation
+3. Ein gültiges Reisedokument und die jeweiligen Einreise- und Aufenthaltsunterlagen
+4. Nachweis einer Krankenversicherung, wenn Versicherungsschutz oder Anspruch nicht schon über den Arbeitsvertrag besteht
 
-### Dokumente „where applicable"
+### Weitere Unterlagen
 
-In der Liste auf der Migrationswebsite gibt es Punkte mit „where applicable" — diese können **weggelassen** werden, wenn sie auf Ihre Situation nicht zutreffen.
+Unterlagen müssen offiziell übersetzt und ordnungsgemäß beglaubigt sein. Klären Sie, welche bedingten Punkte der Checkliste auf Ihren Fall zutreffen.
 
-## Wie wechselt man vom BCS zur Blue Card?
+## Wie wechsle ich vom BCS?
 
 ### Ist ein Wechsel möglich
 
-Ja, ein **Wechsel** vom BCS zur Blue Card ist möglich.
+Wer eine nationale Erlaubnis für hochqualifizierte Beschäftigung hat, kann eine Blue Card beantragen, wenn die Zulassungskriterien erfüllt sind. Das ist ein Antrag für den neuen Weg und keine automatische Umwandlung.
 
 ### Warum wechseln
 
 - Die **Blue Card** ist ein europäischer Standard
-- Leichterer **Umzug in ein anderes EU-Land**
-- Nicht an ein bestimmtes **BCS-Unternehmen** gebunden
+- Bedingte Mobilität in einen teilnehmenden Mitgliedstaat
+- Die Berechtigung hängt von der Stelle und den Zulassungskriterien ab. Sie ist kein Versprechen auf uneingeschränkte Arbeit bei jeder Firma
 
 ### Wann wechseln
 
-Es gibt keine formalen Einschränkungen bezüglich der Dauer des BCS-Status, aber:
+Das nationale Recht sieht Anträge von Inhabern nationaler Erlaubnisse für hochqualifizierte Beschäftigung vor.
 
-- In Erfahrungsberichten wird ein Wechsel **nach 3 Jahren** BCS erwähnt
-- Die Frage der Auswirkung auf die LTRP-Anrechnung sollte geklärt werden
+Beantragen Sie die Blue Card, wenn die gesetzlichen Voraussetzungen und Dokumentenanforderungen erfüllt sind.
+Prüfen Sie die Regeln zum langfristigen Aufenthalt, bevor Sie annehmen, dass ein bestimmter Zeitraum angerechnet wird.
 
 ## Wie lange dauert die Bearbeitung?
 
-Aus der Praxis:
+Die Entscheidungsfristen laufen ab einem vollständigen Antrag:
 
-- Offizielle Frist: **2–3 Monate**
-- In der Praxis: von **4–5 Wochen** bis **mehrere Monate**
-- Abhängig von der Auslastung und der Qualität der Dokumente
+- Gewöhnlicher Antrag: **innerhalb von 90 Tagen**
+- Antrag auf Mobilität für langfristig Aufenthaltsberechtigte: **innerhalb von 30 Tagen**
+- Fehlende Angaben oder Unterlagen verlängern oder unterbrechen die jeweilige Frist. Wartezeit auf einen Termin und Lieferung der Karte sind getrennt zu sehen
 
-## Welche Rolle spielt das Labour Department?
+## Welche Rolle spielt die Arbeitsabteilung?
 
-Für bestimmte Positionen ist eine **Genehmigung des Labour Department** erforderlich:
+Die Zulassungsregeln verlangen, dass die Arbeitsabteilung (Labour Department) die Stelle und die Qualifikationsnachweise prüft.
 
-- Meist für Positionen, für die **lokale Kandidaten** vorhanden sind
-- Für IT und Tech — oft **nicht erforderlich**
-- Klären Sie dies mit dem Arbeitgeber oder Anwalt
+- Halten Sie sich an die geltenden gesetzlichen Verfahren und die Verfahren Ihres Arbeitgebers
+- Gehen Sie nicht davon aus, dass eine IKT-Stelle automatisch von der erforderlichen Prüfung ausgenommen ist
 
-## Wie funktioniert die biometrische Registrierung?
+## Wie funktionieren biometrische Daten und Registrierung?
 
-Nach der Genehmigung:
+Für Antragsteller, die auf dem gewöhnlichen Einreiseweg kommen:
 
-1. **Einreise nach Zypern** (falls von außerhalb beantragt)
-2. **Registrierung bei der Migrationsbehörde** innerhalb von 7 Tagen
-3. **Abgabe biometrischer Daten**
-4. **Erhalt der Blue Card**
+1. Einreise mit dem erforderlichen Visum oder der Einreisegenehmigung
+2. Innerhalb von **7 Tagen** Eintragung im Ausländerregister und Einreichen des Aufenthaltsantrags oder der zusätzlich nach einer Einreisegenehmigung geforderten Angaben
+3. Biometrische Daten und Unterschrift bei der Antragstellung oder kurz danach, wie angewiesen
+4. Bei Genehmigung: den Hinweisen zur Abholung der Karte folgen
 
-## Was gilt für Familienangehörige?
+## Was müssen Familien wissen?
 
-Familienmitglieder können eine **abhängige Aufenthaltserlaubnis** erhalten:
+Familiennachzug ist unter den gesetzlichen Voraussetzungen und mit den nötigen Nachweisen möglich. Die Blue-Card-Regeln verzichten auf einen Mindestzeitraum des vorherigen Aufenthalts des Antragstellers.
 
-- Ehepartner
-- Kinder unter 18 Jahren
-- Verfahren analog zum BCS
+- Ehepartner müssen in der Regel mindestens 21 Jahre alt sein und die Ehe mindestens ein Jahr bestehen. Fragen Sie nach der Alternative des Besuchsvisums für Angehörige, wenn die Voraussetzungen für den Familiennachzug vorübergehend nicht erfüllt sind
+- Berechtigte unverheiratete Kinder unter 18 Jahren, vorbehaltlich Sorgerecht und Unterhalt. Kinder von 15 bis 18 Jahren dürfen nicht selbstständig leben. Das nationale Recht sieht für sie einen Aufenthalt aus anderen Gründen statt über den Familiennachzug vor.
+- Qualifizierte Familienerlaubnisse können so lange gelten wie die Blue Card, vorbehaltlich der Gültigkeit des Reisedokuments
 
-## Was ist besser: Blue Card oder BCS?
+## Wie schneidet die Blue Card im Vergleich zum BCS ab?
 
 | Aspekt | BCS | Blue Card |
 |--------|-----|-----------|
-| Anerkennung in der EU | Nur Zypern | Alle EU-Länder |
-| Umzug in die EU | Neubeantragung nötig | Vereinfacht |
-| Arbeitgeberwechsel | Schwieriger | Einfacher |
-| Anforderungen an das Unternehmen | BCS-Registrierung | Beliebiges Unternehmen |
-| Weg zur Staatsbürgerschaft | Fast-Track 4–5 Jahre | Reguläre Einbürgerung |
+| Anerkennung in der EU | Nationale Erlaubnis Zyperns | 25 teilnehmende Mitgliedstaaten; es gelten Mobilitätsbedingungen |
+| Umzug in die EU | Die nationale Erlaubnis gibt keine Blue-Card-Mobilitätsrechte | Bedingte Mobilität nach den Blue-Card-Regeln |
+| Arbeitgeberwechsel | Es gelten die Bedingungen der nationalen Erlaubnis | Wechsel beantragen; Aussetzung in den ersten 12 Monaten |
+| Anforderungen an das Unternehmen | Das jeweilige nationale System prüfen | Zugelassener Sektor und gesetzliche Voraussetzungen |
+| Weg zur Staatsbürgerschaft | Arbeitgeber und Antragsteller bestimmen den Weg | Ein berechtigter Arbeitgeber der Strategie kann den Weg für Hochqualifizierte ermöglichen |
 
 ### Wichtiger Hinweis
 
-Der **Fast-Track zur Staatsbürgerschaft** (4–5 Jahre) gilt nur für **BCS**. Mit der Blue Card erfolgt die reguläre Einbürgerung (7–8 Jahre).
+**Allein die Art der Aufenthaltserlaubnis bestimmt den Einbürgerungsweg nicht.** Die offiziellen Blue-Card-FAQ bestätigen, dass Inhaber, die für einen Arbeitgeber der Strategie zur Anwerbung von Unternehmen arbeiten, von den Regeln für Hochqualifizierte profitieren können, vorbehaltlich aller Einbürgerungsvoraussetzungen.
 
 ## Welche praktischen Tipps gibt es?
 
-1. **Sammeln Sie Dokumente im Voraus** — besonders Diplome und Arbeitszeugnisse
-2. **Apostillieren Sie Bildungsnachweise** — im Ausstellungsland
-3. **Besorgen Sie Sozialversicherungsauszüge** für alle Jahre — die werden benötigt
-4. **Gehen Sie ohne Anwalt** — wenn Sie sparen möchten (300–500 €)
-5. **Bereiten Sie sich auf Wartezeiten vor** — in der Migrationsbehörde Nikosia dauert es lang
-6. **Verlängerung frühzeitig einleiten** — Unterlagen 2 Monate vor Ablauf des Status einreichen. Ein abgelaufener Status verkompliziert das Verfahren erheblich
-7. **Online-Termine buchen** — Terminvereinbarung über [Ariadne Portal](https://eforms.eservices.cypress.gov.cy/) spart 2–3 Stunden Wartezeit
-8. **Dokumentenmappe führen** — alle Anträge, Quittungen und Korrespondenz in einem Ordner aufbewahren. Bei Nachforderungen sparen Sie Zeit
-9. **Anforderungen vorab prüfen** — die Dokumentenliste kann je nach Antragstyp variieren. Vorab anrufen oder auf [gov.cy](https://www.gov.cy/) prüfen
+1. **Sammeln Sie Dokumente früh** — besonders Abschlüsse und Arbeitszeugnisse
+2. **Klären Sie die Beglaubigungsanforderungen** — nutzen Sie die offizielle Checkliste, bevor Sie eine Legalisierung veranlassen
+3. **Prüfen Sie bedingte Unterlagen** — nutzen Sie die aktuelle Checkliste für Ihren Antragsweg
+4. **Vergleichen Sie Angebote**, bevor Sie entscheiden, ob Sie einen Vertreter beauftragen
+5. **Prüfen Sie die Terminhinweise**, bevor Sie nach Nikosia reisen
 
 ## Was sollte ich noch lesen?
 
 - [Aufenthaltserlaubnis](/de/immigration/residence-permit-cyprus-guide/)
 - [Visum wechseln](/de/immigration/switching-visa-types-cyprus/)
-- [Digital Nomad Visum](/de/immigration/digital-nomad-visum-zypern/) — Alternative für Remote-Arbeiter (kein lokaler Arbeitgeber noetig)
-- [Besuchererlaubnis](/de/immigration/visitor-permit-cyprus/) — Option für Personen mit passivem Einkommen
-- [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/) — Blue Card: regulaere Einbürgerung (7 Jahre)
-- [Griechisch-Pruefung](/de/immigration/greek-language-exam-citizenship/) — erforderlich für die Einbürgerung
+- [Digital Nomad Visum](/de/immigration/digital-nomad-visum-zypern/)
+- [Besuchererlaubnis](/de/immigration/visitor-permit-cyprus/)
+- [Staatsbürgerschaft](/de/immigration/cyprus-citizenship-naturalization/)
+- [Griechisch-Prüfung](/de/immigration/greek-language-exam-citizenship/)
 
 ---
 
-Die Blue Card ist eine gute Option für alle, die Mobilität in der EU planen. Für diejenigen, die **schneller die zyprische Staatsbürgerschaft** erhalten möchten, bleibt BCS die vorteilhaftere Wahl.
+Wählen Sie den Aufenthaltsweg nach Berechtigung und Mobilitätsbedingungen. Klären Sie den Status des Arbeitgebers und die vollständigen Einbürgerungsvoraussetzungen, bevor Sie annehmen, dass eine Erlaubnis schneller zur Staatsbürgerschaft führt.
 
 ---
 
 ## Quellen
 
-- [EU Blue Card Announcement](https://www.gov.cy/mip-md/en/) — gov.cy
+- [Cyprus Blue Card FAQ](https://www.gov.cy/mip-md/en/documents/eu-blue-card/)
+- [EU Blue Card: Europäische Kommission](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/eu-blue-card_en)
+- [Richtlinie (EU) 2021/1883](https://eur-lex.europa.eu/eli/dir/2021/1883/oj/eng)
+- [Cyprus Blue Card application procedure](https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/eu-blue-card-investors/)
+- [Cyprus Blue Card launch](https://www.gov.cy/en/migration/press-release-by-the-deputy-ministry-of-migration-and-international-protection-on-the-eu-blue-card/)
+- [National Aliens and Immigration Law, Cap. 105](https://cylaw.org/nomoi/enop/non-ind/0_105/full.html)

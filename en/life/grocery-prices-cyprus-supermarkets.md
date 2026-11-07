@@ -1,6 +1,6 @@
 ---
 slug: "grocery-prices-cyprus-supermarkets"
-title: "Grocery Prices in Cyprus 2026: Supermarket"
+title: "Grocery Prices in Cyprus 2026: Supermarket Guide"
 description: "Grocery shopping in Cyprus: official price comparisons, Lidl’s dated store count, Larnaca market, Alphamega delivery conditions and kosher food sources."
 date: 2026-04-09
 updated: 2026-10-03

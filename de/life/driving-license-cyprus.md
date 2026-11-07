@@ -1,9 +1,9 @@
 ---
 slug: "driving-license-cyprus"
-title: "Führerschein auf Zypern: Umtausch & Prüfung"
-description: "Führerschein auf Zypern umtauschen oder neu erwerben: Fahrschule, Prüfung, Fristen, Dokumente. Tipps für deutsche Auswanderer."
+title: "Führerschein auf Zypern: Umtausch und Prüfungen"
+description: "Führerschein auf Zypern umtauschen: welche Länder gelten, RTD-Unterlagen, Wohnsitznachweis sowie Lernführerschein und erster Führerschein. Regeln für EU und UK."
 date: 2026-01-24
-updated: 2026-03-11
+updated: 2026-11-07
 category: "Leben"
 author: "Expats Cyprus"
 tags:
@@ -14,180 +14,114 @@ tags:
   - Leitfaden
 draft: false
 translationKey: "voditelskie-prava-kipr-obmen-poluchenie"
+howtoSchema:
+  name: "So bereiten Sie den Umtausch eines ausländischen Führerscheins auf Zypern vor"
+  description: "Prüfen Sie, ob das Ausstellungsland infrage kommt, und den Wohnsitznachweis, und stellen Sie dann die Unterlagen für das Road Transport Department zusammen."
+  steps:
+    - name: "Führerschein und Wohnsitzvoraussetzungen prüfen"
+      text: "Prüfen Sie, ob das Ausstellungsland für den Umtausch infrage kommt, und lassen Sie sich vom Road Transport Department bestätigen, welcher Wohnsitznachweis und welche Fristen gelten."
+    - name: "Umtauschunterlagen zusammenstellen"
+      text: "Der RTD-Umtauschleitfaden nennt TOM 7D, ein aktuelles Foto 45 × 35 mm, das jeweilige Ausweisdokument oder die Ausländerregistrierung, Reisepass, ausländischen Führerschein und die nötigen Kopien. Übersetzung und ärztliches Attest hängen vom Einzelfall ab."
+    - name: "Persönlich beantragen und Fahrberechtigung klären"
+      text: "Der Leitfaden verweist Antragsteller persönlich an die Büros der District Driver Examiners. Fragen Sie, was Sie während der Bearbeitung legal fahren dürfen und wann Sie den Führerschein abholen können. Der abgegebene ausländische Führerschein wird an die ausstellende Behörde geschickt."
 faqSchema:
-  - question: "Muss ich meinen deutschen Führerschein auf Zypern umtauschen?"
-    answer: "Nein. Als EU-Bürger ist Ihr deutscher Führerschein auf Zypern unbegrenzt gültig (EU-Richtlinie 2006/126/EG). Ein Umtausch ist nicht verpflichtend, wird aber bei dauerhaftem Aufenthalt empfohlen — z.B. für einfachere Kommunikation bei Verkehrskontrollen und Behördengänge."
-  - question: "Fährt man auf Zypern links oder rechts?"
-    answer: "Auf Zypern herrscht Linksverkehr — das Lenkrad ist rechts. Die Umgewöhnung dauert erfahrungsgemäß 1–2 Wochen. Besondere Vorsicht an Kreisverkehren (im Uhrzeigersinn) und beim Überholen. Mietwagen haben das Lenkrad rechts."
-  - question: "Brauche ich auf Zypern ein Auto?"
-    answer: "Ja, praktisch unentbehrlich. Der öffentliche Nahverkehr ist sehr begrenzt — Busse fahren selten und nur zwischen Städten zuverlässig. Innerhalb von Städten wie Paphos oder Larnaka ist ein Auto für Einkäufe, Arztbesuche und Ausflüge fast unverzichtbar."
+  - question: "Müssen alle Inhaber von Nicht-EU-Führerscheinen Prüfungen ablegen?"
+    answer: "Nein. Der RTD-Umtauschleitfaden gilt für Führerscheine aus EU-Ländern und aus Ländern, die der Registrar als gleichwertig anerkennt. GOV.UK bestätigt, dass britische Führerscheine ohne Prüfung umgetauscht werden können. Klären Sie Ausstellungsland und Ihren Führerschein mit der RTD."
+  - question: "Kann ich meinen ausländischen Führerschein nach dem Umtausch behalten?"
+    answer: "Nein. Laut RTD-Umtauschleitfaden wird der abgegebene ausländische Führerschein an die ausstellende Behörde geschickt."
+  - question: "Wann sollte ein Einwohner aus Großbritannien den Umtausch planen?"
+    answer: "GOV.UK sagt, britische Führerscheine gelten auf Zypern bis zu sechs Monate, und rät, den Umtausch vor Ablauf dieser Frist zu beantragen. Der RTD-Leitfaden verlangt davon getrennt mindestens 185 Tage Wohnsitz für ausländische Antragsteller. Wenden Sie sich früh an die RTD, um Nachweise und Fristen zu klären; ein Internationaler Führerschein ersetzt den Umtausch nicht."
 ---
-> **Kurzantwort:** EU-Fuehrerscheine gelten auf Zypern unbegrenzt. Nicht-EU-Bürger muessen innerhalb von 6 Monaten umschreiben. Achtung: Linksverkehr.
+> **Kurzantwort:** Entscheidend ist das Land, das Ihren Führerschein ausgestellt hat, nicht Ihre Staatsangehörigkeit. Der RTD-Umtauschleitfaden gilt für EU-Führerscheine und Führerscheine aus Ländern, die als gleichwertig anerkannt sind. Für britische Führerscheine bestätigt GOV.UK den Umtausch ohne Prüfung. Klären Sie vor dem Antrag Wohnsitznachweis und Fahrberechtigung mit der RTD.
 
-Autofahren auf Zypern ist praktisch eine Notwendigkeit, besonders außerhalb der großen Städte. **Achtung: Linksverkehr!** In Zypern fährt man auf der linken Straßenseite — das Lenkrad ist rechts. Die Umgewöhnung dauert erfahrungsgemäß 1–2 Wochen.
+Zu laufenden Autokosten: [Lebenshaltungskosten-Leitfaden](/de/life/lebenshaltungskosten-zypern-leitfaden/).
 
-> **Für Deutsche/Österreicher/Schweizer:** Als EU-Bürger ist Ihr deutscher Führerschein auf Zypern unbegrenzt gültig (EU-Richtlinie 2006/126/EG). Ein Umtausch ist **nicht verpflichtend**, wird aber bei dauerhaftem Aufenthalt empfohlen — z. B. für einfachere Kommunikation mit Behörden und bei Verkehrskontrollen. Für die laufenden Autokosten: [Lebenshaltungskosten-Leitfaden](/de/life/lebenshaltungskosten-zypern-leitfaden/).
+## Wie tausche ich einen ausländischen Führerschein um?
 
-> **Offizielle Quellen:**
-> - [Road Transport Department](https://www.mcw.gov.cy/mcw/RTD/rtd.nsf/) — Straßenverkehrsamt
-> - [RTD Online Services](https://rtd.mcw.gov.cy/) — Online-Dienste (Führerscheinprüfung, Versicherung)
+Der [RTD-Umtauschleitfaden](https://www.mcw.gov.cy/mcw/RTD/rtd.nsf/All/4BDCB741D9609ABFC225782400350797) gilt für Führerscheine aus einem EU-Land oder einem Land, das der Registrar als gleichwertig anerkennt. Lassen Sie sich von der RTD bestätigen, ob Ausstellungsland, Klasse und Ihre Umstände infrage kommen.
 
-## Wie tausche ich meinen Führerschein um?
+Bei einem gültigen EU-Führerschein sagt [Your Europe](https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-exchange-recognition/index_en.htm), dass beim Umzug in ein anderes EU-Land ein Umtausch in der Regel nicht nötig ist; ein freiwilliger Umtausch ist unter den jeweiligen Bedingungen möglich. Sie dürfen jeweils nur einen EU-Führerschein besitzen.
 
-### Kann man ohne Prüfung umtauschen?
+### Wohnsitzunterlagen und Nachweise
 
-Ja, Bürger vieler Länder können ihren **ausländischen Führerschein gegen einen zypriotischen** umtauschen, ohne Prüfungen abzulegen.
+Der RTD-Umtauschleitfaden verlangt von ausländischen Antragstellern mindestens **185 Tage** Wohnsitz auf Zypern. Die Studentenregelung verlangt eine Bescheinigung der Hochschule über mindestens **sechs Monate** Studium.
 
-### Voraussetzungen
+Das verlinkte [RTD-Rundschreiben 09/2021 vom 12. Mai 2021](https://www.mcw.gov.cy/mcw/rtd/rtd.nsf/0/05e25a22a835d675c22586c40018b34a/$FILE/%CE%95%CE%B3%CE%BA.9.pdf) verlangt das **Original des jeweils geltenden Wohnsitzdokuments**, das die antragstellende Person vorlegt. Es nennt je nach Fall Dokumente wie Aufenthaltstitel, MEU1, MEU2, MEU3 oder CAP 105. Klären Sie, welches Dokument für Ihren Status gilt.
 
-- Gültige **Aufenthaltsgenehmigung** (Plastikkarte)
-- Gültiger **ausländischer Führerschein**
-- **Wohnsitz auf Zypern** seit einer bestimmten Zeit
+Das Rundschreiben beschreibt außerdem, dass bei jedem Vorgang sechs Monate Wohnsitz im vorangegangenen Jahr geprüft werden. Die Beamten können über Nebenkostenrechnungen und Sozialversicherungsbeiträge hinaus weitere Nachweise berücksichtigen. Die Beispiele umfassen Kontobewegungen, Telefonrechnungen und Ausbildungsnachweise, bewertet nach den Umständen der antragstellenden Person. Fragen Sie die RTD, welche Kombination sie von Ihnen braucht.
 
-### Mit Empfangsbestätigung möglich?
+### Unterlagen für den Umtausch
 
-Nach Erfahrungsberichten ist der Umtausch mit einer **Empfangsbestätigung (ohne Plastikkarte)** schwierig. Warten Sie besser auf die Plastik-Aufenthaltsgenehmigung.
+Der RTD-Umtauschleitfaden nennt:
 
-### Dokumente für den Umtausch
+- Antragsformular **TOM 7D**.
+- **Ein aktuelles Foto 45 × 35 mm**.
+- Das jeweilige Ausweisdokument für Rückkehrer oder die Ausländerregistrierung für ausländische Antragsteller, Original und Kopie.
+- Reisepass im Original und Kopie der ersten Seite.
+- Ausländischer Führerschein im Original und Kopien aller Seiten.
+- Übersetzung, wenn der Führerschein nicht auf Griechisch oder Englisch ist; das akzeptierte Übersetzungsformat klären Sie mit der RTD.
+- Ärztliches Attest für Antragsteller **ab 70 Jahren** oder für die Klassen **C, C+E, D, D+E, C1, C1+E, D1 und D1+E**.
 
-- Antrag
-- Passkopie
-- Kopie der Aufenthaltsgenehmigung
-- Ausländischer Führerschein (Original)
-- Passfotos
-- Ärztliche Bescheinigung (bei Bedarf)
+Der Leitfaden verweist Antragsteller **persönlich an die Büros der District Driver Examiners** zur Prüfung und Genehmigung. Der abgegebene ausländische Führerschein wird **an die ausstellende Behörde geschickt**.
 
-### Bearbeitungszeit
+Fragen Sie im Büro nach aktuellen Gebühren, Bearbeitungszeit, Abholung und danach, welches Dokument das Fahren während der Bearbeitung erlaubt. Klären Sie das, bevor Sie Ihren Führerschein abgeben.
 
-Erfahrungswerte:
+## Welche Regeln gelten für britische Führerscheine?
 
-- Offiziell wird **ca. 2 Wochen** angegeben
-- In der Praxis — kann **bis zu 6 Monate** dauern
-- Hängt vom Amt und der Auslastung ab
+Die [Hinweise von GOV.UK zum Leben auf Zypern](https://www.gov.uk/guidance/living-in-cyprus#driving-in-cyprus) sagen, dass in Großbritannien, Gibraltar, Jersey, Guernsey oder auf der Isle of Man ausgestellte Führerscheine auf Zypern **bis zu sechs Monate** genutzt werden können.
 
-### Vorläufiger Führerschein
+Für einen **in Großbritannien ausgestellten Führerschein** bestätigen die [britischen Umtauschhinweise](https://www.gov.uk/guidance/driving-in-the-eu-uk-licence-holders-living-in-the-eu#cyprus) den Umtausch ohne Prüfung. Die Seite zum Leben auf Zypern rät, den Antrag **vor Ablauf der sechs Monate** zu stellen: Die Bearbeitung braucht Zeit, und danach ist ein zyprischer Führerschein nötig, um legal zu fahren. Ein Internationaler Führerschein ersetzt diesen Umtausch nicht.
 
-Bei der Antragstellung erhalten Sie einen **vorläufigen Führerschein** (Papierdokument):
+Dieser britische Hinweis und die **185-Tage-Wohnsitzanforderung der RTD** sind getrennte veröffentlichte Anweisungen. Wenden Sie sich früh an die RTD, um Nachweise, Antragszeitpunkt und eine eventuelle Zeit ohne Fahrerlaubnis zu klären.
 
-- Gültig **30 Tage**
-- Berechtigt zum Fahren, während Sie auf die Plastikkarte warten
+GOV.UK verlangt außerdem einen **DVLA-Prüfcode** für Führerscheine aus England, Wales oder Schottland oder einen **DVA-Prüfcode** für nordirische Führerscheine sowie den Besuch eines Bezirksbüros der RTD.
 
-## Wie mache ich den Führerschein auf Zypern?
+Die aktuelle Seite zum Leben auf Zypern unterscheidet die **Führerscheine aus Gibraltar, Jersey, Guernsey und von der Isle of Man**: Sie können demnach nicht umgetauscht werden, die Inhaber müssen einen zyprischen Führerschein beantragen und eine Prüfung ablegen.
 
-### Fahrschule
+## Wie bekomme ich einen ersten zyprischen Führerschein?
 
-Wenn Sie keinen Führerschein haben oder eine neue Klasse benötigen:
+Nutzen Sie die Antragsleitfäden der RTD. Lassen Sie sich im Büro oder von Ihrem Fahrlehrer die Ausbildung für Ihre Klasse, die Prüfungsbuchung, Sprachoptionen und aktuelle Gebühren bestätigen, bevor Sie einen Kurs bezahlen.
 
-1. **In einer Fahrschule anmelden**
-2. **Theoretische Prüfung** ablegen
-3. **Lernführerschein** erhalten
-4. **Fahrstunden** absolvieren
-5. **Praktische Prüfung** ablegen
+### Lernführerschein
 
-### Theoretische Prüfung
+Der [RTD-Leitfaden zum Lernführerschein](https://www.mcw.gov.cy/mcw/RTD/rtd.nsf/All/FC83FE60D98AB629C225781C00298CCC?OpenDocument) erlaubt Anträge persönlich oder über einen Bevollmächtigten bei den Bezirksbüros der RTD, den Citizen Service Centres oder den Citizen Service Centres der Postdienste. Er nennt:
 
-- Wird über die Fahrschule abgelegt
-- Nach Bestehen **registriert Sie der Fahrlehrer im System**
-- Sie erhalten den **Lernführerschein**
+- TOM 7D.
+- **Zwei aktuelle Fotos 45 × 35 mm**.
+- Personalausweis.
+- Bescheinigung über die bestandene Vorprüfung.
+- Nachweis des gewöhnlichen Wohnsitzes.
+- Gesundheitszeugnis für Antragsteller **ab 70 Jahren** oder mit körperlicher Behinderung.
 
-### Probleme mit Fahrlehrern
+Für die Klassen **B, B1, A1 und B+E** beträgt das veröffentlichte Mindestalter für den Lernführerschein **17½ Jahre**. Der Lernführerschein gilt **ein Jahr** und kann verlängert werden.
 
-Erfahrungsberichte:
+### Erster regulärer Führerschein
 
-- Manche Fahrlehrer **geben den Lernführerschein nicht heraus**, wenn man die Schule wechselt
-- Weigern sich, die **Prüfungsanmeldung im System zu löschen**
-- Verlangen, dass man weiterhin bei ihnen lernt
+Der [RTD-Leitfaden zum regulären Führerschein](https://www.mcw.gov.cy/mcw/RTD/rtd.nsf/All/0E7D7AAC6B7610ACC225781C0029D44B?OpenDocument) verweist Erstanträge persönlich oder über einen Bevollmächtigten an die Bezirksbüros der RTD. Er nennt TOM 7D, **ein aktuelles Foto 45 × 35 mm**, Personalausweis, die Bescheinigung über die bestandene Prüfung und den Nachweis des gewöhnlichen Wohnsitzes. Ein vorhandener gültiger Führerschein muss gegebenenfalls beigefügt werden.
 
-**Was tun:**
-- Einen neuen Lernführerschein kann man **neu beantragen**
-- Die Prüfungsanmeldung kann über das **persönliche Konto** storniert werden
-- Wenn nichts hilft — bei der **Polizei** melden
+Die Regeln zum ärztlichen Attest umfassen die aufgeführten schweren und speziellen Klassen, die gewerbliche Personenbeförderung mit Klasse B, Antragsteller **ab 70 Jahren** und Antragsteller mit körperlicher Behinderung. Klären Sie die Anforderungen für Ihre Klasse mit der RTD.
 
-### Praktische Prüfung
+Bevor Sie einen Fahrlehrer wählen, lassen Sie sich Stundenpreise, Prüfungsbuchung, Stornobedingungen und die Verwahrung Ihrer Unterlagen schriftlich geben. Bewahren Sie Kopien auf und fragen Sie die RTD nach dem richtigen Verfahren, wenn Sie den Fahrlehrer wechseln.
 
-- Bestimmte Anzahl an Fahrstunden erforderlich
-- Prüfung wird mit einem **Prüfer** abgelegt
-- Bei Nichtbestehen — Wiederholung möglich
+## Kann ich einen zyprischen Führerschein anderswo nutzen?
 
-## Brauche ich einen internationalen Führerschein?
+Your Europe unterscheidet einen regulären EU-Führerschein von einem EU-Führerschein, der **im Austausch gegen einen Nicht-EU-Führerschein ausgestellt** wurde. Ziehen Sie mit Letzterem in ein anderes EU-Land, wird er dort **möglicherweise nicht anerkannt**; fragen Sie vor dem Umzug die Führerscheinbehörde dieses Landes.
 
-### Zypriotischer Führerschein und Wiener Übereinkommen
+Vorläufige und befristete Führerscheine sowie Internationale Führerscheine sind auf EU-Ebene nicht geregelt und werden in einem anderen EU-Land möglicherweise nicht anerkannt. Prüfen Sie die Regeln des Ziellands und die Anforderungen des Vermieters, bevor Sie ein Fahrzeug buchen.
 
-**Wichtig:** Zypern ist **kein Mitglied des Wiener Übereinkommens** über den Straßenverkehr.
+## Häufig gestellte Fragen
 
-Das bedeutet:
+### Müssen alle Inhaber von Nicht-EU-Führerscheinen Prüfungen ablegen?
 
-- Zypriotische Führerscheine werden **nicht überall** akzeptiert
-- In manchen Ländern kann ein **internationaler Führerschein** oder ein **lokaler** verlangt werden
-- Bei Mietwagen im Ausland — vorher nachfragen
+Nein. Der RTD-Umtauschleitfaden gilt für Führerscheine aus EU-Ländern und aus Ländern, die der Registrar als gleichwertig anerkennt. GOV.UK bestätigt, dass britische Führerscheine ohne Prüfung umgetauscht werden können. Klären Sie Ausstellungsland und Ihren Führerschein mit der RTD.
 
-### Wo möglicherweise nicht akzeptiert
+### Kann ich meinen ausländischen Führerschein nach dem Umtausch behalten?
 
-- Einige EU-Länder formell
-- Diverse Länder außerhalb Europas
-- Mietwagenfirmen mit strengen Regeln
+Nein. Laut RTD-Umtauschleitfaden wird der abgegebene ausländische Führerschein an die ausstellende Behörde geschickt.
 
-## Was ändert sich nach der Einbürgerung?
+### Wann sollte ein Einwohner aus Großbritannien den Umtausch planen?
 
-Bei der Einbürgerung müssen Sie den **Führerschein erneuern**:
-
-- Der alte Führerschein wurde auf die ARC-Nummer (Aufenthaltsgenehmigung) ausgestellt
-- Sie benötigen einen neuen auf die **Bürger-ID**
-- Verfahren über dasselbe Amt
-
-## Welche Bußgelder drohen bei Verstößen?
-
-### Strafpunktesystem
-
-Auf Zypern gibt es ein **Strafpunktesystem**:
-
-- Für Verstöße werden **Punkte** vergeben
-- Bei Erreichen einer bestimmten Anzahl — **Führerscheinentzug**
-
-### Übertragung eines Bußgelds auf einen anderen Fahrer
-
-Wenn das Fahrzeug auf eine Person zugelassen ist, aber jemand anderes gefahren ist:
-
-- Das Bußgeld kann auf den **tatsächlichen Fahrer** übertragen werden
-- Ein entsprechendes Verfahren existiert
-- Erfordert aber Zeit
-
-Erfahrungsbericht: „Bei uns kommen alle Bußgelder auf eine Person, egal wer gefahren ist. Bald ist das Punktelimit erreicht."
-
-## Wie funktioniert die Fahrzeugzulassung?
-
-### Beim Kauf
-
-- Ummeldung beim **Road Transport Department**
-- Fahrzeug- und Käuferdokumente erforderlich
-- Gebühren
-
-### Nach Einbürgerung
-
-Bei Erhalt der Staatsbürgerschaft müssen die **Fahrzeugpapiere erneuert** werden — sie waren auf die ARC-Nummer ausgestellt.
-
-## Brauche ich eine Versicherung für Nordzypern?
-
-Bei einer Reise in das **besetzte Gebiet** ist eine separate Versicherung erforderlich:
-
-- Wird **an der Grenze** abgeschlossen
-- **Reisepass** erforderlich (wird in die Versicherung eingetragen)
-- Fahrzeugpapiere (oder Foto des Nummernschilds mit Modellangabe)
-- **Führerschein**
-
-Es kann auch mit einem **fremden Fahrzeug** gefahren werden — die Versicherung wird trotzdem ausgestellt.
-
-## Welche praktischen Tipps gibt es?
-
-1. **Tauschen Sie Ihren Führerschein sofort um** — nach Erhalt der Plastik-Aufenthaltsgenehmigung
-2. **Wählen Sie die Fahrschule nach Empfehlungen** — das vermeidet Probleme
-3. **Bewahren Sie Ihren ausländischen Führerschein auf** — er bleibt nach dem Umtausch bei Ihnen
-4. **Achten Sie auf die Strafpunkte** — sie sammeln sich unbemerkt an
-5. **Prüfen Sie die Versicherung** — besonders bei Reisen nach Nordzypern
-
----
-
-Der Erwerb oder Umtausch eines Führerscheins auf Zypern ist ein relativ einfaches Verfahren, erfordert aber Geduld aufgrund der Bürokratie. Das Wichtigste: Tauschen Sie rechtzeitig um, solange Ihr ausländischer Führerschein noch gültig ist.
+GOV.UK sagt, britische Führerscheine gelten auf Zypern bis zu sechs Monate, und rät, den Umtausch vor Ablauf dieser Frist zu beantragen. Der RTD-Leitfaden verlangt davon getrennt mindestens 185 Tage Wohnsitz für ausländische Antragsteller. Wenden Sie sich früh an die RTD, um Nachweise und Fristen zu klären; ein Internationaler Führerschein ersetzt den Umtausch nicht.
 
 **Verwandte Artikel:**
 - [Kfz-Zulassung auf Zypern](/de/life/car-registration-cyprus/) — Fahrzeug anmelden oder ummelden
@@ -199,9 +133,11 @@ Der Erwerb oder Umtausch eines Führerscheins auf Zypern ist ein relativ einfach
 
 Haben Sie eine Frage? Stellen Sie sie in unserer Community: [Telegram](https://t.me/expatscy) | [Facebook](https://www.facebook.com/profile.php?id=61566972539330)
 
----
-
 ## Quellen
 
-- [Road Transport Department](https://www.mcw.gov.cy/mcw/RTD/rtd.nsf/) — gov.cy
-- [RTD Online Services](https://rtd.mcw.gov.cy/) — gov.cy
+- [RTD-Umtauschleitfaden](https://www.mcw.gov.cy/mcw/RTD/rtd.nsf/All/4BDCB741D9609ABFC225782400350797).
+- [RTD-Rundschreiben zum Wohnsitznachweis](https://www.mcw.gov.cy/mcw/rtd/rtd.nsf/0/05e25a22a835d675c22586c40018b34a/$FILE/%CE%95%CE%B3%CE%BA.9.pdf).
+- [RTD-Leitfaden zum Lernführerschein](https://www.mcw.gov.cy/mcw/RTD/rtd.nsf/All/FC83FE60D98AB629C225781C00298CCC?OpenDocument).
+- [RTD-Leitfaden zum regulären Führerschein](https://www.mcw.gov.cy/mcw/RTD/rtd.nsf/All/0E7D7AAC6B7610ACC225781C0029D44B?OpenDocument).
+- [GOV.UK: Leben auf Zypern](https://www.gov.uk/guidance/living-in-cyprus#driving-in-cyprus) und [Umtausch britischer Führerscheine](https://www.gov.uk/guidance/driving-in-the-eu-uk-licence-holders-living-in-the-eu#cyprus).
+- [Your Europe: Umtausch und Anerkennung von Führerscheinen](https://europa.eu/youreurope/citizens/vehicles/driving-licence/driving-licence-exchange-recognition/index_en.htm).

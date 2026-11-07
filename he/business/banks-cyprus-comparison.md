@@ -3,7 +3,7 @@ slug: "banks-cyprus-comparison"
 title: "בנקים בקפריסין: BoC, Eurobank ו-Alpha"
 description: "השוואה בין Bank of Cyprus, Eurobank ו-Alpha Bank Cyprus: מאפייני חשבון מתועדים, עמלות לפי מוצר, תנאי פתיחה והגנה על פיקדונות."
 date: 2026-01-24
-updated: 2026-10-21
+updated: 2026-11-07
 category: "עסקים"
 author: "Expats Cyprus"
 tags:
@@ -13,7 +13,7 @@ tags:
 draft: false
 faqSchema:
   - question: "אילו בנקים בקפריסין המדריך הזה משווה?"
-    answer: "המדריך משווה מידע שפורסם על ידי Bank of Cyprus, Eurobank Limited ו-Alpha Bank Cyprus. לפי השאלות והתשובות על האינטגרציה של Eurobank, המיזוג המשפטי הושלם בספטמבר 2025. עמוד AstroBank לשעבר של Alpha מתאר את מעבר מערכות ושירותי הלקוחות כנמצא בתהליך. בדקו את ההנחיות לחשבון הספציפי שלכם."
+    answer: "המדריך משווה מידע שפורסם על ידי Bank of Cyprus, Eurobank Limited ו-Alpha Bank Cyprus. לפי השאלות והתשובות על האינטגרציה של Eurobank, המיזוג המשפטי הושלם בספטמבר 2025. Alpha Bank הודיע ב-3 בנובמבר 2025 על השלמת רכישת הנכסים וההתחייבויות של AstroBank; עמוד AstroBank לשעבר של Alpha עוסק במעבר מערכות ושירותי הלקוחות. בדקו את ההנחיות לחשבון הספציפי שלכם."
   - question: "האם בנקים בקפריסין גובים עמלות חודשיות?"
     answer: "העמלות תלויות במוצר. ה-Basic Account של Eurobank מציין 2 אירו לחודש ועד 12 אירו לשנה קלנדרית עבור שירותים נוספים מוגדרים, עם תקרה יחסית לחשבונות שנפתחו במהלך השנה; שירותים אחרים עשויים להיות מחויבים ללא התקרה הזו. Bank of Cyprus מפרסם היעדר עמלות ניהול להצעת הפתיחה באפליקציה, עם חריגים ללקוחות בינלאומיים (International Customers). אף אחת מהדוגמאות אינה קובעת את העמלות לכל חשבון."
   - question: "האם יש בנקאות מקוונת בקפריסין?"
@@ -27,7 +27,7 @@ translationKey: "banki-kipr-otkrytie-scheta-boc-hellenic"
 
 [השאלות והתשובות על האינטגרציה](https://www.eurobank.com.cy/en-us/faq/integration/common-customers) של Eurobank מציינות כי **המיזוג המשפטי הושלם בספטמבר 2025**. עמודי החשבונות הנוכחיים משתמשים בשם **Eurobank Limited / Eurobank Ltd**. אזכורים ישנים של Hellenic או Eurobank Cyprus יש לבדוק מול ההנחיות של המוסד הנוכחי והחשבון הרלוונטי.
 
-[עמוד המידע על AstroBank לשעבר](https://www.alphabank.com.cy/en/astrobank) של Alpha Bank Cyprus מתאר את מעבר לקוחות AstroBank לשעבר למערכות ולשירותים של Alpha כ**נמצא בתהליך**, עם שינויים התלויים במוצר ופעולות אפשריות הנדרשות מהלקוח. עיינו בעמוד ובשאלות והתשובות המקושרות אליו עבור המוצרים שלכם.
+[עמוד המידע על AstroBank לשעבר](https://www.alphabank.com.cy/en/astrobank) של Alpha Bank Cyprus עוסק במעבר לקוחות AstroBank לשעבר למערכות ולשירותים של Alpha, עם שינויים התלויים במוצר ופעולות אפשריות הנדרשות מהלקוח. Alpha Bank [הודיע ב-3 בנובמבר 2025](https://www.alpha.gr/-/media/AlphaGr/Files/Group/Corporate-Announcements/2025/20251103-etairiki-anakoinosi-en.pdf) על השלמת רכישת כמעט כל הנכסים וההתחייבויות של AstroBank. עיינו בעמוד ובשאלות והתשובות המקושרות אליו לסטטוס העדכני עבור המוצרים שלכם (נבדק ב-2026-11-07).
 
 ## איך האפשרויות שפורסמו משתוות זו לזו?
 

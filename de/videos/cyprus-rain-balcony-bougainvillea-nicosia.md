@@ -1,6 +1,6 @@
 ---
 type: "videos"
-title: "Regengeräusche auf Zypern: Balkon mit Bougainvillea bei Nikosia"
+title: "Regengeräusche auf Zypern: Balkon mit Bougainvillea, Nikosia"
 description: "Natürlicher Regen auf einem Balkon bei Nikosia, Zypern: Bougainvillea, grauer Himmel und nasse Stadt. Ohne Musik, Gespräche oder schnelle Schnitte."
 slug: "cyprus-rain-balcony-bougainvillea-nicosia"
 date: 2026-05-23

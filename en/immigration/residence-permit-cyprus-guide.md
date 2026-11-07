@@ -3,7 +3,7 @@ slug: "residence-permit-cyprus-guide"
 title: "Residence Permits in Cyprus: Complete Guide"
 description: "Compare Cyprus residence routes: foreign-interest employment, visitor, family, investor and digital-nomad permits, documents, fees and travel conditions."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Immigration"
 author: "Expats Cyprus"
 tags:
@@ -152,7 +152,7 @@ Check the status of your application and the destination's requirements before b
 
 [Your Europe's guidance](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-family/index_en.htm) identifies Cyprus as a non-Schengen country and distinguishes ordinary residence permits from qualifying EU-family residence cards. Check visa requirements for your nationality and document. An ordinary Cyprus residence permit does not establish automatic Schengen visa exemption for everyone.
 
-For an application in Cyprus, use the [Schengen guide](/en/documents/schengen-visa-cyprus/). The [Commission's overview](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en) generally directs applicants to the consulate with territorial responsibility for their lawful residence and to the country of the main destination. A pending Cyprus card, a particular consulate or previous community success story does not guarantee acceptance or approval.
+For an application in Cyprus, use the [Schengen guide](/en/documents/schengen-visa-cyprus/). The [Commission's overview](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en) generally directs applicants to the consulate with territorial responsibility for their lawful residence and to the country of the main destination. A pending Cyprus card, a particular consulate or other applicants' past experience does not guarantee acceptance or approval.
 
 ## Renewal and Longer-Term Plans
 

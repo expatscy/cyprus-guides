@@ -20,29 +20,23 @@ faqSchema:
   - question: "What are the hidden costs of buying property in Cyprus?"
     answer: "Budget separately for applicable VAT or title-transfer fees, professional advice, utility setup, insurance, common-property contributions and currency conversion. Obtain property-specific bills and quotations. A reduced-VAT primary residence can incur proportional repayment if qualifying use ends within ten years; statutory exceptions apply."
   - question: "How much are common expenses in Cyprus apartments?"
-    answer: "Owners of units in jointly owned buildings contribute to necessary insurance, maintenance, repair and management expenses under Cap. 224 section 38ΙΑ. Obtain the current contribution certificate, budget and building regulations for the actual amount and payment schedule."
+    answer: "Owners of units in jointly owned buildings contribute to necessary insurance, maintenance, repair and management expenses under Cap. 224 section 38IA. Obtain the current contribution certificate, budget and building regulations for the actual amount and payment schedule."
   - question: "Is the 5% VAT rate on Cyprus property really 5%?"
-    answer: "Under the ordinary post2023 scheme, 5% applies to the first 130 m² and a reduced-rate value base up to EUR 350,000, subject to total limits 190 m² and EUR 475,000. Disability, large-family and transitional exceptions apply. For a 170 m² apartment at EUR 400,000, you would pay 5% on approximately EUR 268,000 and 19% on approximately EUR 132,000 — an effective rate of about 9.6%, not 5%."
+    answer: "Under the ordinary post-2023 scheme, 5% applies to the first 130 m² and a reduced-rate value base up to EUR 350,000, subject to total limits 190 m² and EUR 475,000. Disability, large-family and transitional exceptions apply. For a 170 m² apartment at EUR 400,000, you would pay 5% on approximately EUR 268,000 and 19% on approximately EUR 132,000 — an effective rate of about 9.6%, not 5%."
   - question: "What happens if I rent out a property I bought with 5% VAT in Cyprus?"
     answer: "If primary-residence use ends within ten years, notify and pay the proportional VAT saving within 30 days. Death and transfer to an eligible adult child are exceptions. Assuming the entire EUR 300,000 price had 5% VAT, after three years repayment is 14% × 7/10 = 9.8%, or EUR 29,400."
   - question: "Do I need to pay property tax in Cyprus?"
     answer: "National Immovable Property Tax was abolished from 1 January 2017. Local property, refuse and sewerage charges are separate: obtain current bills for your property."
 ---
 
-**Hypothetical calculations:** Professional fees, maintenance, utility setup, insurance and FX figures below are author-selected assumptions for arithmetic examples, not observed prices, verified market averages or binding tariffs. Obtain written quotes and actual property bills. Scenario totals use these assumptions; 5% VAT on the entire price assumes full eligibility.
 > **Short answer:** Purchase costs depend on VAT eligibility, transfer fees and property-specific quotations. The scenarios below are hypothetical calculations, not observed market averages. Stamp duty was repealed from 1 January 2026; documents signed by any party before that date retain the former rules.
+
+**Hypothetical calculations:** Professional fees, maintenance, utility setup, insurance and FX figures below are author-selected assumptions for arithmetic examples, not observed prices, verified market averages or binding tariffs. Obtain written quotes and actual property bills. Scenario totals use these assumptions; 5% VAT on the entire price assumes full eligibility.
 
 
 A listing price is only one input in a purchase budget. Add applicable taxes and your quoted transaction and recurring costs.
 
 If you are still early in your research, start with our [complete buying guide](/en/property/buying-property-cyprus-complete-guide-2026/). This guide separates statutory charges from illustrative budget inputs. The statutory rates are sourced below; other budget inputs need individual quotations.
-
-> **Sources:**
-> - [Department of Lands and Surveys (DLS)](https://portal.dls.moi.gov.cy/en/) — transfer fees, registration
-> - [Tax Department (Tax For All)](https://taxtools.mof.gov.cy) — VAT rates and calculator
-> - [DLS Transfer Fee Calculator](https://portal.dls.moi.gov.cy/en/alles-ypiresies/ergaleia/ypologismos-telon-metavivasis/)
-> - [EAC (Electricity Authority of Cyprus)](https://www.eac.com.cy/EN/customerservice/Pages/default.aspx) — connection fees
-> - [District Local Government Organizations](https://www.gov.cy/moi/en/about/directorate-of-local-government/section-of-district-self-government-organizations/) — current water and sewerage responsibilities
 
 ## What transfer fees apply to resale properties?
 
@@ -90,7 +84,7 @@ Special rules apply for qualifying disabled beneficiaries and families with at l
 
 **Scenario: 170 m² apartment at EUR 400,000**
 
-Assume an eligible primary-residence buyer and the ordinary post2023 scheme:
+Assume an eligible primary-residence buyer and the ordinary post-2023 scheme:
 
 - First 130 m² (approximately EUR 267,647.06 of value): 5% = **EUR 13,382.35**
 - Remaining taxable value (approximately EUR 132,352.94 of value): 19% = **EUR 25,147.06**
@@ -146,7 +140,7 @@ These figures are calculation inputs. Obtain a firm-specific quotation.
 
 ## What common expenses recur monthly?
 
-Under Cap. 224 section 38ΙΑ, owners of units in jointly owned buildings contribute to necessary insurance, maintenance, repair and management costs. Check the actual budget for items such as:
+Under Cap. 224 section 38IA, owners of units in jointly owned buildings contribute to necessary insurance, maintenance, repair and management costs. Check the actual budget for items such as:
 
 - Building insurance
 - Cleaning of common areas
@@ -169,9 +163,9 @@ Under Cap. 224 section 38ΙΑ, owners of units in jointly owned buildings contri
 
 **Annual impact, assuming an unchanged contribution:** A EUR 120/month common expense = EUR 1,440/year = EUR 14,400 over 10 years. On a EUR 250,000 apartment, that is 5.8% of the purchase price in maintenance alone.
 
-Section 38ΚΗ permits the management committee to set contributions and payment arrangements for the statutory purposes. Ask for the building regulations, budget, meeting decisions and contribution certificate; do not assume today's bill fixes future contributions.
+Section 38KH permits the management committee to set contributions and payment arrangements for the statutory purposes. Ask for the building regulations, budget, meeting decisions and contribution certificate; do not assume today's bill fixes future contributions.
 
-**Reserve planning:** Check whether the building has a repair reserve and how future works will be funded. Section 38ΚΗ allows a management fund and owner contributions; this guide does not establish a typical reserve or repair levy.
+**Reserve planning:** Check whether the building has a repair reserve and how future works will be funded. Section 38KH allows a management fund and owner contributions; this guide does not establish a typical reserve or repair levy.
 
 ## What are the utility connection fees?
 
@@ -298,7 +292,7 @@ These three hypothetical calculations share explicit budget assumptions; they ar
 | **Year 1 total** | **EUR 366,624** |
 | **Premium over listing price** | **22.2%** |
 
-The difference between the best case (5.9%) and worst case (22.2%) is **EUR 48,800** on the same listing price. This is why understanding the full cost structure matters.
+The difference between the lowest-cost scenario B (5.9%) and the highest-cost scenario C (22.2%) is **EUR 48,800** on the same listing price. This is why understanding the full cost structure matters.
 
 ## How do I protect myself?
 
@@ -325,11 +319,10 @@ The difference between the best case (5.9%) and worst case (22.2%) is **EUR 48,8
 - [DLS Transfer Fee Calculator](https://portal.dls.moi.gov.cy/en/alles-ypiresies/ergaleia/ypologismos-telon-metavivasis/) — gov.cy
 - [Tax For All VAT calculator](https://www.gov.cy/mof-tfa/en/documents/vat-5-calculation-tool-for-the-purchase-building-of-a-house/) — gov.cy
 - [Tax Department — transitional declarations, 4 May 2026](https://www.gov.cy/oikonomia/exetasi-ypefthynon-diloseon-gia-tin-epivoli-meiomenou-syntelesti-fpa-5-gia-tin-agora-i-anegersi-katoikias-apo-ton-eforo-forologias-mechri-31-dekemvriou-2026/) — official guidance; read with VAT Act section 63.
-
 - [Tax Department Circular 11/2023, Annex pp.7–8](https://ccci.org.cy/wp-content/uploads/2023/11/Circular-Imposition-of-a-Reduced-Vat-Rate.pdf) — Tax Department circular, copy hosted by CCCI; reduced base: (130/170) × EUR 350,000 = EUR 267,647.06; remainder: EUR 132,352.94.
-
-- [VAT Act, Schedule5TableC](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html) — CyLaw
+- [VAT Act, Fifth Schedule, Table C](https://www.cylaw.org/nomoi/enop/non-ind/2000_1_95/full.html) — CyLaw
 - [Mortgage product requirements](https://www.bankofcyprus.com/en-gb/Personal/loans/Housing/) — Bank of Cyprus
 - [FX pricing and live quotation](https://wise.com/cy/pricing/send-money) — Wise
-
-- [Jointly owned property, Cap. 224 Part IIA](https://www.cylaw.org/nomoi/enop/non-ind/0_224/division-ddd22b2718-a81a-7c43-7dd5-d3e0b1ec728e.html) — sections 38ΙΑ and 38ΚΗ: necessary expenses, funds and contributions.
+- [EAC (Electricity Authority of Cyprus)](https://www.eac.com.cy/EN/customerservice/Pages/default.aspx) — connection fees
+- [District Local Government Organisations](https://www.gov.cy/moi/en/about/directorate-of-local-government/section-of-district-self-government-organizations/) — current water and sewerage responsibilities
+- [Jointly owned property, Cap. 224 Part IIA](https://www.cylaw.org/nomoi/enop/non-ind/0_224/division-ddd22b2718-a81a-7c43-7dd5-d3e0b1ec728e.html) — sections 38IA and 38KH: necessary expenses, funds and contributions.

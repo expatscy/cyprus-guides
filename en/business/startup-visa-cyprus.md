@@ -3,7 +3,7 @@ slug: "startup-visa-cyprus"
 title: "Cyprus Startup Visa: Revised Scheme & Checks"
 description: "Check Cyprus Startup Visa eligibility, revised approval periods, application stages, hiring and renewal tests, and family and permit conditions."
 date: 2026-01-24
-updated: 2026-10-03
+updated: 2026-11-07
 category: "Business"
 author: "Expats Cyprus"
 tags:
@@ -65,7 +65,7 @@ These are combined criteria for this category. A business below that revenue thr
 
 Use the [government application service](https://www.gov.cy/en/service/apply-for-a-cyprus-startup-visa/), which links the application, practical guide, business-plan guidelines, evaluation criteria and external-auditor certificate.
 
-The service and the revised guide's current contact section give **startupvisa@dmrid.gov.cy**. The service identifies **Dr. Konstantinos Marakkou**, with telephone **22 309444**, as the responsible officer. The guide's application paragraph also prints a different email; confirm receipt and the preferred channel with the service contact.
+The [government service page](https://www.gov.cy/en/service/apply-for-a-cyprus-startup-visa/) says applications are sent by email to **startupvisa@dmrid.gov.cy** (checked 2026-11-07). Confirm receipt with the service.
 
 The guide says required documents for this initial assessment are submitted in **English**, and an application may be made from abroad or while legally resident in Cyprus. It publishes a **five-week assessment period after receipt of a completed application**; further information or clarification may be requested.
 

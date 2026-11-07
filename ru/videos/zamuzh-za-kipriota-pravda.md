@@ -5,9 +5,8 @@ description: "Честный разговор о браке с киприото�
 date: 2025-03-27
 updated: 2026-03-15
 youtube_id: "a7tXqxwKCfo"
-duration: "PT42M00S"
+duration: "PT26M17S"
 upload_date: "2025-03-27"
-view_count: 18500
 tags:
   - Семья
   - Жизнь на Кипре

@@ -1,7 +1,7 @@
 ---
 slug: "spouse-employment-permit-cyprus"
 title: "Spouse Employment Zypern: Arbeit"
-description: "Spouse Employment für Ehepartner von CFI-Mitarbeitern in Zypern: Familienvoraussetzungen, Lohnregeln, Antragsunterlagen, Verlängerung, Selbstständigkeitsverbot und Bedingungen für die Staatsbürgerschaft."
+description: "Spouse Employment für Ehepartner von CFI-Mitarbeitern in Zypern: Voraussetzungen, Lohnregeln, Unterlagen, Verlängerung, Selbstständigkeitsverbot."
 date: 2026-01-24
 updated: 2026-10-21
 category: "Einwanderung"

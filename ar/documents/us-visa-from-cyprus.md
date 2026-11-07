@@ -25,7 +25,6 @@ faqSchema:
 > **المصادر الرسمية:**
 > - [U.S. Embassy Cyprus — Visas](https://cy.usembassy.gov/visas/) — معلومات التأشيرة
 > - [U.S. Embassy Cyprus — تغيير نظام المواعيد](https://cy.usembassy.gov/changes-to-our-visa-appointment-scheduling-system/) — تغيير المزود من 30 مايو 2025
-> - [Visa Appointment Service](https://cy.usembassy.gov/visas/) — حجز المقابلة
 > - [Tourism & Business Visas](https://cy.usembassy.gov/tourism-and-business-visas) — تأشيرات B1/B2
 > - الدعم: +357 25 246813
 
